@@ -1,0 +1,52 @@
+---
+layout: layouts/home.njk
+title: Webtilgængelighed, WCAG 2.1 og digital inklusion - vi gør det let og overskueligt
+
+eleventyNavigation:
+  key: Hjem
+  order: 1
+---
+        <div id="content-row" class="row m-0 pl-2 pr-2">
+           
+                <div id="ContentLeftCol" class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 ">
+                    <h1 class="mt-4">Vi gør webtilgængelighed overskueligt</h1>
+                    <p>
+Inklusio ApS er en konsulentvirksomhed der rådgiver omkring digital inklusion og webtilgængelighed. Vi vil gerne være din sparringspartner fra opstart af proces til test af færdig løsning. 
+</p>
+<h2>
+Ring til os på &#x260E;&#xFE0F; +45 26 34 34 55
+</h2>
+<p>
+Vi kan hjælpe med alt hvad der vedrører digital inklusion og webtilgængelighed
+<ul>
+<li>Organisatorisk forankring og strategi udvikling
+<li>test, vurdering og monitorering
+<li>Rådgivning, vejledning og oplæring
+<li>Prioritering, løsningsforslag og optimering
+</ul>
+</p>
+<p>
+Vi lægger vægt på faglighed og ansvarlighed. 
+</p>
+<p>
+Det er et mål i alle vores projekter at overføre mest mulig af vores viden til dig som kunde. Derfor laver vi ikke tingene <strong>for</strong> dig, men <strong>med</strong> dig.
+</p>
+
+                </div>
+                <div id="ContentMittleCol" class=" col-12 col-sm-12 col-md-12  col-lg-4 col-xl-4 ">
+                    <img src="img/SES-black-and-white.jpg" class="img-fluid" alt="Stein Erik Skotkjerra"  />
+                </div>
+                <div id="ContentRightCol" class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4">
+                    <h1 class="mt-4">Aktuelt</h1>
+{% set postslist = collections.posts | head(-3) %}
+{% set postslistCounter = collections.posts | length %}
+{% include "postslist.njk" %}
+
+<p>Du kan læse flere artikler på vores <a class="links" href="{{ '/posts/' | url }}">aktuelt-side</a>.</p>
+
+                </div>
+       
+
+        </div>
+
+    </div>
