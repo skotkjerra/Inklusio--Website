@@ -1,37 +1,26 @@
 ---
-title: Invitation til webinar 15. april
-description: GRatis webinar om hvordan man når i mål inden fristen for lov om webtilgængelighed
-date: 2020-04-04
+title: Inklusio vinder millionudbud
+description: Inklusio og Special Minds vinder Digitaliseringsstyrelsens udbud om monitorering af webtilgængelighed
+date: 2020-08-15
 tags:
-  - Webinar
+- Udbud
+- Monitorering
 layout: layouts/post.njk
 ---
-# Lov om webtilgængelighed, fristen 23. september og Corona-tid - sådan klarer du det hele
+Digitaliseringsstyrelsen har netop offentliggjort, at de to virksomheder Inklusio og Special Minds IT – begge med base i Aalborg – har vundet en udbudsrunde i millionklassen om at gennemgå offentlige hjemmesider og apps. Virksomhederne skal tjekke tilgængelighed og brugbarhed for mennesker med funktionsnedsættelser.
 
-## Dato og tid
-Onsdag d. 15. april 2020 kl. 10:00 til 11:00
+Fra den 23. september i år skal alle offentlige hjemmesider være tilgængelige for brugere uanset eventuelt handicap. For at sikre dette har Digitaliseringsstyrelsen med udbuddet skullet finde en leverandør, der de næste to år (og med mulighed for forlængelse på yderligere to år) skal tjekke, om de offentlige hjemmesider og apps lever op til tilgængelighedskravene. Ofte er det større konsulenthuse, der vinder denne type kontrakter, og det er usædvanligt, at valget er faldet på et konsortium bestående af to mindre specialistvirksomheder.
 
-## Sted
-Online webinar 
+<h2>Vores handicap er bonus</h2>
+Direktør og projektleder fra Inklusio, Stein Erik Skotkjerra fortæller:
+-	Det helt særlige ved vores samarbejde er den samlede erfaring og faglige ekspertise, vi kan tilbyde. I tillæg har alle Special Minds ITs konsulenter autismelignende profil eller befinder sig i autismespektret. Og så er jeg selv helt blind og har stor erfaring med at arbejde med tilgængelighed. Selv om vi er valgt ud fra vores faglige kvalitet, er det klart en bonus, at så mange af os har oplevet på egen krop de barrierer, som kan opstå, når den digitale verden ikke er designet for at fungere for alle. Derfor er det en ekstra meningsfuld opgave for os at arbejde med.
 
-COVID-19 viruset har forandret alles hverdag, men EUs direktiv om webtilgængelighed og den dertilhørende lov om webtilgængelighed kræver stadig at alle offentlige hjemmesider er tilgængelige inden 23. september 2020. I dette webinar vil vi gøre det hele mere overskueligt, og hjælpe dig til at prioritere din tid og indsats i forhold til at opfylde kravene i loven.
+At hjemmesider og apps skal være tilgængelige gavner især mennesker med funktionsnedsættelser som syns- eller hørenedsættelse, eller fysiske handicap men også fx ordblindhed og andre kognitive funktionsnedsættelser.
 
-[Tilmeld dig webinaret](https://inklusio.nemtilmeld.dk/1/)
+-	I dag er mange offentlige hjemmesider ikke tilgængelige. Det udelukker mange mennesker med handicap fra at få glæde af de muligheder, internettet giver os. Det vil loven om tilgængelighed til hjemmesider ændre på. Men det kræver, at der bliver holdt grundigt øje med, om loven bliver overholdt. Derfor er det vigtigt, at der bliver lavet en grundig monitorering, så vi sikrer, at også mennesker med handicap får adgang til at bruge offentlige hjemmesider, siger Thorkild Olesen, formand for Danske Handicaporganisationer
 
-### Dette får du ud af at deltage i webinaret
-* En oversigt om hvad der skal til for at din hjemmeside opfylder de nye lovkrav
-* Tips til hvordan du kan prioritere sider, dokumenter og tilgængelighedsfejl så du får mest ud af din begrænsede tid og indsats
-* Tips til hvordan du kan bruge Siteimprove eller andre værktøjer til at arbejde mere effektivt med tilgængelighed
-* Svar på de spørgsmål du har omkring webtilgængelighed generelt og mere specifikt om lov om webtilgængelighed.
- 
-### Webinaret er for 
-Projektledere, webredaktører, webansvarlige, designere, udviklere, indholdskonsulenter, tekstforfattere og andre, der er ansvarlige for eller arbejder med hjemmesider. Vi fokuserer primært på krav til offentlige hjemmesider, men webinaret er absolut også relevant for dig der ikke arbejder i det offentlige.
+<h2>Giver god mening</h2>
+-	Det giver god mening at have fokus på brugervenlighed for alle, og hvilken person kunne finde på at lukke døren til sin butik for hver femte kunde, spørger Stein Erik Skotkjerra retorisk med tanke på, at 15-20 % af den danske befolkning har en form for funktionsnedsættelse. Han fortsætter:
+-	Tilgængelighed gavner alle – både med og uden funktionsnedsættelser, og vi forventer at se en kæmpe vækst i efterspørgsel efter tilgængelighedsservices, eftersom flere og flere offentlige myndigheder og virksomheder får øjnene op for vigtigheden af at inkludere alle slags brugere eller kunder.
 
-### Du bliver undervist af:
-STEIN ERIK SKOTKJERRA – ekspert i digital inklusion og webtilgængelighed hos Inklusio ApS.
-
-Stein Erik har 20 års erfaring med inkluderende design, digital tilgængelighed og hjælpemiddelteknologier. Han rådgiver virksomheder om implementering  af bæredygtige strategier for at lykkes med inkluderende design og webtilgængelighed. 
-
-Før stiftelsen af Inklusio ApS har Stein Erik været Head of Accessibility Relations hos Siteimprove. Her stod han blandt andet i spidsen for Siteimproves, bidrag til videreudvikling af standarden EN 301 549, som er grundlaget for EUs direktiv om webtilgængelighed. Herudover har han også været aktiv den internationale arbejdsgruppe som har udviklet WCAG 2.1-standarden.
-
-[Tilmeld dig webinaret](https://inklusio.nemtilmeld.dk/1/)
+Netop i den type efterspørgsel har virksomheder som Inklusio og Special Minds IT deres styrke. Specialisterne kan med erfaring og faglige kompetencer bedst vurdere hjemmesiders tilgængelighed, og samtidig er virksomhederne med til at sikre beskæftigelse på lige vilkår for personer med handicap, hvilket også opfylder et andet vigtigt formål, at skabe inklusion på arbejdsmarkedet for mennesker med handicap.
