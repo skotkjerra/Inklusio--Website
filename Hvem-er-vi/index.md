@@ -12,3 +12,6 @@ Inklusios grundlægger og frontfigur er [Stein Erik Skotkjerra](https://www.link
 Han er en passioneret forkæmper for en inkluderende digital verden. Med udgangspunkt i en menneskecentreret tilgang har han arbejdet som rådgiver, underviser og konsulent inden for ikt og digitalisering i 20 år. 
 
 Med teknologi som fællesnævner spænder hans karriere fra udvikling af ikt-værktøjer til blinde og svagsynede, iværksætter med eget konsulentfirma, til strategisk rådgiver for topledelsen i større virksomheder. Fælles for hans arbejde på disse områder er interesse for og ekspertise inden for inkluderende digitalisering, social bæredygtighed og læring i organisationer.
+
+[Anne Thyme Nørregaard](https://www.linkedin.com/in/annethyme/) er seniorkonsulent i tilgængelighed hos Inklusio.
+Hun er Cand.it med en specialisering i usability og tilgængelighed og har arbejdet med tilgængelighed siden 2012. Med sig har hun erfaring fra både konsulentverdenen og udvikling af automatiske tilgængelighedsværktøjer.
