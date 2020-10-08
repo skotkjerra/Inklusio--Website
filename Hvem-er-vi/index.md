@@ -15,8 +15,13 @@ Han er en passioneret forkæmper for en inkluderende digital verden. Med udgangs
 
 Med teknologi som fællesnævner spænder hans karriere fra udvikling af ikt-værktøjer til blinde og svagsynede, iværksætter med eget konsulentfirma, til strategisk rådgiver for topledelsen i større virksomheder. Fælles for hans arbejde på disse områder er interesse for og ekspertise inden for inkluderende digitalisering, social bæredygtighed og læring i organisationer.
 
+<<<<<<< HEAD
 ## Anne Thyme Nørregaard
 Anne er Inklusios seniorkonsulent inden webtilgængelighed.
  Anne har arbejdet med tilgængelighed siden 2012 og hendes erfaring spænder bredt fra manuel tilgængelighedstest over udvikling af automatiske testværktøjer, rådgivning og undervisning, samt arbejde med tilgængelighedsstandarder som aktivt medlem af W3C.
  
  Hun kombinerer erfaringer og viden fra UX, tilgængelighed og brugercentrerede udviklingsmetoder for at kunne skabe fantastiske brugeroplevelser for alle. 
+=======
+[Anne Thyme Nørregaard](https://www.linkedin.com/in/annethyme/) er seniorkonsulent i tilgængelighed hos Inklusio.
+Hun er Cand. it med en specialisering i usability og tilgængelighed og har arbejdet med tilgængelighed siden 2012. Med sig har hun erfaring fra både konsulentverdenen og udvikling af automatiske tilgængelighedsværktøjer.
+>>>>>>> 525426f3d621a9cb6e181f48c526db5265de8408
