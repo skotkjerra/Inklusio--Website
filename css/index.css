@@ -23,10 +23,6 @@ body {
     display: block;
 }
 
-.navbar-dark {
-    background-color: var(--primary) !important;
-}
-
 .navbar {
     background-color: var(--primary) ;
 }
@@ -72,7 +68,7 @@ a.skiptomain:focus, a.skip-main:active {
 
 
 .FooterFont p {
-    color: var(--primary); /*grå*/
+    color: var(--white); 
 }
 
 .footer {
