@@ -6,8 +6,9 @@
     <title>{{ title }}- Inklusio</title>
     <meta name="Description" content="{{ renderData.description or description or metadata.description }}">
 
+    <link rel="stylesheet" href="{{ '/css/my-bootstrap.css' | url }}">
     <link rel="stylesheet" href="{{ '/css/index.css' | url }}">
-<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
     <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
   </head>
   <body>
