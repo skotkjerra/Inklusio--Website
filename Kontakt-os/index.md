@@ -1,5 +1,5 @@
 ---
-layout: layouts/contact.njk
+layout: layouts/post.njk
 title: Kontakt os
 templateClass: tmpl-contact
 eleventyNavigation:
