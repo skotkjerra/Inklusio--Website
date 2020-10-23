@@ -9,7 +9,7 @@ eleventyNavigation:
 Vi rådgiver om tilgængelighed til web og mobil. Vi gør tilgængelighed overskueligt og nemt - fra opstart af proces til test af færdig løsning.
 Vi kan hjælpe med alt hvad der vedrører digital inklusion og webtilgængelighed
 <div class="card-deck">
-  <div class="card bg-primary text-white">
+  <div class="card bg-light">
     <h2 class="card-title">Viden</h2>
     <p class="card-text">At lave løsninger der kan bruges af alle kræver en kulturændring i mange organisationer. Vi kan hjælpe med at sætte mål, udvikle strategier og sikre bred forankring af de nødvendige ændringsprocesser.</p>
     <a href="#" class="stretched-link">Læs mere</a>
