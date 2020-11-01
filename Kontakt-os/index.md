@@ -10,5 +10,4 @@ Vi står klar til at hjælpe dig med webtilgængelighed og digital inklusion. In
 <ul>
 	<li>Ring til &#x260E;&#xFE0F;<strong>+45 26 34 34 55</strong>
 		<li> Send en mail til <a href="mailto:info@inklusio.dk">ses@inklusio.dk</a>
-			<li>Book et møde direkte i kalenderen
 </ul>
