@@ -1,5 +1,2 @@
----
-permalink: /robots.txt
-layout: null ---
 User-agent: *
 Sitemap: https://inklusio.dk/sitemap.xml
