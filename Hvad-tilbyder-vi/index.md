@@ -34,33 +34,28 @@ Vi kan hjælpe din arbejdsplads med at sætte mål, udvikle strategier og sikre 
 
   </div>
 
-  <div class="card p-4 bg-light">
-    <h2 class="card-title">Vurdering</h2>
-    <p class="card-text">
-Test, vurdering og monitorering. 
-<br>Hvad enten resultatet skal bruges til at lave en tilgængelighedserklæring, en plan for forbedringer på et eksisterende websted, eller til at vurdere, om et nyt websted ender med at være lige så tilgængeligt som aftalt i kontrakten.	</p>
-    <a href="/kontakt-os/" class="card-link btn-primary p-2">Få en vurdering</a>
-  </div>
-
+    {% assign allproducts = collections.products %}
+    {% for post in allproducts %}
 
   <div class="card p-4 bg-light">
-    <h2 class="card-title">Udvikling</h2>
+    <h2 class="card-title">
+{% if post.data.title %}
+						{{ post.data.title }}
+					{% else %}
+						Untitled
+					{% endif %}
+	</h2>
     <p class="card-text">
-Prioritering, løsningsforslag og optimering. 
-<br>Vi hjælper med at få fikset tilgængelighedsfejl allerede inden dit nye websted går i luften, og vi hjælper gerne med at tage dialogen med leverandører om, hvordan vi kommer i mål med tilgængelighedsforbedringer på eksisterende websteder. 
-	</p>
-    <a href="/kontakt-os/" class="card-link btn-primary p-2">Få hjælp til udvikling</a>
+{% if post.data.summary %}
+						{{ post.data.summary }}
+					{% else %}
+						Untitled
+					{% endif %}
 
-  </div>
-  <div class="card p-4 bg-light">
-    <h2 class="card-title">Partnerskaber</h2>
-    <p class="card-text">
-Sammen er vi stærkere. 
-<br>Vi samarbejder med andre konsulenthuse, softwareleverandører, designbureauer og rådgivere for at kunne tilbyde den bedste service på alle områder. Vi har blandt andet et tæt partnerskab med <a href="https://siteimprove.com">Siteimprove</a> der er Danmarks mest benyttede software til tilgængelighedstest.</p>
-    <a href="/kontakt-os/" class="card-link btn-primary p-2">
-Nyd godt af vores partnernetværk</a>
-  </div>
 
+    <a href="{{ post.url | url }}" class="card-link btn-primary p-2">{{ post.data.cts }}</a>
+  </div>
+{% endfor %}
 </div>
 <p>
 Vi laver ikke tingene for dig, vi laver dem med dig.
