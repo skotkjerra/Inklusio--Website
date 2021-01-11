@@ -59,7 +59,6 @@ Sammen er vi stærkere.
 <br>Vi samarbejder med andre konsulenthuse, softwareleverandører, designbureauer og rådgivere for at kunne tilbyde den bedste service på alle områder. Vi har blandt andet et tæt partnerskab med <a href="https://siteimprove.com">Siteimprove</a> der er Danmarks mest benyttede software til tilgængelighedstest.</p>
     <a href="/kontakt-os/" class="card-link btn-primary p-2">
 Nyd godt af vores partnernetværk</a>
-
   </div>
 
 </div>
