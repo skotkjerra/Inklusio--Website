@@ -1,0 +1,37 @@
+---
+layout: layouts/post.njk
+title: Hvad tilbyder vi?
+templateClass: tmpl-post
+eleventyNavigation:
+  key: Hvad tilbyder vi?
+  order: 2
+---
+Digital tilgængelighed – vigtigt for mange, godt for alle
+Inklusio er eksperter i at sikre, at din organisation opfylder alle krav til digital tilgængelighed, og skaber bedre brugeroplevelser for alle.
+
+Vi tilbyder hjælp til ledere, redaktører, webmastere, designere og udviklere, der sidder i organisationer, virksomheder, styrelser og kommuner.
+
+Vi rådgiver om tilgængelighed til web og mobil. Vi gør tilgængelighed overskueligt og nemt - fra opstart af proces til test af færdig løsning.
+<div class="card-deck">
+
+    {% for post in collections.products %}
+
+    <div class="card p-4 bg-light">
+     {% if post.data.title %}
+     <h2 class="card-title">
+       {{ post.data.title }}
+     </h2>
+     {% endif %}
+
+{% if post.data.summary %}
+    <p class="card-text">
+{{ post.data.summary | safe }}
+</p>
+{% endif %}
+<a href=" {{ post.url | url }} " class="card-link btn-primary p-2"> {{ post.data.cta }}</a>
+  </div>
+{% endfor %}
+</div>
+<p>
+Vi laver ikke tingene for dig, vi laver dem med dig.
+På den måde lærer du og dit team hele tiden mere om tilgængelighed og digital inklusion, og vil på sigt selv kunne varetage flere af opgaverne uden hjælp udenfra eller med mindre behov for konsulenthjælp.</p>
