@@ -31,6 +31,10 @@ module.exports = function(eleventyConfig) {
   });
 
   eleventyConfig.addCollection("tagList", require("./_11ty/getTagList"));
+  eleventyConfig.addCollection("myProducts", function(collection) {
+          return collection.getFilteredByGlob("products/*.*");
+      });
+
 
   eleventyConfig.addPassthroughCopy("img");
   eleventyConfig.addPassthroughCopy("css");

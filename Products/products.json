@@ -1,6 +1,3 @@
 {
-  "tags": [
-    "products"
- ],
  "layout": "layouts/post.njk"
 }
