@@ -12,9 +12,11 @@ Inklusio er eksperter i at sikre, at din organisation opfylder alle krav til dig
 Vi tilbyder hjælp til ledere, redaktører, webmastere, designere og udviklere, der sidder i organisationer, virksomheder, styrelser og kommuner.
 
 Vi rådgiver om tilgængelighed til web og mobil. Vi gør tilgængelighed overskueligt og nemt - fra opstart af proces til test af færdig løsning.
-<div class="card-deck">
 
-    {% for post in collections.products %}
+<div class="card-deck">
+    {% set productslist = collections.products %}
+
+    {% for post in productslist %}
 
     <div class="card p-4 bg-light">
      {% if post.data.title %}
