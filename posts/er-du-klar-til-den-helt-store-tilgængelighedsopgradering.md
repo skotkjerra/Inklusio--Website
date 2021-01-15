@@ -1,5 +1,5 @@
 ---
-title: Er du klar til den helt store tilgængelighedsopgradering?
+title: Er du klar til den helt store tilgængelighedsopgradering fra Siteimprove?
 date: 2021-01-15T08:26:25.931Z
 author: Anne Thyme Nørregaard
 summary: Har du også fået en mail fra Siteimprove om ”Opgradering af dit
