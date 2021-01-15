@@ -2,13 +2,14 @@
 title: Er du klar til den helt store tilgængelighedsopgradering?
 date: 2021-01-15T08:26:25.931Z
 author: Anne Thyme Nørregaard
-summary: >
-  Har du også fået en mail fra Siteimprove om ”Opgradering af dit Siteimprove
-  Accessibility-modul i løbet af 3 måneder”?
+summary: Har du også fået en mail fra Siteimprove om ”Opgradering af dit
+  Siteimprove Accessibility-modul i løbet af 3 måneder”?
 tags:
   - Samarbejde
   - Siteimprove
 ---
+
+Har du også fået en mail fra Siteimprove om ”Opgradering af dit Siteimprove Accessibility-modul i løbet af 3 måneder”?
 
 Det skal ikke være nogen hemmelighed, at det er en opgradering, som vi hos Inklusio glæder os meget til. 
 
