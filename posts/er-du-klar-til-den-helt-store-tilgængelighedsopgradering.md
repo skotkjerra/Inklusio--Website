@@ -25,7 +25,7 @@ Men hvis du kunne bruge en hånd til at finde ud af, hvordan din organisation f�
 
 Vi kunne for eksempel lave en workshop, hvor kigger på softwaren sammen og hjælper dig med at indstille platformen til din organisations behov. Eller et kursus for dine webredaktører, hvor vi genopfrisker deres viden om tilgængelighed med udgangspunkt i det nye NextGen Accessibility og sikrer, at de har styr på hvordan de bruger det i deres daglige arbejde.
 
-Kontakt os for at høre mere om, hvordan vi kan hjælpe dig med webtilgængelighed: Ring til Stein Erik +45 26 34 34 55 eller send en mail til ses@inklusio.dk.
+Kontakt os for at høre mere om, hvordan vi kan hjælpe dig med webtilgængelighed: Ring til Stein Erik på +45 26 34 34 55 eller send en mail til ses@inklusio.dk.
 
 Og husk også at tilmelde dig en opgradering af din Siteimprove Accessibility allerede nu: 
 https://hello.siteimprove.com/da-dk/new-accessibility/opt-in
