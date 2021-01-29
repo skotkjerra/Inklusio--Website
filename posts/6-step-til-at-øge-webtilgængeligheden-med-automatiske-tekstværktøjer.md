@@ -1,6 +1,6 @@
 ---
 title: 6 step til at øge webtilgængeligheden med automatiske tekstværktøjer
-date: 2021-01-29T13:20:39.434Z
+date: 2021-02-02T13:20:39.434Z
 author: Anne Thyme
 summary: Her har du 6 tips til, hvordan du kommer godt fra start med at bruge
   automatiske testværktøjer såsom Siteimprove og Monsido. Værktøjerne kan løfte
