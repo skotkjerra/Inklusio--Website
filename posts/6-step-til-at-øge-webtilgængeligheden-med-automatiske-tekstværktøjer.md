@@ -1,6 +1,6 @@
 ---
 title: 6 step til at øge webtilgængeligheden med automatiske tekstværktøjer
-date: 2021-01-29T13:20:39.434Z
+date: 2021-02-02T13:20:39.434Z
 author: Anne Thyme
 summary: Her har du 6 tips til, hvordan du kommer godt fra start med at bruge
   automatiske testværktøjer såsom Siteimprove og Monsido. Værktøjerne kan løfte
@@ -36,8 +36,6 @@ Brug filtre til at frasortere al den information, som ikke er relevant for det m
 Inddel dit indhold i grupper ud fra hvem der er ansvarlig for indholdet. 
 Navngiv fx indholdsgrupperne, så det fremgår, hvilken afdeling eller person, der er ansvarlig for det konkrete indhold. Sådan sikrer du, at ingen mister overblikket over platformen eller glemmer, hvad de burde kigge på, når de logger ind.
 Og endnu vigtigere: den synliggjorte ansvarsfordeling/overblikket over ansvarsfordelingen bevirker, at de ansvarlige rent faktisk kan handle på de tilgængelighedsproblemer, de bliver præsenteret for.
-
-![Billede af medarbejdere, som tydeligt kan se, hvilke opgaver, de har ansvaret for at udføre. ](/img/ansvarsfordeling.jpg "Ansvarsfordeling")
 
 ### 4: Dashboards og rapporter for redaktører
 
