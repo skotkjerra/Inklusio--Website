@@ -7,6 +7,8 @@ summary: Her har du 6 tips til, hvordan du kommer godt fra start med at bruge
   arbejdet for webtilgængelighed markant i din organisation.
 tags:
   - Automatisk Testværktøj
+  - Siteimprove
+  - Monsido
 ---
 Måske du allerede har investeret i et automatisk testværktøj fra fx Siteimprove eller Monsido til at hjælpe dig med at løfte webtilgængelighedsindsatsen i din organisation. Måske du overvejer at gøre det.
 
