@@ -52,7 +52,7 @@ Du kan også lave dashboards, som du kan bruge til at rapportere opad i organisa
 
 Ud over html-sider, så består dit websted sikkert også af en god del PDF-filer. På offentlige websteder skal alle PDF-filer publiceret efter 23. september 2018 være tilgængelige. Testværktøjer kan hjælpe dig med at finde disse filer og få et overblik over, hvor slemt det står til med tilgængeligheden i dem.
 
-## Opsummering: Start med at kigge indad
+## Start med at kigge indad
 
 Som du kan se af det ovenstående, handler optimalt udbytte af tilgængelighedssoftware ikke kun om dit websted eller om software. 
 
