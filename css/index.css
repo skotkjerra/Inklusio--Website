@@ -12,14 +12,14 @@ body {
     margin: 0;
     font-family: system-ui, sans-serif;
     background-color: yellow /*var(--white)*/;
-    min-height: 100vh;
+    min-height: 100%;
     position: relative;
     line-height: 1.5em;
 }
 
 #container {
     /*position: relative;*/
-    min-height: calc(100% - 2.2em)/*92.5vh*/;
+    min-height: calc(100vh - 2.2em)/*92.5vh*/;
     overflow: hidden;
     display: block;
     background-color: red;
