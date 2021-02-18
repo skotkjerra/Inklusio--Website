@@ -16,7 +16,7 @@
 				</p>
 			{% endif %}
 			<p>
-				<time datetime="{{ post.date | machineDate }}">
+				<time datetime="{{ post.date  }}">
 					<small>{{ post.date | readableDate }} by <a href="/authors/{{ post.data.author | slug }}/">{{ post.data.author }}</a></small>
 				</time>
 			</p>
