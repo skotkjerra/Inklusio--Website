@@ -11,15 +11,15 @@ body {
     padding: 0;
     margin: 0;
     font-family: system-ui, sans-serif;
-    background-color: var(--white);
-    min-height: 100%;
+    background-color: yellow /*var(--white)*/;
+    /*min-height: 100%;*/
     position: relative;
     line-height: 1.5em;
 }
 
 #container {
     /*position: relative;*/
-    min-height: 92.5vh;
+    /*min-height: 92.5vh;*/
     overflow: hidden;
     display: block;
     background-color: red;
