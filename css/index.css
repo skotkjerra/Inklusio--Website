@@ -71,6 +71,11 @@ li {
     margin-bottom: 0.5em;
 }
 
+a.btn-primary {
+    text-decoration: none;
+}
+
+
 .FooterFont p {
     color: var(--white); 
 }
