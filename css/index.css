@@ -19,7 +19,7 @@ body {
 
 #container {
     /*position: relative;*/
-    min-height: 92.5vh;
+    min-height: calc(100vh - 2.2em)/*92.5vh*/;
     overflow: hidden;
     display: block;
     background-color: red;
