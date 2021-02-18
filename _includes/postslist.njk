@@ -16,8 +16,8 @@
 				</p>
 			{% endif %}
 			<p>
-				<time datetime="{{ post.date  }}">
-					<small>{{ post.date }} by <a href="/authors/{{ post.data.author | slug }}/">{{ post.data.author }}</a></small>
+	<time class="postlist-date" datetime="{{ post.date | htmlDateString }}"><small>{{ post.date | readableDate }}</time>
+ by <a href="/authors/{{ post.data.author | slug }}/">{{ post.data.author }}</a></small>
 				</time>
 			</p>
 				</p>
