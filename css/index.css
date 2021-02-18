@@ -13,7 +13,6 @@ body {
     font-family: system-ui, sans-serif;
     background-color: var(--white);
     min-height: 100%;
-    position: relative;
     line-height: 1.5em;
     font-size: 1.1em;
 }
@@ -81,7 +80,6 @@ li {
 
 a.btn-primary {
     text-decoration: none;
-    padding: 5px 10px;
 }
 
 .FooterFont p {
