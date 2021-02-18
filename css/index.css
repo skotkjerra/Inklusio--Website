@@ -39,6 +39,11 @@ p {
     font-size: 1em;
 }
 
+
+li {
+    line-height:2em;
+}
+
 a.skiptomain {
     left:-999px;
     position:absolute;
@@ -106,4 +111,4 @@ a.skiptomain:focus, a.skip-main:active {
 	    max-width: 85% !important;
 	    height: auto !important;
 	}
-
+
