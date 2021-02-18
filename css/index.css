@@ -35,7 +35,7 @@ body {
     text-decoration: none;
 }
 
-.nav-link.active, .navlink:hover {
+.nav-link.active, a.navlink:hover {
     text-decoration: underline;
 }
 
