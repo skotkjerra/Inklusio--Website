@@ -73,6 +73,7 @@ li {
 
 a.btn-primary {
     text-decoration: none;
+    padding: 5px 10px;
 }
 
 .nav-link.active {
