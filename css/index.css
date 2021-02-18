@@ -30,7 +30,12 @@ body {
 
 .nav-item.nav-link {
     font-size: 1.2em;
-    margin-right: 1em;
+    margin-right: 1.5em;
+    text-decoration: none;
+}
+
+.nav-link.active, .navlink.hover {
+    text-decoration: underline;
 }
 
 .bg-dark { 
@@ -74,10 +79,6 @@ li {
 a.btn-primary {
     text-decoration: none;
     padding: 5px 10px;
-}
-
-.nav-link.active {
-    text-decoration: none;
 }
 
 .FooterFont p {
