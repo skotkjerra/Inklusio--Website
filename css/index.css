@@ -19,7 +19,7 @@ body {
 
 #container {
     /*position: relative;*/
-    min-height: 100vh /*92.5vh*/;
+    min-height: 100% /*92.5vh*/;
     overflow: hidden;
     display: block;
     display: flex;
