@@ -75,6 +75,9 @@ a.btn-primary {
     text-decoration: none;
 }
 
+.nav-link.active {
+    text-decoration: none;
+}
 
 .FooterFont p {
     color: var(--white); 
