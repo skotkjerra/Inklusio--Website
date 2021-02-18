@@ -15,11 +15,12 @@ body {
     min-height: 100%;
     line-height: 1.5em;
     font-size: 1.1em;
+    hyphens: auto;
 }
 
 #container {
     /*position: relative;*/
-    min-height: 100% /*92.5vh*/;
+    min-height: calc(100% - 2.2em) /*92.5vh*/;
     overflow: hidden;
     display: block;
     display: flex;
@@ -46,7 +47,6 @@ body {
 }
 p {
     margin-bottom: 2em;
-    hyphens: auto;
 }
 
 a.skiptomain {
