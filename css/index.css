@@ -34,7 +34,7 @@ body {
     text-decoration: none;
 }
 
-.nav-link.active, .navlink.hover {
+.nav-link.active, .navlink:hover {
     text-decoration: underline;
 }
 
@@ -42,7 +42,7 @@ body {
 	background-color: transparent !important; 
 }
 p {
-    font-size: 1em;
+    font-size: 1.1em;
     margin-bottom: 2em;
 }
 
