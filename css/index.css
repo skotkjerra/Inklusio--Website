@@ -23,8 +23,8 @@ body {
     min-height: calc(100% - 2.2em) /*92.5vh*/;
     overflow: hidden;
     display: block;
-    display: flex;
-    flex-direction: column;
+    /*display: flex;
+    flex-direction: column;*/
     
 }
 
