@@ -46,6 +46,7 @@ body {
 }
 p {
     margin-bottom: 2em;
+    hyphens: auto;
 }
 
 a.skiptomain {
