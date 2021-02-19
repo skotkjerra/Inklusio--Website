@@ -49,6 +49,10 @@ p {
     margin-bottom: 1.5em;
 }
 
+a {
+    color: #005EFF;
+}
+
 a.skiptomain {
     left:-999px;
     position:absolute;
