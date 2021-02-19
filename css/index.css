@@ -53,6 +53,11 @@ a {
     color: #0c74dc;
 }
 
+.card-link {
+    position: absolute;
+    bottom: 0;
+}
+
 a.skiptomain {
     left:-999px;
     position:absolute;
