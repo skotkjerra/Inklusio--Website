@@ -53,10 +53,12 @@ a {
     color: #0c74dc;
 }
 
+/* Make something that works here!
+
 .card-link {
     position: absolute;
     bottom: 0;
-}
+} */
 
 a.skiptomain {
     left:-999px;
