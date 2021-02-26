@@ -25,4 +25,4 @@ Pakkerne, som sikrer, at I er i front med digital inklusion, består af:
 <h2>Special Minds og Inklusio melder sig ind i kampen for digital inklusion</h2>
 Virksomheden Inklusio og Special Minds taler begge om det perfekte match, når det gælder deres nyligt indgåede samarbejde, som skal bidrage til at skabe en mere inkluderende digital verden.
 
-[Download vores pakketilbud](https://specialmindsit.dk/specialmindsit_webtilgaengelighed/) eller læs mere om hvordan [Special Minds og Inklusio melder sig ind i kampen for digital inklusion](https://specialmindsit.dk/i-kamp-for-digital-inklusion/)
+Læs mere om hvordan [Special Minds og Inklusio melder sig ind i kampen for digital inklusion](https://specialmindsit.dk/i-kamp-for-digital-inklusion/)
