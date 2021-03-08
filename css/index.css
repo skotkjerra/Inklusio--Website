@@ -95,6 +95,11 @@ a.btn-primary {
     /*margin-top: auto;
 }*/
 
+	img {
+	  max-width: 100%;
+	  width: auto; /* Defer to max-width */
+	}
+
 @media (min-width:1200px) and (max-width:1500px) { /*laptop*/
     #container {
         min-height: 90.7vh;
