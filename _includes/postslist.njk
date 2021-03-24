@@ -1,7 +1,7 @@
 <article aria-label="Blog">
 {% for post in postslist | reverse %}
   <h3 class="postlist-item{% if post.url == url %} postlist-item-active{% endif %}">
-	<a href="{{ post.url | url }}" class="btn btn-primary">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a></h3>
+	<a href="{{ post.url | url }}">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a></h3>
 <p>
 	<time class="postlist-date" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
 </p>
