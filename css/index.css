@@ -45,8 +45,13 @@ body {
 .bg-dark { 
 	background-color: transparent !important; 
 }
+
 p {
-    margin-bottom: 2em;
+    margin-bottom: 1.5em;
+}
+
+a {
+    color: #0c74dc;
 }
 
 a.skiptomain {
