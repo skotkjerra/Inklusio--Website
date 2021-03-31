@@ -3,12 +3,10 @@ title: Lokale eksperter sikrer digital tilgængelighed - Pressemeddelelse
 date: 2021-04-01T10:20:39.434Z
 author: Stein Erik Skotkjerra
 summary: To ambitiøse, aalborgensiske virksomheder har i et højt specialiseret
-samarbejde bragt sig i spil til de særlige opgaver med at skabe, udvikle
-og teste tilgængelighed på websteder og for mobilapplikationer
 tags:
-  - Samarbejde
-  - Digital Inklusion
-  - Webtilgængelighed
+- Samarbejde
+- Digital Inklusion
+- Webtilgængelighed
 ---
 Når en døv skal bruge informationerne i en video på en kommunal
 hjemmeside, er det vigtigt, at den er tekstet, og når en synshandicappet
