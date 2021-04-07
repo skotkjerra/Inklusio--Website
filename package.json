@@ -3,11 +3,12 @@
   "version": "1.0.2",
   "description": "Inklusio websitebuilt on a starter repository for a blog web site using the Eleventy static site generator.",
   "scripts": {
-    "build": "eleventy",
-    "watch": "eleventy --watch",
-    "serve": "eleventy --serve",
-    "debug": "DEBUG=* eleventy",
-    "sass": "node-sass -w _includes/sass -o css"
+    "watch:sass": "sass --watch _includes/sass:css",
+    "build:sass": "sass _includes/sass:css",
+    "watch:eleventy": "eleventy --serve",
+    "build:eleventy": "eleventy",
+    "start": "npm-run-all build:sass --parallel watch:*",
+    "build": "npm-run-all build:*"
   },
   "repository": {
     "type": "git",
@@ -30,6 +31,7 @@
     "luxon": "^1.21.3",
     "markdown-it": "^8.4.2",
     "markdown-it-anchor": "^5.2.5",
-    "node-sass": "^4.14.1"
+    "npm-run-all": "^4.1.5",
+    "sass": "^1.32.8"
   }
 }
