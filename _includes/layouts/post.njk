@@ -2,12 +2,11 @@
 layout: layouts/base.njk
 templateClass: tmpl-post
 ---
-        <div id="Article-row" class="row m-0 pl-2 pr-2">
-
-            <div id="Article-center" class=" col-md-10 offset-md-1 col-lg-10 offset-lg-1 col-xl-10 offset-xl-1">
-                <h1 class="mt-4"> {{ title }} </h1>
-{{ content | safe }}
-
-            </div>        
-            
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-10 offset-md-1 ">
+            <h1 class="mt-4"> {{ title }} </h1>
+            {{ content | safe }}
         </div>
+    </div>
+</div>
