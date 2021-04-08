@@ -5,16 +5,17 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 
-$blue:    #082840;
-$green:   #28a4a4;
+$inklusio-dark-blue: #082840;
 
-$primary:       $blue ;
-$success:       $green ;
+$font-size-base: 1.1rem;
+
+$paragraph-margin-bottom: 1.5em;
 
 @import "functions";
 @import "variables";
 @import "mixins";
 @import "root";
+@import "reboot";
 @import "type";
 @import "images";
 @import "code";
@@ -37,3 +38,66 @@ $success:       $green ;
 @import "tooltip";
 @import "utilities";
 @import "print";
+
+html {
+  height: 100%;
+}
+
+body {
+  min-height: 100%;
+  hyphens: auto;
+}
+
+#container {
+  position: relative;
+  min-height: calc(100% - 2.2em) /*92.5vh*/;
+  overflow: hidden;
+  display: block;
+  display: flex;
+  flex-direction: column;
+  background-color: var(--white);
+}
+
+.site-header,
+.site-footer {
+  background-color: $inklusio-dark-blue;
+  color: var(--white);
+}
+
+.site-header {
+  font-size: 1.2em;
+}
+
+.nav-link.active,
+.navlink:hover {
+  text-decoration: underline;
+}
+
+a.skiptomain {
+  left:-999px;
+  position:absolute;
+  top:auto;
+  width:1px;
+  height:1px;
+  overflow:hidden;
+  z-index:-999;
+}
+
+a.skiptomain:focus, a.skip-main:active {
+  color: #fff;
+  background-color:#000;
+  left: auto;
+  top: auto;
+  width: 30%;
+  height: auto;
+  overflow:auto;
+  margin: 10px 35%;
+  padding:5px;
+  border-radius: 15px;
+  border:4px solid yellow;
+  text-align:center;
+  font-size:1.2em;
+  z-index:999;
+}
+
+
