@@ -7,8 +7,9 @@
     "build:sass": "sass _includes/sass:css",
     "watch:eleventy": "eleventy --serve",
     "build:eleventy": "eleventy",
+    "purgecss": "purgecss --css ./_site/css/my-bootstrap.css --content ./_site/**/*.html --output ./_site/css/my-bootstrap.css",
     "start": "npm-run-all build:sass --parallel watch:*",
-    "build": "npm-run-all build:*"
+    "build": "npm-run-all build:* purgecss"
   },
   "repository": {
     "type": "git",
