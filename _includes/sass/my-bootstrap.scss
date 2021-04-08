@@ -1,43 +1,22 @@
-/*!
- * Bootstrap v4.2.1 (https://getbootstrap.com/)
- * Copyright 2011-2018 The Bootstrap Authors
- * Copyright 2011-2018 Twitter, Inc.
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+
+/**
+ *
+ * Bootstrap overrides
+ *
  */
 
-$inklusio-dark-blue: #082840;
-
 $font-size-base: 1.1rem;
-
 $paragraph-margin-bottom: 1.5em;
 
-@import "functions";
-@import "variables";
-@import "mixins";
-@import "root";
-@import "reboot";
-@import "type";
-@import "images";
-@import "code";
-@import "grid";
-@import "tables";
-@import "forms";
-@import "buttons";
-@import "transitions";
-@import "button-group";
-@import "input-group";
-@import "custom-forms";
-@import "nav";
-@import "navbar";
-@import "card";
-@import "breadcrumb";
-@import "pagination";
-@import "media";
-@import "list-group";
-@import "close";
-@import "tooltip";
-@import "utilities";
-@import "print";
+/**
+ *
+ * We include all of bootstrap and let purgecss handle unused css
+ *
+ */
+
+@import "../../node_modules/bootstrap/scss/bootstrap";
+
+$inklusio-dark-blue: #082840;
 
 body {
   hyphens: auto;
@@ -90,5 +69,3 @@ a.skiptomain:focus, a.skip-main:active {
   font-size:1.2em;
   z-index:999;
 }
-
-
