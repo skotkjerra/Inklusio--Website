@@ -39,23 +39,14 @@ $paragraph-margin-bottom: 1.5em;
 @import "utilities";
 @import "print";
 
-html {
-  height: 100%;
-}
-
 body {
-  min-height: 100%;
   hyphens: auto;
 }
 
-#container {
-  position: relative;
-  min-height: calc(100% - 2.2em) /*92.5vh*/;
-  overflow: hidden;
-  display: block;
-  display: flex;
-  flex-direction: column;
-  background-color: var(--white);
+.site-container {
+  min-height: 100vh;
+  display: grid;
+  grid-template-rows: auto 1fr auto;
 }
 
 .site-header,
