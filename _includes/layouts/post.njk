@@ -6,6 +6,7 @@ templateClass: tmpl-post
     <div class="row">
         <div class="col-md-10 offset-md-1 ">
             <h1 class="mt-4"> {{ title }} </h1>
+            {% if author or date %}<p>Skrevet{% if author  %} af {{ author }}{% endif %}{% if date %} den <time datetime="{{ date|htmlDateString }}">{{ page.date|readableDate }}{% endif %}</time></p>{% endif %}
             {{ content | safe }}
         </div>
     </div>
