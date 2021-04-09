@@ -51,11 +51,6 @@ body {
   font-size: 1.2em;
 }
 
-.nav-link.active,
-.navlink:hover {
-  text-decoration: underline;
-}
-
 a.skiptomain {
   left:-999px;
   position:absolute;
@@ -66,7 +61,7 @@ a.skiptomain {
   z-index:-999;
 }
 
-a.skiptomain:focus, a.skip-main:active {
+a.skiptomain:focus, a.skiptomain:active {
   color: #fff;
   background-color:#000;
   left: auto;
@@ -83,6 +78,14 @@ a.skiptomain:focus, a.skip-main:active {
   z-index:999;
 }
 
+/*
+ * Bootstrap has a utility class "text-decoration-none" but not a "text-decoration-underline".
+ * Let's add that and a similar one for forcing underlines on hover.
+ */
+ .text-decoration-underline,
+ .text-decoration-underline-hover:hover {
+   text-decoration: underline!important;
+ }
 
 /*
  *
@@ -102,6 +105,7 @@ a.skiptomain:focus, a.skip-main:active {
    max-width: 65ch; /* 1 */
  }
 
- *:is(p, ul) + *:is(p, ul) {
-   margin-top: 2em;
+ *:is(p, ul):not([class]) + *:is(p, ul):not([class]) {
+   margin-top: 2em; /* 2 */
  }
+
