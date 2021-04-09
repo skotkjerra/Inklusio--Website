@@ -82,3 +82,26 @@ a.skiptomain:focus, a.skip-main:active {
   font-size:1.2em;
   z-index:999;
 }
+
+
+/*
+ *
+ * Text formatting
+ *
+ * 1) Limit line lenght for readability
+ * 2) Make sure text content has proper margins
+ */
+ h1,
+ h2,
+ h3,
+ h4,
+ h5,
+ h6,
+ p,
+ li {
+   max-width: 65ch; /* 1 */
+ }
+
+ *:is(p, ul) + *:is(p, ul) {
+   margin-top: 2em;
+ }
