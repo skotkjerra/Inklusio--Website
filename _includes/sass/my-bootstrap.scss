@@ -79,10 +79,32 @@ a.skiptomain:focus, a.skiptomain:active {
 }
 
 /*
- * Bootstrap has a utility class "text-decoration-none" but not a "text-decoration-underline". Let's add that and
- * a similar one for forcing underlines on hover.
+ * Bootstrap has a utility class "text-decoration-none" but not a "text-decoration-underline".
+ * Let's add that and a similar one for forcing underlines on hover.
  */
  .text-decoration-underline,
  .text-decoration-underline-hover:hover {
    text-decoration: underline!important;
  }
+
+/*
+ * Text formatting
+ *
+ * 1) Limit line lenght for readability
+ * 2) Make sure text content has proper margins
+ */
+ h1,
+ h2,
+ h3,
+ h4,
+ h5,
+ h6,
+ p,
+ li {
+   max-width: 65ch; /* 1 */
+ }
+
+ *:is(p, ul):not([class]) + *:is(p, ul):not([class]) {
+   margin-top: 2em; /* 2 */
+ }
+

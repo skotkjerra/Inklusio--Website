@@ -12,7 +12,7 @@ Når en døv skal bruge informationerne i en video på en kommunal hjemmeside, e
 
 Siden efteråret 2020 har det været lovpligtigt, at de offentlige websteder skal være tilgængelige for alle borgere uanset eventuelle handicap eller funktionsnedsættelser. Senere kommer kravene til også at omfatte andre digitale platforme som banker, forsikringsselskaber, e-handel og lignende.
 
-Senest har de lige før påske indgået en generel aftale med Aalborg Kommune om rådgivning og test af tilgængeligheden på de kommunale websteder de kommende 12 måneder.
+To ambitiøse, aalborgensiske virksomheder har i et højt specialiseret samarbejde bragt sig i spil til de særlige opgaver med at skabe, udvikle og teste tilgængelighed på websteder og for mobilapplikationer. Senest har de lige før påske indgået en generel aftale med Aalborg Kommune om rådgivning og test af tilgængeligheden på de kommunale websteder de kommende 12 måneder.
 
 ## Supplerer hinanden
 
