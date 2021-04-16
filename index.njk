@@ -25,9 +25,11 @@ eleventyNavigation:
     </div>
     <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4">
         <h2>Aktuelt</h2>
+        <div class="my-2">
         {% set postslist = collections.posts | head(-3) %}
         {% set postslistCounter = collections.posts | length %}
         {% include "postslist.njk" %}
+        </div>
         <p>Du kan læse flere artikler på vores <a href="{{ '/artikler/' | url }}">blog</a>.</p>
     </div>
 </div>
