@@ -1,7 +1,7 @@
 {
   "name": "Inklusio-website",
   "version": "1.0.2",
-  "description": "Inklusio websitebuilt on a starter repository for a blog web site using the Eleventy static site generator.",
+  "description": "Inklusio website built on a starter repository for a blog web site using the Eleventy static site generator.",
   "scripts": {
     "watch:sass": "sass --watch _includes/sass:css",
     "build:sass": "sass _includes/sass:css",
@@ -18,7 +18,7 @@
   "author": {
     "name": "Stein Erik Skotkjerra",
     "email": "stein.erik.skotkjerra@gmail.com",
-    "url": "inklusio.dk/"
+    "url": "https://inklusio.dk/"
   },
   "license": "MIT",
   "bugs": {
