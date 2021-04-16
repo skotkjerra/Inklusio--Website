@@ -5,7 +5,6 @@ date: 2020-08-15
 tags:
 - Udbud
 - Monitorering
-layout: layouts/post.njk
 ---
 Digitaliseringsstyrelsen har netop offentliggjort, at de to virksomheder Inklusio og Special Minds IT – begge med base i Aalborg – har vundet en udbudsrunde i millionklassen om at gennemgå offentlige hjemmesider og apps. Virksomhederne skal tjekke tilgængelighed og brugbarhed for mennesker med funktionsnedsættelser.
 
