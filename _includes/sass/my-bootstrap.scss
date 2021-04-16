@@ -87,6 +87,10 @@ a.skiptomain:focus, a.skiptomain:active {
    text-decoration: underline!important;
  }
 
+ .white-space-nowrap {
+   white-space: nowrap;
+ }
+
 /*
  * Text formatting
  *
@@ -108,3 +112,31 @@ a.skiptomain:focus, a.skiptomain:active {
    margin-top: 2em; /* 2 */
  }
 
+ /*
+  * Our version of BS doesn't have utility classes for font-sizes.
+  * In v5 it's coming, so let's duplicate them here.
+  * When upgradign to v5, these can be deleted.
+ */
+.fs-1 {
+  @extend .h1;
+}
+
+.fs-2 {
+  @extend .h2;
+}
+
+.fs-3 {
+  @extend .h3;
+}
+
+.fs-4 {
+  @extend .h4;
+}
+
+.fs-5 {
+  @extend .h5;
+}
+
+.fs-6{
+  @extend .h6;
+}
