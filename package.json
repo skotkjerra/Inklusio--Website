@@ -9,7 +9,7 @@
     "build:eleventy": "eleventy",
     "css:optimize": "postcss ./_site/css/my-bootstrap.css -o ./_site/css/my-bootstrap.css",
     "start": "npm-run-all build:sass --parallel watch:*",
-    "build": "npm-run-all build:* css:optimize"
+    "build": "run-s build:sass build:eleventy css:optimize"
   },
   "repository": {
     "type": "git",
