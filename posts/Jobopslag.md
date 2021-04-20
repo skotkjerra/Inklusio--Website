@@ -1,5 +1,13 @@
-## Konsulent til webtilgængelighed og digital inklusion
-
+---
+title: Konsulent til webtilgængelighed og digital inklusion
+date: 2021-04-01T10:00:00.434Z
+author: Stein Erik Skotkjerra
+summary: Inklusio søger en Konsulent til webtilgængelighed og digital inklusion
+tags:
+  - Stilling
+  - Karriere
+  - Arbejde for os
+---
 Interesserer du dig for brugervenlighed, design og digital inklusion?
 Vil du udvikle dig indenfor et spændende og nyt fagområde?
 
