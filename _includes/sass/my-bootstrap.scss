@@ -23,6 +23,19 @@ $container-max-widths: (
 
 /**
  *
+ * Bootstrap uses the primary theme color for links. Sadly the default value doesn't
+ * have a strong enough contrast against a white background, so this isn't accessible.
+ *
+ * We change the blue ever so slightly to pass the required contrast.
+ *
+ */
+
+$theme-colors: (
+  "primary": #1162b9
+);
+
+/**
+ *
  * We include all of bootstrap and let purgecss handle unused css
  *
  */
