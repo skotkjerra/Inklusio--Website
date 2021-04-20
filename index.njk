@@ -5,45 +5,31 @@ eleventyNavigation:
   key: Hjem
   order: 1
 ---
-        <div id="content-row" class="row m-0 pl-2 pr-2">
-           
-                <div id="ContentLeftCol" class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 ">
-                    <h1 class="mt-4">Vi gør webtilgængelighed overskueligt</h1>
-                    <p>
-Inklusio ApS er en konsulentvirksomhed der rådgiver omkring digital inklusion og webtilgængelighed. Vi vil gerne være din sparringspartner fra opstart af proces til test af færdig løsning. 
-</p>
-<p><a href="tel:+4526343455">Ring til os på +45&nbsp;26&nbsp;34&nbsp;34&nbsp;55</a></p>
-<p>
-Vi kan hjælpe med alt hvad der vedrører digital inklusion og webtilgængelighed:
-<ul>
-<li>Organisatorisk forankring og strategi udvikling
-<li>Test, vurdering og monitorering
-<li>Rådgivning, vejledning og oplæring
-<li>Prioritering, løsningsforslag og optimering
-</ul>
-</p>
-<p>
-Vi lægger vægt på faglighed og ansvarlighed. 
-</p>
-<p>
-Det er et mål i alle vores projekter at overføre mest mulig af vores viden til dig som kunde. Derfor laver vi ikke tingene <strong>for</strong> dig, men <strong>med</strong> dig.
-</p>
-
-                </div>
-                <div id="ContentMiddleCol" class=" col-12 col-sm-12 col-md-12  col-lg-4 col-xl-4 ">
-                    <img src="img/SES-black-and-white.jpg" class="img-fluid" alt="Stein Erik Skotkjerra"  />
-                </div>
-                <div id="ContentRightCol" class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4">
-                    <h2 class="mt-4">Aktuelt</h2>
-{% set postslist = collections.posts | head(-3) %}
-{% set postslistCounter = collections.posts | length %}
-{% include "postslist.njk" %}
-
-<p>Du kan læse flere artikler på vores <a class="links" href="{{ '/artikler/' | url }}">blog</a>.</p>
-
-                </div>
-       
-
-        </div>
-
+<div class="row">
+    <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 ">
+        <h1>Vi gør webtilgængelighed overskueligt</h1>
+        <p>Inklusio ApS er en konsulentvirksomhed der rådgiver omkring digital inklusion og webtilgængelighed. Vi vil gerne være din sparringspartner fra opstart af proces til test af færdig løsning. </p>
+        <p><a href="tel:+4526343455">Ring til os på +45&nbsp;26&nbsp;34&nbsp;34&nbsp;55</a></p>
+        <p>Vi kan hjælpe med alt hvad der vedrører digital inklusion og webtilgængelighed:<p>
+        <ul>
+            <li class="mb-2">Organisatorisk forankring og strategi udvikling</li>
+            <li class="mb-2">Test, vurdering og monitorering</li>
+            <li class="mb-2">Rådgivning, vejledning og oplæring</li>
+            <li class="mb-2">Prioritering, løsningsforslag og optimering</li>
+        </ul>
+        <p>Vi lægger vægt på faglighed og ansvarlighed.</p>
+        <p>Det er et mål i alle vores projekter at overføre mest mulig af vores viden til dig som kunde. Derfor laver vi ikke tingene <strong>for</strong> dig, men <strong>med</strong> dig.</p>
     </div>
+    <div class="col-12 col-sm-12 col-md-12  col-lg-4 col-xl-4 ">
+        <img src="img/SES-black-and-white.jpg" class="img-fluid" alt="Stein Erik Skotkjerra"  />
+    </div>
+    <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4">
+        <h2>Aktuelt</h2>
+        <div class="my-2">
+        {% set postslist = collections.posts | head(-3) %}
+        {% set postslistCounter = collections.posts | length %}
+        {% include "postslist.njk" %}
+        </div>
+        <p>Du kan læse flere artikler på vores <a href="{{ '/artikler/' | url }}">blog</a>.</p>
+    </div>
+</div>
