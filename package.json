@@ -1,13 +1,15 @@
 {
   "name": "Inklusio-website",
   "version": "1.0.2",
-  "description": "Inklusio websitebuilt on a starter repository for a blog web site using the Eleventy static site generator.",
+  "description": "Inklusio website built on a starter repository for a blog web site using the Eleventy static site generator.",
   "scripts": {
-    "build": "eleventy",
-    "watch": "eleventy --watch",
-    "serve": "eleventy --serve",
-    "debug": "DEBUG=* eleventy",
-    "sass": "node-sass -w _includes/sass -o css"
+    "watch:sass": "sass --watch _includes/sass:css",
+    "build:sass": "sass _includes/sass:css",
+    "watch:eleventy": "eleventy --serve",
+    "build:eleventy": "eleventy",
+    "css:optimize": "postcss ./_site/css/my-bootstrap.css -o ./_site/css/my-bootstrap.css",
+    "start": "npm-run-all build:sass --parallel watch:*",
+    "build": "run-s build:sass build:eleventy css:optimize"
   },
   "repository": {
     "type": "git",
@@ -16,7 +18,7 @@
   "author": {
     "name": "Stein Erik Skotkjerra",
     "email": "stein.erik.skotkjerra@gmail.com",
-    "url": "inklusio.dk/"
+    "url": "https://inklusio.dk/"
   },
   "license": "MIT",
   "bugs": {
@@ -24,12 +26,17 @@
   },
   "homepage": "https://github.com/11ty/eleventy-base-blog#readme",
   "devDependencies": {
-    "@11ty/eleventy": "^0.10.0",
+    "@11ty/eleventy": "^0.12.1",
     "@11ty/eleventy-navigation": "^0.1.3",
     "@11ty/eleventy-plugin-rss": "^1.0.7",
+    "@fullhuman/postcss-purgecss": "^4.0.3",
+    "bootstrap": "^4.6.0",
+    "cssnano": "^5.0.1",
     "luxon": "^1.21.3",
     "markdown-it": "^8.4.2",
     "markdown-it-anchor": "^5.2.5",
-    "node-sass": "^4.14.1"
+    "npm-run-all": "^4.1.5",
+    "postcss-cli": "^8.3.1",
+    "sass": "^1.32.8"
   }
 }
