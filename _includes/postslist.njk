@@ -5,7 +5,7 @@
       <h3 class="mb-1 fs-6 flex-grow-1"><a href="{{ post.url | url }}">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a></h3>
       <small class="flex-shrink-1 white-space-nowrap"><time datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time></small>
     </div>
-    <p class="m-0">
+    <p class="m-0 fs-4">
       <span class="sr-only">Tags til denne artikel: </span>
       {% for tag in post.data.tags %}
         {%- if collections.tagList.indexOf(tag) != -1 -%}
