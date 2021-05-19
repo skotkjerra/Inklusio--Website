@@ -8,7 +8,8 @@ summary: Når vi hos Inklusio tester websteder for webtilgængelighed, ser vi
   interaktive elementer med komplekse interaktioner volder typisk en del
   problemer.
 tags:
-  - post
+  - Vejledninger
+  - Test
 ---
 Når vi hos Inklusio tester websteder for webtilgængelighed, ser vi mange af de samme problemer igen og igen på forskellige websteder.
 
