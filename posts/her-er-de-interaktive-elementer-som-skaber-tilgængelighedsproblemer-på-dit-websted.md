@@ -72,6 +72,6 @@ Og så skal disse problemer fikses, sandsynligvis af en udvikler. Medmindre du h
 
 Derfor anbefaler vi altid at få fikset problemerne, når de først er fundet. 
 
-Vi vil gerne hjælpe dig med at finde, teste og fikse disse interaktive komponenter, så du kan få forbedret tilgængeligheden på dit websted, så her kommer en serie af guides under temaet ”Interaktive komponenter, som sikkert skaber tilgængelighedsproblemer på dit websted”: 
+Vi vil gerne hjælpe dig med at finde, teste og fikse disse interaktive komponenter, så du kan få forbedret tilgængeligheden på dit websted, så her kommer en serie af guides under temaet ”Her er de interaktive elementer, som skaber tilgængelighedsproblemer på dit websted”: 
 
 - #1. Accordions til at folde indhold ind/ud med (udgives snart!)
