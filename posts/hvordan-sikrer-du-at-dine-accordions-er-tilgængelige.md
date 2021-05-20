@@ -1,5 +1,5 @@
 ---
-title: Hvordan sikrer du, at dine accordions er tilgængelige?
+title: Sådan sikrer du, at dine accordions er tilgængelige
 date: 2021-05-20T09:05:29.686Z
 author: Anne Thyme Nørregaard
 summary: Accordions er en af de typer af interaktive elementer, hvor vi ofte ser
