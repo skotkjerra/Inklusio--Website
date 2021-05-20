@@ -17,7 +17,7 @@ Jeg fører selv en mental liste over webindhold, som straks hejser et rødt flag
 
 Især interaktive elementer med komplekse interaktioner volder typisk en del problemer.
 
-## Hvad er en kompleks interaktion? 
+## Hvad er en kompleks interaktion?
 
 Interaktive brugergrænsefladekomponenter er alt det, man kan gøre noget med på en webside. Trykke på, indstille, navigere via osv.
 
@@ -36,18 +36,19 @@ Den er straks værre.
 
 Når der skal meget beskrivelse til at forklare en interaktion, så begynder alarmklokkerne hos enhver tilgængelighedstester at ringe. For hvis det er svært at forklare interaktionerne med ord, så er der også rigtigt mange ting der potentielt kan gå galt, når interaktionerne skal gøres tilgængelige.
 
-## Hvilke elementer skal jeg være opmærksom på? 
+## Hvilke elementer skal jeg være opmærksom på?
+
 Her får du først og fremmest en liste med interaktive elementer, som du skal være særligt opmærksom på, på dit websted: 
 
-- Accordions til at folde indhold ind/ud med
-- Bannere med ”slides” på forsider og sektionsforsider
-- Cookie-bannere
-- Datovælgere
-- Filtre på søgeresultater
-- Formularer 
-- Indtastningsfelter, der kommer med en liste af valgmuligheder/resultater, når man taster i dem
-- Menuer, der folder underpunkter ud
-- Mobilmenuer
+* Accordions til at folde indhold ind/ud med
+* Bannere med ”slides” på forsider og sektionsforsider
+* Cookie-bannere
+* Datovælgere
+* Filtre på søgeresultater
+* Formularer 
+* Indtastningsfelter, der kommer med en liste af valgmuligheder/resultater, når man taster i dem
+* Menuer, der folder underpunkter ud
+* Mobilmenuer
 
 Hvis du har nogle af disse indholdstyper, så er de med stor sandsynlighed IKKE tilgængelige, medmindre de er blevet grundigt testet for tilgængelighed undervejs.
 
@@ -57,7 +58,8 @@ Det er selvfølgelig trist, at de samme tilgængelighedsproblemer dukker op igen
 
 Til gengæld kan vi så her guide dig til, hvad du især skal være særligt opmærksom på ved disse interaktive komponenter. 
 
-## Hvad skal jeg gøre, hvis jeg har nogle af disse interaktive komponenter? 
+## Hvad skal jeg gøre, hvis jeg har nogle af disse interaktive komponenter?
+
 I princippet er det nemt at håndtere arbejdet med tilgængelighed for disse komplekse interaktive komponenter:
 
 1. Find
@@ -74,4 +76,4 @@ Derfor anbefaler vi altid at få fikset problemerne, når de først er fundet.
 
 Vi vil gerne hjælpe dig med at finde, teste og fikse disse interaktive komponenter, så du kan få forbedret tilgængeligheden på dit websted, så her kommer en serie af guides under temaet ”Her er de interaktive elementer, som skaber tilgængelighedsproblemer på dit websted”: 
 
-- #1. Accordions til at folde indhold ind/ud med (udgives snart!)
+* [Sådan sikrer du, at dine accordions er tilgængelige](https://inklusio.dk/posts/hvordan-sikrer-du-at-dine-accordions-er-tilg%C3%A6ngelige/)
