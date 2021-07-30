@@ -12,6 +12,7 @@ Vi gør tilgængelighed overskueligt og nemt – fra opstart af proces til test 
 [Se, hvordan vi kan hjælpe dig med tilgængelighed](https://inklusio.dk/hvad-tilbyder-vi/).
 
 <h2 class="pt-2">Stein Erik Skotkjerra</h2>
+
 **CEO & Grundlægger**
 
 Stein Erik er en passioneret forkæmper for en inkluderende digital verden. Med udgangspunkt i en menneskecentreret tilgang har han arbejdet som rådgiver, underviser og konsulent inden for it og digitalisering i 20 år.
@@ -24,8 +25,8 @@ Kontakt Stein Erik:
 * Se [Stein Erik Skotkjerra på LinkedIn](https://www.linkedin.com/in/skotkjerra/)
 
 
+<h2 class="pt-2">Anne Thyme Nørregaard</h2>
 
-## Anne Thyme Nørregaard
 **Seniorkonsulent i Webtilgængelighed**
 
 Anne er Cand.it med en specialisering i usability og tilgængelighed og har arbejdet med tilgængelighed siden 2012. Med sig har hun erfaring fra både konsulentverdenen og udvikling af automatiske tilgængelighedsværktøjer.
@@ -38,8 +39,8 @@ Kontakt Anne:
 * Se [Anne Thyme Nørregaard på LinkedIn](https://www.linkedin.com/in/annethyme/)
 
 
+<h2 class="pt-2">Katrine Gregersen</h2>
 
-## Katrine Gregersen
 **Konsulent i Webtilgængelighed**
 
 Med sin kandidat og specialisering i menneske-computer interaktion, bidrager Katrine til at evaluere tilgængelighed på digitale løsninger og rådgive virksomheder i, hvordan de kan gøre deres hjemmesider og apps til mobil inkluderende for alle. 
@@ -51,7 +52,8 @@ Kontakt Katrine:
 
 
 
-## Linda Thyme 
+<h2 class="pt-2">Linda Thyme</h2>
+
 **Akademisk medarbejder**
 
 Linda er stærkt passioneret for samfundsgavnlige forretningsmodeller og kommunikation, herunder hvordan vi bedst muligt forstår hinandens perspektiver og indtænker disse i helhedsorienterede løsninger. Hun tager sig blandt andet af kommunikationsopgaver og vurderer, om tilgængelighedserklæringer er i overensstemmelse med webtilgængelighedsloven.
