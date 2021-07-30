@@ -32,7 +32,7 @@ Kontakt Stein Erik:
 
 Anne er Cand.it med en specialisering i usability og tilgængelighed og har arbejdet med tilgængelighed siden 2012. Med sig har hun erfaring fra både konsulentverdenen og udvikling af automatiske tilgængelighedsværktøjer.
 
-Hun har arbejdet med alt fra manuel tilgængelighedstest til rådgivning og undervisning, samt arbejde med tilgængelighedsstandarder som aktivt medlem af W3C.
+Hun har arbejdet med alt fra manuel tilgængelighedstest til rådgivning og undervisning, samt arbejdet med tilgængelighedsstandarder som aktivt medlem af [W3C](https://www.w3.org/).
 Hun kombinerer erfaringer og viden fra UX, tilgængelighed og brugercentrerede udviklingsmetoder for at skabe inkluderende brugeroplevelser.
 
 Kontakt Anne: 
