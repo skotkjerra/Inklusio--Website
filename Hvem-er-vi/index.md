@@ -11,7 +11,7 @@ Inklusio er en konsulentvirksomhed, der rådgiver om tilgængelighed til web og 
 Vi gør tilgængelighed overskueligt og nemt – fra opstart af proces til test af færdig løsning. 
 [Se, hvordan vi kan hjælpe dig med tilgængelighed](https://inklusio.dk/hvad-tilbyder-vi/).
 
-<div class="pt-2">## Stein Erik Skotkjerra</div>
+<h2 class="pt-2">Stein Erik Skotkjerra</h2>
 **CEO & Grundlægger**
 
 Stein Erik er en passioneret forkæmper for en inkluderende digital verden. Med udgangspunkt i en menneskecentreret tilgang har han arbejdet som rådgiver, underviser og konsulent inden for it og digitalisering i 20 år.
