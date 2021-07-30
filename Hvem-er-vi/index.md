@@ -11,6 +11,7 @@ Inklusio er en konsulentvirksomhed, der rådgiver om tilgængelighed til web og 
 Vi gør tilgængelighed overskueligt og nemt – fra opstart af proces til test af færdig løsning. 
 [Se, hvordan vi kan hjælpe dig med tilgængelighed](https://inklusio.dk/hvad-tilbyder-vi/).
 
+
 ## Stein Erik Skotkjerra
 **CEO & Grundlægger**
 
@@ -22,6 +23,7 @@ Kontakt Stein Erik:
 * Mail: ses@inklusio.dk 
 * Telefon: [26 34 34 55](tel:26343455)
 * Se [Stein Erik Skotkjerra på LinkedIn](https://www.linkedin.com/in/skotkjerra/)
+
 
 ## Anne Thyme Nørregaard
 **Seniorkonsulent i Webtilgængelighed**
@@ -35,6 +37,7 @@ Kontakt Anne:
 * Mail: [atn@inklusio.dk](atn@inklusio.dk)
 * Se [Anne Thyme Nørregaard på LinkedIn](https://www.linkedin.com/in/annethyme/)
 
+
 ## Katrine Gregersen
 **Konsulent i Webtilgængelighed**
 
@@ -44,6 +47,7 @@ Hun har fra udlandet erfaring med at udvikle digitale løsninger, som er baseret
 Kontakt Katrine: 
 * Mail: [kgr@inklusio.dk](mailto:kgr@inklusio.dk)
 * Se [Katrine Gregersen på LinkedIn](https://www.linkedin.com/in/katrine-theilmann-gregersen/)
+
 
 ## Linda Thyme 
 **Akademisk medarbejder**
