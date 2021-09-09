@@ -7,8 +7,6 @@ summary: "I denne artikel vil vi hjælpe dig med at få styr på, hvilke regler 
   digitale løsninger. "
 tags: []
 ---
-I denne artikel vil vi hjælpe dig med at få styr på, hvilke regler der gør sig gældende for kontrastforhold mellem tekst og tekstens baggrund på digitale løsninger. 
-
 Hvis du ikke allerede har gættet det, skal kontrastforholdet mellem tekst og tekstens baggrund på din digitale løsning være tilstrækkeligt høj. I WCAG 2.1, som er retningslinjer for tilgængeligt webindhold, går denne regel under titlen: [1.4.3 Kontrast (minimum)](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html). Når tekster har høj nok kontrast i forhold til baggrunden, bliver de mulige at læse for personer med nedsat syn eller personer med farveblindhed. Dermed er tilstrækkelig kontrast et vigtigt led i at gøre din hjemmeside eller applikation tilgængelig. 
 
 Kravet om kontrast er gældende for al betydningsfuld tekst og billeder af tekst på din digitale løsning – hvad end det er brødtekst, tekst på knapper, tekst ved hover (dvs. tekst, som dukker op, når musen bliver ført hen over et element eller tekst) eller placeholder-tekst (dvs. tekst, som kun optager plads i et tekstfelt, indtil man vælger at udfylde feltet – eksempelvis ordet ”Søg” i et søgefelt) m.m. Dog er tekst, som ikke ændrer betydningen af indholdet på siden (såkaldt dekorativ tekst) og logoer ikke underlagt dette krav. 
