@@ -82,4 +82,4 @@ Send en mail til **ses@inklusio.dk** med din tilmelding.
 * Webtilgængelighed for udviklere
 * Webtilgængelighed for designere og UX’ere
 
-Send en mail til **ses@inklusio.dk,** hvis du er interesseret.
+Send en mail til **ses@inklusio.dk**, hvis du er interesseret.
