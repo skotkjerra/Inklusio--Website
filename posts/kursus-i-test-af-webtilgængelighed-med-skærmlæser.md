@@ -69,9 +69,9 @@ Stein Erik Skotkjerra, grundlægger af Inklusio og skærmlæserbruger siden 1992
 
 Send en mail til **ses@inklusio.dk** med din tilmelding.
 
-## Vi tilbyder også
 
-Vi tilbyder også kurser i:
+
+## Vi tilbyder også kurser i:
 
 * Intro til webtilgængelighed
 * Webtilgængelighed for webredaktører
