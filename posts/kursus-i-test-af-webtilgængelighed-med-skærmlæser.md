@@ -31,10 +31,10 @@ Inklusio udbyder nu dette kursus specifikt i test af webtilgængelighed ved hjæ
 
 Dette kursus er særligt relevant for dig, hvis du er:
 
-* Webudvikler eller softwareudvikler, der skal sikre webtilgængeligheden i egen kode eller fikse problemer i andres kode
-* Softwaretester eller QA engineer, der skal teste for webtilgængelighed
-* UX designer eller lignende, der ønsker en større forståelse af, hvordan skærmlæserbrugere læser, interagerer med og oplever webindhold
-* Webtilgængelighedsspecialist, der skal teste og rådgive om webtilgængelighed
+* *Webudvikler eller softwareudvikler*, der skal sikre webtilgængeligheden i egen kode eller fikse problemer i andres kode
+* *Softwaretester eller QA engineer*, der skal teste for webtilgængelighed
+* *UX designer eller lignende*, der ønsker en større forståelse af, hvordan skærmlæserbrugere læser, interagerer med og oplever webindhold
+* *Webtilgængelighedsspecialist*, der skal teste og rådgive om webtilgængelighed
 
 Da dette er et avanceret kursus, forudsætter det, at du allerede har grundlæggende viden om webtilgængelighed samt en grundlæggende forståelse for html-kode og webteknologier.
 
@@ -64,6 +64,12 @@ Da dette er et avanceret kursus, forudsætter det, at du allerede har grundlægg
 ## Ja tak, tilmeld mig kurset!
 
 Send en mail til **ses@inklusio.dk** med din tilmelding.
+
+
+
+
+
+
 
 ## Vi tilbyder også
 
