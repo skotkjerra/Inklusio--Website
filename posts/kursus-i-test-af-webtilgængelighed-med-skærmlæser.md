@@ -61,13 +61,13 @@ Da dette er et avanceret kursus, forudsætter det, at du allerede har grundlægg
 * 3.500 kr. pr. person
 * Hvis I er flere fra samme virksomhed, der gerne vil deltage i dette kursus, giver vi også gerne et tilbud på at holde et kursus særligt for jeres virksomhed.
 
+## Underviser
+
+Stein Erik Skotkjerra
+
 ## Ja tak, tilmeld mig kurset!
 
 Send en mail til **ses@inklusio.dk** med din tilmelding.
-
-
-
-
 
 
 
@@ -80,3 +80,5 @@ Så skulle du måske kigge på et af disse andre kurser, vi også udbyder:
 * Webtilgængelighed for webredaktører
 * Webtilgængelighed for udviklere
 * Webtilgængelighed for designere og UX’ere
+
+Send en mail til **ses@inklusio.dk,** hvis du er interesseret.
