@@ -17,7 +17,8 @@ Avanceret webtilgængelighed
 
 En skærmlæser er et stykke software, som læser digitalt indhold højt for brugeren. Skærmlæsersoftware giver personer med stærkt nedsat syn eller helt uden syn mulighed for at læse og interagere med digitalt indhold. Hvis webstederne altså er kodet efter standarderne.
 
-Hvorfor skal jeg interessere mig for test med skærmlæsere?
+## Hvorfor skal jeg interessere mig for test med skærmlæsere?
+
 Skærmlæserbrugere er blot én af mange brugergrupper, som har gavn af webtilgængelighed. Det er en brugergruppe, der ofte fremhæves ved tilgængelighedsindsatser. Ikke fordi det er dem, der er flest af, men blandt andet fordi websteder, hvor der ikke er tænkt over tilgængeligheden, VIRKELIG ødelægger denne brugergruppes muligheder for at tilgå digitalt indhold.
 
 Når man tester for webtilgængelighed med en skærmlæser, kan man desuden finde en del elementer, som vil skabe tilgængelighedsproblemer for andre brugergrupper også.
@@ -64,7 +65,7 @@ Da dette er et avanceret kursus, forudsætter det, at du allerede har grundlægg
 
 Send en mail til **ses@inklusio.dk** med din tilmelding.
 
-## Vi tilbyder også 
+## Vi tilbyder også
 
 Er dette kursus ikke lige det, du søger? 
 Så skulle du måske kigge på et af disse andre kurser, vi også udbyder:
