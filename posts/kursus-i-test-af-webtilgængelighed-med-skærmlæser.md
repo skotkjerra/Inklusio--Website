@@ -71,7 +71,7 @@ Send en mail til **ses@inklusio.dk** med din tilmelding.
 
 
 
-![](/img/mac-tastatur-haender.jpg)
+![](/img/mac-tastatur-haender.png)
 
 
 
