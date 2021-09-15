@@ -7,7 +7,7 @@ summary: Kursus i test af webtilgængelighed ved hjælp af skærmlæsersoftware.
   kunne teste med en skærmlæser eller blot gerne vil have en dybere indsigt i,
   hvad det vil sige at bruge en skærmlæser til at tilgå digitalt indhold.
 tags:
-  - KursusSkærmlæserTest
+  - Kursus; Skærmlæser; Test
 ---
 ## Niveau for dette kursus
 
@@ -63,7 +63,7 @@ Da dette er et avanceret kursus, forudsætter det, at du allerede har grundlægg
 
 ## Underviser
 
-Stein Erik Skotkjerra
+Stein Erik Skotkjerra, grundlægger af Inklusio og skærmlæserbruger gennem 30 år. 
 
 ## Ja tak, tilmeld mig kurset!
 
