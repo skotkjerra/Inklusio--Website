@@ -48,7 +48,7 @@ Da dette er et avanceret kursus, forudsætter det, at du allerede har grundlægg
 
 ## Sådan foregår kurset
 
-* 3 timers online kursus på et lille hold med max 6 deltagere
+* 3 timers online kursus
 * Vi forsøger at gøre undervisningen så dialogisk som muligt, så du får svar på alle dine spørgsmål undervejs
 * I undervisningen er indlagt små øvelser
 
@@ -58,23 +58,20 @@ Da dette er et avanceret kursus, forudsætter det, at du allerede har grundlægg
 
 ## Pris
 
-* 3.500 kr. pr. person
+* 2.000 kr. pr. person
 * Hvis I er flere fra samme virksomhed, der gerne vil deltage i dette kursus, giver vi også gerne et tilbud på at holde et kursus særligt for jeres virksomhed.
 
 ## Underviser
 
-Stein Erik Skotkjerra, grundlægger af Inklusio og skærmlæserbruger gennem 30 år. 
+Stein Erik Skotkjerra, grundlægger af Inklusio og skærmlæserbruger siden 1992. [Læs mere om Stein Erik](https://inklusio.dk/hvem-er-vi/). 
 
 ## Ja tak, tilmeld mig kurset!
 
 Send en mail til **ses@inklusio.dk** med din tilmelding.
 
-
-
 ## Vi tilbyder også
 
-Er dette kursus ikke lige det, du søger? 
-Så skulle du måske kigge på et af disse andre kurser, vi også udbyder:
+Vi tilbyder også kurser i:
 
 * Intro til webtilgængelighed
 * Webtilgængelighed for webredaktører
