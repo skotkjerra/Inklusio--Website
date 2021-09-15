@@ -7,7 +7,7 @@ summary: Kursus i test af webtilgængelighed ved hjælp af skærmlæsersoftware.
   kunne teste med en skærmlæser eller blot gerne vil have en dybere indsigt i,
   hvad det vil sige at bruge en skærmlæser til at tilgå digitalt indhold.
 tags:
-  - Kursus; Skærmlæser; Test
+  - Kursus Skærmlæser Test
 ---
 ## Niveau for dette kursus
 
