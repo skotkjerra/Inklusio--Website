@@ -29,7 +29,7 @@ Inklusio udbyder nu dette kursus specifikt i test af webtilgængelighed ved hjæ
 
 ## Er dette kursus for mig?
 
-Dette kursus er særligt relevant for dig hvis du er:
+Dette kursus er særligt relevant for dig, hvis du er:
 
 * Webudvikler eller softwareudvikler, der skal sikre webtilgængeligheden i egen kode eller fikse problemer i andres kode
 * Softwaretester eller QA engineer, der skal teste for webtilgængelighed
