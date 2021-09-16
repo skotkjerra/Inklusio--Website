@@ -15,7 +15,7 @@ Avanceret webtilgængelighed
 
 ## Tid og sted
 
-Onsdag den 30. oktober 2021, kl. 9.00-12.00, online
+Onsdag den 13. oktober 2021, kl. 9.00-12.00, online
 
 ## Hvad er en skærmlæser?
 
