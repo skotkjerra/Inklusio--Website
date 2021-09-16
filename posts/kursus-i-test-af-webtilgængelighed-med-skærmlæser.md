@@ -13,6 +13,10 @@ tags:
 
 Avanceret webtilgængelighed
 
+## Tid og sted
+
+Onsdag den 30. oktober 2021, kl. 9.00-12.00, online
+
 ## Hvad er en skærmlæser?
 
 En skærmlæser er et stykke software, som læser digitalt indhold højt for brugeren. Skærmlæsersoftware giver personer med stærkt nedsat syn eller helt uden syn mulighed for at læse og interagere med digitalt indhold. Hvis webstederne altså er kodet efter standarderne.
@@ -54,7 +58,7 @@ Da dette er et avanceret kursus, forudsætter det, at du allerede har grundlægg
 
 ## Tid og sted
 
-* 13. oktober 2021 kl. 9.00-12.00, online
+* Onsdag den 13. oktober 2021 kl. 9.00-12.00, online
 
 ## Pris
 
@@ -69,11 +73,7 @@ Stein Erik Skotkjerra, grundlægger af Inklusio og skærmlæserbruger siden 1992
 
 Send en mail til **ses@inklusio.dk** med din tilmelding.
 
-
-
 ![](/img/mac-tastatur-haender.png)
-
-
 
 ## Vi tilbyder også kurser i
 
