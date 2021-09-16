@@ -1,5 +1,5 @@
 ---
-title: Skærmlæser-kursus til test af webtilgængelighed
+title: "Kursus: Brug skærmlæser til at teste for webtilgængelighed"
 date: 2021-09-15T05:41:31.392Z
 author: Inklusio
 summary: Kursus i test af webtilgængelighed ved hjælp af skærmlæsersoftware. For
