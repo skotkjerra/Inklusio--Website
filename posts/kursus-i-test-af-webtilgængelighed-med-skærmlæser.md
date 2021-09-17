@@ -73,7 +73,7 @@ Stein Erik Skotkjerra, grundlægger af Inklusio og skærmlæserbruger siden 1992
 
 Send en mail til **ses@inklusio.dk** med din tilmelding.
 
-![](/img/mac-tastatur-haender.png)
+![Hænder, som taster på et computer-tastatur. ](/img/mac-tastatur-haender.png)
 
 ## Vi tilbyder også kurser i
 
