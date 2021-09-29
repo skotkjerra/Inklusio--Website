@@ -1,6 +1,6 @@
 <ul class="list-group">
 {% for post in postslist | reverse %}
-  <li class="list-group-item p-4">
+  <li class="list-group-item p-4 border-0">
     <div class="d-flex w-100 justify-content-between">
       <h3 class="mb-1 fs-6 text-secondary flex-grow-1"><a href="{{ post.url | url }}">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a></h3>
       <small class="flex-shrink-1 white-space-nowrap"><time datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time></small>
