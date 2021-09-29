@@ -8,6 +8,8 @@
 $font-size-base: 1.1rem;
 $paragraph-margin-bottom: 1.5em;
 
+$font-family-base: verdana, sans-serif;
+
 /* Add xxxl breakpoint */
 $grid-breakpoints: ( xs: 0, sm: 576px, md: 768px, lg: 992px, xl: 1200px, xxl:
 1400px , xxxl: 1680px);
@@ -121,6 +123,16 @@ a.skiptomain:focus, a.skiptomain:active {
  li {
    max-width: 65ch; /* 1 */
  }
+
+ h1,
+ h2,
+ h3,
+ h4,
+ h5,
+ h6 {
+   Avenir Next, verdana, sans-serif;
+ }
+
 
  *:is(p, ul):not([class]) + *:is(p, ul):not([class]) {
    margin-top: 2em; /* 2 */
