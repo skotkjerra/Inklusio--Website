@@ -31,7 +31,7 @@ $container-max-widths: (
  */
 
 $theme-colors: (
-  "primary": #1162b9
+  "primary": #5860F6
 );
 
 /**
@@ -42,7 +42,7 @@ $theme-colors: (
 
 @import "../../node_modules/bootstrap/scss/bootstrap";
 
-$inklusio-dark-blue: #082840;
+$inklusio-dark-grey: #3B3B3A;
 
 body {
   hyphens: auto;
@@ -56,7 +56,7 @@ body {
 
 .site-header,
 .site-footer {
-  background-color: $inklusio-dark-blue;
+  background-color: $inklusio-dark-grey;
   color: var(--white);
 }
 
