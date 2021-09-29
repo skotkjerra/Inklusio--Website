@@ -13,7 +13,7 @@ eleventyNavigation:
     <div class="row gy-2">
       {% for post in collections.products %}
       <div class="col-12 col-md-6 col-lg-4 mb-5">
-      <div class="card p-4 bg-white h-100">
+      <div class="card p-4 bg-white h-100 border-0">
         {% if post.data.title %}
         <h2 class="card-title">{{ post.data.title }}</h2>
         {% endif %}
@@ -21,7 +21,7 @@ eleventyNavigation:
         {% if post.data.summary %}
         <p class="card-text">{{ post.data.summary }}</p>
         {% endif %}
-        <a href="{{ post.url | url }}" class="bg-primary btn-primary p-3 mt-auto border-0 rounded-circle">{{ post.data.cta }}</a>
+        <a href="{{ post.url | url }}" class="bg-primary btn-primary p-3 mt-auto rounded">{{ post.data.cta }}</a>
       </div>
       </div>
       {% endfor %}
