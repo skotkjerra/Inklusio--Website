@@ -21,7 +21,7 @@ eleventyNavigation:
         {% if post.data.summary %}
         <p class="card-text">{{ post.data.summary }}</p>
         {% endif %}
-        <a href="{{ post.url | url }}" class="bg-primary btn-primary p-3 mt-auto">{{ post.data.cta }}</a>
+        <a href="{{ post.url | url }}" class="bg-primary btn-primary p-3 mt-auto border-0 rounded-circle">{{ post.data.cta }}</a>
       </div>
       </div>
       {% endfor %}
