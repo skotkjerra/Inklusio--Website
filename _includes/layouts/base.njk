@@ -24,7 +24,7 @@
                 </button>
 
                 <div class="navbar-collapse collapse" id="collapsingNavbar4">
-                    <div class="navbar-nav">
+                    <div class="navbar-nav float-right">
                     {%- for entry in collections.all | eleventyNavigation %}
                         <a class="nav-item nav-link text-decoration-underline-hover text-white {% if entry.url == page.url %} text-decoration-underline {% endif %} mr-4" {% if entry.url == page.url %} aria-current="page"{% endif %} href="{{ entry.url | url }}">{{ entry.title }}</a>
                     {%- endfor %}
