@@ -5,8 +5,10 @@
  *
  */
 
-$font-size-base: 1.1rem;
+$font-size-base: 1rem;
 $paragraph-margin-bottom: 1.5em;
+
+$font-family-base: Verdana, sans-serif;
 
 /* Add xxxl breakpoint */
 $grid-breakpoints: ( xs: 0, sm: 576px, md: 768px, lg: 992px, xl: 1200px, xxl:
@@ -31,7 +33,9 @@ $container-max-widths: (
  */
 
 $theme-colors: (
-  "primary": #1162b9
+  "primary": #5860F6,
+  "secondary": #107E94,
+  "dark": #3B3B3A
 );
 
 /**
@@ -42,7 +46,7 @@ $theme-colors: (
 
 @import "../../node_modules/bootstrap/scss/bootstrap";
 
-$inklusio-dark-blue: #082840;
+$inklusio-dark-grey: #3B3B3A;
 
 body {
   hyphens: auto;
@@ -56,7 +60,7 @@ body {
 
 .site-header,
 .site-footer {
-  background-color: $inklusio-dark-blue;
+  background-color: $inklusio-dark-grey;
   color: var(--white);
 }
 
@@ -100,6 +104,11 @@ a.skiptomain:focus, a.skiptomain:active {
    text-decoration: underline!important;
  }
 
+main a {
+   text-decoration: underline;
+ }
+
+
  .white-space-nowrap {
    white-space: nowrap;
  }
@@ -120,6 +129,17 @@ a.skiptomain:focus, a.skiptomain:active {
  li {
    max-width: 43rem; /* 1 */
  }
+
+ h1,
+ h2,
+ h3,
+ h4,
+ h5,
+ h6 {
+   font-family: "Avenir Next", Verdana, sans-serif;
+   font-weight: normal;
+ }
+
 
  *:is(p, ul):not([class]) + *:is(p, ul):not([class]) {
    margin-top: 2em; /* 2 */
