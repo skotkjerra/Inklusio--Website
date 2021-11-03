@@ -89,6 +89,8 @@ Du kan tage et kig på din digitale løsning og vurdere, hvor farverne er betydn
 ### **Sidenote:** Det er ikke fordi du skal fjerne alle farver fra dit websted
 
 Det her er ikke et opråb om, at du skal fjerne al farve på din hjemmeside. Det vigtige er, at du er bevidst om, hvordan du bruger farver til kommunikation af informationer. Når farver bliver brugt rigtigt, kan de nemlig tilføje et fantastisk udtryk til en hjemmeside. 
+
+
 Efter at have læst denne artikel, håber vi, at du føler dig bedre klædt på til at designe eller re-designe din hjemmeside, så den bliver inkluderende for alle.
 
 ## **Her kan du lære mere**
