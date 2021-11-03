@@ -18,7 +18,7 @@ I dag er det ikke unormalt, at farver bliver benyttet som et kommunikationsmidde
 
 Det er derfor helt almindeligt, at vi formidler informationer med farver, men det kan godt skabe nogle tilgængelighedsproblemer for en gruppe mennesker med farveblindhed eller nedsat syn, eftersom farverne ikke giver dem de nødvendige informationer. I dette indlæg skal vi stille skarpt på, hvordan man kan bruge farver til at formidle information på digitale løsninger, og hvilke steder man muligvis bør vælge en alternativ formidlingsform, så man sikrer, at indholdet er tilgængeligt for alle. 
 
-![Billede af trafiklys ](/img/skærmbillede-2021-11-03-kl.-12.36.02.png)
+![Billede af trafiklys ](/img/skærmbillede-2021-11-03-kl.-13.20.02.png)
 
 Når vi kigger på hjemmesider, har farver ofte en stor betydning på hjemmesiders design. Typisk har virksomheder allerede på forhånd valgt en farvepalet, som matcher deres brand, eller som de finder æstetisk flot. Det er i sig selv ikke et problem inden for tilgængelighed, at man har en nøje udtænkt farvepalet, blot skal man være opmærksom på brugen af valgte farver. Tidligere har vi skrevet om [vigtigheden af tekstkontrast](https://inklusio.dk/posts/digital-tilg%C3%A6ngelighed-101-lever-dine-tekster-op-til-kravet-om-kontrast/), men i dag skal det handle om farver som et kommunikationsmiddel. 
 
@@ -36,7 +36,7 @@ Du har helt sikkert oplevet at skulle udfylde en formular på en hjemmeside, hvo
 
 Grafer er også en faldgrube, når det gælder brug af farve som kommunikationsværktøj. Ofte ser man, at farverne i en graf formidler forskellig information, men den information kan være svær at tyde, hvis man er farveblind. Her vil en mulig løsning være at nummerere linjerne i grafen eller på anden måde kommunikere informationen, så man ikke er afhængig af at kunne se forskellige farver og nuancer. Eksemplet på grafen herunder, benytter blandt andet figurer, i stedet for farve til at formidle information. Grafen til højre er tilgængelig for personer med farveblindhed, da den ikke formidler via farve alene.  
 
-![To grafer, hvor den ene formidler information ved hjælp af farve, og den anden formidler information ved hjælp af figurer ](/img/skærmbillede-2021-11-03-kl.-12.50.42.png)
+![To grafer, hvor den ene formidler information ved hjælp af farve, og den anden formidler information ved hjælp af figurer ](/img/skærmbillede-2021-11-03-kl.-13.19.30.png)
 
 *Illustration fra Lisa Charlotte Muth ([Link til hendes blog](https://blog.datawrapper.de/colorblindness-part2/))*
 
