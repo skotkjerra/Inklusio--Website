@@ -24,7 +24,7 @@ Når vi kigger på hjemmesider, har farver ofte en stor betydning på hjemmeside
 
 I tilgængelighedens verden er det her område tilknyttet succeskriterium [1.4.1 Anvendelse af farve i WCAG 2.1](https://www.w3.org/WAI/WCAG21/Understanding/use-of-color.html), som er retningslinjer for tilgængeligt webindhold. Helt kort beskrevet handler succeskriteriet om, at farve ikke må være den eneste måde, du formidler information på i din digitale løsning. 
 
-## **Eksempler**  
+## **Eksempler**
 
 ### Formularer
 
@@ -42,7 +42,9 @@ Grafer er også en faldgrube, når det gælder brug af farve som kommunikationsv
 
 Hvis du er nysgerrig og vil vide mere om, hvordan man kan visualisere data, så det er tilgængeligt for folk med farveblindhed,  anbefaler vi Lisa Charlotte Muths uddybende og superspændende artikel [What to consider when visualizing data for colorblind readers](https://blog.datawrapper.de/colorblindness-part2/) og Sarah Fossheims artikel [An intro to designing accessible data visualizations](https://fossheim.io/writing/posts/accessible-dataviz-design/). 
 
-Her er nogle ekstra eksempler på inkluderende visualisering af data: 
+
+
+#### **Her er nogle ekstra eksempler på inkluderende visualisering af data:** 
 
 * Søjlediagrammer med både brug af farver og mønstre 
 * Kort, som beskriver områder og ruter med brug af både farver, stiplede linjer og ikoner 
