@@ -26,13 +26,13 @@ I tilgængelighedens verden er det her område tilknyttet succeskriterium [1.4.1
 
 ## **Eksempler**
 
-### Formularer
+### **Formularer**
 
 Du har helt sikkert oplevet at skulle udfylde en formular på en hjemmeside, hvor eksempelvis e-mail og telefonnummer var påkrævede felter at udfylde. I dette tilfælde er det vigtigt for tilgængeligheden, at man ikke kun bruger farve til at kommunikere, hvilke felter der er påkrævede, f.eks. ”De påkrævede felter er markeret med rød”. Her vil personer med farveblindhed eller nedsat syn ofte ikke kunne afkode informationen, da de ikke vil kunne skelne farverne i formularen fra hinanden og dermed ikke kan se, hvilke felter der er påkrævede. Det er derfor vigtigt, at informationer bliver formidlet med andre indikationer end blot farve. I dette tilfælde vil den tilgængelige løsning være at benytte stjerner eller et andet ikon til at markere felter, som det er påkrævet at udfylde, ledsaget af en tilhørende beskrivelse, som kunne lyde ”De påkrævede felter er markeret med *”. 
 
 ![Billede af to tilmeldelsesformularer, som er forkert udfyldt. Den øverste kommunikerer via farven rød og den nederste benytter ikoner til at kommunikere. Den nederste den mest tilgængelige metode. ](/img/billede1.png)
 
-### Datavisualisering
+### **Datavisualisering**
 
 Grafer er også en faldgrube, når det gælder brug af farve som kommunikationsværktøj. Ofte ser man, at farverne i en graf formidler forskellig information, men den information kan være svær at tyde, hvis man er farveblind. Her vil en mulig løsning være at nummerere linjerne i grafen eller på anden måde kommunikere informationen, så man ikke er afhængig af at kunne se forskellige farver og nuancer. Eksemplet på grafen herunder, benytter blandt andet figurer, i stedet for farve til at formidle information. Grafen til højre er tilgængelig for personer med farveblindhed, da den ikke formidler via farve alene.  
 
@@ -50,7 +50,7 @@ Hvis du er nysgerrig og vil vide mere om, hvordan man kan visualisere data, så 
 * Kort, som beskriver områder og ruter med brug af både farver, stiplede linjer og ikoner 
 * Flow chart med brug af pile og stiplede linjer 
 
-### Links
+### **Links**
 
 Et tredje kendt eksempel er links i tekststykker/tekstblokke Der er et krav om, at der skal være en visuel indikation af, hvad der er et link i et tekststykke på en hjemmeside. Den ideelle løsning er blot at benytte understregning ved links, men hvis du udelukkende bruger farve til at indikere links (dvs. hverken markerer linket med understregning, fed tekst eller lignende) så er der krav om, at kontrastforholdet mellem farven på linkteksten og omkringliggende tekst er på minimum 3:1. Du kan bruge denne [kontrast-tjekker](https://webaim.org/resources/contrastchecker/) til at sikre kontrastforholdet mellem links og den omkringliggende tekst – dog skal både almindelig tekst og links stadig have en kontrast på 4,5:1 til baggrunden samtidig. Dette kan være virkelig svært at ramme, så giver WCAG eksempler på [links med 3:1 kontrastforhold til den omkringliggende tekst](https://www.w3.org/WAI/WCAG20/Techniques/working-examples/G183/link-contrast.html) med farver på linktekst, som både minimum har 3:1 til sort tekst og samtidig minimum 4,5:1 til en hvid baggrund. Yderligere, anbefales der her, at links får en understregning ved hover eller i fokus. Synes man, at det bliver for kompliceret at opfylde kravet om en kontrast på 3:1, gør det sig gældende, at der skal være en anden form for visuel indikation, som for eksempel en understreg, fed skrift eller noget helt tredje. Et godt råd er generelt at bruge understregning på links i større tekstblokke, så de er lettere at genkende som links. 
 
