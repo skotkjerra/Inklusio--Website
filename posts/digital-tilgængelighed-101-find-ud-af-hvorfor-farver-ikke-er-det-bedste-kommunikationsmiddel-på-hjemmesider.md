@@ -34,7 +34,7 @@ Du har helt sikkert oplevet at skulle udfylde en formular på en hjemmeside, hvo
 
 ### Datavisualisering
 
-Grafer er også en faldgrube, når det gælder brug af farve som kommunikationsværktøj. Ofte ser man, at farverne i en graf formidler forskellig information, men den information kan være svær at tyde, hvis man er farveblind. Her vil en mulig løsning være at nummerere linjerne i grafen eller på anden måde kommunikere informationen, så man ikke er afhængig af at kunne se forskellige farver og nuancer.
+Grafer er også en faldgrube, når det gælder brug af farve som kommunikationsværktøj. Ofte ser man, at farverne i en graf formidler forskellig information, men den information kan være svær at tyde, hvis man er farveblind. Her vil en mulig løsning være at nummerere linjerne i grafen eller på anden måde kommunikere informationen, så man ikke er afhængig af at kunne se forskellige farver og nuancer. Eksemplet på grafen herunder, benytter blandt andet figurer, i stedet for farve til at formidle information. Grafen til højre er tilgængelig for personer med farveblindhed, da den ikke formidler via farve alene.  
 
 ![To grafer, hvor den ene formidler information ved hjælp af farve, og den anden formidler information ved hjælp af figurer ](/img/skærmbillede-2021-11-03-kl.-12.50.42.png)
 
