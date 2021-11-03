@@ -42,9 +42,7 @@ Grafer er også en faldgrube, når det gælder brug af farve som kommunikationsv
 
 Hvis du er nysgerrig og vil vide mere om, hvordan man kan visualisere data, så det er tilgængeligt for folk med farveblindhed,  anbefaler vi Lisa Charlotte Muths uddybende og superspændende artikel [What to consider when visualizing data for colorblind readers](https://blog.datawrapper.de/colorblindness-part2/) og Sarah Fossheims artikel [An intro to designing accessible data visualizations](https://fossheim.io/writing/posts/accessible-dataviz-design/). 
 
-
-
-#### **Her er nogle ekstra eksempler på inkluderende visualisering af data:** 
+#### **Her er nogle ekstra eksempler på inkluderende visualisering af data:**
 
 * Søjlediagrammer med både brug af farver og mønstre 
 * Kort, som beskriver områder og ruter med brug af både farver, stiplede linjer og ikoner 
@@ -90,10 +88,9 @@ Du kan tage et kig på din digitale løsning og vurdere, hvor farverne er betydn
 
 Det her er ikke et opråb om, at du skal fjerne al farve på din hjemmeside. Det vigtige er, at du er bevidst om, hvordan du bruger farver til kommunikation af informationer. Når farver bliver brugt rigtigt, kan de nemlig tilføje et fantastisk udtryk til en hjemmeside. 
 
+## **Her kan du lære mere**
 
 Efter at have læst denne artikel, håber vi, at du føler dig bedre klædt på til at designe eller re-designe din hjemmeside, så den bliver inkluderende for alle.
-
-## **Her kan du lære mere**
 
 Læs mere om WCAG-succeskriteriet [1.4.1 Anvendelse af farve ](https://www.w3.org/WAI/WCAG21/Understanding/use-of-color.html)(Engelsk)
 Læs blogindlægget ”[Sådan sikrer du tekst-kontrast på din digitale løsning](https://inklusio.dk/posts/digital-tilg%C3%A6ngelighed-101-lever-dine-tekster-op-til-kravet-om-kontrast/)”.
