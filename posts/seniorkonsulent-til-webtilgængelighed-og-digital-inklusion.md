@@ -1,5 +1,5 @@
 ---
-title: Seniorkonsulent til webtilgængelighed og digital inklusion
+title: Vi søger en seniorkonsulent til webtilgængelighed og digital inklusion
 date: 2021-11-04T14:29:52.759Z
 author: Stein Erik Skotkjerra
 summary: Vi søger en erfaren seniorkonsulent til at rådgive vores kunder om
