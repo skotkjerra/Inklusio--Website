@@ -23,7 +23,7 @@ Vidste du, at alt efter billedets funktion, skal tekstalternativet formuleres he
 
 ## 2. december: Brugere og Brugsscenarier
 
-Dagens Ressource: [W3C's indlæg "How People with disabilities use the web"](https://www.w3.org/WAI/people-use-web/)\
+Dagens Ressource: [W3C's artikel "How People with disabilities use the web"](https://www.w3.org/WAI/people-use-web/)\
 \
 Hvem hjælper du egentlig, når du arbejder med webtilgængelighed? – rigtig mange! 
 Faktisk har omkring 20% af befolkningen en funktionsnedsættelse, som gør, at de møder ekstra forhindringer, når de bruger websider og apps. 
