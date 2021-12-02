@@ -14,8 +14,6 @@ På den måde håber vi at gøre dit arbejde med tilgængelighed lettere – og 
 
 Følg med hver dag, hvor nye låger åbnes! 
 
-
-
 ## 1. december: Tilgængelige billeder
 
 Dagens ressource: [Digitaliseringsstyrelsens vejledning til Tilgængelige billeder på nettet](https://digst.dk/digital-service/webtilgaengelighed/vejledning/tilgaengelige-billeder-paa-nettet/)
@@ -23,4 +21,14 @@ Dagens ressource: [Digitaliseringsstyrelsens vejledning til Tilgængelige billed
 Dette er en helt lavpraktisk guide til, hvordan du sikrer, at dine billeder har de rigtige tekstalternativer på dit websted, i dine dokumenter eller i din app.
 Vidste du, at alt efter billedets funktion, skal tekstalternativet formuleres helt forskelligt? 
 
-Følg med i næste afsnit den 2. december!
+## 2. december: Brugere og Brugsscenarier
+
+Dagens Ressource: [W3C's indlæg "How People with disabilities use the web"](https://www.w3.org/WAI/people-use-web/)\
+\
+Hvem hjælper du egentlig, når du arbejder med webtilgængelighed? – rigtig mange! 
+Faktisk har omkring 20% af befolkningen en funktionsnedsættelse, som gør, at de møder ekstra forhindringer, når de bruger websider og apps. 
+Har du svært ved at forestille dig, hvem de er? Så har W3C (dvs. dem, der laver WCAG!), lavet dette overblik, der viser konkrete eksempler på, hvilke brugere du hjælper og i hvilke brugssituationer.
+
+
+
+Følg med i næste afsnit den 3. december!
