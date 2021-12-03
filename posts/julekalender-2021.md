@@ -29,12 +29,12 @@ Hvem hjælper du egentlig, når du arbejder med webtilgængelighed? – rigtig m
 Faktisk har omkring 20% af befolkningen en funktionsnedsættelse, som gør, at de møder ekstra forhindringer, når de bruger websider og apps. 
 Har du svært ved at forestille dig, hvem de er? Så har W3C (dvs. dem, der laver WCAG!), lavet dette overblik, der viser konkrete eksempler på, hvilke brugere du hjælper og i hvilke brugssituationer.
 
-
-
 ## 3. december: Netværk om Webtilgængelighed
 
+Dagens ressource: [Digitaliseringsstyrelsens Netværk om Webtilgængelighed](https://digst.dk/digital-service/webtilgaengelighed/netvaerk-om-webtilgaengelighed/tilmeld-dig-netvaerket/)\
+\
 Kunne du godt bruge nogen at netværke med om webtilgænglighed? Så meld dig ind i Digitaliseringsstyrelsens [Netværk om Webtilgængelighed](https://digst.dk/digital-service/webtilgaengelighed/netvaerk-om-webtilgaengelighed/tilmeld-dig-netvaerket/), hvor du blandt andet kan stille spørgsmål og få svar :) Inklusio er også medlemmer! 
 
-Og netværket har netværksmøde på torsdag d. 9. december om formiddagen, som [du kan tilmelde dig til her](https://digst.dk/digital-service/webtilgaengelighed/netvaerk-om-webtilgaengelighed/tilmeld-dig-netvaerksmoede/).
+Og netværket har netværksmøde på torsdag d. 9. december om formiddagen, som [du kan tNlmelde dig til her](https://digst.dk/digital-service/webtilgaengelighed/netvaerk-om-webtilgaengelighed/tilmeld-dig-netvaerksmoede/).
 
 [Følg Inklusio på LinkedIn](https://www.linkedin.com/company/inklusio), så får du automatisk julekalenderes afsnit med værdifulde ressourcer hver dag.
