@@ -31,12 +31,10 @@ Har du svært ved at forestille dig, hvem de er? Så har W3C (dvs. dem, der lave
 
 
 
-3. december: Netværk om Webtilgængelighed
+## 3. december: Netværk om Webtilgængelighed
 
 Kunne du godt bruge nogen at netværke med om webtilgænglighed? Så meld dig ind i Digitaliseringsstyrelsens [Netværk om Webtilgængelighed](https://digst.dk/digital-service/webtilgaengelighed/netvaerk-om-webtilgaengelighed/tilmeld-dig-netvaerket/), hvor du blandt andet kan stille spørgsmål og få svar :) Inklusio er også medlemmer! 
 
 Og netværket har netværksmøde på torsdag d. 9. december om formiddagen, som [du kan tilmelde dig til her](https://digst.dk/digital-service/webtilgaengelighed/netvaerk-om-webtilgaengelighed/tilmeld-dig-netvaerksmoede/).
 
-
-
-Følg med i næste afsnit den 4. december!
+[Følg Inklusio på LinkedIn](https://www.linkedin.com/company/inklusio), så får du automatisk julekalenderes afsnit med værdifulde ressourcer hver dag.
