@@ -35,6 +35,6 @@ Dagens ressource: [Digitaliseringsstyrelsens Netværk om Webtilgængelighed](htt
 \
 Kunne du godt bruge nogen at netværke med om webtilgænglighed? Så meld dig ind i Digitaliseringsstyrelsens [Netværk om Webtilgængelighed](https://digst.dk/digital-service/webtilgaengelighed/netvaerk-om-webtilgaengelighed/tilmeld-dig-netvaerket/), hvor du blandt andet kan stille spørgsmål og få svar :) Inklusio er også medlemmer! 
 
-Og netværket har netværksmøde på torsdag d. 9. december om formiddagen, som [du kan tNlmelde dig til her](https://digst.dk/digital-service/webtilgaengelighed/netvaerk-om-webtilgaengelighed/tilmeld-dig-netvaerksmoede/).
+Og netværket har netværksmøde på torsdag d. 9. december om formiddagen, som [du kan tilmelde dig til her](https://digst.dk/digital-service/webtilgaengelighed/netvaerk-om-webtilgaengelighed/tilmeld-dig-netvaerksmoede/).
 
 [Følg Inklusio på LinkedIn](https://www.linkedin.com/company/inklusio), så får du automatisk julekalenderes afsnit med værdifulde ressourcer hver dag.
