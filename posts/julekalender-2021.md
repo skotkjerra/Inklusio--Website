@@ -12,7 +12,7 @@ I Inklusios julekalender "Alletiders Tilgængelighed" deler vi ud af de ressourc
 
 På den måde håber vi at gøre dit arbejde med tilgængelighed lettere – og at gøre verden til et mere tilgængeligt sted.
 
-Følg med hver dag, hvor nye låger åbnes! 
+[Følg Inklusio på LinkedIn](https://www.linkedin.com/company/inklusio) og bliv opdateret hver dag, når nye låger åbnes! [](https://www.linkedin.com/company/inklusio)
 
 ## 1. december: Tilgængelige billeder
 
