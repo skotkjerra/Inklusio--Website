@@ -61,4 +61,4 @@ God fornøjelse med at inspicere overskrifterne på dit websted!
 
 
 
-[Følg Inklusio på LinkedIn](https://www.linkedin.com/company/inklusio), så får du automatisk julekalenderes afsnit med værdifulde ressourcer hver dag.
+[Følg Inklusio på LinkedIn](https://www.linkedin.com/company/inklusio) og bliv opdateret hver dag, når nye låger åbnes!
