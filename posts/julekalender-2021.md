@@ -37,4 +37,28 @@ Kunne du godt bruge nogen at netværke med om webtilgænglighed? Så meld dig in
 
 Og netværket har netværksmøde på torsdag d. 9. december om formiddagen, som [du kan tilmelde dig til her](https://digst.dk/digital-service/webtilgaengelighed/netvaerk-om-webtilgaengelighed/tilmeld-dig-netvaerksmoede/).
 
+
+
+## 4. december: Overskriftsniveauer
+
+Dagens ressource: [værktøjet "HeadingsMap"](https://chrome.google.com/webstore/detail/headingsmap/flbjommegcjonpdmenkdiocclhjacmbi)
+
+Med det her lille værktøj, som du kan tilføje til din browser, kan du få et overblik over overskrifterne på din webside.\
+
+HeadingsMap viser dig, hvad der er kodet som overskrifter på siden, og hvilke niveauer de har (hvor H1 er til de mest overordnede overskrifter, H2 er niveauet under osv.). 
+\
+Den præsentation, du ser i HeadingsMap, svarer meget til det, som brugere uden syn får læst op, hvis de bruger deres skærmlæser til at vise et overblik over overskrifterne på siden. Og det er der mange, der vil gøre, ligesom seende brugere skimmer sider for at se, om indholdet er relevant for det, de søger.
+
+* Du kan bruge HeadingsMap til at tjekke: 
+  Om alle visuelle overskrifter også er kodet som overskrifter.
+* Om niveauerne for overskrifterne svarer til de visuelle niveauer (H1 størst, H2 lidt mindre osv.)
+* Om strukturen giver mening – er overskrifterne over- eller underordnet på en meningsfuld måde via overskriftsniveauerne, så fx afsnittet om ”Hamstere” er under afsnittet om ”Kæledyr” og ikke under afsnittet om ”Katte” ved en fejl.
+
+De to første punkter her er krav i WCAG (under 1.3.1 Information og relationer). 
+Det sidste punkt giver bare rigtigt god mening ud fra en brugervenlighedsvinkel.
+
+God fornøjelse med at inspicere overskrifterne på dit websted!
+
+
+
 [Følg Inklusio på LinkedIn](https://www.linkedin.com/company/inklusio), så får du automatisk julekalenderes afsnit med værdifulde ressourcer hver dag.
