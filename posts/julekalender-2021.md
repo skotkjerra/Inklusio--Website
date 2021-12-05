@@ -61,7 +61,7 @@ God fornøjelse med at inspicere overskrifterne på dit websted!
 
 ## 5. december: Kognitive funktionsnedsættelser
 
-Dagens ressource: [UX principles that include cognitive accessibility](https://www.ab11y.com/articles/ux-principles-that-include-cognitive-accessibility/)
+Dagens ressource: [Ab11y's artikel "UX principles that include cognitive accessibility"](https://www.ab11y.com/articles/ux-principles-that-include-cognitive-accessibility/)
 
 Kognitive funktionsnedsættelser er en forskelligartet kategori, som omfatter mange forskellige funktionsnedsættelser relateret til bl.a. indlæring, hukommelse, koncentration, kommunikation, læsning, skrivning og matematik.
 
