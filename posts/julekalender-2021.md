@@ -37,8 +37,6 @@ Kunne du godt bruge nogen at netværke med om webtilgænglighed? Så meld dig in
 
 Og netværket har netværksmøde på torsdag d. 9. december om formiddagen, som [du kan tilmelde dig til her](https://digst.dk/digital-service/webtilgaengelighed/netvaerk-om-webtilgaengelighed/tilmeld-dig-netvaerksmoede/).
 
-
-
 ## 4. december: Overskriftsniveauer
 
 Dagens ressource: [værktøjet "HeadingsMap"](https://chrome.google.com/webstore/detail/headingsmap/flbjommegcjonpdmenkdiocclhjacmbi)
@@ -58,6 +56,18 @@ De to første punkter her er krav i WCAG (under 1.3.1 Information og relationer)
 Det sidste punkt giver bare rigtigt god mening ud fra en brugervenlighedsvinkel.
 
 God fornøjelse med at inspicere overskrifterne på dit websted!
+
+
+
+## 5. december: Kognitive funktionsnedsættelser
+
+Dagens ressource: [UX principles that include cognitive accessibility](https://www.ab11y.com/articles/ux-principles-that-include-cognitive-accessibility/)
+
+Kognitive funktionsnedsættelser er en forskelligartet kategori, som omfatter mange forskellige funktionsnedsættelser relateret til bl.a. indlæring, hukommelse, koncentration, kommunikation, læsning, skrivning og matematik.
+
+Det er et område, som er relativt dårligt dækket af WCAG, fordi det er rigtigt svært at lave objektivt testbare krav for disse brugergrupper. 
+
+Det gør det dog ikke mindre vigtigt at have denne målgruppe i tankerne, når man udvikler websteder og apps, og i dagens ressource kan du få et bedre indblik i, hvad du kan gøre for at sikre inklusion af disse brugergrupper.
 
 
 
