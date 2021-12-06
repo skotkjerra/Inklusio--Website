@@ -57,8 +57,6 @@ Det sidste punkt giver bare rigtigt god mening ud fra en brugervenlighedsvinkel.
 
 God fornøjelse med at inspicere overskrifterne på dit websted!
 
-
-
 ## 5. december: Kognitive funktionsnedsættelser
 
 Dagens ressource: [Ab11y's artikel "UX principles that include cognitive accessibility"](https://www.ab11y.com/articles/ux-principles-that-include-cognitive-accessibility/)
@@ -68,6 +66,15 @@ Kognitive funktionsnedsættelser er en forskelligartet kategori, som omfatter ma
 Det er et område, som er relativt dårligt dækket af WCAG, fordi det er rigtigt svært at lave objektivt testbare krav for disse brugergrupper. 
 
 Det gør det dog ikke mindre vigtigt at have denne målgruppe i tankerne, når man udvikler websteder og apps, og i dagens ressource kan du få et bedre indblik i, hvad du kan gøre for at sikre inklusion af disse brugergrupper.
+
+## 6. december: Tips til automatiske testværktøjer
+
+Dagens ressource: [Inklusios blogindlæg "6 step til at øge webtilgængeligheden med automatiske testværktøjer"](https://inklusio.dk/posts/6-step-til-at-%C3%B8ge-webtilg%C3%A6ngeligheden-med-automatiske-tekstv%C3%A6rkt%C3%B8jer/)
+
+Har jeres organisation allerede investeret i et automatisk testværktøj fra f.eks. Siteimprove eller Monsido? Eller overvejer I at gøre det? Så er her 6 steps til hvordan I kommer godt i gang med at bruge værktøjerne smart og effektivt til at opnå bedre tilgængelighed.
+
+Vidste du f.eks., at I kan inddele jeres indhold i grupper ud fra hvem der er ansvarlig for indholdet?
+Navngiv f.eks. indholdsgrupperne, så det fremgår, hvilken afdeling eller person, der er ansvarlig for det konkrete indhold. På den måde sikrer du, at ingen mister overblikket over platformen eller glemmer, hvad de burde kigge på, når de logger ind.
 
 
 
