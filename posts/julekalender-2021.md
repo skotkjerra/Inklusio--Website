@@ -78,7 +78,7 @@ Navngiv f.eks. indholdsgrupperne, så det fremgår, hvilken afdeling eller perso
 
 
 
-7. december: Q&A om webtilgængelighed og lovkrav
+## 7. december: Q&A om webtilgængelighed og lovkrav
 
 Dagens ressource: [Digitalisringsstyrelsens "Spørgsmål og svar (Q&A)"](https://digst.dk/digital-service/webtilgaengelighed/spoergsmaal-og-svar-qa/)
 
