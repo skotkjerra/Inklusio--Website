@@ -80,7 +80,7 @@ Navngiv f.eks. indholdsgrupperne, så det fremgår, hvilken afdeling eller perso
 
 ## 7. december: Q&A om webtilgængelighed og lovkrav
 
-Dagens ressource: [Digitalisringsstyrelsens "Spørgsmål og svar (Q&A)"](https://digst.dk/digital-service/webtilgaengelighed/spoergsmaal-og-svar-qa/)
+Dagens ressource: [Digitaliseringsstyrelsens "Spørgsmål og svar (Q&A)"](https://digst.dk/digital-service/webtilgaengelighed/spoergsmaal-og-svar-qa/)
 
 Synes du sommetider, at det er en jungle at finde rundt i, hvilke tilgængelighedskrav der er til jeres hjemmeside og mobilapplikationer? Hvordan opretter man en tilgængelighedserklæring, hvad bør der stå i den, og hvad er omfattet af loven? Og hvordan er det nu med video, tredjepartsindhold og PDF?
 
