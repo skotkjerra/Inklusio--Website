@@ -78,4 +78,16 @@ Navngiv f.eks. indholdsgrupperne, så det fremgår, hvilken afdeling eller perso
 
 
 
+7. december: Q&A om webtilgængelighed og lovkrav
+
+Dagens ressource: [Digitalisringsstyrelsens "Spørgsmål og svar (Q&A)"](https://digst.dk/digital-service/webtilgaengelighed/spoergsmaal-og-svar-qa/)
+
+Synes du sommetider, at det er en jungle at finde rundt i, hvilke tilgængelighedskrav der er til jeres hjemmeside og mobilapplikationer? Hvordan opretter man en tilgængelighedserklæring, hvad bør der stå i den, og hvad er omfattet af loven? Og hvordan er det nu med video, tredjepartsindhold og PDF?
+
+Pyha... Der er heldigvis hjælp at hente! Digitaliseringsstyrelsen har nemlig samlet en masse god info i deres Q&A, hvor du kan få et godt overblik over både ovenstående og mere til.
+
+Hvis du synes, at det hele er en lidt stor mundfuld, er du selvfølgelig altid velkommen til at kontakte Inklusio for at høre, hvordan vi kan hjælpe.
+
+
+
 [Følg Inklusio på LinkedIn](https://www.linkedin.com/company/inklusio) og bliv opdateret hver dag, når nye låger åbnes!
