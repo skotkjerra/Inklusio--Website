@@ -97,10 +97,6 @@ Måske vil du tænke, at god skriftlig kommunikation er skrevet i et klart og pr
 
 På de fleste kommunikationsuddannelser lærer vi endnu ikke om ting, som er helt basale for at opnå øget webtilgængelighed. Hvordan skriver vi f.eks. meningsfulde link-henvisninger på internettet? Hvad skal vi være opmærksomme på, når vi skriver alt-tekster til billeder? Hvordan skriver vi gode digitale instruktioner? Og hvordan laver vi gode undertekster til videoer? 
 
-Alt dette kan du finde svar på i [W3C’s guide ”Writing for Web Accessibility”](https://www.w3.org/WAI/tips/writing/), som handler om hvordan du skriver tilgængelige tekster. 
-
-
-
-
+Alt dette kan du finde svar på i [W3C’s artikel ”Writing for Web Accessibility”](https://www.w3.org/WAI/tips/writing/), som handler om hvordan du skriver tilgængelige tekster. 
 
 [Følg Inklusio på LinkedIn](https://www.linkedin.com/company/inklusio) og bliv opdateret hver dag, når nye låger åbnes!
