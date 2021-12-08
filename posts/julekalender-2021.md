@@ -76,8 +76,6 @@ Har jeres organisation allerede investeret i et automatisk testværktøj fra f.e
 Vidste du f.eks., at I kan inddele jeres indhold i grupper ud fra hvem der er ansvarlig for indholdet?
 Navngiv f.eks. indholdsgrupperne, så det fremgår, hvilken afdeling eller person, der er ansvarlig for det konkrete indhold. På den måde sikrer du, at ingen mister overblikket over platformen eller glemmer, hvad de burde kigge på, når de logger ind.
 
-
-
 ## 7. december: Q&A om webtilgængelighed og lovkrav
 
 Dagens ressource: [Digitaliseringsstyrelsens "Spørgsmål og svar (Q&A)"](https://digst.dk/digital-service/webtilgaengelighed/spoergsmaal-og-svar-qa/)
@@ -87,6 +85,21 @@ Synes du sommetider, at det er en jungle at finde rundt i, hvilke tilgængelighe
 Pyha... Der er heldigvis hjælp at hente! Digitaliseringsstyrelsen har nemlig samlet en masse god info i deres Q&A, hvor du kan få et godt overblik over både ovenstående og mere til.
 
 Hvis du synes, at det hele er en lidt stor mundfuld, er du selvfølgelig altid velkommen til at kontakte Inklusio for at høre, hvordan vi kan hjælpe.
+
+## 8. december: Tilgængelig skriftlig kommunikation
+
+Dagens ressource: [W3C's artikel ”Writing for Web Accessibility"](https://www.w3.org/WAI/tips/writing/)
+
+Hvad er god skriftlig kommunikation, når det handler om webtilgængelighed?
+Brug gerne lidt tid på at fundere over spørgsmålet 😊 for ofte taler vi om skriftlig kommunikation i sammenhænge, som ikke er direkte relateret til webtilgængelighed.
+
+Måske vil du tænke, at god skriftlig kommunikation er skrevet i et klart og præcist sprog og inddelt i afsnit, som præsenteres i en logisk rækkefølge. At teksten er inddelt i overskrifter... – og det er alt sammen rigtigt! MEN 😉
+
+På de fleste kommunikationsuddannelser lærer vi endnu ikke om ting, som er helt basale for at opnå øget webtilgængelighed. Hvordan skriver vi f.eks. meningsfulde link-henvisninger på internettet? Hvad skal vi være opmærksomme på, når vi skriver alt-tekster til billeder? Hvordan skriver vi gode digitale instruktioner? Og hvordan laver vi gode undertekster til videoer? 
+
+Alt dette kan du finde svar på i [W3C’s guide ”Writing for Web Accessibility”](https://www.w3.org/WAI/tips/writing/) om, hvordan du skriver tilgængelige tekster. 
+
+
 
 
 
