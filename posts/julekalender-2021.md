@@ -86,7 +86,7 @@ Pyha... Der er heldigvis hjælp at hente! Digitaliseringsstyrelsen har nemlig sa
 
 Hvis du synes, at det hele er en lidt stor mundfuld, er du selvfølgelig altid velkommen til at kontakte Inklusio for at høre, hvordan vi kan hjælpe.
 
-## 8. december: Tilgængelig skriftlig kommunikation
+## 8. december: Skriftlig kommunikation
 
 Dagens ressource: [W3C's artikel ”Writing for Web Accessibility"](https://www.w3.org/WAI/tips/writing/)
 
@@ -97,6 +97,33 @@ Måske vil du tænke, at god skriftlig kommunikation er skrevet i et klart og pr
 
 På de fleste kommunikationsuddannelser lærer vi endnu ikke om ting, som er helt basale for at opnå øget webtilgængelighed. Hvordan skriver vi f.eks. meningsfulde link-henvisninger på internettet? Hvad skal vi være opmærksomme på, når vi skriver alt-tekster til billeder? Hvordan skriver vi gode digitale instruktioner? Og hvordan laver vi gode undertekster til videoer? 
 
-Alt dette kan du finde svar på i [W3C’s artikel ”Writing for Web Accessibility”](https://www.w3.org/WAI/tips/writing/), som handler om hvordan du skriver tilgængelige tekster. 
+Alt dette kan du finde svar på i [W3C’s artikel ”Writing for Web Accessibility”](https://www.w3.org/WAI/tips/writing/), som handler om hvordan du skriver tilgængelige tekster.
+
+ 
+
+## 9. december: Interaktive komponenter
+
+Dagens ressource: [Inklusios artikel "Her er de interaktive elementer, som skaber tilgængelighedsproblemer på dit websted"](https://inklusio.dk/posts/her-er-de-interaktive-elementer-som-skaber-tilg%C3%A6ngelighedsproblemer-p%C3%A5-dit-websted/)
+
+Vil du gerne vide, hvor der sandsynligvis er tilgængelighedsfejl på jeres hjemmeside?
+Så kan vi afsløre, at cookie-bannere, datovælgere og accordions er med på listen over interaktive komponenter, som ALTID gør vores tilgængelighedskonsulenter ekstra opmærksomme. Hvorfor? Fordi disse komponenter rigtig tit rummer tilgængelighedsfejl 😉
+
+Heldigvis kan fejl udbedres! Så det handler om at finde komponenterne og teste dem, så de kan fikses 😊 tjek listen nedenfor – den giver et ret godt praj om, hvor der ekstra sandsynligt kan være tilgængelighedsfejl på jeres hjemmeside:
+
+* Accordions til at folde indhold ind/ud med
+* Bannere med ”slides” på forsider og sektionsforsider
+* Cookie-bannere
+* Datovælgere
+* Filtre på søgeresultater
+* Formularer
+* Indtastningsfelter, der kommer med en liste af valgmuligheder/resultater, når man taster i dem
+* Menuer, der folder underpunkter ud
+* Mobilmenuer
+
+Er der ét af emnerne, du gerne vil vide mere om? Så skriv til os, så bliver det måske udgangspunktet for vores næste blogindlæg! 😊
+
+
+
+
 
 [Følg Inklusio på LinkedIn](https://www.linkedin.com/company/inklusio) og bliv opdateret hver dag, når nye låger åbnes!
