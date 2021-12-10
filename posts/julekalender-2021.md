@@ -126,14 +126,12 @@ Er der ét af emnerne, du gerne vil vide mere om? Så skriv til os, så bliver d
 
 Dagens Ressource: [Chrome Extension: Web Disability Simulator](https://chrome.google.com/webstore/detail/web-disability-simulator/olioanlbgbpmdlgjnnampnnlohigkjla)
 
-Nu har du chancen for at se, hvordan internettet ser ud for en person, som har farveblindhed, ordblindhed, lav koncentration – eller alle tre ting på én gang :)
+Nu har du chancen for at se, hvordan internettet ser ud for en person med farveblindhed, ordblindhed, nedsat koncentrationsevne – eller alle tre ting på én gang :)
 
 Web Disability Simulator er en gratis Chrome Extension, som du let kan tilføje til din browser for at gå på opdagelse i, hvordan det er at bruge internettet, hvis man har forskellige former for funktionsnedsættelser.
 
+Vi kan allerede nu afsløre, at du skal holde tungen lige i munden, hvis du for eksempel slår tunnelsyn og nedsat koncentrationsevne til samtidig! Nedsat motorik kan også være lidt af en udfordring.
 
-Vi kan allerede nu afsløre, at du skal holde tungen lige i munden, hvis du for eksempel slår tunnelsyn og nedsat koncentration til samtidig! Nedsat motorik kan også være lidt af en udfordring.
-
-
-Brug lidt af din fredag på at lege med dette værktøj, det er lidt af en øjenåbner :)
+Værktøjet kan selvfølgelig ikke vise, hvordan det er at leve med én af ovenstående funktionsnedsættelser i virkeligheden – så simpel er verden ikke! Men ved at prøve værktøjet kan man virkelig se, hvorfor det er utroligt vigtigt at arbejde for webtilgængelighed.
 
 [Følg Inklusio på LinkedIn](https://www.linkedin.com/company/inklusio) og bliv opdateret hver dag, når nye låger åbnes!
