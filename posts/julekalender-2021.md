@@ -99,8 +99,6 @@ På de fleste kommunikationsuddannelser lærer vi endnu ikke om ting, som er hel
 
 Alt dette kan du finde svar på i [W3C’s artikel ”Writing for Web Accessibility”](https://www.w3.org/WAI/tips/writing/), som handler om hvordan du skriver tilgængelige tekster.
 
- 
-
 ## 9. december: Interaktive komponenter
 
 Dagens ressource: [Inklusios artikel "Her er de interaktive elementer, som skaber tilgængelighedsproblemer på dit websted"](https://inklusio.dk/posts/her-er-de-interaktive-elementer-som-skaber-tilg%C3%A6ngelighedsproblemer-p%C3%A5-dit-websted/)
@@ -124,6 +122,18 @@ Er der ét af emnerne, du gerne vil vide mere om? Så skriv til os, så bliver d
 
 
 
+## 10. December: Web Disability Simulator 
 
+Dagens Ressource: [Chrome Extension: Web Disability Simulator](https://chrome.google.com/webstore/detail/web-disability-simulator/olioanlbgbpmdlgjnnampnnlohigkjla)
+
+Nu har du chancen for at se, hvordan internettet ser ud for en person, som har farveblindhed, ordblindhed, lav koncentration – eller alle tre ting på én gang :)
+
+Web Disability Simulator er en gratis Chrome Extension, som du let kan tilføje til din browser for at gå på opdagelse i, hvordan det er at bruge internettet, hvis man har forskellige former for funktionsnedsættelser.
+
+
+Vi kan allerede nu afsløre, at du skal holde tungen lige i munden, hvis du for eksempel slår tunnelsyn og nedsat koncentration til samtidig! Nedsat motorik kan også være lidt af en udfordring.
+
+
+Brug lidt af din fredag på at lege med dette værktøj, det er lidt af en øjenåbner :)
 
 [Følg Inklusio på LinkedIn](https://www.linkedin.com/company/inklusio) og bliv opdateret hver dag, når nye låger åbnes!
