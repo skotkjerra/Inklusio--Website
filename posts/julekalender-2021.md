@@ -120,9 +120,7 @@ Heldigvis kan fejl udbedres! Så det handler om at finde komponenterne og teste 
 
 Er der ét af emnerne, du gerne vil vide mere om? Så skriv til os, så bliver det måske udgangspunktet for vores næste blogindlæg! 😊
 
-
-
-## 10. December: Web Disability Simulator 
+## 10. December: Web Disability Simulator
 
 Dagens Ressource: [Chrome Extension: Web Disability Simulator](https://chrome.google.com/webstore/detail/web-disability-simulator/olioanlbgbpmdlgjnnampnnlohigkjla)
 
@@ -133,5 +131,26 @@ Web Disability Simulator er en gratis Chrome Extension, som du let kan tilføje 
 Vi kan allerede nu afsløre, at du skal holde tungen lige i munden, hvis du for eksempel slår tunnelsyn og nedsat koncentrationsevne til samtidig! Nedsat motorik kan også være lidt af en udfordring.
 
 Værktøjet kan selvfølgelig ikke vise, hvordan det er at leve med én af ovenstående funktionsnedsættelser i virkeligheden – så simpel er verden ikke! Men ved at prøve værktøjet kan man virkelig se, hvorfor det er utroligt vigtigt at arbejde for webtilgængelighed.
+
+11. december: Nyhedsbrev om webtilgængelighed
+
+Dagens Ressource: [Digitaliseringsstyrelsens Nyhedsbrev om webtilgængelighed](https://digst.dk/nyheder/nyhedsbreve/)
+
+Er din organisation omfattet af webtilgængelighedsloven? Og synes du somme tider, at det er en udfordring at følge med i, hvilke krav I skal leve op til?
+Så er det rigtig godt at tilmelde sig Digitaliseringsstyrelsens nyhedsbrev om webtilgængelighed 😊 Her får du for eksempel: 
+
+•	Info om, hvordan loven implementeres – og besked, når der er ændringer
+•	Vejledning om hvordan tilgængelighedserklæringen skal udfyldes 
+•	Forklaring på hvilke krav der er til mobilapplikationer
+•	Info om monitorering af websteder og tilgængelighedsscore
+•	Tips til at skrive gode alt-tekster, med mere
+
+Med andre ord: Du får rigtig vigtig viden om webtilgængelighed og lovgivningskrav. 
+
+[Tilmeld dig nyhedsbrevet om webtilgængelighed her](https://digst.dk/nyheder/nyhedsbreve/). 
+
+
+
+
 
 [Følg Inklusio på LinkedIn](https://www.linkedin.com/company/inklusio) og bliv opdateret hver dag, når nye låger åbnes!
