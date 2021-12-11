@@ -145,9 +145,7 @@ Så er det rigtig godt at tilmelde sig Digitaliseringsstyrelsens nyhedsbrev om w
 •	Info om monitorering af websteder og tilgængelighedsscore
 •	Tips til at skrive gode alt-tekster, med mere
 
-Med andre ord: Du får rigtig vigtig viden om webtilgængelighed og lovgivningskrav. 
-
-[Tilmeld dig nyhedsbrevet om webtilgængelighed her](https://digst.dk/nyheder/nyhedsbreve/). 
+Med andre ord: Du får rigtig vigtig viden om webtilgængelighed og lovgivningskrav. [Tilmeld dig nyhedsbrevet om webtilgængelighed her](https://digst.dk/nyheder/nyhedsbreve/). 
 
 
 
