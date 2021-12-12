@@ -132,7 +132,7 @@ Vi kan allerede nu afsløre, at du skal holde tungen lige i munden, hvis du for 
 
 Værktøjet kan selvfølgelig ikke vise, hvordan det er at leve med én af ovenstående funktionsnedsættelser i virkeligheden – så simpel er verden ikke! Men ved at prøve værktøjet kan man virkelig se, hvorfor det er utroligt vigtigt at arbejde for webtilgængelighed.
 
-11. december: Nyhedsbrev om webtilgængelighed
+## 11. december: Nyhedsbrev om webtilgængelighed
 
 Dagens Ressource: [Digitaliseringsstyrelsens Nyhedsbrev om webtilgængelighed](https://digst.dk/nyheder/nyhedsbreve/)
 
