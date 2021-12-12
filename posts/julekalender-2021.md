@@ -149,7 +149,7 @@ Med andre ord: Du får rigtig vigtig viden om webtilgængelighed og lovgivningsk
 
 
 
-12. december: Forstå funktionsnesættelser
+## 12. december: Forstå funktionsnesættelser
 
 Dagens ressource: [Gov.uk's "Understanding disabilities and impairments: user profiles"](https://www.gov.uk/government/publications/understanding-disabilities-and-impairments-user-profiles)
 
