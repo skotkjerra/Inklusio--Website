@@ -149,6 +149,14 @@ Med andre ord: Du får rigtig vigtig viden om webtilgængelighed og lovgivningsk
 
 
 
+12. december: Forstå funktionsnesættelser
 
+Dagens ressource: [Gov.uk's "Understanding disabilities and impairments: user profiles"](https://www.gov.uk/government/publications/understanding-disabilities-and-impairments-user-profiles)
+
+Pawel er 24 år, har Aspergers og ville ønske, at hjemmesider var lettere at overskue. Han bliver let distraheret af indhold, der bevæger sig på skærmen, såsom bannere og videoer. Og han ville ønske, at alle firmaer havde en skriftlig kontaktfunktion, så han ikke skal kontakte dem mundtligt.
+
+Ron er 82 år, har nedsat syn og ville derfor ønske, at hjemmesider brugte klarere farver. Han har også svært ved at læse lange tekststykker og ville ønske, at han kunne kontakte alle virksomheder via telefon.
+
+Hvad kan man gøre for at hjælpe brugere som Pawel og Ron? Det kan du se i dagens link, der giver konkrete eksempler på brugere, deres hjælpemidler, mål, drømme og frustrationer – og ikke mindst eksempler på, hvad man i de konkrete tilfælde kan gøre for at forbedre deres brugeroplevelse!
 
 [Følg Inklusio på LinkedIn](https://www.linkedin.com/company/inklusio) og bliv opdateret hver dag, når nye låger åbnes!
