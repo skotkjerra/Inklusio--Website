@@ -151,7 +151,7 @@ Med andre ord: Du får rigtig vigtig viden om webtilgængelighed og lovgivningsk
 
 ## 12. december: Forstå funktionsnesættelser
 
-Dagens ressource: [Gov.uk's "Understanding disabilities and impairments: user profiles"](https://www.gov.uk/government/publications/understanding-disabilities-and-impairments-user-profiles)
+Dagens ressource: [Gov.uk's informationsside "Understanding disabilities and impairments: user profiles"](https://www.gov.uk/government/publications/understanding-disabilities-and-impairments-user-profiles)
 
 Pawel er 24 år, har Aspergers og ville ønske, at hjemmesider var lettere at overskue. Han bliver let distraheret af indhold, der bevæger sig på skærmen, såsom bannere og videoer. Og han ville ønske, at alle firmaer havde en skriftlig kontaktfunktion, så han ikke skal kontakte dem mundtligt.
 
