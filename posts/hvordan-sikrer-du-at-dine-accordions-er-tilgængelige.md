@@ -45,6 +45,8 @@ Dette kan du nemt selv teste:
 * Tjek, at du kan komme hen på alle elementer i din accordion, som kan trykkes på med mus. 
 
   * Note: Normalt kan du bevæge dig gennem en accordion kun ved hjælp af tabulatorknappen. Nogle accordions kræver, at du bruger piletaster til at navigere mellem de enkelte elementer, når du først er kommet hen til gruppen af elementer ved hjælp af tabulatorknappen. Dette er også et tilladt navigationsmønster, om end ikke alle brugere kender til det, og nogle derfor nok vil have svært ved at bruge det.
+
+
 * Tjek, at alle de interaktive elementer kan aktiveres ved hjælp af ”Enter”, når du står på dem (eller ved hjælp af ”mellemrum”, hvis du har brugt piletaster til at navigere mellem emnerne). Tjek at du både kan åbne og lukke alle emnerne i din accordion, og at eventuelle andre interaktioner i din accordion (fx links, knapper til at starte selvbetjeningsløsninger m.m.) også kan tilgås med tastaturnavigation.
 * Tjek også, at du ikke tabulerer gennem interaktive elementer i emnerne, når de er lukkede. Tastaturnavigationen skal holde sig inden for det, der er synligt.
 
@@ -70,6 +72,8 @@ Og når et emne foldes ud, skal indholdet kunne tilgås af alle brugere.
 Det betyder, at du skal være opmærksom på at teste følgende:
 
 * Når du navigerer med tastaturnavigation, må du altså ikke kunne komme til links, der ligger i et emne, som lige nu er foldet sammen.  Herudover skal en skærmlæser ikke kunne læse op af de sammenfoldede emner, før de foldes ud.
+
+
 * Når et emne foldes ud, skal du tjekke, at indholdet i det KAN tilgås med tastaturnavigation og skærmlæser. Det sker nemlig ofte, at det ikke er den samme funktion, der viser/skjuler indholdet henholdsvis visuelt, for tastaturnavigation og for skærmlæsere, og derfor glemmer man tit at opdatere de ”tilgængelige” funktioner, fordi alting ser ud til at virke fint visuelt og med navigation via mus.
 
 ## Vil du vide mere om at undgå tilgængelighedsproblemer?
