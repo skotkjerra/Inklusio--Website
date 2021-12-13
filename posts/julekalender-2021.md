@@ -6,7 +6,8 @@ summary: 'I Inklusios julekalender "Alletiders Tilgængelighed" deler vi ud af d
   ressourcer, som vi synes, er rigtigt gode at kende til, når man skal arbejde
   med tilgængelighed. Følg med hver dag, hvor nye låger åbnes! '
 tags:
-  - post  julekalender 2021
+  - julekalender
+  - "2021"
 ---
 I Inklusios julekalender "Alletiders Tilgængelighed" deler vi ud af de ressourcer, som vi synes, er rigtigt gode at kende til, når man skal arbejde med tilgængelighed. 
 
