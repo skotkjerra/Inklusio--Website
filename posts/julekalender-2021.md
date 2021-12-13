@@ -147,8 +147,6 @@ Så er det rigtig godt at tilmelde sig Digitaliseringsstyrelsens nyhedsbrev om w
 
 Med andre ord: Du får rigtig vigtig viden om webtilgængelighed og lovgivningskrav. [Tilmeld dig nyhedsbrevet om webtilgængelighed her](https://digst.dk/nyheder/nyhedsbreve/). 
 
-
-
 ## 12. december: Forstå funktionsnesættelser
 
 Dagens ressource: [Gov.uk's informationsside "Understanding disabilities and impairments: user profiles"](https://www.gov.uk/government/publications/understanding-disabilities-and-impairments-user-profiles)
@@ -158,5 +156,24 @@ Pawel er 24 år, har Aspergers og ville ønske, at hjemmesider var lettere at ov
 Ron er 82 år, har nedsat syn og ville derfor ønske, at hjemmesider brugte klarere farver. Han har også svært ved at læse lange tekststykker og ville ønske, at han kunne kontakte alle virksomheder via telefon.
 
 Hvad kan man gøre for at hjælpe brugere som Pawel og Ron? Det kan du se i dagens link, der giver konkrete eksempler på brugere, deres hjælpemidler, mål, drømme og frustrationer – og ikke mindst eksempler på, hvad man i de konkrete tilfælde kan gøre for at forbedre deres brugeroplevelse!
+
+
+
+## 13. december: Accordions
+
+Dagens ressource: [Inklusios blogindlæg "Sådan sikrer du, at dine accordions er tilgængelige"](https://inklusio.dk/posts/hvordan-sikrer-du-at-dine-accordions-er-tilg%C3%A6ngelige/)
+
+Hvordan sikrer du, at dine accordions er tilgængelige?
+Accordions er en af de typer af interaktive komponenter, hvor vi ofte ser mange af de samme tilgængelighedsproblemer igen og igen på forskellige websteder. Derfor har vi lavet en guide til, hvordan du kan få styr på dine accordions 😊 
+
+I guiden får du blandt andet svar på:
+
+* Hvad er en accordion?
+* Hvilke tilgængelighedsproblemer findes typisk i accordions?
+* Hvordan tester du din accordion for tilgængelighed? 
+
+Svaret på spørgsmålene finder du i vores [guide til tilgængelige accordions](https://inklusio.dk/posts/hvordan-sikrer-du-at-dine-accordions-er-tilg%C3%A6ngelige/).
+
+
 
 [Følg Inklusio på LinkedIn](https://www.linkedin.com/company/inklusio) og bliv opdateret hver dag, når nye låger åbnes!
