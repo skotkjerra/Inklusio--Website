@@ -24,13 +24,9 @@ Guiden bør nok følges af en lille advarsel: Mange af problemerne og løsninger
 Accordion betyder harmonika, og du kender dem sikkert godt: en sektion med sådan nogle ”blokke” med overskrifter for indholdet på en webside, og med et plus eller en pil i enten den ene eller anden side af blokken, der viser, at du kan få vist indholdet i dette afsnit ved at klikke på overskriften. 
 Og når afsnittet er åbent, bliver plusset til et minus eller pilen vender sig om og indikerer, at du ved at trykke på overskriften igen, kan lukke indholdet sammen igen.
 
-
-
 Stadig ikke helt sikker på, hvad en accordion egentlig er? Herunder kan du se et screenshot af en [accordion fra Det Fælles Designsystem](https://designsystem.dk/komponenter/accordions/):
 
 ![Skærmbillede af accordion med tre overskrifter med plusser ud for i venstre side samt en "Start"-knap på den første overskrift](/img/screenshot-2021-05-19-at-15.18.01.png)
-
-
 
 Accordions bruges ofte på indholdstunge sider til at få indholdet til at fremstå mere overskueligt og let at gå til.
 
@@ -49,7 +45,7 @@ Dette kan du nemt selv teste:
 * Tjek, at du kan komme hen på alle elementer i din accordion, som kan trykkes på med mus. 
 
   * Note: Normalt kan du bevæge dig gennem en accordion kun ved hjælp af tabulatorknappen. Nogle accordions kræver, at du bruger piletaster til at navigere mellem de enkelte elementer, når du først er kommet hen til gruppen af elementer ved hjælp af tabulatorknappen. Dette er også et tilladt navigationsmønster, om end ikke alle brugere kender til det, og nogle derfor nok vil have svært ved at bruge det.
-* Tjek, at alle de interaktive elementer kan aktiveres ved hjælp af ”Enter”, når du står på dem (eller ved hjælp af ”mellemrum”, hvis - -- Tjek at du både kan åbne og lukke alle emnerne i din accordion, og at eventuelle andre interaktioner i din accordion (fx links, knapper til at starte selvbetjeningsløsninger m.m.) også kan tilgås med tastaturnavigation.
+* Tjek, at alle de interaktive elementer kan aktiveres ved hjælp af ”Enter”, når du står på dem (eller ved hjælp af ”mellemrum”, hvis du har brugt piletaster til at navigere mellem emnerne. Tjek at du både kan åbne og lukke alle emnerne i din accordion, og at eventuelle andre interaktioner i din accordion (fx links, knapper til at starte selvbetjeningsløsninger m.m.) også kan tilgås med tastaturnavigation.
 * Tjek også, at du ikke tabulerer gennem interaktive elementer i emnerne, når de er lukkede. Tastaturnavigationen skal holde sig inden for det, der er synligt.
 
 ## Kommunikerer ”knapperne” at de er interaktive, og hvad de er og gør?
