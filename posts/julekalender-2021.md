@@ -158,8 +158,6 @@ Ron er 82 år, har nedsat syn og ville derfor ønske, at hjemmesider brugte klar
 
 Hvad kan man gøre for at hjælpe brugere som Pawel og Ron? Det kan du se i dagens link, der giver konkrete eksempler på brugere, deres hjælpemidler, mål, drømme og frustrationer – og ikke mindst eksempler på, hvad man i de konkrete tilfælde kan gøre for at forbedre deres brugeroplevelse!
 
-
-
 ## 13. december: Accordions
 
 Dagens ressource: [Inklusios blogindlæg "Sådan sikrer du, at dine accordions er tilgængelige"](https://inklusio.dk/posts/hvordan-sikrer-du-at-dine-accordions-er-tilg%C3%A6ngelige/)
@@ -177,4 +175,21 @@ Svaret på spørgsmålene finder du i vores [guide til tilgængelige accordions]
 
 
 
-[Følg Inklusio på LinkedIn](https://www.linkedin.com/company/inklusio) og bliv opdateret hver dag, når nye låger åbnes!
+## 14. december: Netværk om webtilgængelighed
+
+Dagens Ressource: [Digitaliseringsstyrelsens online forum ”Digitalt netværk om webtilgængelighed (WCAG 2.1)"](https://www.digitaliser.dk/group/4251767)
+
+Står du nogle gange med spørgsmål om webtilgængelighed, som du godt kunne bruge noget sparring på? Og vil du gerne lære af andres erfaringer med arbejdet med webtilgængelighed? 
+
+Så skulle du melde dig ind i Digitaliseringsstyrelsens online forum ”Digitalt netværk om webtilgængelighed (WCAG 2.1)”. Det er et klassisk online forum (tilsvarende en Facebook-/LinkedIn-gruppe), hvor der i skrivende stund er 470 medlemmer, som alle interesserer sig for webtilgængelighed. 
+
+Der er rigtig mange medlemmer, der kommer fra den offentlige sektor og har brug for sparring om, hvordan man i praksis lever op til webtilgængelighedslovens krav. Og som en bonus hænger ansatte i Digitaliseringsstyrelsen også ud derinde og svarer på et spørgsmål i ny og næ. Og så står der som regel en hel horde af tilgængelighedseksperter fra leverandørerne klar til at svare på spørgsmål inden for hvert deres ekspertise-område – inklusiv os fra Inklusio :) 
+
+Husk, at du både skal oprette en profil på digitaliser. dk OG tilmelde dig gruppen ”Digitalt netværk om webtilgængelighed (WCAG 2.1)” for at komme med ind, hvor det sker. 
+Det kan anbefales at slå e-mail-notifikationer til, så du fx hver dag får en opsamling på dagens indlæg og kommentarer, så du kan følge lidt med (og mængden af aktivitet er ganske overskuelig). 
+
+[Opret en profil og meld dig ind i netværket her](https://www.digitaliser.dk/group/4251767).
+
+
+
+[Følg Inklusio på LinkedIn](https://www.linkedin.com/company/inklusio) og bliv opdateret hver dag, når nye låger i julekalenderen åbnes!
