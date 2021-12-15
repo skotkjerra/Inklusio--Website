@@ -207,6 +207,6 @@ Men det er godt at have en grundlæggende forståelse for, hvad tilgængelige na
 Og i virkeligheden er det også meget rart, at der faktisk er ét samlet begreb for, hvordan man gør både et billede og et formularfelt tilgængeligt.
 
 Hvis du vil blive klogere på tilgængelige navne, kan du lære mere om dem fra Tobias Christian Jensen i Siteimprove Tech Talk: Demystifying accessible names, som er en fin og forståelig lille intro (på engelsk) til konceptet tilgængelige navne (accessible names) og de faldgruber, man skal kende til. 
-Videoen indeholder kodeeksempler, men de bliver forklaret godt, så man behøver ikke kunne læse kode for at kunne være med. 
+Videoen indeholder kodeeksempler, men de bliver forklaret godt, så man behøver ikke kunne læse kode for at kunne være med. [Se videoen "Demystifying Accessible Names" på youtube.](https://www.youtube.com/watch?v=MA_yadPuNMs)
 
 [Følg Inklusio på LinkedIn](https://www.linkedin.com/company/inklusio) og bliv opdateret hver dag, når nye låger i julekalenderen åbnes!
