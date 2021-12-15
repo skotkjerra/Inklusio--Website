@@ -173,8 +173,6 @@ I guiden får du blandt andet svar på:
 
 Svaret på spørgsmålene finder du i vores [guide til tilgængelige accordions](https://inklusio.dk/posts/hvordan-sikrer-du-at-dine-accordions-er-tilg%C3%A6ngelige/).
 
-
-
 ## 14. december: Netværk om webtilgængelighed
 
 Dagens Ressource: [Digitaliseringsstyrelsens online forum ”Digitalt netværk om webtilgængelighed (WCAG 2.1)"](https://www.digitaliser.dk/group/4251767)
@@ -190,6 +188,25 @@ Det kan anbefales at slå e-mail-notifikationer til, så du fx hver dag får en 
 
 [Opret en profil og meld dig ind i netværket her](https://www.digitaliser.dk/group/4251767).
 
+## 15. december: Tilgængelige navne 
 
+Dagens Ressource: [Tobias Christian Jensens Siteimprove Tech Talk "Demystifying Accessible Names"](https://www.youtube.com/watch?v=MA_yadPuNMs)
+
+Hvad har billeder og afkrydsningsfelter i formularer til fælles? Begge skal have et ”tilgængeligt navn”! 
+
+For billeder kender du måske det tilgængelige navn som en alt-tekst eller alt-attribut. For afkrydsningsfelter som en etiket eller label. 
+
+Men begge dele kan også laves med WAI-ARIA, som er en slags tillæg til HTML-kode, der kan bruges til at sikre tilgængelighed, hvor det ikke kan laves direkte med HTML-koden.
+
+Alt det med tilgængelige navne er lidt teknisk. Især fordi man kan komme til at overskrive et tilgængeligt navn med et andet. Vi ser af og til, at fx et link med linkteksten ”YouTube” får sat aria-label=”Klik her for at følge os” på sig – helt sikkert i den bedste mening, for at give skærmlæserbrugere noget mere kontekst for linket. Desværre, så overskriver aria-label linkteksten i en skærmlæser, så brugeren får ikke at vide, at linket har noget med YouTube at gøre, kun at det hedder ”Klik her for at følge os”. 
+
+Det er ikke fordi man skal kende alle reglerne for tilgængelige navne udenad. Og helt ærligt, så er det også så langhåret og svært at hitte rede i, at selv eksperterne kan blive helt gråhårede af at prøve at finde ud af, hvor det tilgængelige navn egentlig kommer fra eller hvorfor det mangler. 
+
+Men det er godt at have en grundlæggende forståelse for, hvad tilgængelige navne er, hvad de bliver brugt til og hvilke udfordringer, man kan løbe ind i, når man tilføjer tilgængelige navne til sit indhold eller får testet sit indhold for tilgængelighed og modtager en rapport om en fejl.
+
+Og i virkeligheden er det også meget rart, at der faktisk er ét samlet begreb for, hvordan man gør både et billede og et formularfelt tilgængeligt.
+
+Hvis du vil blive klogere på tilgængelige navne, kan du lære mere om dem fra Tobias Christian Jensen i Siteimprove Tech Talk: Demystifying accessible names, som er en fin og forståelig lille intro (på engelsk) til konceptet tilgængelige navne (accessible names) og de faldgruber, man skal kende til. 
+Videoen indeholder kodeeksempler, men de bliver forklaret godt, så man behøver ikke kunne læse kode for at kunne være med. 
 
 [Følg Inklusio på LinkedIn](https://www.linkedin.com/company/inklusio) og bliv opdateret hver dag, når nye låger i julekalenderen åbnes!
