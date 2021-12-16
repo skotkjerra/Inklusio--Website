@@ -211,7 +211,7 @@ Videoen indeholder kodeeksempler, men de bliver forklaret godt, så man behøver
 
 ## 16. december: WCAG-overblik (filtersøgning)
 
-Dagens Ressource: [W3C’s “How to Meet WCAG (Quick Reference)](https://www.w3.org/WAI/WCAG21/quickref/?currentsidebar=%23col_customize)”.
+Dagens Ressource: [W3C’s “How to Meet WCAG (Quick Reference)"](https://www.w3.org/WAI/WCAG21/quickref/?currentsidebar=%23col_customize).
 
 Er du somme tider i tvivl om, hvilke WCAG-succeskriterier du skal leve op til? Så er du ligesom de fleste andre 😉 og så vil du elske den her oversigt! 
 
@@ -219,6 +219,6 @@ Det er en side, hvor du har mulighed for at filtrere WCAG-succeskriterier på fx
 
 Du kan også filtrere din søgning på WCAG-overholdelsesniveauer (fx level AA), teknikker (fx Failure Techniques) og teknologier (fx HTML, ARIA og PDF). 
 
-[Prøv W3C’s “How to Meet WCAG (Quick Reference)](https://www.w3.org/WAI/WCAG21/quickref/?currentsidebar=%23col_customize)”.
+[Prøv W3C’s “How to Meet WCAG (Quick Reference)"](https://www.w3.org/WAI/WCAG21/quickref/?currentsidebar=%23col_customize).
 
 [Følg Inklusio på LinkedIn](https://www.linkedin.com/company/inklusio) og bliv opdateret hver dag, når nye låger i julekalenderen åbnes!
