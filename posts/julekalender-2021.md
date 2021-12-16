@@ -188,7 +188,7 @@ Det kan anbefales at slå e-mail-notifikationer til, så du fx hver dag får en 
 
 [Opret en profil og meld dig ind i netværket her](https://www.digitaliser.dk/group/4251767).
 
-## 15. december: Tilgængelige navne 
+## 15. december: Tilgængelige navne
 
 Dagens Ressource: [Tobias Christian Jensens Siteimprove Tech Talk "Demystifying Accessible Names"](https://www.youtube.com/watch?v=MA_yadPuNMs)
 
@@ -208,5 +208,17 @@ Og i virkeligheden er det også meget rart, at der faktisk er ét samlet begreb 
 
 Hvis du vil blive klogere på tilgængelige navne, kan du lære mere om dem fra Tobias Christian Jensen i Siteimprove Tech Talk: Demystifying accessible names, som er en fin og forståelig lille intro (på engelsk) til konceptet tilgængelige navne (accessible names) og de faldgruber, man skal kende til. 
 Videoen indeholder kodeeksempler, men de bliver forklaret godt, så man behøver ikke kunne læse kode for at kunne være med. [Se videoen "Demystifying Accessible Names" på youtube.](https://www.youtube.com/watch?v=MA_yadPuNMs)
+
+## 16. december: 
+
+Dagens Ressource: [W3C’s “How to Meet WCAG (Quick Reference)](https://www.w3.org/WAI/WCAG21/quickref/?currentsidebar=%23col_customize)”.
+
+Er du somme tider i tvivl om, hvilke WCAG-succeskriterier du skal leve op til? Så er du ligesom de fleste andre 😉 og så vil du elske den her oversigt! 
+
+Det er en side, hvor du har mulighed for at filtrere WCAG-succeskriterier på fx tags som ”color” eller ”video”, og så viser den de succeskriterier, som er relevante for netop det, du gerne vil vide.. Smart, ikke?
+
+Du kan også filtrere din søgning på WCAG-overholdelsesniveauer (fx level AA), teknikker (fx Failure Techniques) og teknologier (fx HTML, ARIA og PDF). 
+
+[Prøv W3C’s “How to Meet WCAG (Quick Reference)](https://www.w3.org/WAI/WCAG21/quickref/?currentsidebar=%23col_customize)”.
 
 [Følg Inklusio på LinkedIn](https://www.linkedin.com/company/inklusio) og bliv opdateret hver dag, når nye låger i julekalenderen åbnes!
