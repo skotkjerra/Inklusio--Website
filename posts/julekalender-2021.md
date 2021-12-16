@@ -209,7 +209,7 @@ Og i virkeligheden er det også meget rart, at der faktisk er ét samlet begreb 
 Hvis du vil blive klogere på tilgængelige navne, kan du lære mere om dem fra Tobias Christian Jensen i Siteimprove Tech Talk: Demystifying accessible names, som er en fin og forståelig lille intro (på engelsk) til konceptet tilgængelige navne (accessible names) og de faldgruber, man skal kende til. 
 Videoen indeholder kodeeksempler, men de bliver forklaret godt, så man behøver ikke kunne læse kode for at kunne være med. [Se videoen "Demystifying Accessible Names" på youtube.](https://www.youtube.com/watch?v=MA_yadPuNMs)
 
-## 16. december: 
+## 16. december: WCAG-overblik (filtersøgning)
 
 Dagens Ressource: [W3C’s “How to Meet WCAG (Quick Reference)](https://www.w3.org/WAI/WCAG21/quickref/?currentsidebar=%23col_customize)”.
 
