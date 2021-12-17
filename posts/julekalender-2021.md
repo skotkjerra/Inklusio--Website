@@ -221,4 +221,29 @@ Du kan også filtrere din søgning på WCAG-overholdelsesniveauer (fx level AA),
 
 [Prøv W3C’s “How to Meet WCAG (Quick Reference)"](https://www.w3.org/WAI/WCAG21/quickref/?currentsidebar=%23col_customize).
 
+
+
+## 17. december: Kodemæssig og visuel struktur
+
+Dagens Ressource: [Chrome extension: ARIA DevTools](https://chrome.google.com/webstore/detail/aria-devtools/dneemiigcbbgbdjlcdjjnianlikimpck/related)
+
+Chrome extensions kan hjælpe dig til at opnå øget webtilgængelighed! For eksempel hjælper ”ARIA DevTools” dig til at få overblik over, om din websides kodemæssige struktur giver mening, og om den afspejler den visuelle struktur.
+
+Det er essentielt for skærmlæserbrugere, at de ting, der bliver kommunikeret visuelt, også bliver kommunikeret via koden for websiden. For eksempel skal det, der ligner overskrifter, også være markeret som overskrifter i koden – og ting, der ligner knapper, skal være markeret som knapper.
+
+Vi siger, at koden skal være semantisk eller at ting skal have en rolle, der fortæller, hvad de er.
+Det her med, om ting er markeret rigtigt i koden, er ret abstrakt for de fleste, og medmindre man godt kan lide at inspicere HTML-kode, kan det også være ret svært at komme i gang med at få indblik i, om tingene er kodet rigtigt.
+
+Heldigvis findes der værktøjer, der kan hjælpe med dette, og et af dem, som vi er kommet til at sætte rigtigt meget pris på, er ARIA DevTools, som er en lille Chrome extension. Den laver en alternativ visning af en webside, som visuelt viser hvilke semantiske elementer der er på siden, og hvordan de er struktureret i forhold til hinanden.
+
+Så kan man hurtigt få et overblik over, om den kodemæssige struktur giver mening på siden, og om den afspejler den visuelle struktur. 
+
+Det er en meget sjov lille øvelse, og den kan både hjælpe med at forbedre webtilgængeligheden helt konkret på enkelte sider og give en bedre indsigt i, hvad semantisk kodning vil sige. 
+
+[Download ARIA DevTools som Chrome extension](https://chrome.google.com/webstore/detail/aria-devtools/dneemiigcbbgbdjlcdjjnianlikimpck/related)
+
+
+
+[](https://www.w3.org/WAI/WCAG21/quickref/?currentsidebar=%23col_customize)
+
 [Følg Inklusio på LinkedIn](https://www.linkedin.com/company/inklusio) og bliv opdateret hver dag, når nye låger i julekalenderen åbnes!
