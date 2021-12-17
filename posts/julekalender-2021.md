@@ -242,8 +242,6 @@ Det er en meget sjov lille øvelse, og den kan både hjælpe med at forbedre web
 
 [Download ARIA DevTools som Chrome extension](https://chrome.google.com/webstore/detail/aria-devtools/dneemiigcbbgbdjlcdjjnianlikimpck/related)
 
-
-
 [](https://www.w3.org/WAI/WCAG21/quickref/?currentsidebar=%23col_customize)
 
 [Følg Inklusio på LinkedIn](https://www.linkedin.com/company/inklusio) og bliv opdateret hver dag, når nye låger i julekalenderen åbnes!
