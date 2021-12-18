@@ -259,8 +259,7 @@ Styrket innovation: Når man laver produkter til folk med funktionsnedsættelser
 
 Bedre omdømme: At skabe bedre forhold for folk med funktionsnedsættelser er et plus i forbrugernes øjne og appellerer til den yngre generation af medarbejdere.
 
-Og kan det måles på bundlinjen? Ja! 
-
+Og kan det måles på bundlinjen? Ja! \
 Accenture-rapporten "Getting to Equal: The Disability Inclusion Advantage" beskriver en undersøgelse, hvor virksomheder, som skabte inkluderende forhold for folk med funktionsnedsættelser, over en 4-årig periode skabte 28% højere omsætning, dobbelt så høj nettoindkomst og 30% højere økonomisk overskudsgrad end de tilsvarende virksomheder, som ikke lavede inkluderende tiltag. Det samlede afkast til aktionærerne var også højere. 
 [](https://www.w3.org/WAI/WCAG21/quickref/?currentsidebar=%23col_customize)
 
