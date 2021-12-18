@@ -221,8 +221,6 @@ Du kan også filtrere din søgning på WCAG-overholdelsesniveauer (fx level AA),
 
 [Prøv W3C’s “How to Meet WCAG (Quick Reference)"](https://www.w3.org/WAI/WCAG21/quickref/?currentsidebar=%23col_customize).
 
-
-
 ## 17. december: Kodemæssig og visuel struktur
 
 Dagens Ressource: [Chrome extension: ARIA DevTools](https://chrome.google.com/webstore/detail/aria-devtools/dneemiigcbbgbdjlcdjjnianlikimpck/related)
@@ -242,6 +240,28 @@ Det er en meget sjov lille øvelse, og den kan både hjælpe med at forbedre web
 
 [Download ARIA DevTools som Chrome extension](https://chrome.google.com/webstore/detail/aria-devtools/dneemiigcbbgbdjlcdjjnianlikimpck/related)
 
+## 18. december: Fordele ved at inkludere
+
+Dagens ressourcer: [Accentures rapport “Getting to Equal: The Disability Inclusion Advantage”](https://www.accenture.com/_acnmedia/PDF-89/Accenture-Disability-Inclusion-Research-Report.pdf) og [Ted Kennedy, Jr.’s artikel ”It's Time to Include Disability in All Corporate Diversity Requirements”](https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/its-time-include-disability-all-corporate-diversity-requirements-opinion-1623032?amp=1)
+
+Der er store fordele at høste for virksomheder, der skaber gode forhold for personer med funktionsnedsættelser. For eksempel:
+
+* Højere markedsandele
+* Styrket innovation
+* Bedre omdømme
+* Økonomiske fordele
+
+Hvordan kan dét være? 
+
+Højere markedsandele: Personer med funktionsnedsættelser er en stor og meget loyal målgruppe.
+
+Styrket innovation: Når man laver produkter til folk med funktionsnedsættelser, får det én til at tænke i nye baner. At ansætte folk med funktionsnedsættelser giver en ekstra fordel, da de er vant til at tænke løsningsorienteret i hverdagen.
+
+Bedre omdømme: At skabe bedre forhold for folk med funktionsnedsættelser er et plus i forbrugernes øjne og appellerer til den yngre generation af medarbejdere.
+
+Og kan det måles på bundlinjen? Ja! 
+
+Accenture-rapporten "Getting to Equal: The Disability Inclusion Advantage" beskriver en undersøgelse, hvor virksomheder, som skabte inkluderende forhold for folk med funktionsnedsættelser, over en 4-årig periode skabte 28% højere omsætning, dobbelt så høj nettoindkomst og 30% højere økonomisk overskudsgrad end de tilsvarende virksomheder, som ikke lavede inkluderende tiltag. Det samlede afkast til aktionærerne var også højere. 
 [](https://www.w3.org/WAI/WCAG21/quickref/?currentsidebar=%23col_customize)
 
 [Følg Inklusio på LinkedIn](https://www.linkedin.com/company/inklusio) og bliv opdateret hver dag, når nye låger i julekalenderen åbnes!
