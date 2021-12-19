@@ -264,11 +264,11 @@ Accenture-rapporten "Getting to Equal: The Disability Inclusion Advantage" beskr
 
 
 
-19. december: Visuel WCAG-introduktion
+## 19. december: Visuel WCAG-introduktion
 
 Dagens ressource: [Access Guide](https://www.accessguide.io/) 
 
-Hvis du er visuelt orienteret og derfor får tics af WCAG, som jo blot er tekst med mere tekst på, så kan det være, at du skulle gå på opdagelse i Access Guide 😊 det en overskuelig introduktion til digital tilgængelighed, med forklarende billeder og afsnit såsom ”Why is this important” og ”How to implement this”.
+Hvis du er visuelt orienteret og derfor får tics af WCAG, som jo blot er tekst med mere tekst på, så kan det være, at du skulle gå på opdagelse i Access Guide 😊 det er en overskuelig introduktion til digital tilgængelighed, med forklarende billeder og afsnit såsom ”Why is this important” og ”How to implement this”.
 
 Det hele op lidt mere visuelt end i de fleste andre tilgængelighedsressourcer, og med tags, så man kan filtrere på f.eks. fagområder (design, code), brugergrupper (cognitive, visual, physical m.m.), WCAG-overholdelsesniveau (A, AA, AAA) osv.
 [](https://www.w3.org/WAI/WCAG21/quickref/?currentsidebar=%23col_customize)
