@@ -7,34 +7,35 @@ summary: 'I Inklusios julekalender "Alletiders Tilgængelighed" deler vi ud af d
   med tilgængelighed. Følg med hver dag, hvor nye låger åbnes! '
 tags:
   - julekalender
-  - "2021"
+  - '2021'
 ---
-I Inklusios julekalender "Alletiders Tilgængelighed" deler vi ud af de ressourcer, som vi synes, er rigtigt gode at kende til, når man skal arbejde med tilgængelighed. 
+
+I Inklusios julekalender "Alletiders Tilgængelighed" deler vi ud af de ressourcer, som vi synes, er rigtigt gode at kende til, når man skal arbejde med tilgængelighed.
 
 På den måde håber vi at gøre dit arbejde med tilgængelighed lettere – og at gøre verden til et mere tilgængeligt sted.
 
-[Følg Inklusio på LinkedIn](https://www.linkedin.com/company/inklusio) og bliv opdateret hver dag, når nye låger åbnes! [](https://www.linkedin.com/company/inklusio)
+[Følg Inklusio på LinkedIn](https://www.linkedin.com/company/inklusio) og bliv opdateret hver dag, når nye låger åbnes!
 
 ## 1. december: Tilgængelige billeder
 
 Dagens ressource: [Digitaliseringsstyrelsens vejledning til Tilgængelige billeder på nettet](https://digst.dk/digital-service/webtilgaengelighed/vejledning/tilgaengelige-billeder-paa-nettet/)
 
 Dette er en helt lavpraktisk guide til, hvordan du sikrer, at dine billeder har de rigtige tekstalternativer på dit websted, i dine dokumenter eller i din app.
-Vidste du, at alt efter billedets funktion, skal tekstalternativet formuleres helt forskelligt? 
+Vidste du, at alt efter billedets funktion, skal tekstalternativet formuleres helt forskelligt?
 
 ## 2. december: Brugere og Brugsscenarier
 
 Dagens Ressource: [W3C's artikel "How People with disabilities use the web"](https://www.w3.org/WAI/people-use-web/)\
 \
-Hvem hjælper du egentlig, når du arbejder med webtilgængelighed? – rigtig mange! 
-Faktisk har omkring 20% af befolkningen en funktionsnedsættelse, som gør, at de møder ekstra forhindringer, når de bruger websider og apps. 
+Hvem hjælper du egentlig, når du arbejder med webtilgængelighed? – rigtig mange!
+Faktisk har omkring 20% af befolkningen en funktionsnedsættelse, som gør, at de møder ekstra forhindringer, når de bruger websider og apps.
 Har du svært ved at forestille dig, hvem de er? Så har W3C (dvs. dem, der laver WCAG!), lavet dette overblik, der viser konkrete eksempler på, hvilke brugere du hjælper og i hvilke brugssituationer.
 
 ## 3. december: Netværk om Webtilgængelighed
 
 Dagens ressource: [Digitaliseringsstyrelsens Netværk om Webtilgængelighed](https://digst.dk/digital-service/webtilgaengelighed/netvaerk-om-webtilgaengelighed/tilmeld-dig-netvaerket/)\
 \
-Kunne du godt bruge nogen at netværke med om webtilgænglighed? Så meld dig ind i Digitaliseringsstyrelsens [Netværk om Webtilgængelighed](https://digst.dk/digital-service/webtilgaengelighed/netvaerk-om-webtilgaengelighed/tilmeld-dig-netvaerket/), hvor du blandt andet kan stille spørgsmål og få svar :) Inklusio er også medlemmer! 
+Kunne du godt bruge nogen at netværke med om webtilgænglighed? Så meld dig ind i Digitaliseringsstyrelsens [Netværk om Webtilgængelighed](https://digst.dk/digital-service/webtilgaengelighed/netvaerk-om-webtilgaengelighed/tilmeld-dig-netvaerket/), hvor du blandt andet kan stille spørgsmål og få svar :) Inklusio er også medlemmer!
 
 Og netværket har netværksmøde på torsdag d. 9. december om formiddagen, som [du kan tilmelde dig til her](https://digst.dk/digital-service/webtilgaengelighed/netvaerk-om-webtilgaengelighed/tilmeld-dig-netvaerksmoede/).
 
@@ -44,16 +45,16 @@ Dagens ressource: [værktøjet "HeadingsMap"](https://chrome.google.com/webstore
 
 Med det her lille værktøj, som du kan tilføje til din browser, kan du få et overblik over overskrifterne på din webside.\
 
-HeadingsMap viser dig, hvad der er kodet som overskrifter på siden, og hvilke niveauer de har (hvor H1 er til de mest overordnede overskrifter, H2 er niveauet under osv.). 
+HeadingsMap viser dig, hvad der er kodet som overskrifter på siden, og hvilke niveauer de har (hvor H1 er til de mest overordnede overskrifter, H2 er niveauet under osv.).
 \
 Den præsentation, du ser i HeadingsMap, svarer meget til det, som brugere uden syn får læst op, hvis de bruger deres skærmlæser til at vise et overblik over overskrifterne på siden. Og det er der mange, der vil gøre, ligesom seende brugere skimmer sider for at se, om indholdet er relevant for det, de søger.
 
-* Du kan bruge HeadingsMap til at tjekke: 
+- Du kan bruge HeadingsMap til at tjekke:
   Om alle visuelle overskrifter også er kodet som overskrifter.
-* Om niveauerne for overskrifterne svarer til de visuelle niveauer (H1 størst, H2 lidt mindre osv.)
-* Om strukturen giver mening – er overskrifterne over- eller underordnet på en meningsfuld måde via overskriftsniveauerne, så fx afsnittet om ”Hamstere” er under afsnittet om ”Kæledyr” og ikke under afsnittet om ”Katte” ved en fejl.
+- Om niveauerne for overskrifterne svarer til de visuelle niveauer (H1 størst, H2 lidt mindre osv.)
+- Om strukturen giver mening – er overskrifterne over- eller underordnet på en meningsfuld måde via overskriftsniveauerne, så fx afsnittet om ”Hamstere” er under afsnittet om ”Kæledyr” og ikke under afsnittet om ”Katte” ved en fejl.
 
-De to første punkter her er krav i WCAG (under 1.3.1 Information og relationer). 
+De to første punkter her er krav i WCAG (under 1.3.1 Information og relationer).
 Det sidste punkt giver bare rigtigt god mening ud fra en brugervenlighedsvinkel.
 
 God fornøjelse med at inspicere overskrifterne på dit websted!
@@ -64,7 +65,7 @@ Dagens ressource: [Ab11y's artikel "UX principles that include cognitive accessi
 
 Kognitive funktionsnedsættelser er en forskelligartet kategori, som omfatter mange forskellige funktionsnedsættelser relateret til bl.a. indlæring, hukommelse, koncentration, kommunikation, læsning, skrivning og matematik.
 
-Det er et område, som er relativt dårligt dækket af WCAG, fordi det er rigtigt svært at lave objektivt testbare krav for disse brugergrupper. 
+Det er et område, som er relativt dårligt dækket af WCAG, fordi det er rigtigt svært at lave objektivt testbare krav for disse brugergrupper.
 
 Det gør det dog ikke mindre vigtigt at have denne målgruppe i tankerne, når man udvikler websteder og apps, og i dagens ressource kan du få et bedre indblik i, hvad du kan gøre for at sikre inklusion af disse brugergrupper.
 
@@ -96,7 +97,7 @@ Brug gerne lidt tid på at fundere over spørgsmålet 😊 for ofte taler vi om 
 
 Måske vil du tænke, at god skriftlig kommunikation er skrevet i et klart og præcist sprog og inddelt i afsnit, som præsenteres i en logisk rækkefølge. At teksten er inddelt i overskrifter... – og det er alt sammen rigtigt! MEN 😉
 
-På de fleste kommunikationsuddannelser lærer vi endnu ikke om ting, som er helt basale for at opnå øget webtilgængelighed. Hvordan skriver vi f.eks. meningsfulde link-henvisninger på internettet? Hvad skal vi være opmærksomme på, når vi skriver alt-tekster til billeder? Hvordan skriver vi gode digitale instruktioner? Og hvordan laver vi gode undertekster til videoer? 
+På de fleste kommunikationsuddannelser lærer vi endnu ikke om ting, som er helt basale for at opnå øget webtilgængelighed. Hvordan skriver vi f.eks. meningsfulde link-henvisninger på internettet? Hvad skal vi være opmærksomme på, når vi skriver alt-tekster til billeder? Hvordan skriver vi gode digitale instruktioner? Og hvordan laver vi gode undertekster til videoer?
 
 Alt dette kan du finde svar på i [W3C’s artikel ”Writing for Web Accessibility”](https://www.w3.org/WAI/tips/writing/), som handler om hvordan du skriver tilgængelige tekster.
 
@@ -109,15 +110,15 @@ Så kan vi afsløre, at cookie-bannere, datovælgere og accordions er med på li
 
 Heldigvis kan fejl udbedres! Så det handler om at finde komponenterne og teste dem, så de kan fikses 😊 tjek listen nedenfor – den giver et ret godt praj om, hvor der ekstra sandsynligt kan være tilgængelighedsfejl på jeres hjemmeside:
 
-* Accordions til at folde indhold ind/ud med
-* Bannere med ”slides” på forsider og sektionsforsider
-* Cookie-bannere
-* Datovælgere
-* Filtre på søgeresultater
-* Formularer
-* Indtastningsfelter, der kommer med en liste af valgmuligheder/resultater, når man taster i dem
-* Menuer, der folder underpunkter ud
-* Mobilmenuer
+- Accordions til at folde indhold ind/ud med
+- Bannere med ”slides” på forsider og sektionsforsider
+- Cookie-bannere
+- Datovælgere
+- Filtre på søgeresultater
+- Formularer
+- Indtastningsfelter, der kommer med en liste af valgmuligheder/resultater, når man taster i dem
+- Menuer, der folder underpunkter ud
+- Mobilmenuer
 
 Er der ét af emnerne, du gerne vil vide mere om? Så skriv til os, så bliver det måske udgangspunktet for vores næste blogindlæg! 😊
 
@@ -138,15 +139,15 @@ Værktøjet kan selvfølgelig ikke vise, hvordan det er at leve med én af ovens
 Dagens Ressource: [Digitaliseringsstyrelsens Nyhedsbrev om webtilgængelighed](https://digst.dk/nyheder/nyhedsbreve/)
 
 Er din organisation omfattet af webtilgængelighedsloven? Og synes du somme tider, at det er en udfordring at følge med i, hvilke krav I skal leve op til?
-Så er det rigtig godt at tilmelde sig Digitaliseringsstyrelsens nyhedsbrev om webtilgængelighed 😊 Her får du for eksempel: 
+Så er det rigtig godt at tilmelde sig Digitaliseringsstyrelsens nyhedsbrev om webtilgængelighed 😊 Her får du for eksempel:
 
-•	Info om, hvordan loven implementeres – og besked, når der er ændringer
-•	Vejledning om hvordan tilgængelighedserklæringen skal udfyldes 
-•	Forklaring på hvilke krav der er til mobilapplikationer
-•	Info om monitorering af websteder og tilgængelighedsscore
-•	Tips til at skrive gode alt-tekster, med mere
+• Info om, hvordan loven implementeres – og besked, når der er ændringer
+• Vejledning om hvordan tilgængelighedserklæringen skal udfyldes
+• Forklaring på hvilke krav der er til mobilapplikationer
+• Info om monitorering af websteder og tilgængelighedsscore
+• Tips til at skrive gode alt-tekster, med mere
 
-Med andre ord: Du får rigtig vigtig viden om webtilgængelighed og lovgivningskrav. [Tilmeld dig nyhedsbrevet om webtilgængelighed her](https://digst.dk/nyheder/nyhedsbreve/). 
+Med andre ord: Du får rigtig vigtig viden om webtilgængelighed og lovgivningskrav. [Tilmeld dig nyhedsbrevet om webtilgængelighed her](https://digst.dk/nyheder/nyhedsbreve/).
 
 ## 12. december: Forstå funktionsnesættelser
 
@@ -163,13 +164,13 @@ Hvad kan man gøre for at hjælpe brugere som Pawel og Ron? Det kan du se i dage
 Dagens ressource: [Inklusios blogindlæg "Sådan sikrer du, at dine accordions er tilgængelige"](https://inklusio.dk/posts/hvordan-sikrer-du-at-dine-accordions-er-tilg%C3%A6ngelige/)
 
 Hvordan sikrer du, at dine accordions er tilgængelige?
-Accordions er en af de typer af interaktive komponenter, hvor vi ofte ser mange af de samme tilgængelighedsproblemer igen og igen på forskellige websteder. Derfor har vi lavet en guide til, hvordan du kan få styr på dine accordions 😊 
+Accordions er en af de typer af interaktive komponenter, hvor vi ofte ser mange af de samme tilgængelighedsproblemer igen og igen på forskellige websteder. Derfor har vi lavet en guide til, hvordan du kan få styr på dine accordions 😊
 
 I guiden får du blandt andet svar på:
 
-* Hvad er en accordion?
-* Hvilke tilgængelighedsproblemer findes typisk i accordions?
-* Hvordan tester du din accordion for tilgængelighed? 
+- Hvad er en accordion?
+- Hvilke tilgængelighedsproblemer findes typisk i accordions?
+- Hvordan tester du din accordion for tilgængelighed?
 
 Svaret på spørgsmålene finder du i vores [guide til tilgængelige accordions](https://inklusio.dk/posts/hvordan-sikrer-du-at-dine-accordions-er-tilg%C3%A6ngelige/).
 
@@ -177,14 +178,14 @@ Svaret på spørgsmålene finder du i vores [guide til tilgængelige accordions]
 
 Dagens Ressource: [Digitaliseringsstyrelsens online forum ”Digitalt netværk om webtilgængelighed (WCAG 2.1)"](https://www.digitaliser.dk/group/4251767)
 
-Står du nogle gange med spørgsmål om webtilgængelighed, som du godt kunne bruge noget sparring på? Og vil du gerne lære af andres erfaringer med arbejdet med webtilgængelighed? 
+Står du nogle gange med spørgsmål om webtilgængelighed, som du godt kunne bruge noget sparring på? Og vil du gerne lære af andres erfaringer med arbejdet med webtilgængelighed?
 
-Så skulle du melde dig ind i Digitaliseringsstyrelsens online forum ”Digitalt netværk om webtilgængelighed (WCAG 2.1)”. Det er et klassisk online forum (tilsvarende en Facebook-/LinkedIn-gruppe), hvor der i skrivende stund er 470 medlemmer, som alle interesserer sig for webtilgængelighed. 
+Så skulle du melde dig ind i Digitaliseringsstyrelsens online forum ”Digitalt netværk om webtilgængelighed (WCAG 2.1)”. Det er et klassisk online forum (tilsvarende en Facebook-/LinkedIn-gruppe), hvor der i skrivende stund er 470 medlemmer, som alle interesserer sig for webtilgængelighed.
 
-Der er rigtig mange medlemmer, der kommer fra den offentlige sektor og har brug for sparring om, hvordan man i praksis lever op til webtilgængelighedslovens krav. Og som en bonus hænger ansatte i Digitaliseringsstyrelsen også ud derinde og svarer på et spørgsmål i ny og næ. Og så står der som regel en hel horde af tilgængelighedseksperter fra leverandørerne klar til at svare på spørgsmål inden for hvert deres ekspertise-område – inklusiv os fra Inklusio :) 
+Der er rigtig mange medlemmer, der kommer fra den offentlige sektor og har brug for sparring om, hvordan man i praksis lever op til webtilgængelighedslovens krav. Og som en bonus hænger ansatte i Digitaliseringsstyrelsen også ud derinde og svarer på et spørgsmål i ny og næ. Og så står der som regel en hel horde af tilgængelighedseksperter fra leverandørerne klar til at svare på spørgsmål inden for hvert deres ekspertise-område – inklusiv os fra Inklusio :)
 
-Husk, at du både skal oprette en profil på digitaliser. dk OG tilmelde dig gruppen ”Digitalt netværk om webtilgængelighed (WCAG 2.1)” for at komme med ind, hvor det sker. 
-Det kan anbefales at slå e-mail-notifikationer til, så du fx hver dag får en opsamling på dagens indlæg og kommentarer, så du kan følge lidt med (og mængden af aktivitet er ganske overskuelig). 
+Husk, at du både skal oprette en profil på digitaliser. dk OG tilmelde dig gruppen ”Digitalt netværk om webtilgængelighed (WCAG 2.1)” for at komme med ind, hvor det sker.
+Det kan anbefales at slå e-mail-notifikationer til, så du fx hver dag får en opsamling på dagens indlæg og kommentarer, så du kan følge lidt med (og mængden af aktivitet er ganske overskuelig).
 
 [Opret en profil og meld dig ind i netværket her](https://www.digitaliser.dk/group/4251767).
 
@@ -192,32 +193,32 @@ Det kan anbefales at slå e-mail-notifikationer til, så du fx hver dag får en 
 
 Dagens Ressource: [Tobias Christian Jensens Siteimprove Tech Talk "Demystifying Accessible Names"](https://www.youtube.com/watch?v=MA_yadPuNMs)
 
-Hvad har billeder og afkrydsningsfelter i formularer til fælles? Begge skal have et ”tilgængeligt navn”! 
+Hvad har billeder og afkrydsningsfelter i formularer til fælles? Begge skal have et ”tilgængeligt navn”!
 
-For billeder kender du måske det tilgængelige navn som en alt-tekst eller alt-attribut. For afkrydsningsfelter som en etiket eller label. 
+For billeder kender du måske det tilgængelige navn som en alt-tekst eller alt-attribut. For afkrydsningsfelter som en etiket eller label.
 
 Men begge dele kan også laves med WAI-ARIA, som er en slags tillæg til HTML-kode, der kan bruges til at sikre tilgængelighed, hvor det ikke kan laves direkte med HTML-koden.
 
-Alt det med tilgængelige navne er lidt teknisk. Især fordi man kan komme til at overskrive et tilgængeligt navn med et andet. Vi ser af og til, at fx et link med linkteksten ”YouTube” får sat aria-label=”Klik her for at følge os” på sig – helt sikkert i den bedste mening, for at give skærmlæserbrugere noget mere kontekst for linket. Desværre, så overskriver aria-label linkteksten i en skærmlæser, så brugeren får ikke at vide, at linket har noget med YouTube at gøre, kun at det hedder ”Klik her for at følge os”. 
+Alt det med tilgængelige navne er lidt teknisk. Især fordi man kan komme til at overskrive et tilgængeligt navn med et andet. Vi ser af og til, at fx et link med linkteksten ”YouTube” får sat aria-label=”Klik her for at følge os” på sig – helt sikkert i den bedste mening, for at give skærmlæserbrugere noget mere kontekst for linket. Desværre, så overskriver aria-label linkteksten i en skærmlæser, så brugeren får ikke at vide, at linket har noget med YouTube at gøre, kun at det hedder ”Klik her for at følge os”.
 
-Det er ikke fordi man skal kende alle reglerne for tilgængelige navne udenad. Og helt ærligt, så er det også så langhåret og svært at hitte rede i, at selv eksperterne kan blive helt gråhårede af at prøve at finde ud af, hvor det tilgængelige navn egentlig kommer fra eller hvorfor det mangler. 
+Det er ikke fordi man skal kende alle reglerne for tilgængelige navne udenad. Og helt ærligt, så er det også så langhåret og svært at hitte rede i, at selv eksperterne kan blive helt gråhårede af at prøve at finde ud af, hvor det tilgængelige navn egentlig kommer fra eller hvorfor det mangler.
 
 Men det er godt at have en grundlæggende forståelse for, hvad tilgængelige navne er, hvad de bliver brugt til og hvilke udfordringer, man kan løbe ind i, når man tilføjer tilgængelige navne til sit indhold eller får testet sit indhold for tilgængelighed og modtager en rapport om en fejl.
 
 Og i virkeligheden er det også meget rart, at der faktisk er ét samlet begreb for, hvordan man gør både et billede og et formularfelt tilgængeligt.
 
-Hvis du vil blive klogere på tilgængelige navne, kan du lære mere om dem fra Tobias Christian Jensen i Siteimprove Tech Talk: Demystifying accessible names, som er en fin og forståelig lille intro (på engelsk) til konceptet tilgængelige navne (accessible names) og de faldgruber, man skal kende til. 
+Hvis du vil blive klogere på tilgængelige navne, kan du lære mere om dem fra Tobias Christian Jensen i Siteimprove Tech Talk: Demystifying accessible names, som er en fin og forståelig lille intro (på engelsk) til konceptet tilgængelige navne (accessible names) og de faldgruber, man skal kende til.
 Videoen indeholder kodeeksempler, men de bliver forklaret godt, så man behøver ikke kunne læse kode for at kunne være med. [Se videoen "Demystifying Accessible Names" på youtube.](https://www.youtube.com/watch?v=MA_yadPuNMs)
 
 ## 16. december: WCAG-overblik (filtersøgning)
 
 Dagens Ressource: [W3C’s “How to Meet WCAG (Quick Reference)"](https://www.w3.org/WAI/WCAG21/quickref/?currentsidebar=%23col_customize).
 
-Er du somme tider i tvivl om, hvilke WCAG-succeskriterier du skal leve op til? Så er du ligesom de fleste andre 😉 og så vil du elske den her oversigt! 
+Er du somme tider i tvivl om, hvilke WCAG-succeskriterier du skal leve op til? Så er du ligesom de fleste andre 😉 og så vil du elske den her oversigt!
 
 Det er en side, hvor du har mulighed for at filtrere WCAG-succeskriterier på fx tags som ”color” eller ”video”, og så viser den de succeskriterier, som er relevante for netop det, du gerne vil vide.. Smart, ikke?
 
-Du kan også filtrere din søgning på WCAG-overholdelsesniveauer (fx level AA), teknikker (fx Failure Techniques) og teknologier (fx HTML, ARIA og PDF). 
+Du kan også filtrere din søgning på WCAG-overholdelsesniveauer (fx level AA), teknikker (fx Failure Techniques) og teknologier (fx HTML, ARIA og PDF).
 
 [Prøv W3C’s “How to Meet WCAG (Quick Reference)"](https://www.w3.org/WAI/WCAG21/quickref/?currentsidebar=%23col_customize).
 
@@ -234,9 +235,9 @@ Det her med, om ting er markeret rigtigt i koden, er ret abstrakt for de fleste,
 
 Heldigvis findes der værktøjer, der kan hjælpe med dette, og et af dem, som vi er kommet til at sætte rigtigt meget pris på, er ARIA DevTools, som er en lille Chrome extension. Den laver en alternativ visning af en webside, som visuelt viser hvilke semantiske elementer der er på siden, og hvordan de er struktureret i forhold til hinanden.
 
-Så kan man hurtigt få et overblik over, om den kodemæssige struktur giver mening på siden, og om den afspejler den visuelle struktur. 
+Så kan man hurtigt få et overblik over, om den kodemæssige struktur giver mening på siden, og om den afspejler den visuelle struktur.
 
-Det er en meget sjov lille øvelse, og den kan både hjælpe med at forbedre webtilgængeligheden helt konkret på enkelte sider og give en bedre indsigt i, hvad semantisk kodning vil sige. 
+Det er en meget sjov lille øvelse, og den kan både hjælpe med at forbedre webtilgængeligheden helt konkret på enkelte sider og give en bedre indsigt i, hvad semantisk kodning vil sige.
 
 [Download ARIA DevTools som Chrome extension](https://chrome.google.com/webstore/detail/aria-devtools/dneemiigcbbgbdjlcdjjnianlikimpck/related)
 
@@ -246,12 +247,12 @@ Dagens ressourcer: [Accentures rapport “Getting to Equal: The Disability Inclu
 
 Der er store fordele at høste for virksomheder, der skaber gode forhold for personer med funktionsnedsættelser. For eksempel:
 
-* Højere markedsandele
-* Styrket innovation
-* Bedre omdømme
-* Økonomiske fordele
+- Højere markedsandele
+- Styrket innovation
+- Bedre omdømme
+- Økonomiske fordele
 
-Hvordan kan dét være? 
+Hvordan kan dét være?
 
 Højere markedsandele: Personer med funktionsnedsættelser er en stor og meget loyal målgruppe.
 
@@ -260,20 +261,16 @@ Styrket innovation: Når man laver produkter til folk med funktionsnedsættelser
 Bedre omdømme: At skabe bedre forhold for folk med funktionsnedsættelser er et plus i forbrugernes øjne og appellerer til den yngre generation af medarbejdere.
 
 Og kan det måles på bundlinjen? Ja! \
-Accenture-rapporten "Getting to Equal: The Disability Inclusion Advantage" beskriver en undersøgelse, hvor virksomheder, som skabte inkluderende forhold for folk med funktionsnedsættelser, over en 4-årig periode skabte 28% højere omsætning, dobbelt så høj nettoindkomst og 30% højere økonomisk overskudsgrad end de tilsvarende virksomheder, som ikke lavede inkluderende tiltag. Det samlede afkast til aktionærerne var også højere. 
-
-
+Accenture-rapporten "Getting to Equal: The Disability Inclusion Advantage" beskriver en undersøgelse, hvor virksomheder, som skabte inkluderende forhold for folk med funktionsnedsættelser, over en 4-årig periode skabte 28% højere omsætning, dobbelt så høj nettoindkomst og 30% højere økonomisk overskudsgrad end de tilsvarende virksomheder, som ikke lavede inkluderende tiltag. Det samlede afkast til aktionærerne var også højere.
 
 ## 19. december: Visuel WCAG-introduktion
 
 Dagens ressource: [Access Guide](https://www.accessguide.io/) (baseret på WCAG 2.1)
 
-Hvis du er visuelt orienteret og derfor får tics af WCAG, som jo blot er tekst med mere tekst på, så prøv at gå på opdagelse i Access Guide 😊 
+Hvis du er visuelt orienteret og derfor får tics af WCAG, som jo blot er tekst med mere tekst på, så prøv at gå på opdagelse i Access Guide 😊
 
 Det en overskuelig guide til digital tilgængelighed med forklarende billeder og afsnit såsom ”Why is this important” og ”How to implement this”.
 
 Access Guide er mere visuel end de fleste andre tilgængelighedsressourcer, og med tags, så du kan filtrere på f.eks. fagområder (design, code), brugergrupper (cognitive, visual, physical m.m.), WCAG-overholdelsesniveau (A, AA, AAA) osv.
-
-
 
 [Følg Inklusio på LinkedIn](https://www.linkedin.com/company/inklusio) og bliv opdateret hver dag, når nye låger i julekalenderen åbnes!
