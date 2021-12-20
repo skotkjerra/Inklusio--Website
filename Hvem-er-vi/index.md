@@ -20,7 +20,7 @@ Stein Erik er en passioneret forkæmper for en inkluderende digital verden. Med 
 Med teknologi som fællesnævner spænder hans karriere fra udvikling af it-værktøjer til blinde og svagsynede, iværksætter med eget konsulentfirma, til strategisk rådgiver for topledelsen i større virksomheder. Fælles for hans arbejde på disse områder er interesse for og ekspertise inden for inkluderende digitalisering, social bæredygtighed og læring i organisationer.
 
 Kontakt Stein Erik:  
-* Mail: ses@inklusio.dk 
+* Mail: [ses@inklusio.dk](mailto:ses@inklusio.dk) 
 * Telefon: [26 34 34 55](tel:26343455)
 * Se [Stein Erik Skotkjerra på LinkedIn](https://www.linkedin.com/in/skotkjerra/)
 
@@ -35,7 +35,7 @@ Hun har arbejdet med alt fra manuel tilgængelighedstest til rådgivning og unde
 Hun kombinerer erfaringer og viden fra UX, tilgængelighed og brugercentrerede udviklingsmetoder for at skabe inkluderende brugeroplevelser.
 
 Kontakt Anne: 
-* Mail: [atn@inklusio.dk](atn@inklusio.dk)
+* Mail: [atn@inklusio.dk](mailto:atn@inklusio.dk)
 * Se [Anne Thyme Nørregaard på LinkedIn](https://www.linkedin.com/in/annethyme/)
 
 
