@@ -1,68 +1,69 @@
-const { DateTime } = require("luxon");
-const fs = require("fs");
-const pluginRss = require("@11ty/eleventy-plugin-rss");
-const pluginNavigation = require("@11ty/eleventy-navigation");
-const markdownIt = require("markdown-it");
- const markdownItAnchor = require("markdown-it-anchor");
+const { DateTime } = require('luxon');
+const fs = require('fs');
+const pluginRss = require('@11ty/eleventy-plugin-rss');
+const pluginNavigation = require('@11ty/eleventy-navigation');
+const markdownIt = require('markdown-it');
+const markdownItAnchor = require('markdown-it-anchor');
 
-module.exports = function(eleventyConfig) {
+module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(pluginNavigation);
 
   eleventyConfig.setDataDeepMerge(true);
 
-  eleventyConfig.addWatchTarget("./_includes/sass");
+  eleventyConfig.addWatchTarget('./_includes/sass');
 
-  eleventyConfig.addLayoutAlias("post", "layouts/post.njk");
+  eleventyConfig.addLayoutAlias('post', 'layouts/post.njk');
 
-  eleventyConfig.addFilter("readableDate", dateObj => {
-    return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat("dd LLL yyyy");
+  eleventyConfig.addFilter('readableDate', (dateObj) => {
+    return DateTime.fromJSDate(dateObj, { zone: 'utc' }).toFormat(
+      'dd LLL yyyy'
+    );
   });
 
   eleventyConfig.addFilter('htmlDateString', (dateObj) => {
-    return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat('yyyy-LL-dd');
+    return DateTime.fromJSDate(dateObj, { zone: 'utc' }).toFormat('yyyy-LL-dd');
   });
 
   // Get the first `n` elements of a collection.
-  eleventyConfig.addFilter("head", (array, n) => {
-    if( n < 0 ) {
+  eleventyConfig.addFilter('head', (array, n) => {
+    if (n < 0) {
       return array.slice(n);
     }
 
     return array.slice(0, n);
   });
 
-  eleventyConfig.addCollection("tagList", require("./_11ty/getTagList"));
-  eleventyConfig.addCollection("products", function(collection) {
-          return collection.getFilteredByGlob("products/*md");
-      });
+  eleventyConfig.addCollection('tagList', require('./_11ty/getTagList'));
+  eleventyConfig.addCollection('products', function (collection) {
+    return collection.getFilteredByGlob('products/*md');
+  });
 
-
-  eleventyConfig.addPassthroughCopy("img");
-  eleventyConfig.addPassthroughCopy("css");
-  eleventyConfig.addPassthroughCopy("robots.txt");
-  eleventyConfig.addPassthroughCopy("admin");
-
+  eleventyConfig.addPassthroughCopy('img');
+  eleventyConfig.addPassthroughCopy('js');
+  eleventyConfig.addPassthroughCopy('css');
+  eleventyConfig.addPassthroughCopy('robots.txt');
+  eleventyConfig.addPassthroughCopy('admin');
 
   /* Markdown Overrides */
   let markdownLibrary = markdownIt({
     html: true,
     breaks: true,
-    linkify: true
+    linkify: true,
   }).use(markdownItAnchor, {
     permalink: false,
-    permalinkClass: "direct-link",
-    permalinkSymbol: "#"
+    permalinkClass: 'direct-link',
+    permalinkSymbol: '#',
   });
-  eleventyConfig.setLibrary("md", markdownLibrary);
+  eleventyConfig.setLibrary('md', markdownLibrary);
 
   // Browsersync Overrides
   eleventyConfig.setBrowserSyncConfig({
     callbacks: {
-      ready: function(err, browserSync) {
+      ready: function (err, browserSync) {
         const content_404 = fs.readFileSync('_site/404.html');
 
-        browserSync.addMiddleware("*", (req, res) => {
+        browserSync.addMiddleware('*', (req, res) => {
           // Provides the 404 content without redirect.
           res.write(content_404);
           res.end();
@@ -70,16 +71,11 @@ module.exports = function(eleventyConfig) {
       },
     },
     ui: false,
-    ghostMode: false
+    ghostMode: false,
   });
 
   return {
-    templateFormats: [
-      "md",
-      "njk",
-      "html",
-      "liquid"
-    ],
+    templateFormats: ['md', 'njk', 'html', 'liquid'],
 
     // If your site lives in a different subdirectory, change this.
     // Leading or trailing slashes are all normalized away, so don’t worry about those.
@@ -91,16 +87,16 @@ module.exports = function(eleventyConfig) {
     // You can also pass this in on the command line using `--pathprefix`
     // pathPrefix: "/",
 
-    markdownTemplateEngine: "liquid",
-    htmlTemplateEngine: "njk",
-    dataTemplateEngine: "njk",
+    markdownTemplateEngine: 'liquid',
+    htmlTemplateEngine: 'njk',
+    dataTemplateEngine: 'njk',
 
     // These are all optional, defaults are shown:
     dir: {
-      input: ".",
-      includes: "_includes",
-      data: "_data",
-      output: "_site"
-    }
+      input: '.',
+      includes: '_includes',
+      data: '_data',
+      output: '_site',
+    },
   };
 };
