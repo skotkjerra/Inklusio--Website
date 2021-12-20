@@ -26,7 +26,7 @@ Stor tekst har den fordel, at den er lettere at læse end lille tekst, og derfor
 
 Her er et eksempel på et henholdsvis tilstrækkeligt og utilstrækkeligt kontrastforhold mellem baggrund og tekst:
 
-![Til venstre findes et stykke tekst, hvor kontrastforholdene mellem tekst og baggrund er tilstrækkelige, mens teksteksemplet i højre side illustrerer for lave kontrastforhold.](/img/billede1.png "Eksempel på kontrastforhold for tekst ")
+![Til venstre findes et stykke tekst, hvor kontrastforholdene mellem tekst og baggrund er tilstrækkelige, mens teksteksemplet i højre side illustrerer for lave kontrastforhold.](/img/billede1.jpg "Eksempel på kontrastforhold for tekst ")
 
 *Til venstre ser vi et stykke tekst, hvor kontrastforholdene mellem tekst og baggrund er tilstrækkelige, mens eksemplet i højre side illustrerer for lave kontrastforhold.*   
 
