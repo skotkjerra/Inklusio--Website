@@ -274,7 +274,7 @@ Access Guide er mere visuel end de fleste andre tilgængelighedsressourcer, og m
 
 
 
-## 20. december: 
+## 20. december: supplementer til farve-kommunikation
 
 Dagens Ressource: [Inklusios blogindlæg "Digital tilgængelighed 101: Find ud af, hvorfor farver ikke er det bedste kommunikationsmiddel på hjemmesider"](https://inklusio.dk/posts/digital-tilg%C3%A6ngelighed-101-find-ud-af-hvorfor-farver-ikke-er-det-bedste-kommunikationsmiddel-p%C3%A5-hjemmesider/)
 
@@ -286,7 +286,7 @@ Det er således helt almindeligt, at vi formidler information via farver, men de
 
 I WCAG 2.1 lyder reglen derfor, at man ikke må formidle information udelukkende via farve. Men hvordan tackler du helt konkret dét, når det f.eks. omhandler links, formularer, kort og grafer? 
 
-Få svaret i vores blogindlæg ["Digital tilgængelighed 101: Find ud af, hvorfor farver ikke er det bedste kommunikationsmiddel på hjemmesider"](https://inklusio.dk/posts/digital-tilg%C3%A6ngelighed-101-find-ud-af-hvorfor-farver-ikke-er-det-bedste-kommunikationsmiddel-p%C3%A5-hjemmesider/)
+Få svaret i vores [blogindlæg om farve-kommunikation](https://inklusio.dk/posts/julekalender-2021/). [](https://inklusio.dk/posts/digital-tilg%C3%A6ngelighed-101-find-ud-af-hvorfor-farver-ikke-er-det-bedste-kommunikationsmiddel-p%C3%A5-hjemmesider/)
 
 
 
