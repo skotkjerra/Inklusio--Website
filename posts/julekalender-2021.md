@@ -284,9 +284,7 @@ Farver bliver ofte brugt som kommunikationsmiddel. I trafikken viser stoplys f.e
 
 Det er således helt almindeligt, at vi formidler information via farver, men det kan godt skabe nogle tilgængelighedsproblemer for personer med farveblindhed eller nedsat syn, eftersom farverne i mange tilfælde ikke giver dem de nødvendige informationer. Hvis du f.eks. har et søjlediagram med røde og grønne søjler, hvordan skal folk så forstå diagrammet, hvis de ikke kan skelne rød fra grøn? (et lille tip: giv søjlerne et mønster 😊 )
 
-I WCAG 2.1 lyder reglen derfor, at man ikke må formidle information udelukkende via farve. Men hvordan tackler du helt konkret dét, når det f.eks. omhandler links, formularer, kort og grafer? 
-
-Få svaret i vores [blogindlæg om farve-kommunikation](https://inklusio.dk/posts/julekalender-2021/). [](https://inklusio.dk/posts/digital-tilg%C3%A6ngelighed-101-find-ud-af-hvorfor-farver-ikke-er-det-bedste-kommunikationsmiddel-p%C3%A5-hjemmesider/)
+I WCAG 2.1 lyder reglen derfor, at man ikke må formidle information udelukkende via farve. Men hvordan tackler du helt konkret dét, når det f.eks. omhandler links, formularer, kort og grafer? Få svaret i vores [blogindlæg om farve-kommunikation](https://inklusio.dk/posts/julekalender-2021/). [](https://inklusio.dk/posts/digital-tilg%C3%A6ngelighed-101-find-ud-af-hvorfor-farver-ikke-er-det-bedste-kommunikationsmiddel-p%C3%A5-hjemmesider/)
 
 
 
