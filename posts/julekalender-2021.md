@@ -36,8 +36,6 @@ Dagens ressource: [Digitaliseringsstyrelsens Netværk om Webtilgængelighed](htt
 \
 Kunne du godt bruge nogen at netværke med om webtilgænglighed? Så meld dig ind i Digitaliseringsstyrelsens [Netværk om Webtilgængelighed](https://digst.dk/digital-service/webtilgaengelighed/netvaerk-om-webtilgaengelighed/tilmeld-dig-netvaerket/), hvor du blandt andet kan stille spørgsmål og få svar :) Inklusio er også medlemmer! 
 
-
-
 ## 4. december: Overskriftsniveauer
 
 Dagens ressource: [værktøjet "HeadingsMap"](https://chrome.google.com/webstore/detail/headingsmap/flbjommegcjonpdmenkdiocclhjacmbi)
@@ -272,8 +270,6 @@ Det en overskuelig guide til digital tilgængelighed med forklarende billeder og
 
 Access Guide er mere visuel end de fleste andre tilgængelighedsressourcer, og med tags, så du kan filtrere på f.eks. fagområder (design, code), brugergrupper (cognitive, visual, physical m.m.), WCAG-overholdelsesniveau (A, AA, AAA) osv.
 
-
-
 ## 20. december: supplementer til farve-kommunikation
 
 Dagens Ressource: [Inklusios blogindlæg "Digital tilgængelighed 101: Find ud af, hvorfor farver ikke er det bedste kommunikationsmiddel på hjemmesider"](https://inklusio.dk/posts/digital-tilg%C3%A6ngelighed-101-find-ud-af-hvorfor-farver-ikke-er-det-bedste-kommunikationsmiddel-p%C3%A5-hjemmesider/)
@@ -284,8 +280,21 @@ Farver bliver ofte brugt som kommunikationsmiddel. I trafikken viser stoplys f.e
 
 Det er således helt almindeligt, at vi formidler information via farver, men det kan godt skabe nogle tilgængelighedsproblemer for personer med farveblindhed eller nedsat syn, eftersom farverne i mange tilfælde ikke giver dem de nødvendige informationer. Hvis du f.eks. har et søjlediagram med røde og grønne søjler, hvordan skal folk så forstå diagrammet, hvis de ikke kan skelne rød fra grøn? (et lille tip: giv søjlerne et mønster 😊 )
 
-I WCAG 2.1 lyder reglen derfor, at man ikke må formidle information udelukkende via farve. Men hvordan tackler du helt konkret dét, når det f.eks. omhandler links, formularer, kort og grafer? Få svaret i vores [blogindlæg om farve-kommunikation](https://inklusio.dk/posts/julekalender-2021/). [](https://inklusio.dk/posts/digital-tilg%C3%A6ngelighed-101-find-ud-af-hvorfor-farver-ikke-er-det-bedste-kommunikationsmiddel-p%C3%A5-hjemmesider/)
+I WCAG 2.1 lyder reglen derfor, at man ikke må formidle information udelukkende via farve. Men hvordan tackler du helt konkret dét, når det f.eks. omhandler links, formularer, kort og grafer? Få svaret i vores [blogindlæg om farve-kommunikation](https://inklusio.dk/posts/julekalender-2021/). 
 
 
+
+## 21. december: Udfyldelse af tilgængelighedserklæring
+
+Dagens ressource: [Digitaliseringsstyrelsens vejledning ”Udfyldelse af tilgængelighedserklæring”](https://digst.dk/digital-service/webtilgaengelighed/vejledning/udfyldelse-af-tilgaengelighedserklaering/)
+
+Er din organisation er omfattet af webtilgængelighedsloven? Så kunne du – eller en af dine kollegaer? – garanteret godt bruge den her vejledning til, hvordan jeres
+
+tilgængelighedserklæring skal udfyldes!
+Vejledningen er for både websteder og mobilapplikationer, og den forklarer step-for-step, hvilke informationer det er vigtigt at få med i tilgængelighedserklæringen – endda med små tjeklister :) 
+
+Så næste gang I er i tvivl om, hvilke indholdstyper der skal med i tilgængelighedserklæringen, hvad ’uforholdsmæssig stor byrde’ egentlig betyder og hvor I skal anføre ’tilgængelige alternativer’... Ja, så kan I finde svar i [Digitaliseringsstyrelsens vejledning ”Udfyldelse af tilgængelighedserklæring”](https://digst.dk/digital-service/webtilgaengelighed/vejledning/udfyldelse-af-tilgaengelighedserklaering/).
+
+[](https://inklusio.dk/posts/digital-tilg%C3%A6ngelighed-101-find-ud-af-hvorfor-farver-ikke-er-det-bedste-kommunikationsmiddel-p%C3%A5-hjemmesider/)
 
 [Følg Inklusio på LinkedIn](https://www.linkedin.com/company/inklusio) og bliv opdateret hver dag, når nye låger i julekalenderen åbnes!
