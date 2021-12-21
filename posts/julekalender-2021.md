@@ -270,7 +270,7 @@ Det en overskuelig guide til digital tilgængelighed med forklarende billeder og
 
 Access Guide er mere visuel end de fleste andre tilgængelighedsressourcer, og med tags, så du kan filtrere på f.eks. fagområder (design, code), brugergrupper (cognitive, visual, physical m.m.), WCAG-overholdelsesniveau (A, AA, AAA) osv.
 
-## 20. december: supplementer til farve-kommunikation
+## 20. december: Supplementer til farve-kommunikation
 
 Dagens Ressource: [Inklusios blogindlæg "Digital tilgængelighed 101: Find ud af, hvorfor farver ikke er det bedste kommunikationsmiddel på hjemmesider"](https://inklusio.dk/posts/digital-tilg%C3%A6ngelighed-101-find-ud-af-hvorfor-farver-ikke-er-det-bedste-kommunikationsmiddel-p%C3%A5-hjemmesider/)
 
@@ -288,9 +288,8 @@ I WCAG 2.1 lyder reglen derfor, at man ikke må formidle information udelukkende
 
 Dagens ressource: [Digitaliseringsstyrelsens vejledning ”Udfyldelse af tilgængelighedserklæring”](https://digst.dk/digital-service/webtilgaengelighed/vejledning/udfyldelse-af-tilgaengelighedserklaering/)
 
-Er din organisation er omfattet af webtilgængelighedsloven? Så kunne du – eller en af dine kollegaer? – garanteret godt bruge den her vejledning til, hvordan jeres
+Er din organisation er omfattet af webtilgængelighedsloven? Så kunne du – eller en af dine kollegaer? – garanteret godt bruge den her vejledning til, hvordan jeres tilgængelighedserklæring skal udfyldes!
 
-tilgængelighedserklæring skal udfyldes!
 Vejledningen er for både websteder og mobilapplikationer, og den forklarer step-for-step, hvilke informationer det er vigtigt at få med i tilgængelighedserklæringen – endda med små tjeklister :) 
 
 Så næste gang I er i tvivl om, hvilke indholdstyper der skal med i tilgængelighedserklæringen, hvad ’uforholdsmæssig stor byrde’ egentlig betyder og hvor I skal anføre ’tilgængelige alternativer’... Ja, så kan I finde svar i [Digitaliseringsstyrelsens vejledning ”Udfyldelse af tilgængelighedserklæring”](https://digst.dk/digital-service/webtilgaengelighed/vejledning/udfyldelse-af-tilgaengelighedserklaering/).
