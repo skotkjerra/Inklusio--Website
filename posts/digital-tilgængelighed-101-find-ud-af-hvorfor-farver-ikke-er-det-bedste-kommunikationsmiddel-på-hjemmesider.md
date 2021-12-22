@@ -16,7 +16,7 @@ tags:
 ---
 I dag er det ikke unormalt, at farver bliver benyttet som et kommunikationsmiddel. I trafikken kender vi stoplys, der anvender farven rød til at formidle, at køretøjerne skal stoppe, mens gul signalerer, at de skal vente, og grøn viser, at de gerne må køre igen. Måske har du også prøvet at komme ind i en bygning, hvor områderne i bygningen er organiseret efter farver. Kommunikation ved hjælp af farve bruges også på internettet, hvor farven rød typisk bliver brugt til at kommunikere, at man har udfyldt noget forkert, eller fungerer som en form for advarsel. 
 
-Det er derfor helt almindeligt, at vi formidler informationer med farver, men det kan godt skabe nogle tilgængelighedsproblemer for en gruppe mennesker med farveblindhed eller nedsat syn, eftersom farverne ikke giver dem de nødvendige informationer. I dette indlæg skal vi stille skarpt på, hvordan man kan bruge farver til at formidle information på digitale løsninger, og hvilke steder man muligvis bør vælge en alternativ formidlingsform, så man sikrer, at indholdet er tilgængeligt for alle. 
+Det er således helt almindeligt, at vi formidler informationer med farver, men det kan godt skabe nogle tilgængelighedsproblemer for en gruppe mennesker med farveblindhed eller nedsat syn, eftersom farverne ikke giver dem de nødvendige informationer. I dette indlæg skal vi stille skarpt på, hvordan man kan bruge farver til at formidle information på digitale løsninger, og hvilke steder man muligvis bør vælge en alternativ formidlingsform, så man sikrer, at indholdet er tilgængeligt for alle. 
 
 ![Billede af trafiklys ](/img/skærmbillede-2021-11-03-kl.-13.20.02.png)
 
