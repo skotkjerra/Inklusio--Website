@@ -282,8 +282,6 @@ Det er således helt almindeligt, at vi formidler information via farver, men de
 
 I WCAG 2.1 lyder reglen derfor, at man ikke må formidle information udelukkende via farve. Men hvordan tackler du helt konkret dét, når det f.eks. omhandler links, formularer, kort og grafer? Få svaret i vores [blogindlæg om farve-kommunikation](https://inklusio.dk/posts/julekalender-2021/). 
 
-
-
 ## 21. december: Udfyldelse af tilgængelighedserklæring
 
 Dagens ressource: [Digitaliseringsstyrelsens vejledning ”Udfyldelse af tilgængelighedserklæring”](https://digst.dk/digital-service/webtilgaengelighed/vejledning/udfyldelse-af-tilgaengelighedserklaering/)
@@ -293,6 +291,27 @@ Er din organisation er omfattet af webtilgængelighedsloven? Så kunne du – el
 Vejledningen er for både websteder og mobilapplikationer, og den forklarer step-for-step, hvilke informationer det er vigtigt at få med i tilgængelighedserklæringen – endda med små tjeklister :) 
 
 Så næste gang I er i tvivl om, hvilke indholdstyper der skal med i tilgængelighedserklæringen, hvad ’uforholdsmæssig stor byrde’ egentlig betyder og hvor I skal anføre ’tilgængelige alternativer’... Ja, så kan I finde svar i [Digitaliseringsstyrelsens vejledning ”Udfyldelse af tilgængelighedserklæring”](https://digst.dk/digital-service/webtilgaengelighed/vejledning/udfyldelse-af-tilgaengelighedserklaering/).
+
+
+
+## 22. december: Tilgængelighed *og* Brugervenlighed
+
+
+
+Dagens ressource: [Jakob Nielsens artikel "10 Usability Heuristics for User Interface Design"](https://www.nngroup.com/articles/ten-usability-heuristics/)
+
+Et websted kan godt være teknisk set tilgængeligt og stadig helt umuligt at bruge for personer med funktionsnedsættelser. Og for alle andre, for den sags skyld.
+
+Vi siger tit, når vi introducerer folk til tilgængelighed, at inklusivt design har to ben at stå på: tilgængelighed OG brugervenlighed (”usability” på internationalsk).
+
+Der er et vist overlap mellem god tilgængelighed og god brugervenlighed, og et fokus på det ene vil også med stor sandsynlighed smitte positivt af på det andet – især hvor det drejer sig om ting, som i virkeligheden burde være ”common sense” i forhold til at indtænke brugernes behov i sin løsning.
+Der er dog ingen garanti for, at en brugervenlig løsning også er tilgængelig eller vice versa.
+
+Men hvad skal du så gøre for at sikre, at din løsning både er tilgængelig og brugervenlig?
+
+[Jakob Nielsens 10 usability-heuristikker](https://www.nngroup.com/articles/ten-usability-heuristics/) er en slags checkliste, som du kan bruge til at gennemgå dit websted for at se, om det lever op til de grundlæggende tommelfingerregler for, hvordan man sikrer god brugervenlighed.
+
+Vi synes faktisk næsten, at de burde udleveres som et tillæg til WCAG, da begge ting er essentielle for at sikre, at din løsning kan bruges af alle brugere.
 
 [](https://inklusio.dk/posts/digital-tilg%C3%A6ngelighed-101-find-ud-af-hvorfor-farver-ikke-er-det-bedste-kommunikationsmiddel-p%C3%A5-hjemmesider/)
 
