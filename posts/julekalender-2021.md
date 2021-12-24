@@ -333,7 +333,7 @@ Men hvordan tjekker du så, om dine tekster har tilstrækkelige kontrastforhold?
 
 ## 24. december: Ældre brugere
 
-Dagens ressource: [](https://www.w3.org/WAI/older-users/)[W3C's artikel "Older Users and Web Accessibility: Meeting the Needs of Ageing Web Users”](<Ageing Web Users”: https://www.w3.org/WAI/older-users/>)
+Dagens ressource: [](https://www.w3.org/WAI/older-users/)[W3C's artikel “Older Users and Web Accessibility: Meeting the Needs of Ageing Web Users”](https://www.w3.org/WAI/older-users/)[](<Ageing Web Users”: https://www.w3.org/WAI/older-users/>)
 
 Fejrer du  jul med ét eller flere ældre familiemedlemmer? 🎄
 Så har de måske et ønske, som kan blive vores fælles nytårsforsæt 😊 nemlig at det bliver lettere for ældre at få adgang til samfundet:
@@ -347,7 +347,7 @@ For eksempel ændres ens farveopfattelse med alderen, og øjnenes kontrastfølso
 
 De fleste ældre mennesker hører heller ikke så godt som i deres yngre dage og har ikke den samme bevægelighed i fingrene, som gør at de kan ramme små punkter med mus eller touch. Hertil har mange dårligere korttidshukommelse og svært ved at undertrykke distraktioner fra fx reklamer, der bevæger sig.
 
-Det kan du læse mere om i W3C’s (det er dem, der også laver WCAG!) artikel “Older Users and Web Accessibility: [“Older Users and Web Accessibility: Meeting the Needs of Ageing Web Users”](<Ageing Web Users”: https://www.w3.org/WAI/older-users/>)[](https://www.w3.org/WAI/older-users/)
+Det kan du læse mere om i W3C’s (det er dem, der også laver WCAG!) artikel: [“Older Users and Web Accessibility: Meeting the Needs of Ageing Web Users”](https://www.w3.org/WAI/older-users/)[](https://www.w3.org/WAI/older-users/)
 
 Der er samtidig sidegevinster ved at sikre tilgængeligheden for ældre brugere. Det er en stor og voksende målgruppe, og dem, der går på pension i dag, er allerede meget digitale. De ældre har også flere penge mellem hænderne end tidligere – hvilket jo er relevant, hvis man fx er en webshop 🎁
 
