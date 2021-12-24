@@ -333,9 +333,9 @@ Men hvordan tjekker du så, om dine tekster har tilstrækkelige kontrastforhold?
 
 ## 24. december: Ældre brugere
 
-Dagens ressource: [](https://www.w3.org/WAI/older-users/)[W3C's artikel “Older Users and Web Accessibility: Meeting the Needs of Ageing Web Users”](https://www.w3.org/WAI/older-users/)[](<Ageing Web Users”: https://www.w3.org/WAI/older-users/>)
+Dagens ressource: [W3C's artikel “Older Users and Web Accessibility: Meeting the Needs of Ageing Web Users”](https://www.w3.org/WAI/older-users/)
 
-Fejrer du  jul med ét eller flere ældre familiemedlemmer? 🎄
+Fjrer du  jul med ét eller flere ældre familiemedlemmer? 🎄
 Så har de måske et ønske, som kan blive vores fælles nytårsforsæt 😊 nemlig at det bliver lettere for ældre at få adgang til samfundet:
 
 Mange ældre bliver let afskåret fra de vigtige sociale interaktioner og samfundsdebatter, som i dag foregår online. Mails, sociale medier, online-indkøb, beskeder fra det offentlige, med meget mere. Og så betyder de sociale interaktioner i julen ekstra meget 🎄
