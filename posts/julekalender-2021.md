@@ -309,8 +309,6 @@ Men hvad skal du så gøre for at sikre, at din løsning både er tilgængelig o
 
 Vi synes faktisk næsten, at de burde udleveres som et tillæg til WCAG, da begge ting er essentielle for at sikre, at din løsning kan bruges af alle brugere.
 
-
-
 ## 23. december: Kontrast mellem tekst og baggrund
 
 Dagens ressource: [Inklusios blogindlæg "Digital Tilgængelighed 101: Lever dine tekster op til kravet om kontrast?"](https://inklusio.dk/posts/digital-tilg%C3%A6ngelighed-101-lever-dine-tekster-op-til-kravet-om-kontrast/)
@@ -329,8 +327,6 @@ Dog er logoer og dekorativ tekst (dvs. tekst, som ikke er betydningsbærende) un
 
 Men hvordan tjekker du så, om dine tekster har tilstrækkelige kontrastforhold? Det findes der værktøjer til! Og vi kommer med eksempler på værktøjer, som du kan bruge, i vores blogindlæg om kontrastforhold for tekst: ["Digital Tilgængelighed 101: Lever dine tekster op til kravet om kontrast?"](https://inklusio.dk/posts/digital-tilg%C3%A6ngelighed-101-lever-dine-tekster-op-til-kravet-om-kontrast/)
 
-
-
 ## 24. december: Ældre brugere
 
 Dagens ressource: [W3C's artikel “Older Users and Web Accessibility: Meeting the Needs of Ageing Web Users”](https://www.w3.org/WAI/older-users/)
@@ -339,7 +335,6 @@ Fjrer du  jul med ét eller flere ældre familiemedlemmer? 🎄
 Så har de måske et ønske, som kan blive vores fælles nytårsforsæt 😊 nemlig at det bliver lettere for ældre at få adgang til samfundet:
 
 Mange ældre bliver let afskåret fra de vigtige sociale interaktioner og samfundsdebatter, som i dag foregår online. Mails, sociale medier, online-indkøb, beskeder fra det offentlige, med meget mere. Og så betyder de sociale interaktioner i julen ekstra meget 🎄
-
 
 Heldigvis kan vi med webtilgængelighed give de ældre bedre adgang til samfundets online interaktioner, så de får en lettere hverdag hele året. Det er en løbende proces, og løsningen består i høj grad af de samme tiltag, som også virker, når man laver løsninger til folk med funktionsnedsættelser generelt. Der er nemlig mange overlappende behov: 
 
@@ -357,4 +352,4 @@ Rigtig glædelig jul, og nyd hinanden på tværs af generationer 🎄 ❤️ �
 
 [](https://inklusio.dk/posts/digital-tilg%C3%A6ngelighed-101-find-ud-af-hvorfor-farver-ikke-er-det-bedste-kommunikationsmiddel-p%C3%A5-hjemmesider/)
 
-[Følg Inklusio på LinkedIn](https://www.linkedin.com/company/inklusio), hvor vi løbende kommer med gode tips som i denne julekalender!
+[Følg Inklusio på LinkedIn](https://www.linkedin.com/company/inklusio) for løbende at få gode tips som i denne julekalender!
