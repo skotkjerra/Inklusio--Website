@@ -292,11 +292,7 @@ Vejledningen er for både websteder og mobilapplikationer, og den forklarer step
 
 Så næste gang I er i tvivl om, hvilke indholdstyper der skal med i tilgængelighedserklæringen, hvad ’uforholdsmæssig stor byrde’ egentlig betyder og hvor I skal anføre ’tilgængelige alternativer’... Ja, så kan I finde svar i [Digitaliseringsstyrelsens vejledning ”Udfyldelse af tilgængelighedserklæring”](https://digst.dk/digital-service/webtilgaengelighed/vejledning/udfyldelse-af-tilgaengelighedserklaering/).
 
-
-
 ## 22. december: Tilgængelighed *og* Brugervenlighed
-
-
 
 Dagens ressource: [Jakob Nielsens artikel "10 Usability Heuristics for User Interface Design"](https://www.nngroup.com/articles/ten-usability-heuristics/)
 
@@ -312,6 +308,32 @@ Men hvad skal du så gøre for at sikre, at din løsning både er tilgængelig o
 [Jakob Nielsens 10 usability-heuristikker](https://www.nngroup.com/articles/ten-usability-heuristics/) er en slags checkliste, som du kan bruge til at gennemgå dit websted for at se, om det lever op til de grundlæggende tommelfingerregler for, hvordan man sikrer god brugervenlighed.
 
 Vi synes faktisk næsten, at de burde udleveres som et tillæg til WCAG, da begge ting er essentielle for at sikre, at din løsning kan bruges af alle brugere.
+
+
+
+## 23. december: Kontrast mellem tekst og baggrund
+
+Dagens ressource: [Inklusios blogindlæg "Digital Tilgængelighed 101: Lever dine tekster op til kravet om kontrast?"](https://inklusio.dk/posts/digital-tilg%C3%A6ngelighed-101-lever-dine-tekster-op-til-kravet-om-kontrast/)
+
+Lever dine tekster op til kravet om kontrast? 
+Kontrast er et vigtigt led i at gøre din hjemmeside eller applikation tilgængelig, så folk med nedsat syn og/eller farveblindhed kan læse dit indhold. 
+
+Derfor sætter WCAG krav om tilstrækkelig kontrast for al betydningsfuld tekst – og billeder af tekst – på din digitale løsning. Det gælder f.eks. brødtekst, tekst på knapper osv.
+
+Så her er de 2 hurtige huskeregler om kontrastforhold: 
+
+* Tekst, som er under 18 punkt, skal have et kontrastforhold på minimum 4,5:1 eller højere
+* Tekst, som er større end 18 punkt eller 14 punkt fed, skal have en kontrast på minimum 3:1 eller højere
+
+Dog er logoer og dekorativ tekst (dvs. tekst, som ikke er betydningsbærende) undtaget fra disse regler.
+
+Men hvordan tjekker du så, om dine tekster har tilstrækkelige kontrastforhold? Det findes der værktøjer til! Og vi kommer med eksempler på værktøjer, som du kan bruge, i vores blogindlæg om kontrastforhold for tekst: ["Digital Tilgængelighed 101: Lever dine tekster op til kravet om kontrast?"](https://inklusio.dk/posts/digital-tilg%C3%A6ngelighed-101-lever-dine-tekster-op-til-kravet-om-kontrast/)
+
+
+
+## 24. december: Ældre brugere
+
+
 
 [](https://inklusio.dk/posts/digital-tilg%C3%A6ngelighed-101-find-ud-af-hvorfor-farver-ikke-er-det-bedste-kommunikationsmiddel-p%C3%A5-hjemmesider/)
 
