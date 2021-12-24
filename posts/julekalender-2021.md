@@ -333,7 +333,27 @@ Men hvordan tjekker du så, om dine tekster har tilstrækkelige kontrastforhold?
 
 ## 24. december: Ældre brugere
 
+Dagens ressource: [W3C’s artikel ](https://www.w3.org/WAI/older-users/)
 
+Fejrer du  jul med ét eller flere ældre familiemedlemmer? 🎄
+Så har de måske et ønske, som kan blive vores fælles nytårsforsæt 😊 nemlig at det bliver lettere for ældre at få adgang til samfundet:
+
+Mange ældre bliver let afskåret fra de vigtige sociale interaktioner og samfundsdebatter, som i dag foregår online. Mails, sociale medier, online-indkøb, beskeder fra det offentlige, med meget mere. Og så betyder de sociale interaktioner i julen ekstra meget 🎄
+
+
+Heldigvis kan vi med webtilgængelighed give de ældre bedre adgang til samfundets online interaktioner, så de får en lettere hverdag hele året. Det er en løbende proces, og løsningen består i høj grad af de samme tiltag, som også virker, når man laver løsninger til folk med funktionsnedsættelser generelt. Der er nemlig mange overlappende behov: 
+
+For eksempel ændres ens farveopfattelse med alderen, og øjnenes kontrastfølsomhed bliver dårligere, hvilket øger behovet for, at vi bruger kontrastfarver i vores kommunikation. 
+
+De fleste ældre mennesker hører heller ikke så godt som i deres yngre dage og har ikke den samme bevægelighed i fingrene, som gør at de kan ramme små punkter med mus eller touch. Hertil har mange dårligere korttidshukommelse og svært ved at undertrykke distraktioner fra fx reklamer, der bevæger sig.
+
+Det kan du læse mere om i W3C’s (det er dem, der også laver WCAG!) artikel [](https://www.w3.org/WAI/older-users/)
+
+Der er samtidig sidegevinster ved at sikre tilgængeligheden for ældre brugere. Det er en stor og voksende målgruppe, og dem, der går på pension i dag, er allerede meget digitale. De ældre har også flere penge mellem hænderne end tidligere – hvilket jo er relevant, hvis man fx er en webshop 🎁
+
+Og så bliver vi alle sammen selv ældre engang og får også behov for tilgængelige websteder, så en indsats for webtilgængelighed i dag er også en håndsrækning til dit eget fremtidige jeg! 😊 
+
+Rigtig glædelig jul, og nyd hinanden på tværs af generationer 🎄 ❤️ 🎄
 
 [](https://inklusio.dk/posts/digital-tilg%C3%A6ngelighed-101-find-ud-af-hvorfor-farver-ikke-er-det-bedste-kommunikationsmiddel-p%C3%A5-hjemmesider/)
 
