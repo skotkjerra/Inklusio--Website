@@ -357,4 +357,4 @@ Rigtig glædelig jul, og nyd hinanden på tværs af generationer 🎄 ❤️ �
 
 [](https://inklusio.dk/posts/digital-tilg%C3%A6ngelighed-101-find-ud-af-hvorfor-farver-ikke-er-det-bedste-kommunikationsmiddel-p%C3%A5-hjemmesider/)
 
-[Følg Inklusio på LinkedIn](https://www.linkedin.com/company/inklusio) og bliv opdateret hver dag, når nye låger i julekalenderen åbnes!
+[Følg Inklusio på LinkedIn](https://www.linkedin.com/company/inklusio), hvor vi løbende kommer med gode tips som i denne julekalender!
