@@ -24,7 +24,6 @@ Kontakt Stein Erik:
 * Telefon: [26 34 34 55](tel:26343455)
 * Se [Stein Erik Skotkjerra på LinkedIn](https://www.linkedin.com/in/skotkjerra/)
 
-
 <h2 class="pt-4">Anne Thyme Nørregaard</h2>
 
 **Seniorkonsulent i Webtilgængelighed**
@@ -38,6 +37,21 @@ Kontakt Anne:
 * Mail: [atn@inklusio.dk](mailto:atn@inklusio.dk)
 * Se [Anne Thyme Nørregaard på LinkedIn](https://www.linkedin.com/in/annethyme/)
 
+<h2 class="pt-4">Mai Hartmann</h2>
+
+**Seniorkonsulent i Webtilgængelighed**
+
+Mai har en stor del af sin erfaring fra stillinger som Digital Accessibility Specialist og som UX designer. Hun er uddannet blandt andet fra IT-universitetet i København med en Master’s degree i Digital Design and Interactive Technologies. 	
+
+Hun er blandt de få, der kender standarder og lovgivning på webtilgængelighedsområdet til bunds. 
+
+Kunder vil møde Mai Hartmann på alle typer projekter og med særligt fokus på uddannelse, vejledning og konkret hjælp til at forbedre tilgængelighed i design og kode. 
+
+Sideløbende med jobbet hos Inklusio underviser Mai Hartmann bachelorstuderende på Digital Design and Interactive Technologies på IT-universitetet, og herfra har hun erfaring med at formidle kompleks viden og holde sin faglighed opdateret.
+
+Kontakt Mai: 
+* Mail: [mbh@inklusio.dk](mailto:mbh@inklusio.dk)
+* Se [Mai Hartmann på LinkedIn](https://www.linkedin.com/in/mai-hartmann/)
 
 <h2 class="pt-4">Katrine Gregersen</h2>
 
