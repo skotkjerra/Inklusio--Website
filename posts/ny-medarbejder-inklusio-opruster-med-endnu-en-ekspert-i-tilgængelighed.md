@@ -9,7 +9,9 @@ summary: Inklusios nye tilgængelighedskonsulent Mai Hartmann kommer fra en
   Interactive Technologies.
 tags: []
 ---
-Hos Inklusio er vi glade for og stolte af at sige velkommen til endnu en medarbejder, der sammen med kollegerne vil fortsætte og udvikle arbejdet med at sikre webtilgængelighed. Den nye tilgængelighedskonsulent er 30-årige Mai Hartmann, der kommer fra en stilling som Digital Accessibility Specialist hos virksomheden Siteimprove. CV’et indeholder desuden erfaring som UX designer og uddannelse fra IT-universitetet i København med en Master’s degree i Digital Design and Interactive Technologies. 	
+Hos Inklusio er vi glade for og stolte af at sige velkommen til endnu en medarbejder, der sammen med kollegerne vil fortsætte og udvikle arbejdet med at sikre webtilgængelighed. Den nye tilgængelighedskonsulent er 30-årige Mai Hartmann, der kommer fra en stilling som Digital Accessibility Specialist hos virksomheden Siteimprove. CV’et indeholder desuden erfaring som UX designer og uddannelse fra IT-universitetet i København med en Master’s degree i Digital Design and Interactive Technologies. 
+
+![](/img/mai-hartmann.jpg)
 
 >   – Mai Hartmann har relevant uddannelse, og hun har erfaring med, og detaljeret viden om tilgængelighed fra sin tidligere ansættelse. Hun er blandt de få, der kender regler og lovgivning på webtilgængelighedsområdet til bunds, og vi har været rigtig heldige at få fat i hende, siger Inklusios CEO Stein Erik Skotkjerra. 
 
