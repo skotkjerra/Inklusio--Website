@@ -38,18 +38,18 @@ Også når du åbner resultaterne for én bestemt fejltype, er det en god ide at
 
 For at gøre det hele lidt besværligt at forstå, findes der ACT-regler, som man godt kan fejle uden at have fejl på et eneste succeskriterium i WCAG. 
 
-Når du åbner en fejltype i Qualweb, skal du derfor huske at tjekke, om der står nogle succeskriterier opgivet (under overskriften ”Success Criteria”, fx ”1.1.1 Non-Text Content (Level A)”). 
+Når du åbner en fejltype i QualWeb, skal du derfor huske at tjekke, om der står nogle succeskriterier opgivet (under overskriften ”Success Criteria”, fx ”1.1.1 Non-Text Content (Level A)”). 
 
 Hvis der IKKE er opgivet nogle WCAG-succeskriterier for en fejltype, så er det ikke nødvendigvis en fejl for noget i WCAG.
 
 I monitoreringerne for webtilgængelighedsloven medtages kun de ACT-regler, som er tilknyttet succeskriterier i WCAG 2.1.
-Hvis du vil have testresultater, der stemmer overens med monitoreringen, så skal du altså bare ignorere alle fejltyper i Qualweb, som ikke har WCAG-succeskriterier opgivet.
+Hvis du vil have testresultater, der stemmer overens med monitoreringen, så skal du altså bare ignorere alle fejltyper i QualWeb, som ikke har WCAG-succeskriterier opgivet.
 
 #### Tip 4: Kig på fejlbeskrivelsen og kodevisningen for atforstå, hvad fejlen er
 
 Ved hvert enkelt element, som er testet for en bestemt fejltype, er der angivet en lille beskrivelse, som fortæller hvorfor netop dette element består eller fejler en test, eller hvorfor det ikke kan testes færdig automatisk. Disse beskrivelser er derfor vigtige for at forstå testresultaterne.
 
-For at finde ud af, hvilket element på websiden, det drejer sig om, viser Qualweb både den HTML-kode, som elementet består af, og nedenunder det en ”Element selector” (i Qualweb Chrome extension hedder disse ”Pointer”), som kan bruges til at udpege netop dette element på siden programmatisk. 
+For at finde ud af, hvilket element på websiden, det drejer sig om, viser Qualweb både den HTML-kode, som elementet består af, og nedenunder det en ”Element selector” (i QualWeb Chrome extension hedder disse ”Pointer”), som kan bruges til at udpege netop dette element på siden programmatisk. 
 
 Det nemmeste er dog nok at kigge på html-koden og se, om man kan gætte, hvad det er for et element ud fra fx den tekst, der er i elementet.
 
@@ -57,11 +57,11 @@ Det nemmeste er dog nok at kigge på html-koden og se, om man kan gætte, hvad d
 
 Ved hjælp af Qualweb Chrome Extension kan du faktisk få vist fejlene direkte på siden!
 
-Se også ”Test en enkelt side med Qualweb Chrome Extension” i vores blogpost ”[Kom nemt i gang med at bruge QualWeb](https://inklusio.dk/posts/s%C3%A5dan-kommer-du-nemt-i-gang-med-at-bruge-qualweb/)”.
+Se også afsnittet ”Test en enkelt side med Qualweb Chrome Extension” i vores blogpost ”[Kom nemt i gang med at bruge QualWeb](https://inklusio.dk/posts/s%C3%A5dan-kommer-du-nemt-i-gang-med-at-bruge-qualweb/)”.
 
 I Qualweb Chrome extension er der i den kasse, som indrammer hvert enkelt testresultat inde under en fejltype, en ”Highlight Element”/”Stop Highlight”-knap.
 Hvis du klikker den fra og til, vil du kunne se, at der et sted på den testede side bliver vist en stiplet boks omkring det element, der har problemet (eller som er testet og fundet ok, hvis det er et Passed resultat).
 
-Alternativt kan du bruge et andet værktøj, som fx Siteimprove Chrome extension, til at highlighte fejl, som du har svært ved at finde ud fra Qualwebs kode-stykker.
+Alternativt kan du bruge et andet værktøj, som fx [Siteimprove browser extension](https://siteimprove.com/da-dk/core-platform/integrations/browser-extensions/), til at highlighte fejl, som du har svært ved at finde ud fra Qualwebs kode-stykker.
 
 Se også vores ”Kan jeg få de samme resultater med andre testværktøjer?” i vores blogpost ”[Kom nemt i gang med at bruge QualWeb](https://inklusio.dk/posts/s%C3%A5dan-kommer-du-nemt-i-gang-med-at-bruge-qualweb/)”.
