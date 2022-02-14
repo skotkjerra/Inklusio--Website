@@ -120,4 +120,4 @@ Sådanne værktøjer laver ikke nødvendigvis resultater, som er sammenlignelige
 
 Vi håber, at du kommer godt i gang med at bruge QualWeb :)
 
-Læs også vores artikel ”Tips til at få overblik over dine QualWeb testresultater”.
+Læs også vores blogindlæg ”[Tips: få overblik over dine QualWeb testresultater](https://inklusio.dk/posts/tips-f%C3%A5-overblik-over-dine-qualweb-testresultater/)”.
