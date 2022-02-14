@@ -14,15 +14,14 @@ tags:
 Qualweb er et testværktøj til test af tilgængelighed på websider. 
 Det er også det værktøj, der bruges til monitoreringen for webtilgængelighedsloven i Danmark, så det kan være godt at kende til det.
 
-QualWeb i monitoreringen for webtilgængelighedsloven
+## QualWeb i monitoreringen for webtilgængelighedsloven
+
 Digitaliseringsstyrelsen er ansvarlig myndighed for monitoreringen for webtilgængelighedsloven og udvælger, hvilke websteder der skal monitoreres. Den praktiske del med at teste webstederne ved hjælp af QualWeb udføres af et konsortium bestående af bl.a. Inklusio og Inqlude IT. 
 
 Når vi monitorerer websteder, crawler vi først webstedet for at få en liste over alle sider på webstedet. 
 Derefter tester vi alle siderne med QualWeb og gemmer data om hvilke fejl, der bliver fundet. 
 Til sidst laver vi en masse udregninger på de gemte data, så vi kan vise en masse oversigter, bl.a. en samlet tilgængelighedsscore, oversigter over sider med flest fejl på m.m.
 Hvis man er den heldige modtager af en monitoreringsrapport, vil rapporten indeholde et unikt link til at gå ind på webtilsyn.dk, hvor man kan se sine egne testresultater.
-
-
 
 ## Hvad kan du selv gøre med QualWeb?
 
@@ -33,35 +32,25 @@ I korte træk er der en god grund til, at du måske betaler Siteimprove eller et
 
 Til gengæld er det super nemt at teste en enkelt webside ad gangen ved hjælp af QualWeb. 
 
-
-
 ## Test en enkelt side med QualWeb online Evaluator
 
 Fordele: 
 •	Du kan gøre det fra en hvilken som helst browser. 
 •	Du skal ikke installere noget.
 
-
-
 ### Trin 1: Gå ind på QualWeb Evaluator
 
 Gå ind på http://qualweb.di.fc.ul.pt/evaluator/ 
-
-
 
 ### Trin 2: Indtast URL
 
 Indtast din URL – altså adressen på den webside, du gerne vil have testet. 
 Husk https:// (eller http://) foran, fx https://www.inklusio.dk.
 
-
-
 ### Trin 3: Foretag indstillinger
 
 Under Settings lige nedenunder indtastningsfeltet til URL kan du sætte kryds ud for ”ACT Rules” og/eller ”WCAG Techniques”. 
 Sørg for, at der KUN er sat kryds i ”ACT Rules” her. 
-
-
 
 #### Hvorfor skal jeg fjerne krydset i ”WCAG Techniques?”
 
@@ -71,39 +60,27 @@ Hvis du vil have testresultater, der stemmer overens med dem, du vil få i en mo
 
 Vi anbefaler derfor at nøjes med at fokusere på ”ACT Rules” i automatisk test.
 
-
-
 ### Trin 4:  Få dine testresultater
 
 Tryk på Check-knappen, og kig på dine resultater. 
-
-
 
 ## Test en enkelt side med QualWeb Chrome Extension
 
 Fordele: 
 •	Du kan få vist dine fejl direkte på din side!
 
-
-
 ### Trin 1: Hent extension
 
 Download extension fra Chrome Web Store: https://chrome.google.com/webstore/detail/qualweb-extension/ljgilomdnehokancdcbkmbndkkiggioc
-
-
 
 ### Trin 2: Åbn den side, du vil teste
 
 Åbn den side, du vil teste, i Chrome.
 
-
-
 ### Trin 3: Åbn Qualweb extension
 
 Højreklik et sted på siden og vælg ”Inspicer”/”Inspect”.
 I det panel, som åbner ude til højre, er der øverst oppe nogle faneblade. Tryk på ”>>”-knappen ved siden af fanebladene og vælg QualWeb. 
-
-
 
 ### Trin 4: Foretag indstillinger
 
@@ -112,23 +89,17 @@ Sørg for at der KUN er sat kryds i ”ACT Rules” her.
 
 Se evt. ”Hvorfor skal jeg fjerne krydset i ”WCAG Techniques?”” ovenfor.
 
-
-
 ### Trin 5: Få dine testresultater
 
 Tryk på ”Evaluate”-knappen, og kig på dine resultater.
 
 Se evt. ”Tips til at få overblik over dine testresultater”. Der er små forskelle på bl.a. filtreringsmulighederne mellem QualWeb online Evaluator og QualWeb Chrome extension, men principperne er de samme.
 
-
-
 ### Trin 6: Få highlightet dine fejl direkte på siden!
 
 I den kasse, som indrammer hvert enkelt testresultat inde under en fejltype, findes der en ”Highlight Element”/”Stop Highlight”-knap.
 Hvis du klikker den fra og til, vil du kunne se, at der et sted på den testede side bliver vist en stiplet boks omkring det element, der har problemet (eller som er testet og fundet ok, hvis det er et Passed resultat, dvs. et bestået resultat.
 Dette er super smart i forhold til at kunne lokalisere de fejlbehæftede elementer og få lagt en plan for at få dem rettet.
-
-
 
 ## Kan jeg få de samme resultater med andre testværktøjer?
 
