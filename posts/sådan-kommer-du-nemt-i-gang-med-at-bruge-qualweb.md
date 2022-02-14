@@ -1,5 +1,5 @@
 ---
-title: Sådan kommer du nemt i gang med at bruge QualWeb
+title: Kom nemt i gang med at bruge QualWeb
 date: 2022-02-14T08:30:41.293Z
 author: Anne Thyme Nørregaard
 summary: >-
