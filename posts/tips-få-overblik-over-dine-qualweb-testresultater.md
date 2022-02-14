@@ -64,4 +64,4 @@ Hvis du klikker den fra og til, vil du kunne se, at der et sted på den testede 
 
 Alternativt kan du bruge et andet værktøj, som fx [Siteimprove browser extension](https://siteimprove.com/da-dk/core-platform/integrations/browser-extensions/), til at highlighte fejl, som du har svært ved at finde ud fra Qualwebs kode-stykker.
 
-Se også vores ”Kan jeg få de samme resultater med andre testværktøjer?” i vores blogpost ”[Kom nemt i gang med at bruge QualWeb](https://inklusio.dk/posts/s%C3%A5dan-kommer-du-nemt-i-gang-med-at-bruge-qualweb/)”.
+Se også afsnittet ”Kan jeg få de samme resultater med andre testværktøjer?” i vores blogpost ”[Kom nemt i gang med at bruge QualWeb](https://inklusio.dk/posts/s%C3%A5dan-kommer-du-nemt-i-gang-med-at-bruge-qualweb/)”.
