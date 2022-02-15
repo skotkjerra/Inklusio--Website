@@ -20,7 +20,7 @@ Hvis du er i tvivl om, hvordan du tester med QualWeb, så læs først vores arti
 
 ### Tip 1: Brug filtre
 
-Listen over resultater kan være en smule uoverskuelig, så du kan med fordel bruge filtrene under overskriften ”Outcome” til at kun få vist ting, der fx er Failed eller en Warning (Warnings skal testes manuelt, se forklaring under ”Tip 2” nedenfor).\
+Listen over resultater kan være en smule uoverskuelig, så du kan med fordel bruge filtrene under overskriften ”Outcome” til at kun få vist ting, der fx er Failed eller en Warning (Warnings skal testes manuelt, se forklaring under ”[Tip 2: Forstå status på dine ](#tip-2:-Forstå-status-på-dine-testresultater)" nedenfor).\
 Hvis du vil se alt, QualWeb tester for, skal du sætte kryds i alle felter under "Outcome". 
 
 Derudover er det altid en god ide at filtrere på ”Level”, så der kun vises ”A” og ”AA”. (Dette filter findes desværre kun i [QualWeb online Evaluator](<http://qualweb.di.fc.ul.pt/evaluator/ >), og ikke i [QualWeb Chrome extension](https://chrome.google.com/webstore/detail/qualweb-extension/ljgilomdnehokancdcbkmbndkkiggioc)).
@@ -45,7 +45,7 @@ Hvis der IKKE er opgivet nogle WCAG-succeskriterier for en fejltype, så er det 
 I monitoreringerne for webtilgængelighedsloven medtages kun de ACT-regler, som er tilknyttet succeskriterier i WCAG 2.1.
 Hvis du vil have testresultater, der stemmer overens med monitoreringen, så skal du altså bare ignorere alle fejltyper i QualWeb, som ikke har WCAG-succeskriterier opgivet.
 
-#### Tip 4: Kig på fejlbeskrivelsen og kodevisningen for atforstå, hvad fejlen er
+#### Tip 4: Kig på fejlbeskrivelsen og kodevisningen for at forstå, hvad fejlen er
 
 Ved hvert enkelt element, som er testet for en bestemt fejltype, er der angivet en lille beskrivelse, som fortæller hvorfor netop dette element består eller fejler en test, eller hvorfor det ikke kan testes færdig automatisk. Disse beskrivelser er derfor vigtige for at forstå testresultaterne.
 
@@ -55,13 +55,13 @@ Det nemmeste er dog nok at kigge på html-koden og se, om man kan gætte, hvad d
 
 ### Tip 5: Brug et værktøj til at få vist dine fejl direkte på siden
 
-Ved hjælp af Qualweb Chrome Extension kan du faktisk få vist fejlene direkte på siden!
+Ved hjælp af [QualWeb Chrome extension](https://chrome.google.com/webstore/detail/qualweb-extension/ljgilomdnehokancdcbkmbndkkiggioc) kan du faktisk få vist fejlene direkte på siden!
 
-Se også afsnittet ”Test en enkelt side med Qualweb Chrome Extension” i vores blogpost ”[Kom nemt i gang med at bruge QualWeb](https://inklusio.dk/posts/s%C3%A5dan-kommer-du-nemt-i-gang-med-at-bruge-qualweb/)”.
+Se også afsnittet ”[Test en enkelt side med Qualweb Chrome Extension]https://inklusio.dk/posts/s%C3%A5dan-kommer-du-nemt-i-gang-med-at-bruge-qualweb#test-en-enkelt-side-med-qualweb-chrome-extension)” i vores blogpost ”[Kom nemt i gang med at bruge QualWeb](https://inklusio.dk/posts/s%C3%A5dan-kommer-du-nemt-i-gang-med-at-bruge-qualweb/)”.
 
 I Qualweb Chrome extension er der i den kasse, som indrammer hvert enkelt testresultat inde under en fejltype, en ”Highlight Element”/”Stop Highlight”-knap.
 Hvis du klikker den fra og til, vil du kunne se, at der et sted på den testede side bliver vist en stiplet boks omkring det element, der har problemet (eller som er testet og fundet ok, hvis det er et Passed resultat).
 
 Alternativt kan du bruge et andet værktøj, som fx [Siteimprove browser extension](https://siteimprove.com/da-dk/core-platform/integrations/browser-extensions/), til at highlighte fejl, som du har svært ved at finde ud fra Qualwebs kode-stykker.
 
-Se også afsnittet ”Kan jeg få de samme resultater med andre testværktøjer?” i vores blogpost ”[Kom nemt i gang med at bruge QualWeb](https://inklusio.dk/posts/s%C3%A5dan-kommer-du-nemt-i-gang-med-at-bruge-qualweb/)”.
+Se også afsnittet ”\[Kan jeg få de samme resultater med andre testværktøjer?](https://inklusio.dk/posts/s%C3%A5dan-kommer-du-nemt-i-gang-med-at-bruge-qualweb#kan-jeg-f%C3%A5-de-samme-resultater-med-andre-testv%C3%A6rkt%C3%B8jer%3F)” i vores blogpost ”[Kom nemt i gang med at bruge QualWeb](https://inklusio.dk/posts/s%C3%A5dan-kommer-du-nemt-i-gang-med-at-bruge-qualweb/)”.
