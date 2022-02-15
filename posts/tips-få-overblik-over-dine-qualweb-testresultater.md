@@ -20,14 +20,14 @@ Hvis du er i tvivl om, hvordan du tester med QualWeb, så læs først vores arti
 
 ### Tip 1: Brug filtre
 
-Listen over resultater kan være en smule uoverskuelig, så du kan med fordel bruge filtrene under overskriften ”Outcome” til at kun få vist ting, der fx er Failed eller en Warning (Warnings skal testes manuelt, se forklaring under ”[Tip 2: Forstå status på dine ](#tip-2:-Forstå-status-på-dine-testresultater)" nedenfor).\
+Listen over resultater kan være en smule uoverskuelig, så du kan med fordel bruge filtrene under overskriften ”Outcome” til at kun få vist ting, der fx er Failed eller en Warning (Warnings skal testes manuelt, se forklaring under ”[Tip 2: Forstå status på dine testresultater](#tip-2%3A-forst%C3%A5-status-p%C3%A5-dine-testresultater)" nedenfor).\
 Hvis du vil se alt, QualWeb tester for, skal du sætte kryds i alle felter under "Outcome". 
 
 Derudover er det altid en god ide at filtrere på ”Level”, så der kun vises ”A” og ”AA”. (Dette filter findes desværre kun i [QualWeb online Evaluator](<http://qualweb.di.fc.ul.pt/evaluator/ >), og ikke i [QualWeb Chrome extension](https://chrome.google.com/webstore/detail/qualweb-extension/ljgilomdnehokancdcbkmbndkkiggioc)).
 
 Også når du åbner resultaterne for én bestemt fejltype, er det en god ide at filtrere, så alle dine ”Passed” resultater ikke fylder hele din skærm.
 
-### Tip 2: Forstå status på dine testresultater.
+### Tip 2: Forstå status på dine testresultater
 
 * **Passed** = der er et eller flere elementer, som er relevante for denne test, og de består kravene i denne test. Fx er der et billede, som har et tekstalternativ.
 * **Failed** = der er et eller flere elementer, som er relevante for denne test, og de lever IKKE op til kravene i testen. Fx er det et billede, som IKKE har et tekstalternativ.
@@ -64,4 +64,4 @@ Hvis du klikker den fra og til, vil du kunne se, at der et sted på den testede 
 
 Alternativt kan du bruge et andet værktøj, som fx [Siteimprove browser extension](https://siteimprove.com/da-dk/core-platform/integrations/browser-extensions/), til at highlighte fejl, som du har svært ved at finde ud fra Qualwebs kode-stykker.
 
-Se også afsnittet ”\[Kan jeg få de samme resultater med andre testværktøjer?](https://inklusio.dk/posts/s%C3%A5dan-kommer-du-nemt-i-gang-med-at-bruge-qualweb#kan-jeg-f%C3%A5-de-samme-resultater-med-andre-testv%C3%A6rkt%C3%B8jer%3F)” i vores blogpost ”[Kom nemt i gang med at bruge QualWeb](https://inklusio.dk/posts/s%C3%A5dan-kommer-du-nemt-i-gang-med-at-bruge-qualweb/)”.
+Se også afsnittet ”[Kan jeg få de samme resultater med andre testværktøjer?](https://inklusio.dk/posts/s%C3%A5dan-kommer-du-nemt-i-gang-med-at-bruge-qualweb#kan-jeg-f%C3%A5-de-samme-resultater-med-andre-testv%C3%A6rkt%C3%B8jer%3F)” i vores blogpost ”[Kom nemt i gang med at bruge QualWeb](https://inklusio.dk/posts/s%C3%A5dan-kommer-du-nemt-i-gang-med-at-bruge-qualweb/)”.
