@@ -89,6 +89,7 @@ I det panel, som åbner ude til højre, er der øverst oppe nogle faneblade. Try
 ### Trin 4: Foretag indstillinger
 
 Under ”Select the modules to evaluate:” kan du sætte kryds ud for ”ACT Rules” og/eller ”WCAG Techniques”. 
+
 Sørg for at der KUN er sat kryds i ”ACT Rules” her. 
 
 Se evt. ”[Hvorfor skal jeg fjerne krydset i ”WCAG Techniques?”](#hvorfor-skal-jeg-fjerne-krydset-i-%E2%80%9Dwcag-techniques%3F%E2%80%9D)” ovenfor.
@@ -102,6 +103,7 @@ Se evt. blogindlægget ”[Tips: få overblik over dine QualWeb testresultater](
 ### Trin 6: Få highlightet dine fejl direkte på siden!
 
 I den kasse, som indrammer hvert enkelt testresultat inde under en fejltype, findes der en ”Highlight Element”/”Stop Highlight”-knap.
+
 Hvis du klikker den fra og til, vil du kunne se, at der et sted på den testede side bliver vist en stiplet boks omkring det element, der har problemet (eller som er testet og fundet ok, hvis det er et Passed resultat, dvs. et bestået resultat.
 
 Dette er super smart i forhold til at kunne lokalisere de fejlbehæftede elementer og få lagt en plan for at få dem rettet.
