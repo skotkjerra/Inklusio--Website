@@ -87,13 +87,13 @@ I det panel, som åbner ude til højre, er der øverst oppe nogle faneblade. Try
 Under ”Select the modules to evaluate:” kan du sætte kryds ud for ”ACT Rules” og/eller ”WCAG Techniques”. 
 Sørg for at der KUN er sat kryds i ”ACT Rules” her. 
 
-Se evt. ”Hvorfor skal jeg fjerne krydset i ”WCAG Techniques?”” ovenfor.
+Se evt. ”[Hvorfor skal jeg fjerne krydset i ”WCAG Techniques?”](#hvorfor-skal-jeg-fjerne-krydset-i-”wcag-techniques?")” ovenfor.
 
 ### Trin 5: Få dine testresultater
 
 Tryk på ”Evaluate”-knappen, og kig på dine resultater.
 
-Se evt. ”Tips til at få overblik over dine testresultater”. Der er små forskelle på bl.a. filtreringsmulighederne mellem QualWeb online Evaluator og QualWeb Chrome extension, men principperne er de samme.
+Se evt. ”[Tips: få overblik over dine QualWeb testresultater](https://inklusio.dk/posts/tips-f%C3%A5-overblik-over-dine-qualweb-testresultater/)”. Der er små forskelle på bl.a. filtreringsmulighederne mellem QualWeb online Evaluator og QualWeb Chrome extension, men principperne er de samme.
 
 ### Trin 6: Få highlightet dine fejl direkte på siden!
 
