@@ -57,7 +57,7 @@ Det nemmeste er dog nok at kigge på html-koden og se, om man kan gætte, hvad d
 
 Ved hjælp af [QualWeb Chrome extension](https://chrome.google.com/webstore/detail/qualweb-extension/ljgilomdnehokancdcbkmbndkkiggioc) kan du faktisk få vist fejlene direkte på siden!
 
-Se også afsnittet ”[Test en enkelt side med Qualweb Chrome Extension]https://inklusio.dk/posts/s%C3%A5dan-kommer-du-nemt-i-gang-med-at-bruge-qualweb#test-en-enkelt-side-med-qualweb-chrome-extension)” i vores blogpost ”[Kom nemt i gang med at bruge QualWeb](https://inklusio.dk/posts/s%C3%A5dan-kommer-du-nemt-i-gang-med-at-bruge-qualweb/)”.
+Se også afsnittet ”[Test en enkelt side med Qualweb Chrome Extension](https://inklusio.dk/posts/s%C3%A5dan-kommer-du-nemt-i-gang-med-at-bruge-qualweb#test-en-enkelt-side-med-qualweb-chrome-extension)” i vores blogpost ”[Kom nemt i gang med at bruge QualWeb](https://inklusio.dk/posts/s%C3%A5dan-kommer-du-nemt-i-gang-med-at-bruge-qualweb/)”.
 
 I Qualweb Chrome extension er der i den kasse, som indrammer hvert enkelt testresultat inde under en fejltype, en ”Highlight Element”/”Stop Highlight”-knap.
 Hvis du klikker den fra og til, vil du kunne se, at der et sted på den testede side bliver vist en stiplet boks omkring det element, der har problemet (eller som er testet og fundet ok, hvis det er et Passed resultat).
