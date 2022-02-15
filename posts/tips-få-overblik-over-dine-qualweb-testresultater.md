@@ -29,10 +29,10 @@ Også når du åbner resultaterne for én bestemt fejltype, er det en god ide at
 
 ### Tip 2: Forstå status på dine testresultater.
 
-* Passed = der er et eller flere elementer, som er relevante for denne test, og de består kravene i denne test. Fx er der et billede, som har et tekstalternativ.
-* Failed = der er et eller flere elementer, som er relevante for denne test, og de lever IKKE op til kravene i testen. Fx er det et billede, som IKKE har et tekstalternativ.
-* Warning = der er et eller flere elementer, som er relevante for denne test, og det var ikke muligt at teste dem færdig med automatisk test, så et menneske skal se, om de lever op til kravene i testen. Fx er der en tekst, der har en gradient som baggrund, så kontrasten mellem tekst og baggrund kunne ikke testes automatisk.
-* Not applicable = der var ingen elementer på siden, som var relevante for denne test. Fx var der ikke nogen billeder.
+* **Passed** = der er et eller flere elementer, som er relevante for denne test, og de består kravene i denne test. Fx er der et billede, som har et tekstalternativ.
+* **Failed** = der er et eller flere elementer, som er relevante for denne test, og de lever IKKE op til kravene i testen. Fx er det et billede, som IKKE har et tekstalternativ.
+* **Warning** = der er et eller flere elementer, som er relevante for denne test, og det var ikke muligt at teste dem færdig med automatisk test, så et menneske skal se, om de lever op til kravene i testen. Fx er der en tekst, der har en gradient som baggrund, så kontrasten mellem tekst og baggrund kunne ikke testes automatisk.
+* **Not applicable** = der var ingen elementer på siden, som var relevante for denne test. Fx var der ikke nogen billeder.
 
 ### Tip 3: Kig efter, om der er opgivet succeskriterier ved en fejltype
 
