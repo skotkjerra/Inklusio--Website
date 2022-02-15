@@ -12,6 +12,7 @@ tags:
   - Monitorering
 ---
 Qualweb er et testværktøj til test af tilgængelighed på websider. 
+
 Det er også det værktøj, der bruges til monitoreringen for webtilgængelighedsloven i Danmark, så det kan være godt at kende til det.
 
 ## QualWeb i monitoreringen for webtilgængelighedsloven
