@@ -148,8 +148,12 @@ main a {
    margin-bottom: 0.5em; /* 0.5 */
  }
 
- *:is(p, ul):not([class]) + *:is(p, ul):not([class]) {
+ *:is(p, ul, ol):not([class]) + *:is(p, ul, ol):not([class]) {
    margin-top: 2em; /* 2 */
+ }
+
+ *:is(ul, ol):not([class]) + *:is(ul, ol):not([class]) {
+   margin-bottom: 2em; /* 2 */
  }
 
  /*
