@@ -144,7 +144,7 @@ main a {
  }
 
  *:is(h2, h3, h4, h5, h6):not([class]) {
-   margin-top: 1em; /* 2 */
+   margin-top: 2em; /* 2 */
  }
 
  *:is(p, ul):not([class]) + *:is(p, ul):not([class]) {
