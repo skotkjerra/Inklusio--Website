@@ -152,8 +152,8 @@ main a {
    margin-top: 2em; /* 2 */
  }
 
- *:is(ul, ol):not([class]) + *:is(ul, ol):not([class]) {
-   margin-bottom: 2em; /* 2 */
+ li {
+   margin-bottom: 1em; /* 1 */
  }
 
  /*
