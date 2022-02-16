@@ -15,7 +15,7 @@ Hvis du ikke allerede har gættet det, skal kontrastforholdet mellem tekst og te
 
 Kravet om kontrast er gældende for al betydningsfuld tekst og billeder af tekst på din digitale løsning – hvad end det er brødtekst, tekst på knapper, tekst ved hover (dvs. tekst, som dukker op, når musen bliver ført hen over et element eller tekst) eller placeholder-tekst (dvs. tekst, som kun optager plads i et tekstfelt, indtil man vælger at udfylde feltet – eksempelvis ordet ”Søg” i et søgefelt) m.m. Dog er tekst, som ikke ændrer betydningen af indholdet på siden (såkaldt dekorativ tekst) og logoer ikke underlagt dette krav. 
 
-## **Så her er de 2 hurtige huskeregler, når vi snakker kontrastforhold:** 
+## Så her er de 2 hurtige huskeregler, når vi snakker kontrastforhold: 
 
 1. Tekst, som er **under 18 punkt**, skal have et kontrastforhold på **minimum 4,5:1** eller højere
 2. Tekst, som er **større end 18 punkt** eller **14 punkt fed**, skal have en kontrast på minimum 3:1 eller højere
@@ -30,11 +30,11 @@ Her er et eksempel på et henholdsvis tilstrækkeligt og utilstrækkeligt kontra
 
 *Til venstre ser vi et stykke tekst, hvor kontrastforholdene mellem tekst og baggrund er tilstrækkelige, mens eksemplet i højre side illustrerer for lave kontrastforhold.*   
 
-## **Et godt råd til dig, der har placeret tekst ovenpå billeder**
+## Et godt råd til dig, der har placeret tekst ovenpå billeder
 
 Når du placerer tekst på billeder, er det godt at tilføje et farve-overlay til billedet, så kontrasten bliver høj nok mellem tekst og baggrund. Derudover må man også gerne benytte skygger eller en kant rundt om bogstaverne i teksten, så længe kontrast mellem skygge eller kant og bogstaver er høj nok.
 
-## **Men hvordan tjekker jeg, at min tekst har tilstrækkelige kontrastforhold?** 
+## Men hvordan tjekker jeg, at min tekst har tilstrækkelige kontrastforhold
 
 Der findes mange værktøjer, som du kan benytte til tjekke, om dine tekster har høj nok kontrast. Her er et par af dem, vi anbefaler:
 
