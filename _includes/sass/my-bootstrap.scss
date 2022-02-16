@@ -143,6 +143,9 @@ main a {
    font-weight: normal;
  }
 
+ *:is(h2, h3, h4, h5, h6):not([class]) {
+   margin-top: 4em; /* 2 */
+ }
 
  *:is(p, ul):not([class]) + *:is(p, ul):not([class]) {
    margin-top: 2em; /* 2 */
