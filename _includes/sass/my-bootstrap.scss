@@ -125,6 +125,7 @@ main a {
  p,
  li {
    max-width: 65ch; /* 1 */
+   margin-left: 1em; 
  }
 
  h1,
@@ -153,7 +154,7 @@ main a {
  }
 
 li {
-    padding-left: 1em; 
+   margin-left: 1em; 
  }
  /*
   * Our version of BS doesn't have utility classes for font-sizes.
