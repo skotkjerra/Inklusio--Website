@@ -40,8 +40,9 @@ Til gengæld er det super nemt at teste en enkelt webside ad gangen ved hjælp a
 ## Test en enkelt side med QualWeb online Evaluator
 
 Fordele: 
-•	Du kan gøre det fra en hvilken som helst browser. 
-•	Du skal ikke installere noget.
+
+* Du kan gøre det fra en hvilken som helst browser. 
+* Du skal ikke installere noget.
 
 ### Trin 1: Gå ind på QualWeb Evaluator
 
@@ -72,7 +73,8 @@ Tryk på Check-knappen, og kig på dine resultater.
 ## Test en enkelt side med QualWeb Chrome Extension
 
 Fordele: 
-•	Du kan få vist dine fejl direkte på din side!
+
+* Du kan få vist dine fejl direkte på din side!
 
 ### Trin 1: Hent extension
 
