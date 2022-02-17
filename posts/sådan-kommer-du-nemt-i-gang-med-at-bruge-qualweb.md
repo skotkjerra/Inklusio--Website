@@ -95,7 +95,7 @@ Under ”Select the modules to evaluate:” kan du sætte kryds ud for ”ACT Ru
 
 Sørg for at der KUN er sat kryds i ”ACT Rules” her. 
 
-Se evt. ”[Hvorfor skal jeg fjerne krydset i ”WCAG Techniques?”](#hvorfor-skal-jeg-fjerne-krydset-i-%E2%80%9Dwcag-techniques%3F%E2%80%9D)” ovenfor.
+Se evt. ”[Hvorfor skal jeg fjerne krydset i ”WCAG Techniques?”](#hvorfor-skal-jeg-fjerne-krydset-i-%E2%80%9Dwcag-techniques%3F%E2%80%9D) ovenfor.
 
 ### Trin 5: Få dine testresultater
 
