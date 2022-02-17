@@ -78,7 +78,7 @@ Fordele:
 
 ### Trin 1: Hent extension
 
-[Download Qualweb Extension fra Chrome Web Store](https://chrome.google.com/webstore/detail/qualweb-extension/ljgilomdnehokancdcbkmbndkkiggioc).
+[Download Qualweb Extension](https://chrome.google.com/webstore/detail/qualweb-extension/ljgilomdnehokancdcbkmbndkkiggioc) fra Chrome Webstore.
 
 ### Trin 2: Åbn den side, du vil teste
 
