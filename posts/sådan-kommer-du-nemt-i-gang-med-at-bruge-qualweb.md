@@ -46,7 +46,7 @@ Fordele:
 
 ### Trin 1: Gå ind på QualWeb Evaluator
 
-Gå ind på http://qualweb.di.fc.ul.pt/evaluator/ 
+Gå ind på [Qualweb online Evaluator](http://qualweb.di.fc.ul.pt/evaluator/)
 
 ### Trin 2: Indtast URL
 
@@ -78,7 +78,7 @@ Fordele:
 
 ### Trin 1: Hent extension
 
-Download extension fra Chrome Web Store: https://chrome.google.com/webstore/detail/qualweb-extension/ljgilomdnehokancdcbkmbndkkiggioc
+[Download Qualweb Chrome Extension fra Chrome Web Store](https://chrome.google.com/webstore/detail/qualweb-extension/ljgilomdnehokancdcbkmbndkkiggioc).
 
 ### Trin 2: Åbn den side, du vil teste
 
@@ -121,8 +121,7 @@ Ud over QualWeb, kender du måske også testværktøjerne fra Siteimprove og Deq
 
 [Siteimprove browser extension](https://siteimprove.com/da-dk/core-platform/integrations/browser-extensions/) kan fås til flere browsere og kan visuelt vise direkte på din webside, hvor den har fundet et problem. Hvis du har svært ved at fortolke dine QualWeb-resultater, kan Siteimproves browser extension måske hjælpe dig med at fastslå, hvilket element på din side, der har problemer. 
 
-[axe DevTools](https://chrome.google.com/webstore/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd) fra Deque er lidt mere rettet mod udviklere, og du skal ind i browserens kodeinspektions-panel for at bruge det, men det kan stort set det samme som QualWeb og Siteimproves browser extensions. 
-
+[axe DevTools](https://chrome.google.com/webstore/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd) fra Deque er lidt mere rettet mod udviklere, og du skal ind i browserens kodeinspektions-panel for at bruge det, men det kan stort set det samme som QualWeb og Siteimproves browser extensions. \
 Axe bruges også i flere andre testværktøjer, herunder Google Lighthouse. 
 
 Der findes også andre testværktøjer, der bruger ACT-regler, men de er ikke lige så udbredte i Danmark. 
