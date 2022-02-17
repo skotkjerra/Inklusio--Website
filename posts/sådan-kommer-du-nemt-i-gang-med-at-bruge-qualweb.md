@@ -76,7 +76,7 @@ Fordele:
 
 * Du kan få vist dine fejl direkte på din side!
 
-### Trin 1: Hent extension
+### Trin 1: Hent QualWeb Chrome Extension
 
 [Download Qualweb Extension](https://chrome.google.com/webstore/detail/qualweb-extension/ljgilomdnehokancdcbkmbndkkiggioc) fra Chrome Web Store.
 
