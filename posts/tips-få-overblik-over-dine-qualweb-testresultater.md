@@ -45,7 +45,7 @@ Hvis der IKKE er opgivet nogle WCAG-succeskriterier for en fejltype, så er det 
 I monitoreringerne for webtilgængelighedsloven medtages kun de ACT-regler, som er tilknyttet succeskriterier i WCAG 2.1.
 Hvis du vil have testresultater, der stemmer overens med monitoreringen, så skal du altså bare ignorere alle fejltyper i QualWeb, som ikke har WCAG-succeskriterier opgivet.
 
-#### Tip 4: Kig på fejlbeskrivelsen og kodevisningen for at forstå, hvad fejlen er
+### Tip 4: Kig på fejlbeskrivelsen og kodevisningen for at forstå, hvad fejlen er
 
 Ved hvert enkelt element, som er testet for en bestemt fejltype, er der angivet en lille beskrivelse, som fortæller hvorfor netop dette element består eller fejler en test, eller hvorfor det ikke kan testes færdig automatisk. Disse beskrivelser er derfor vigtige for at forstå testresultaterne.
 
