@@ -12,6 +12,10 @@ tags:
 ---
 Det skal blive lettere for mennesker med handicap at navigere i den digitale verden. Det er formålet med det lovforslag om tilgængelighed for produkter og tjenester, som folketinget førstebehandler tirsdag den 1. marts 2022. Baggrunden for lovforslaget er et EU-direktiv, der betyder, at en række produkter og tjenester skal leve op til tilgængelighedskrav senest fra sommeren 2025. 
 
+![5 hænder holder skilt med ordet "accessible"](/img/accessible_haender_holder_skilt_med_ordet_accessible.jpg)
+
+
+
 Der findes allerede en lignende dansk lov, der gælder for alle offentlige apps og websteder. Det nye lovforslag om tilgængelighedskrav for produkter og tjenester gælder også for private producenter og udbydere af for eksempel betalingsterminaler i supermarkeder, billetautomater, og banktjenester som netbank, mobilbank og andre digitale løsninger. Derudover er større e-handelsvirksomheder, e-bøger og flere omfattet. Kort fortalt handler tilgængelighedskravene om, at mennesker med en funktionsnedsættelse skal kunne anvende produkterne og tjenesterne på lige fod med resten af samfundet.
 
 I stedet for at se lovforslaget som en uvelkommen udfordring og mere bureaukrati, så kan man vælge at se det som muligheden for at få et nyt og større marked ved at gøre sine produkter og tjenester tilgængelige for mange flere.
