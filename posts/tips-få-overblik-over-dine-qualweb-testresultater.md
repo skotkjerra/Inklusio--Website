@@ -16,8 +16,6 @@ Når du bruger QualWeb, er selvfølgelig vigtigt at vide, hvordan du skal læse 
 
 Hvis du er i tvivl om, hvordan du tester med QualWeb, så læs først vores artikel ”[Kom nemt i gang med at bruge QualWeb](https://inklusio.dk/posts/s%C3%A5dan-kommer-du-nemt-i-gang-med-at-bruge-qualweb/)”.
 
-
-
 ## Tips til at få overblik over dine QualWeb-testresultater
 
 ### Tip 1: Brug filtre
@@ -47,7 +45,9 @@ Hvis der IKKE er opgivet nogle WCAG-succeskriterier for en fejltype, så er det 
 I monitoreringerne for webtilgængelighedsloven medtages kun de ACT-regler, som er tilknyttet succeskriterier i WCAG 2.1.
 Hvis du vil have testresultater, der stemmer overens med monitoreringen, så skal du altså bare ignorere alle fejltyper i QualWeb, som ikke har WCAG-succeskriterier opgivet.
 
-![](/img/tips-and-tricks-online.jpg)
+
+
+![](/img/tips-tricks-online.png)
 
 
 
