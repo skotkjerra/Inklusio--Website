@@ -47,7 +47,7 @@ Hvis du vil have testresultater, der stemmer overens med monitoreringen, så ska
 
 
 
-![](/img/tips-tricks-online.png)
+![Kvinde arbejder ved computer, på skærmen står der "tips og tricks". ](/img/tips-tricks-online.png)
 
 
 
