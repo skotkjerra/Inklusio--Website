@@ -27,6 +27,10 @@ Til sidst laver vi en masse udregninger på de gemte data, så vi kan vise en ma
 
 Hvis man er den heldige modtager af en monitoreringsrapport, vil rapporten indeholde et unikt link til at gå ind på webtilsyn.dk, hvor man kan se sine egne testresultater.
 
+
+
+![QualWeb testværktøj, viser QualWebs logo og nogle filtreringsmuligheder](/img/qualweb-testværktøj-logo-filtre.png)
+
 ## Hvad kan du selv gøre med QualWeb?
 
 QualWeb er et open source testværktøj, så i princippet kan du gøre præcis det samme, som vi gør i monitoreringen. (Dog uden adgang til at få vist resultaterne på webtilsyn.dk, da dette er et websted udviklet specielt til den danske monitoreringsindsats.)
