@@ -15,6 +15,8 @@ Region Nordjylland er et af de offentlige organer, som siden september 2020 har 
 
 > "Vi fik kortlagt de udfordringer, der var i de forskellige apps i forhold til WCAG standardens krav om blandt andet kontraster, understøttelsen af forstørret tekst og at de skal kunne anvendes med skærmlæser og tastatur", forklarer Orla Pedersen, CEO hos Inqlude IT.
 
+![Brian og Henrik, som er testere hos InqludeIT, arbejder foran computer](/img/inqludeit-testere-brian-og-henrik.png)
+
 Efter at have overdraget og gennemgået resultaterne af testen for regionen og deres forskellige leverandører er det gået hurtigt med at få tilpasset løsningerne. Eksempelvis har der været et tæt samarbejde mellem regionen, tilgængelighedsspecialisterne og app-leverandøren hejDoktor, hvor Jonas Mosbech er udviklingschef.
 
 > "Vi har løbende haft fokus på tilgængeligheden, men de sidste detaljer kom frem i lyset i forbindelse med specialisternes test. Det viste sig, at der var enkelte udfordringer med justering af skriftstørrelser, kontrast og understøttelse af skærmlæsere i Videosamtale mobilappen til Android og iOS", fortæller han.
