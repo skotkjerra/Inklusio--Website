@@ -1,7 +1,6 @@
 ---
 title: Workshops
-summary: >-
-Deltag i en af vores mange workshops om digital tilgængelighed og på den måde få dig og dit team godt klædt på til arbejde med tilgængelighed i det daglige. 
+summary: Deltag i en af vores mange workshops om digital tilgængelighed og på den måde få dig og dit team godt klædt på til arbejde med tilgængelighed i det daglige. 
 cta: Læs mere om workshops
 ---
 Deltag i en af vores mange workshops om digital tilgængelighed og på den måde få dig og dit team godt klædt på til arbejde med tilgængelighed i det daglige. 

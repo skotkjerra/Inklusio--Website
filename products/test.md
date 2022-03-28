@@ -1,7 +1,6 @@
 ---
 title: Test
-summary: >-
-Sammen med dig og din leverandør tester vi din løsning, peger på problemområder, prioriterer og kommer med løsningsforslag.
+summary: Sammen med dig og din leverandør tester vi din løsning, peger på problemområder, prioriterer og kommer med løsningsforslag.
 cta: Læs mere om test
 ---
 Hvis du har behov for at få taget temperaturen på din digitale løsning, kan du med fordel kontakte os og få lavet tilgængelighedstest. 

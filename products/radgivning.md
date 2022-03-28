@@ -1,8 +1,7 @@
 ---
 title: Rådgivning
-summary: >-
-Vi deler gerne ud af vores viden, og det vigtigste i alt hvad vi laver er at efterlade vores kunder med bedre forudsætninger for at indtænke tilgængelighed på alle niveauer.
-cta: Læs mere om ådgivning
+summary: Vi deler gerne ud af vores viden, og det vigtigste i alt hvad vi laver er at efterlade vores kunder med bedre forudsætninger for at indtænke tilgængelighed på alle niveauer.
+cta: Læs mere om rådgivning
 ---
 At lave tilgængelighedsløsninger, der kan bruges af alle, kræver en kulturændring i organisationen. Eksempelvis mål og strategier der er godt forankret i ledelsen, at de involverede medarbejdere får den nødvendige opkvalificering og at tilgængelighed indtænkes i både planlægnings- og kvalitetssikringsarbejde, men det involverer også at forstå lovgivning, standarder osv.
 
