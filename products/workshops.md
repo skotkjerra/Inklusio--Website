@@ -1,13 +1,28 @@
 ---
 title: Workshops
 summary: >-
-  Rådgivning, vejledning og oplæring.
-
-  Vi kan hjælpe og vejlede din organisation med at overholde gældende lovgivning. Vi kan sikre, at I overholder alle standarder, såsom EN 301 549, Web Content Accessibility Guidelines (WCAG) 2.1 og WAI-ARIA best practices. Gennem årene har vi specialiseret os i værktøjer til tilgængelighedstest som f.eks. Siteimprove og QualWeb. 
-cta: Tag Læs mere om workshops
+Deltag i en af vores mange workshops om digital tilgængelighed og på den måde få dig og dit team godt klædt på til arbejde med tilgængelighed i det daglige. 
+cta: Læs mere om workshops
 ---
-Rådgivning, vejledning og oplæring.
+Deltag i en af vores mange workshops om digital tilgængelighed og på den måde få dig og dit team godt klædt på til arbejde med tilgængelighed i det daglige. 
 
-Vi kan hjælpe og vejlede din organisation med at overholde gældende lovgivning. Vi kan sikre, at I overholder alle standarder, såsom EN 301 549, Web Content Accessibility Guidelines (WCAG) 2.1 og WAI-ARIA best practices. 
+## Introduktion til tilgængelighed – halvdags workshop 
+Noget rigtig fin og flot tekst om denne fantastiske workshop der giver dig alt du nogensinde har drømt om, 
 
-Gennem årene har vi specialiseret os i værktøjer til tilgængelighedstest som f.eks. <a href="https://siteimprove.com">Siteimprove</a> og QualWeb. Alt efter jeres ønsker kan vi skræddersy en praktisk tilgængelighedsløsning til din organisation inkl. vejledning og oplæring
+men kun hvis du også køber den neste workshop som vi jo faktisk anbefaler hvis du gidder at læse det vi skriver.
+
+## Vi anbefaler: 2 dages workshop
+1) forstå tilgængelighed og lovgivning 
+2) få testet din løsning 
+
+Lidt flere ord på denne fantastiske ydelse der faktisk opfylder alle dine tilgængelighedsdrømme. Men faktisk er du ikke i mål endnu, du skal også hyre os på fast basis en dag om ugen til al evig tid.
+
+## Lær at forstå dine bruger 
+Noget virkelig endnu finere og flottere tekst
+
+Måske i et par afsnit så det ser ud af lidt mere.
+
+## Få skræddersyet en workshop efter dine behov – Planlæg 
+Den helt perfekte løsning som du sansynligvis ikke får lov til at bestille for din chef.
+
+Men hvis du gør så lover jeg at vi stiller med slik, kage og andre ting der gør dig populær hos dine  kolleger, og så bliver i alle så glade for tilgængelighed at i beslutter jer for at nedprioritere alt andet.
