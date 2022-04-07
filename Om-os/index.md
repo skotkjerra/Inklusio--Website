@@ -1,9 +1,9 @@
 ---
 layout: layouts/page.njk
-title: Om os?
+title: Om os
 templateClass: tmpl-post
 eleventyNavigation:
-  key: Om os?
+  key: Om os
   order: 3
 ---
 Inklusio er en konsulentvirksomhed, der rådgiver om tilgængelighed til web og mobil. 
