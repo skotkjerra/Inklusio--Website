@@ -1,7 +1,7 @@
 ---
 title: Apps fra Region Nordjylland – nu tilgængelige for alle
 date: 2022-03-24T11:42:59.756Z
-author: Anonymous
+author: Pia Christensen Bang
 summary: Region Nordjylland er et af de offentlige organer, som siden september
   2020 har været omfattet af loven om tilgængelighed for offentlige websteder og
   apps. Det betyder kort fortalt, at appsene også skal kunne anvendes af borgere
