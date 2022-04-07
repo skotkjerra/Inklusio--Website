@@ -5,14 +5,14 @@ summary: "Vi laver ikke noget for jer, vi laver det med jer. Vores specialister
   oplæring og fælles løsninger i workshops. "
 cta: Læs om vores forskellige workshops
 ---
-
-
 <p>Vi har gennem årene specialiseret os i at bruge en lang række værktøjer til at sikre og udvikle tilgængeligheden på apps og websteder. Den viden deler vi gerne med dig og dit team, så I fremover kan løse flere af udfordringerne uden hjælp udefra. Vi kan godt lave arbejdet for dig, men vi vil meget hellere lave det med dig.</p>
 <p>Vi har workshops med forskelligt fokus og omfang, og skulle ingen af vores eksisterende produkter matche dit behov, så skræddersyr vi gerne et godt tilbud til dig.</p>
 
-## Introduktion til tilgængelighed - halvdagsworkshop
+## Introduktion til tilgængelighed 
 
 <p>En halv dag, hvor du og dit team får en grundlæggende introduktion til begrebet tilgængelighed. Vi ser på reglerne, på typiske udfordringer og løsningsmuligheder - hele tiden med fokus på jeres eget produkt. </p>
+
+**Varighed**: 1/2 dag 
 
 ## Hands-on i to dage
 
