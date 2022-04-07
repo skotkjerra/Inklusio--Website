@@ -11,7 +11,7 @@ Gennem en årrække har vi hos Inklusio specialiseret os i værktøjer til tilg�
 
 De traditionelle testrapporter kan være svære at forstå og endnu sværere at omsætte til opgaver til din leverandør eller udvikler. Derfor tester vi helst sammen med dig og hjælper dig til at dokumentere de problemer, vi finder i lige det system, du gerne vil have den.
 
-## Screening – få taget temperaturen
+## Screening af din løsning 
 
 Vi tilbringer en halv dag sammen med jer, hvor vi tager temperaturen på jeres app eller websted, når det gælder tilgængelighed. Dette er på ingen måde en fuldstændig test, men det giver et indblik, i hvor I bør prioritere indsatsen. Sammen lægger vi en plan for det videre forløb.
 
