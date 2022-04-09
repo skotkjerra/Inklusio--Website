@@ -5,25 +5,36 @@ eleventyNavigation:
   key: Hjem
   order: 1
 ---
-<div class="row">
-    <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 ">
+<div class="row justify-content-center">
+<div class="col">
         <h1>Vi gør webtilgængelighed overskueligt</h1>
         <p>Inklusio ApS er en konsulentvirksomhed der rådgiver omkring digital inklusion og webtilgængelighed. Vi vil gerne være din sparringspartner fra opstart af proces til test af færdig løsning. </p>
-        <p><a href="tel:+4526343455">Ring til os på +45&nbsp;26&nbsp;34&nbsp;34&nbsp;55</a></p>
+        <p><a class="bg-primary btn-primary p-3 mt-auto rounded text-decoration-none" href="tel:+4526343455">Ring til os på +45&nbsp;26&nbsp;34&nbsp;34&nbsp;55</a></p>
         <p>Vi kan hjælpe med alt hvad der vedrører digital inklusion og webtilgængelighed:<p>
-        <ul>
-            <li class="mb-2">Organisatorisk forankring og strategi udvikling</li>
-            <li class="mb-2">Test, vurdering og monitorering</li>
-            <li class="mb-2">Rådgivning, vejledning og oplæring</li>
-            <li class="mb-2">Prioritering, løsningsforslag og optimering</li>
-        </ul>
-        <p>Vi lægger vægt på faglighed og ansvarlighed.</p>
-        <p>Det er et mål i alle vores projekter at overføre mest mulig af vores viden til dig som kunde. Derfor laver vi ikke tingene <strong>for</strong> dig, men <strong>med</strong> dig.</p>
+</div>
+</div>
+
+  <div class="container-fluid p-0">
+    <div class="row gy-2">
+      {% for post in collections.products %}
+      <div class="col-12 col-md-6 col-lg-4 mb-5">
+      <div class="card p-4 bg-white h-100">
+        {% if post.data.title %}
+        <h2 class="card-title">{{ post.data.title }}</h2>
+        {% endif %}
+
+        {% if post.data.summary %}
+        <p class="card-text">{{ post.data.summary }}</p>
+        {% endif %}
+        <a href="{{ post.url | url }}" class="bg-primary btn-primary p-3 mt-auto rounded text-decoration-none">{{ post.data.cta }}</a>
+      </div>
+      </div>
+      {% endfor %}
     </div>
-    <div class="col-12 col-sm-12 col-md-12  col-lg-4 col-xl-4 ">
-        <img src="img/SES-black-and-white.jpg" width="904" height="1356" class="img-fluid" alt="Stein Erik Skotkjerra"  />
-    </div>
-    <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4">
+  </div>
+
+<div class="row justify-content-center py-2">
+<div class="col sm-6">
         <h2 class="pt-0">Aktuelt</h2>
         <div class="my-2">
         {% set postslist = collections.posts | head(-3) %}
@@ -31,5 +42,5 @@ eleventyNavigation:
         {% include "postslist.njk" %}
         </div>
         <p>Du kan læse flere artikler på vores <a href="{{ '/artikler/' | url }}">blog</a>.</p>
-    </div>
-</div>
+		</div>
+		</div>
