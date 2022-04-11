@@ -18,7 +18,7 @@ Så hvis du er i tvivl om, hvor godt din løsning lever op til kravene om at væ
 **Faglig Fredag**
 
 * **Tid:** Fredag den 6. maj 2022 klokken 12 – 15
-* **Sted:** GrowAAL East: Frederik Bajers Vej 300, Aalborg Øst
+* **Sted:** GrowAAL East: Fredrik Bajers Vej 300, Aalborg Øst
 * **Pris:** Gratis
 
 **Program:**
