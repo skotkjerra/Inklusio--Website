@@ -9,7 +9,7 @@ tags:
   - Webtilgængelighed
   - Test
 ---
-Kom med til faglig fredag om Webtilgængelighed!
+Kom med til faglig fredag om Webtilgængelighed den 6. maj!
 
 Vi byder på korte oplæg om typiske udfordringer og mulige løsninger, og vi løfter sløret for, hvordan du selv kan teste dit produkt. Vi får også besøg af en bruger, der selv er blind og gerne vil søge oplysninger på kommunens hjemmeside, købe togbilletter via en app eller holde sig opdateret med nyheder fra medierne.
 
@@ -17,9 +17,9 @@ Så hvis du er i tvivl om, hvor godt din løsning lever op til kravene om at væ
 
 **Faglig Fredag**
 
-* Tid: Fredag den 6. maj 2022 klokken 12 – 15
-* Sted: GrwoAAL East: Frederik Bajers Vej 300, Aalborg Øst
-* Pris: Gratis
+* **Tid:** Fredag den 6. maj 2022 klokken 12 – 15
+* **Sted:** GrwoAAL East: Frederik Bajers Vej 300, Aalborg Øst
+* **Pris:** Gratis
 
 **Program:**
 
