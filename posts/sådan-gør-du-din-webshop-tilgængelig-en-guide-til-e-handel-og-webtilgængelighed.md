@@ -10,7 +10,7 @@ summary: Skal din webshop leve op til sit fulde potentiale, så tag et kig på
   tilgængelighed ind i e-handel - eller eCommerce som det også er kendt som -
   allerede i dag, og vi giver dig 5 tips til at komme i gang med det samme.
 tags:
-  - ehandel
+  - E-handel
 ---
 
 ## Hvad er webtilgængelighed?
