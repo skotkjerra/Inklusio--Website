@@ -43,13 +43,13 @@ Disse 5 områder kan du som webshopejer komme i gang med allerede i dag.
 
 1. **Alternativ tekst på produktbilleder** 
    En webshop har typisk mange produktbilleder, som en svagtseende eller blind ikke vil kunne få informationer om, hvis disse ikke har en alternativ tekst. Tilføjelsen af alt-tekster til produktbilleder vil ikke kun skabe en bedre brugeroplevelse, men det vil også forbedre søgemaskineoptimeringen på din webshop, og derved sikre, at flere kan opdage den. 
-2. **Navigation med tastatur** </br>
+2. **Navigation med tastatur** 
    Nogle personer benytter kun tastatur til at navigere på internettet, og det er derfor afgørende, at dette er muligt for denne gruppe personer, hvis de skal kunne handle i netop din webshop.  
 3. **Zoom**</br>
    Hvis man ikke allerede har nedsat syn, så vil næsten alle opleve at få det med alderen, og derfor er det vigtigt med muligheden for at kunne zoome ind på hjemmesider uden noget indhold forsvinder eller noget funktionalitet går i stykker. Prøv at zoom ind til 400 % i browseren på din webshop, og tjek at du stadig man tilgå alle funktioner og læse alt indhold på siden.  
-4. **Tilgængelige farvevalg**</br>
+4. **Tilgængelige farvevalg**
    Det er vigtigt, at farvevalget på din webshops indhold ikke forhindrer nogen i at kunne læse det. Derfor skal du sørge for, at kontrasten på tekst har en tilstrækkelig kontrast til baggrunden. For lav kontrast på dit tekstlige indhold kan gøre det næsten umuligt for nogle personer at læse. Derfor skal kontrasten mellem tekst og baggrund være 4,5:1. Det samme gør sig gældende for meningsgivende grafikker og interaktive elementer, hvor minimumskravet er 3:1. Brug en online kontrasttjekker til at teste farverne på din webshop.  
-5. **Undertekster på videoer** </br>
+5. **Undertekster på videoer** 
    Hvis du benytter videomateriale i din webshop, er det en rigtig god ide at tilføje undertekster, da det vil gøre det muligt for personer med nedsat eller ingen hørelse at tilgå indholdet af videoen. Dette vil også forbedre brugeroplevelsen for alle, da nogle har en præference om at se videoer uden lyd. 
 
 ## Hvornår er det en god ide at få hjælp udefra?
