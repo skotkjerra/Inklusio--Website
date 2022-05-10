@@ -41,7 +41,7 @@ Det er åbenlyst, at der er mange gode argumenter for at tage stilling til webti
 
 Disse 5 områder kan du som webshopejer komme i gang med allerede i dag. 
 
-1. **Alternativ tekst på produktbilleder** </br>
+1. **Alternativ tekst på produktbilleder** 
    En webshop har typisk mange produktbilleder, som en svagtseende eller blind ikke vil kunne få informationer om, hvis disse ikke har en alternativ tekst. Tilføjelsen af alt-tekster til produktbilleder vil ikke kun skabe en bedre brugeroplevelse, men det vil også forbedre søgemaskineoptimeringen på din webshop, og derved sikre, at flere kan opdage den. 
 2. **Navigation med tastatur** </br>
    Nogle personer benytter kun tastatur til at navigere på internettet, og det er derfor afgørende, at dette er muligt for denne gruppe personer, hvis de skal kunne handle i netop din webshop.  
