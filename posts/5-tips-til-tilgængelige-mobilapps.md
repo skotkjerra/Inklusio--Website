@@ -53,7 +53,7 @@ Således endnu et eksempel på, at det, der er vigtigt for nogen, er til gavn fo
 
 ## Video og animation
 
-Mon du kan svare på følgende spørgsmål?
+Mon du kan svare på følgende spørgsmål om video og animation?
 
 * **Hvordan gør man videoers billedside tilgængelig for folk, som ikke kan se?**
   \
