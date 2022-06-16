@@ -72,8 +72,4 @@ Det er en god, kreativ øvelse at gøre allerede inden I publicerer videoerne. N
 
 ![Illustrationen viser en mobil enhed med ikonet 'play' på skærmen. Tekst på billedet: ”Ville dit indhold vise det samme budskab, hvis der ikke var lyd eller billedindhold? Husk at tilføje alternativer såsom undertekster og synstolkning, så dit indhold kan nydes af alle.” ](/img/video-og-animation-mobilapps.png)
 
-
-
-
-
 Og det gælder for øvrigt alting, når det kommer til webtilgængelighed: Des tidligere i processen, I indtænker tilgængelighed, des bedre er det for jeres tid, for jeres økonomi og for jeres brugere!
