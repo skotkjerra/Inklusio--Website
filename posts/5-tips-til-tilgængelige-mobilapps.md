@@ -19,6 +19,8 @@ Sørg for, at der er et kontrastforhold på mindst 4,5:1 mellem tekst og baggrun
 
 Hvordan tjekker du, at din tekst har tilstrækkelig kontrast? Få svaret og læs mere om kontraster i vores blogindlæg ”[Tilgængelighed 101: Lever dine tekster op til kravet om kontrast?](https://inklusio.dk/posts/digital-tilgaengelighed-101-lever-dine-tekster-op-til-kravet-om-kontrast/)” 
 
+![Illustrationen viser et eksempel på høj kontrast, illustreret via en hvid cirkel, som delvist overlapper en sort cirkel. Tekst på billedet: ”Sørg for høj kontrast. Sørg for et kontrastforhold på mindst 4,5:1 mellem tekst og baggrund. Dette vil forbedre oplevelsen for personer med nedsat syn”](/img/kontrast-mobilapps.png)
+
 ## Tekststørrelse
 
 Kender du nogen, der har svært ved at læse tekster, fordi de har nedsat syn? Det gør vi!
@@ -27,11 +29,15 @@ Derfor er det vigtigt, at brugerne har mulighed for at ændre tekststørrelsen i
 
 Der er en masse mennesker med nedsat syn, både yngre og ældre, der vil takke dig for det!
 
+![Illustrationen viser bogstavet A med henholdsvis stor og lille skriftstørrelse. Tekst på billedet: ”Mange brugere ændrer tekststørrelsen på deres personlige enheder. Sørg for, at dit at design ikke forhindrer, at tekststørrelsen kan ændres”.](/img/tekststoerrelse-mobilapps.png)
+
 ## Skærmretning
 
 Det er vigtigt, at din app er designet, så indholdet tilpasser sig skærmretningen, når du drejer enheden 90 grader. F.eks. skal teksten følge skærmretningen, og det er selvfølgelig også vigtigt, at funktioner ikke forsvinder, når enheden drejes.
 
 Dette er f.eks. vigtigt for kørestolsbrugere, som har deres enhed fastmonteret i en bestemt retning og derfor ikke kan dreje skærmen. Dertil er der brugere med nedsat syn, som f.eks. foretrækker vandret visning, så teksten bliver større. Og så er der rigtig mange brugere uden funktionsnedsættelser, som bare foretrækker at kunne vende skærmen, som de vil, afhængigt af den enkelte brugssituation.
+
+![Illustration viser, at mobilapplikationers design skal tilpasse sig skærmretningen, når mobile enheder drejes 90 grader. Tekst på billedet: ”Brugere skifter enhedens retning af mange forskellige årsager. Derfor skal du sikre, at dit at design ikke begrænser visning og funktionalitet til en enkelt skærmretning.”](/img/skaermretning-mobilapps.png)
 
 ## Skærmlæser og stemmestyring
 
@@ -42,6 +48,8 @@ Det er vigtigt at give brugergrænsefladekomponenter meningsfulde navne og etike
 Måske bruger du også selv stemmestyring en gang imellem? Stemmestyring er nemlig, når du styrer din enhed med stemmen, uden brug af hænder. Det er selvfølgelig vigtigt for folk med nedsat motorik, at dette fungerer – men det er også virkelig praktisk for andre, f.eks. hvis man gerne vil styre sin app, mens man bruger hænderne til noget andet, såsom at lave mad.
 
 Således endnu et eksempel på, at det, der er vigtigt for nogen, er til gavn for alle.
+
+![Illustrationen viser en mobil enhed med en taleboble henover. ”Tekst på billedet: Skærmlæser og stemmestyring: giv brugergrænsefladekomponenter meningsfulde navne og etiketter. Dette vil gøre det lettere at navigere med skærmlæser og stemmestyring.”](/img/skaermlaeser-og-stemmestyring-mobilapps.png)
 
 ## Video og animation
 
@@ -63,3 +71,5 @@ For at tjekke, om jeres videoer er tilgængelige, kan du prøve at se dem hhv. u
 Det er en god, kreativ øvelse at gøre allerede inden I publicerer videoerne. Når jeres videoer er tilgængelige fra starten, gavner det nemlig både jeres tid, jeres budget og brugerne 😊 
 
 Og det gælder for øvrigt alting, når det kommer til webtilgængelighed: Des tidligere i processen, I indtænker tilgængelighed, des bedre!
+
+![Illustrationen viser en mobil enhed med ikonet 'play' på skærmen. Tekst på billedet: ”Ville dit indhold vise det samme budskab, hvis der ikke var lyd eller billedindhold? Husk at tilføje alternativer såsom undertekster og synstolkning, så dit indhold kan nydes af alle.” ](/img/video-og-animation-mobilapps.png)
