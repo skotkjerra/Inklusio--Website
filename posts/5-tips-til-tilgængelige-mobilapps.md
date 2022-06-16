@@ -70,6 +70,6 @@ For at tjekke, om jeres videoer er tilgængelige, kan du prøve at se dem hhv. u
 
 Det er en god, kreativ øvelse at gøre allerede inden I publicerer videoerne. Når jeres videoer er tilgængelige fra starten, gavner det nemlig både jeres tid, jeres budget og brugerne 😊 
 
-Og det gælder for øvrigt alting, når det kommer til webtilgængelighed: Des tidligere i processen, I indtænker tilgængelighed, des bedre!
+Og det gælder for øvrigt alting, når det kommer til webtilgængelighed: Des tidligere i processen, I indtænker tilgængelighed, des bedre er det for jeres økonomi, tid og brugere!
 
 ![Illustrationen viser en mobil enhed med ikonet 'play' på skærmen. Tekst på billedet: ”Ville dit indhold vise det samme budskab, hvis der ikke var lyd eller billedindhold? Husk at tilføje alternativer såsom undertekster og synstolkning, så dit indhold kan nydes af alle.” ](/img/video-og-animation-mobilapps.png)
