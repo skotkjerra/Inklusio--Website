@@ -19,6 +19,12 @@ Sørg for, at der er et kontrastforhold på mindst 4,5:1 mellem tekst og baggrun
 
 Hvordan tjekker du, at din tekst har tilstrækkelig kontrast? Få svaret og læs mere om kontraster i vores blogindlæg ”[Tilgængelighed 101: Lever dine tekster op til kravet om kontrast?](https://inklusio.dk/posts/digital-tilgaengelighed-101-lever-dine-tekster-op-til-kravet-om-kontrast/)” 
 
+![](/img/kontrast-lille-.png)
+
+
+
+
+
 ![Illustrationen viser et eksempel på høj kontrast, illustreret via en hvid cirkel, som delvist overlapper en sort cirkel. Tekst på billedet: ”Sørg for høj kontrast. Sørg for et kontrastforhold på mindst 4,5:1 mellem tekst og baggrund. Dette vil forbedre oplevelsen for personer med nedsat syn”](/img/kontrast-mobilapps.png)
 
 ## Tekststørrelse
