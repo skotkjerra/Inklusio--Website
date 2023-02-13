@@ -56,10 +56,6 @@ $theme-colors: (
 
 $inklusio-dark-grey: #3B3B3A;
 
-body {
-  hyphens: auto;
-}
-
 .site-container {
   min-height: 100vh;
   display: grid;
@@ -135,6 +131,7 @@ p,
 li {
   max-width: 65ch;
   /* 1 */
+  hyphens: auto;
 }
 
 p.full-width {
