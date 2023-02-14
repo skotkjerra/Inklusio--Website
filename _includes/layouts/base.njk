@@ -13,14 +13,14 @@
   </head>
   <body>
   <div class="site-container">
-     {% include nav.njk %}
+     {% include "layouts/nav.njk" %}
 
     <main id="main" tabindex="-1">
         <div class="container-xxl p-5"> 
             {{ content | safe }}
         </div>
     </main>
-     {% include footer.njk %}
+     {% include "layouts/footer.njk" %}
 
  </div>
 
