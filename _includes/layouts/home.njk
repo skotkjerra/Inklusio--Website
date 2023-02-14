@@ -13,63 +13,22 @@
   </head>
   <body>
   <div class="site-container">
-    <header class="site-header">
-        <a class="skiptomain" href="#main">Spring til hovedindhold</a>
-        <div class="container-xxxl">
-            <nav class="navbar navbar-expand-lg navbar-dark px-0" aria-label="Top menu">
-                <a class="navbar-brand" href="/">
-                    <img src="{{ '/img/logo.png' | url }}" alt="Inklusio logo" width="150" height="22" class="img-fluid mr-4 mb-1" />
-                </a>
+     {% include nav.njk %}
 
-                <button aria-label="menu" class="navbar-toggler ml-auto custom-toggler" type="button" data-toggle="collapse" data-target="#collapsingNavbar4" aria-expanded="false">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-
-                <div class="navbar-collapse collapse" id="collapsingNavbar4">
-                    <div class="navbar-nav">
-                    {%- for entry in collections.all | eleventyNavigation %}
-                        <a class="nav-item nav-link text-decoration-underline-hover text-white {% if entry.url == page.url %} text-decoration-underline {% endif %} mr-4" {% if entry.url == page.url %} aria-current="page"{% endif %} href="{{ entry.url | url }}">{{ entry.title }}</a>
-                    {%- endfor %}
-	  		        </div>
-                </div>
-            </nav>
-        </div>
-    </header>
-
-    <main id="main" tabindex="-1" {% if templateClass %} class="{{ templateClass }}"{% endif %}>
-        <div class="container-xxl px-5"> 
+    <main id="main" tabindex="-1">
+        <div class="container-xxl px-5 pb-5"> 
             {{ content | safe }}
         </div>
     </main>
+     {% include footer.njk %}
 
-    <footer class="site-footer">
-        <div class="container-xxl">
-            <div class="row">
-                <div class="col-12 col-sm-12 col-md-12  col-lg-4 col-xl-4 ">
-                    <p class="my-3">
-                        Inklusio ApS, CVR: 41066784
-                    </p>
-                </div>
-                <div class="col-12 col-sm-12 col-md-12  col-lg-4 col-xl-4 ">
-                    <p class="my-3">
-                        Enggårdsgade 1, 1.th. 9000 Aalborg, Denmark
-
-                    </p>
-                </div>
-                <div class="col-12 col-sm-12 col-md-12  col-lg-4 col-xl-4 ">
-                    <p class="my-3">
-                        <span id="phoneDesc">Telefon:</span> <a aria-describedby="phoneDesc" href="tel:+45 26 34 34 55" class="text-white text-decoration-underline">+45 26 34 34 55</a>
-                    </p>
-                </div>
-            </div>
-        </div>
-    </footer>
  </div>
 
 
     <!-- Current page: {{ page.url | url }} -->
 
 </body>
+
 <script src="{{ '/js/inklusio.js' | url }}"></script>
 
 </html>

@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="da-DK">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% if title %}{{ title }} - {% endif %}Inklusio</title>
+    <meta name="Description" content="{{ renderData.description or description or metadata.description }}">
+
+    <link rel="stylesheet" href="{{ '/css/my-bootstrap.css' | url }}">
+    <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
+<link rel="icon" type="image/x-icon" href="{{ '/img/favicon.ico' | url }}">
+
+  </head>
+  <body>
+  <div class="site-container">
+    <header class="site-header">
+        <a class="skiptomain" href="#main">Spring til hovedindhold</a>
+        <div class="container-xxxl">
+            <nav class="navbar navbar-expand-lg navbar-dark px-0" aria-label="Top menu">
+                <a class="navbar-brand" href="/">
+                    <img src="{{ '/img/logo.png' | url }}" alt="Inklusio logo" width="150" height="22" class="img-fluid mr-4 mb-1" />
+                </a>
+
+                <button aria-label="menu" class="navbar-toggler ml-auto custom-toggler" type="button" data-toggle="collapse" data-target="#collapsingNavbar4" aria-expanded="false">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="navbar-collapse collapse" id="collapsingNavbar4">
+                    <div class="navbar-nav">
+                    {%- for entry in collections.all | eleventyNavigation %}
+                        <a class="nav-item nav-link text-decoration-underline-hover text-white {% if entry.url == page.url %} text-decoration-underline {% endif %} mr-4" {% if entry.url == page.url %} aria-current="page"{% endif %} href="{{ entry.url | url }}">{{ entry.title }}</a>
+                    {%- endfor %}
+	  		        </div>
+                </div>
+            </nav>
+        </div>
+    </header>
+
+    <main id="main" tabindex="-1" {% if templateClass %} class="{{ templateClass }}"{% endif %}>
+        <div class="container-xxl p-5"> 
+            {{ content | safe }}
+        </div>
+    </main>
+
+    <footer class="site-footer">
+        <div class="container-xxl">
+            <div class="row">
+                <div class="col-12 col-sm-12 col-md-12  col-lg-4 col-xl-4 ">
+                    <p class="my-3">
+                        Inklusio ApS, CVR: 41066784
+                    </p>
+                </div>
+                <div class="col-12 col-sm-12 col-md-12  col-lg-4 col-xl-4 ">
+                    <p class="my-3">
+                        Enggårdsgade 1, 1.th. 9000 Aalborg, Denmark
+
+                    </p>
+                </div>
+                <div class="col-12 col-sm-12 col-md-12  col-lg-4 col-xl-4 ">
+                    <p class="my-3">
+                        <span id="phoneDesc">Telefon:</span> <a aria-describedby="phoneDesc" href="tel:+45 26 34 34 55" class="text-white text-decoration-underline">+45 26 34 34 55</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </footer>
+ </div>
+
+
+    <!-- Current page: {{ page.url | url }} -->
+
+</body>
+<script src="{{ '/js/inklusio.js' | url }}"></script>
+
+</html>
