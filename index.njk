@@ -2,34 +2,100 @@
 layout: layouts/home.njk
 title: Webtilgængelighed, WCAG 2.1test og rådgivning
 eleventyNavigation:
-  key: Hjem
-  order: 1
+key: Hjem
+order: 1
 ---
-<div class="row">
-    <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 ">
-        <h1>Vi gør webtilgængelighed overskueligt</h1>
-        <p>Inklusio ApS er en konsulentvirksomhed der rådgiver omkring digital inklusion og webtilgængelighed. Vi vil gerne være din sparringspartner fra opstart af proces til test af færdig løsning. </p>
-        <p><a href="tel:+4526343455">Ring til os på +45&nbsp;26&nbsp;34&nbsp;34&nbsp;55</a></p>
-        <p>Vi kan hjælpe med alt hvad der vedrører digital inklusion og webtilgængelighed:<p>
-        <ul>
-            <li class="mb-2">Organisatorisk forankring og strategi udvikling</li>
-            <li class="mb-2">Test, vurdering og monitorering</li>
-            <li class="mb-2">Rådgivning, vejledning og oplæring</li>
-            <li class="mb-2">Prioritering, løsningsforslag og optimering</li>
-        </ul>
-        <p>Vi lægger vægt på faglighed og ansvarlighed.</p>
-        <p>Det er et mål i alle vores projekter at overføre mest mulig af vores viden til dig som kunde. Derfor laver vi ikke tingene <strong>for</strong> dig, men <strong>med</strong> dig.</p>
+<!-- Bootstrap Font Icon CSS -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" />
+
+<!-- Banner -->
+<div class="banner px-5 pb-5 pt-0 bg-dark text-light">
+ 
+  <div class="container">
+ 
+    <div class="row align-items-center justify-content-between">
+ 
+       <div class="col p-5">
+          <h1 style="font-size: 4em;">Vi arbejder sammen om at gøre webtilgængelighed overskueligt</h1>
+          <p class="lead my-4">Inklusio rådgiver dig om digital inklusion og webtilgængelighed. Vi gør tilgængeligheden overskuelig og nem med workshops, rådgivning og tests.</p>
+          <a href="#" class="btn btn-primary">Book et møde</a>
+        </div> <!-- col -->
+ 
+      <div class="col">
+          <img src="/img/AnneSEKat.jpg" class="img-fluid" alt="Billede af Anne, Katrine og Stein Erik ved en computer">
+       </div><!-- col -->
+ 
+    </div> <!-- row -->
+  </div> <!-- Container -->
+</div><!-- banner -->
+
+<!-- Selling point card -->
+<div class ="card-group p-5">
+  <div class="card mb-4 border-0">
+    <div class="card-body"><i class="bi bi-people" style="font-size: 3rem;" alt=""></i>
+      <h2 class="card-title-font">Workshops</h2>
+      <p class="pr-5 my-4">Vi laver ikke noget for jer, vi laver det med jer. Vores specialister deler gerne deres viden om webtilgængelighed med jer gennem tæt samarbejde, oplæring og fælles løsninger i skræddersyede workshops.
+      </p>
     </div>
-    <div class="col-12 col-sm-12 col-md-12  col-lg-4 col-xl-4 ">
-        <img src="img/SES-black-and-white.jpg" width="904" height="1356" class="img-fluid" alt="Stein Erik Skotkjerra"  />
+  </div>
+  <div class="card mb-4 border-0 pr-5">
+   <div class="card-body"> <i class="bi bi-ui-checks-grid" style="font-size: 3rem;" alt=""></i>
+      <h2 class="card-title-font">Bedst til test</h2>
+      <p class= "my-4">Vi har i Inklusio specialiseret os i at bruge de bedste værktøjer og metoder til test af webtilgængelighed. Sammen med dig og din leverandør finder vi problemområder og løsninger.
+      </p>
     </div>
-    <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4">
-        <h2 class="pt-0">Aktuelt</h2>
-        <div class="my-2">
-        {% set postslist = collections.posts | head(-3) %}
-        {% set postslistCounter = collections.posts | length %}
-        {% include "postslist.njk" %}
-        </div>
-        <p>Du kan læse flere artikler på vores <a href="{{ '/artikler/' | url }}">blog</a>.</p>
+  </div>
+  <div class="card mb-4 border-0 pr-5">
+    <div class="card-body"> <i class="bi bi-lightbulb" style="font-size: 3rem;" alt=""></i>
+    
+      <h2 class="card-title-font">Rådgivning</h2>
+      <p class="my-4">Vi deler altid ud af vores viden, og det vigtigste er at efterlade vores kunder med bedre forudsætninger for at indtænke tilgængelighed på alle niveauer.</p>
     </div>
+  </div>
+</div>
+
+<!-- Image and text Hvad er tilgængelighed -->
+<div class=" row align-items-center justify-content-between p-5">
+  <div class="col-md-5">
+    <img src="/img/Section 6 Image.png" class="img-fluid" alt="Billede af Anne, Katrine og Stein Erik ved en computer">
+  </div>
+  <div class="col-md-7 p-5">
+    <h2 class="text-left">Hvad er webtilgængelighed?</h2>
+    <p class="my-4">Webtilgængelighed handler om, at alle skal kunne anvende websteder og mobilapplikationer uanset sin forudsætning for det. Det vil sige, at hvis du har eksempelvis permanent nedsat hørelse, eller hvis du har brækket en arm, så skal du stadig kunne benytte digitale løsninger.
+    </p>
+    <a href="#" class="btn btn-primary">Læs om det vi tilbyder</a>
+  </div>
+
+</div>
+
+
+
+<!-- Talkort -->
+<div class="card-group p-5">
+  <div class="card border-0">
+    <div class="card-body">
+      <h2><span class="card-title-number">100+</span>
+      <br><span class="card-title-font">Projekter</span></h2>
+      <p class="my-4">Vi hjælper både små og store kunder, offentlige og private, komplicerede og enkle. Med respekt for jeres kompetencer tilrettelægger vi passende løsninger.
+      </p>
+    </div>
+  </div>
+  <div class="card border-0">
+    <div class="card-body">
+      <h2><span class="card-title-number">6</span>
+      <br><span class="card-title-font">Specialister</span></h2>
+      <p class="my-4">Vi brænder for den digitale inklusion. Vi har over 20 års erfaring med webtilgængelighed, og vi deltager aktivt i udvikling af internationale standarder.
+      </p>
+    </div>
+  </div>
+   <div class="card border-0">
+    <div class="card-body">
+      <h2><span class="card-title-number">2</span>
+      <br><span class="card-title-font">Lokationer</span></h2>
+      <p class="my-4">Inklusio har kontor i både Aalborg og København, og vi løser opgaver i hele Scandinavien.
+      </p>
+    </div>
+  </div>
+</div>
+</div>
 </div>
