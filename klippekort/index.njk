@@ -22,28 +22,35 @@ templateClass: tmpl-contact
 
   <div class="row my-4">
     <div class="col">
-<h2>Tilmeld dig webinaret</h2>
+<h2>Bestil klippekort her</h2>
 <form name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-fi3ld">
-        <div class="form-group">
-          <label for="name">Dit navn:</label>
-          <input type="text" class="form-control" id="name" name="name" required>
-        </div>
-        <div class="form-group">
-          <label for="email">Din Email:</label>
-          <input type="email" class="form-control" id="email" name="email" required>
-        </div>
-        <div class="form-group">
-          <label for="phone">Dit telefonnummer:</label>
-          <input type="tel" class="form-control" id="phone" name="phone">
-        </div>
-		  <div class="hidden" aria-hidden="true">
-		    <label>Don't fill this out if you're human:
-		      <input name="bot-field"/>
-		    </label>
-        </div>
-        <button type="submit" class="btn btn-primary">Tilmeld</button>
-      </form>
-
+  <div class="form-group">
+    <label for="name">Dit navn:</label>
+    <input type="text" class="form-control" id="name" name="name" required>
+  </div>
+  <div class="form-group">
+    <label for="email">Din Email:</label>
+    <input type="email" class="form-control" id="email" name="email" required>
+  </div>
+  <div class="form-group">
+    <label for="phone">Dit telefonnummer:</label>
+    <input type="tel" class="form-control" id="phone" name="phone">
+  </div>
+  <div class="form-group">
+    <label for="company">Virksomhed:</label>
+    <input type="text" class="form-control" id="company" name="company">
+  </div>
+  <div class="form-group">
+    <label for="cvr">CVR-nummer:</label>
+    <input type="text" class="form-control" id="cvr" name="cvr">
+  </div>
+  <div class="hidden" aria-hidden="true">
+    <label>Don't fill this out if you're human:
+      <input name="bot-field"/>
+    </label>
+  </div>
+  <button type="submit" class="btn btn-primary">Tilmeld</button>
+</form>
 
     </div>
   </div>
