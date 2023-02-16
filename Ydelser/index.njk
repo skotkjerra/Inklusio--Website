@@ -6,32 +6,32 @@ eleventyNavigation:
   key: Ydelser
   order: 3
 ---
-  <div class="container">
-    <div class="row">
-<p>
-Vi tester tilgængeligheden på din organisations apps og websteder, og alt efter dine ønsker skræddersyr vi en praktisk løsning til dig i form af workshops, test og rådgivning i øjenhøjde. Vi hjælper med at lave tilgængelighedserklæring og strategi for at indtænke digital inklusion tidligt i udviklingsprocessen for nye apps og websteder.</p>
-<p> 
-Det er vigtigt for os, at vi ikke laver tingene for dig, men at vi laver dem med dig via vejledning og oplæring. På den måde lærer du og dit team hele tiden mere om tilgængelighed og digital inklusion, og I vil på sigt selv kunne varetage flere af opgaverne uden hjælp udefra.</p>
- <p>
-Læs mere om vores produkter og kontakt os for at få tilbud på et forløb skræddersyet til din organisation.
-</p>
-</div>
-</div>
-  <div class="container-fluid p-0">
-    <div class="row gy-2">
-      {% for post in collections.products %}
-      <div class="col-12 col-md-6 col-lg-4 mb-5">
-      <div class="card p-4 bg-white h-100">
-        {% if post.data.title %}
-        <h2 class="card-title">{{ post.data.title }}</h2>
-        {% endif %}
-
-        {% if post.data.summary %}
-        <p class="card-text">{{ post.data.summary }}</p>
-        {% endif %}
-        <a href="{{ post.url | url }}" class="bg-primary btn-primary p-3 mt-auto rounded text-decoration-none">{{ post.data.cta }}</a>
-      </div>
-      </div>
-      {% endfor %}
-    </div>
+<div class="container">
+  <div class="row">
+    <p>
+    Vi tester tilgængeligheden på din organisations apps og websteder, og alt efter dine ønsker skræddersyr vi en praktisk løsning til dig i form af workshops, test og rådgivning i øjenhøjde. Vi hjælper med at lave tilgængelighedserklæring og strategi for at indtænke digital inklusion tidligt i udviklingsprocessen for nye apps og websteder.</p>
+    <p> 
+    Det er vigtigt for os, at vi ikke laver tingene for dig, men at vi laver dem med dig via vejledning og oplæring. På den måde lærer du og dit team hele tiden mere om tilgængelighed og digital inklusion, og I vil på sigt selv kunne varetage flere af opgaverne uden hjælp udefra.</p>
+    <p>
+    Læs mere om vores produkter og kontakt os for at få tilbud på et forløb skræddersyet til din organisation.
+    </p>
   </div>
+</div>
+<div class="container-fluid p-0">
+  <div class="row gy-2">
+    {% for post in collections.products %}
+    <div class="col-12 col-md-6 col-lg-4 mb-5">
+    <div class="card p-4 bg-white h-100">
+      {% if post.data.title %}
+      <h2 class="card-title">{{ post.data.title }}</h2>
+      {% endif %}
+
+      {% if post.data.summary %}
+      <p class="card-text">{{ post.data.summary }}</p>
+      {% endif %}
+      <a href="{{ post.url | url }}" class="bg-primary btn-primary p-3 mt-auto rounded text-decoration-none">{{ post.data.cta }}</a>
+    </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>
