@@ -132,6 +132,7 @@ li {
   max-width: 65ch;
   /* 1 */
   hyphens: auto;
+  overflow-wrap: anywhere;
 }
 
 p.full-width {
@@ -143,6 +144,8 @@ h1,
 h2,
 h3 {
   max-width: 35ch;
+  overflow-wrap: anywhere;
+  hyphens: auto;
   /* 1 */
 }
 
