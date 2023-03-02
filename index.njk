@@ -143,17 +143,15 @@ eleventyNavigation:
         </h3>
         <p class="my-4">I USA stilles der allerede nu krav til tilgængeligheden af hjemmesider for både offentlige og private virksomheder.</p>
     </div>
+	
 
+	{%- from "components/numbercard/macro.njk" import numbercard -%}
 
-    <div class="col-sm-12 mr-md-5 col-lg-3  col-xl-3 card border-0">
-        <h3>
-          <span class="card-title-number">5</span>
-          <br>
-          <span class="card-title-font">Jeres firma er omfattet webtilgængelighedsloven</span>
-        </h3>
-        <p class="my-4">Hvis I arbejder med e-handel, consumer banking, e-bøger, kommunikationstjenester eller streaming af multimedieindhold, så er I højst sandsynligt omfattet af den europæiske lov for webtilgængelighed, der træder i kraft 28. juni 2025.</p>
-    </div>
-
+	{{ numbercard({
+    primary: '5',
+    secondary: 'Jeres firma er omfattet af webtilgængelighedsloven',
+    tertiary: 'Hvis I arbejder med e-handel, consumer banking, e-bøger, kommunikationstjenester eller streaming af multimedieindhold, så er I højst sandsynligt omfattet af den europæiske lov for webtilgængelighed, der træder i kraft 28. juni 2025.'
+  }) }}
 
   </div>
 </div>
