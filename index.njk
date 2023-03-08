@@ -33,7 +33,7 @@ eleventyNavigation:
   </div> <!-- Container -->
 </div><!-- banner -->
 
-<div class="container-xxl p-5"> 
+
 
 
 <!-- Selling point responsive card -->
@@ -63,114 +63,53 @@ eleventyNavigation:
 
 
 
-
-
-
 <!-- Image and text Hvad er tilgængelighed -->
-<div class=" row align-items-center justify-content-between p-5">
-  <div class="col-md-5">
-    <img src="/img/Section6Image.png" class="img-fluid" alt="">
+<div class="container">
+  <div class="row justify-content-center py-5">
+  
+  <div class= "col-md-5">
+    <img src= "/img/Section6Image.png" class="img-fluid" alt="">
   </div>
-  <div class="col-md-7 p-5">
-    <h2 class="text-left">Hvad er webtilgængelighed?</h2>
-    <p class="my-4">Webtilgængelighed handler om, at alle skal kunne anvende websteder og mobilapplikationer uanset sin forudsætning for det. Det vil sige, at hvis du har eksempelvis permanent nedsat hørelse, eller hvis du har brækket en arm, så skal du stadig kunne benytte digitale løsninger.
+  
+  <div class= "col-md-7 p-5">
+    <h2>Hvad er webtilgængelighed?</h2>
+    <p class= "my-4">Webtilgængelighed handler om, at alle skal kunne anvende websteder og mobilapplikationer uanset sin forudsætning for det. Det vil sige, at hvis du har eksempelvis permanent nedsat hørelse, eller hvis du har brækket en arm, så skal du stadig kunne benytte digitale løsninger.
     </p>
     <a href="/ydelser/" class="btn btn-primary">Læs om det vi tilbyder</a>
-  </div>
-
-  <!-- Talkort -->
-  <div class="card-group p-5">
-    <div class="card border-0">
-
-      <div class="card-body">
-        <h2>
-          <span class="card-title-number">100+</span>
-          <br>
-          <span class="card-title-font">Projekter</span>
-        </h2>
-        <p class="my-4">Vi hjælper både små og store kunder, offentlige og private, komplicerede og enkle. Med respekt for jeres kompetencer tilrettelægger vi passende løsninger.</p>
-      </div>
-    </div>
-    <div class="card border-0">
-      <div class="card-body">
-        <h2>
-          <span class="card-title-number">6</span>
-          <br>
-          <span class="card-title-font">Specialister</span>
-        </h2>
-        <p class="my-4">Vi brænder for den digitale inklusion. Vi har over 20 års erfaring med webtilgængelighed, og vi deltager aktivt i udvikling af internationale standarder.</p>
-      </div>
-    </div>
-    <div class="card border-0">
-      <div class="card-body">
-        <h2>
-          <span class="card-title-number">2</span>
-          <br>
-          <span class="card-title-font">Lokationer</span>
-        </h2>
-        <p class="my-4">Inklusio har kontor i både Aalborg og København, og vi løser opgaver i hele Scandinavien.</p>
-      </div>
-
-    </div>
-  </div>
-
-
-<h2 class="full-width">Gode grunde til at arbejde med tilgængelighed</h2>
-
+   </div> 
+   
+  </div>  
+</div>  
 
 <!-- Talkort responsiv --> 
 <div class="container">
-  <div class="row">
+  <div class="row justify-content-center py-5">
+
+    {{ numbercard({
+      number: '100+',
+      heading: 'Projekter',
+      body: 'Vi hjælper både små og store kunder, offentlige og private, komplicerede og enkle. Med respekt for jeres kompetencer tilrettelægger vi passende løsninger.'
+    }) }}
+
+     {{ numbercard({
+      number: '6',
+      heading: 'Specialister',
+      body: 'Vi brænder for den digitale inklusion. Vi har over 20 års erfaring med webtilgængelighed, og vi deltager aktivt i udvikling af internationale standarder.'
+    }) }}
+
+     {{ numbercard({
+      number: '2',
+      heading: 'Lokationer',
+      body: 'Inklusio har kontor i både Aalborg og København, og vi løser opgaver i hele Scandinavien.'
+    }) }}
+
   
-    <div class="col-sm-12 mr-md-5 col-lg-3 col-xl-3 card border-0">
-        <h3><span class="card-title-number">1</span>
-        <br><span class="card-title-font">I arbejder med e-handel</span></h3>
-        <p class="my-4">Hvis jeres firma beskæftiger sig med E-handel,  kan I være omfattet af den europæiske lov om tilgængelighed, der træder i kraft den 28. juni 2025.</p>
-    </div>
-
-
-    <div class="col-sm-12 mr-md-5 col-lg-3 col-xl-3 card border-0">
-        <h3>
-          <span class="card-title-number">2</span>
-          <br>
-          <span class="card-title-font">Jeres målgruppe er 60+</span>
-        </h3>
-        <p class="my-4">92% af den danske befolkning over 60 år bruger briller. Denne målgruppe vil ofte opleve problemer med hjemmesider, der har små tekststørrelser og dårlig kontrast.</p>
-    </div>
-
-
-
-    <div class="col-sm-12 mr-md-5 col-lg-3 col-xl-3 card border-0">
-        <h3><span class="card-title-number">3</span>
-        <br><span class="card-title-font">I udvikler hjemmesider for offentlige organisationer</span></h3>
-        <p class="my-4">Hvis jeres kundegruppe omfatter offentlige virksomheder, vil der blive stillet krav til tilgængeligheden af jeres produkt. 
-        </p>
-    </div>
-  
-
-    <div class="col-sm-12 mr-md-5 col-lg-3 col-xl-3 card border-0">
-        <h3>
-          <span class="card-title-number">4</span>
-          <br>
-          <span class="card-title-font">I udvikler hjemmesider for udenlandske virksomheder</span>
-        </h3>
-        <p class="my-4">I USA stilles der allerede nu krav til tilgængeligheden af hjemmesider for både offentlige og private virksomheder.</p>
-    </div>
-	
-
-
-
-	{{ numbercard({
-    number: '5',
-    heading: 'Jeres firma er omfattet af webtilgængelighedsloven',
-    body: 'Hvis I arbejder med e-handel, consumer banking, e-bøger, kommunikationstjenester eller streaming af multimedieindhold, så er I højst sandsynligt omfattet af den europæiske lov for webtilgængelighed, der træder i kraft 28. juni 2025.'
-  }) }}
 
   </div>
 </div>
 
-
-
-
-  
 </div>
+
+
+
+
