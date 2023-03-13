@@ -102,7 +102,7 @@ order: 2
   </div>
 </div>
 
-<!--Sektion 5 Vi leverer-->
+<!--Sektion 5 Vi leverer anerkendt kvalitet kort-->
 <div class="container py-5">
   <h2 class="fullwidth">Vi leverer anerkendt kvalitet</h2>
   <div class="card-group">
@@ -170,55 +170,51 @@ order: 2
 </div>
 
 <!--Sektion 7 Tilgængelighed giver et hav af fordele -->
-<div class="container py-5 my-5">
-  <h2 class="fullwidth">Tilgængelighed giver et hav af fordele</h2>
-  <div class="card-group">
-    <div class="card border-0">
-      <div class="card-body">
-        <i class="bi bi-people" style="font-size: 4rem;" alt=""></i>
-        <h3 class="card-title-font">Flere personer bruger din hjemmeside eller app</h3> 
-        <p>Ved at sikre tilgængelighed på din hjemmeside eller app, øges webstedets potentielle målgruppe med 20%, hvilket kan føre til flere besøg, konverteringer og dermed mere indtægt.</p>     
-      </div>
-    </div>
-    <div class="card border-0">
-      <div class="card-body">
-        <i class="bi bi-person-check" style="font-size: 4rem;" alt=""></i>
-        <h3 class="card-title-font">Større brugertilfredshed</h3>
-        <p>Når alle, både personer med og uden et handicap, kan navigere effektivt og ubesværet på din hjemmeside eller app, skaber det en bedre brugeroplevelse.</p>
-      </div>
-    </div>
-    <div class="card border-0">
-      <div class="card-body">
-        <i class="bi bi-book" style="font-size: 4rem;" alt=""></i>
-        <h3 class="card-title-font">Man overholder loven</h3> 
-        <p>Da yderligere lovgivning inden for webtilgængelighed på både det offentlige og det private område er undervejs, er det en god ide at starte arbejdet allerede i dag.</p> 
-      </div>
-    </div>
-  </div>
-  <div class="card-group">
-    <div class="card border-0">
-      <div class="card-body">
-        <i class="bi bi-google" style="font-size: 4rem;" alt=""></i>
-        <h3 class="card-title-font">Få en bedre placering på Google</h3> 
-        <p>Der er en påvist sammenhæng mellem hvor tilgængelig ens digitale løsning er, og hvordan den rangerer på Google, da tilgængelige hjemmesider kan hjælpe med at forbedre SEO.</p> 
-      </div>
-    </div>
-    <div class="card border-0">
-      <div class="card-body">
-        <i class="bi bi-megaphone" style="font-size: 4rem;" alt=""></i>
-        <h3 class="card-title-font">Styrk dit brand</h3> 
-        <p>Benyt muligheden for at brande dig på, at alle mennesker kan benytte din hjemmeside. Fremstå som en virksomhed, der tager et samfundsmæssigt ansvar, hvilket kan føre til positive associeringer til dit brand, såsom inklusion og innovation.</p> 
-      </div>
-    </div>
-    <div class="card border-0">
-      <div class="card-body">
-        <i class="bi bi-arrow-up-circle" style="font-size: 4rem;" alt=""></i>
-        <h3 class="card-title-font">Øget loyalitet</h3> 
-        <p>Hjemmesider eller apps, som leverer gode brugeroplevelser, er typisk dem, som mennesker vender tilbage til igen og igen.</p> 
-      </div>
-    </div>
+
+
+<h2>Tilgængelighed giver et hav af fordele</h2>
+<div class="container pt-5">
+  <div class="row">
+
+    {{ iconcard({
+        icon: 'bi bi-people',
+        heading: 'Flere personer bruger din hjemmeside eller app',
+        body: 'Ved at sikre tilgængelighed på din hjemmeside eller app, øges webstedets potentielle målgruppe med 20%, hvilket kan føre til flere besøg, konverteringer og dermed mere indtægt.'
+      }) }}
+
+    {{ iconcard({
+        icon: 'bi bi-person-check',
+        heading: 'Større brugertilfredshed',
+        body: 'Når alle, både personer med og uden et handicap, kan navigere effektivt og ubesværet på din hjemmeside eller app, skaber det en bedre brugeroplevelse.'
+      }) }}
+
+    {{ iconcard({
+        icon: 'bi bi-book',
+        heading: 'Man overholder loven',
+        body: 'Da yderligere lovgivning inden for webtilgængelighed på både det offentlige og det private område er undervejs, er det en god ide at starte arbejdet allerede i dag.'
+      }) }}
+
+    {{ iconcard({
+        icon: 'bi bi-globe',
+        heading: 'Få en bedre placering på Google',
+        body: 'Der er en påvist sammenhæng mellem hvor tilgængelig ens digitale løsning er, og hvordan den rangerer på Google, da tilgængelige hjemmesider kan hjælpe med at forbedre SEO.'
+      }) }}
+
+    {{ iconcard({
+        icon: 'bi bi-megaphone',
+        heading: 'Styrk dit brand',
+        body: 'Benyt muligheden for at brande dig på, at alle mennesker kan benytte din hjemmeside. Fremstå som en virksomhed, der tager et samfundsmæssigt ansvar, hvilket kan føre til positive associeringer til dit brand, såsom inklusion og innovation.'
+      }) }} 
+
+      {{ iconcard({
+          icon: 'bi bi-arrow-up-circle',
+          heading: 'Øget loyalitet',
+          body: 'Hjemmesider eller apps, som leverer gode brugeroplevelser, er typisk dem, som mennesker vender tilbage til igen og igen.'
+        }) }}
   </div>
 </div>
+
+
 
   <!--Sektion 8 Hvad siger loven  p/img -->
 <div class="container py-5 my-5">
@@ -259,7 +255,6 @@ order: 2
       <p>Vi kender lovgivningen om webtilgængelighed som vores egen baglomme, og vi kan hjælpe med at omsætte kringlede klausuler til praktisk handling. Derudover er vi aktive i standardiseringsarbejdet inden for digital tilgængelighed, såsom Dansk Standard og World Wide Web Consortium (W3C), og har bidraget til den officielle danske oversættelser af WCAG 2.1.</p>
     </div>
   </div>
-
 
 
 
