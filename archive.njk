@@ -1,11 +1,12 @@
 ---
 layout: layouts/page.njk
-title: Blog
-permalink: /artikler/
-eleventyNavigation:
-  key: Blog
-  order: 5
+eleventyComputed:
+  page_lang: 'da'
+  permalink: "{{ translations[page_lang].navigation.blog.url }}"
+  title: "{{ translations[page_lang].navigation.blog.title }}"
+
 ---
+
 <div class="my-4">
 {% set postslist = collections.posts %}
 {% include "postslist.njk" %}

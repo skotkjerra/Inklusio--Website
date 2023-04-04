@@ -1,0 +1,29 @@
+{
+    "section":[
+        {
+            "heading": "Webtilgængelighed | Test, rådgivning og workshops",
+            "paragraph": [
+                "Vi tester tilgængeligheden på din organisations apps og websteder, og alt efter dine ønsker skræddersyr vi en praktisk løsning til dig i form af workshops, test og rådgivning i øjenhøjde. Vi hjælper med at lave tilgængelighedserklæring og strategi for at indtænke digital inklusion tidligt i udviklingsprocessen for nye apps og websteder.",
+                "Det er vigtigt for os, at vi ikke laver tingene for dig, men at vi laver dem med dig via vejledning og oplæring. På den måde lærer du og dit team hele tiden mere om tilgængelighed og digital inklusion, og I vil på sigt selv kunne varetage flere af opgaverne uden hjælp udefra.",
+                "Læs mere om vores produkter og kontakt os for at få tilbud på et forløb skræddersyet til din organisation."
+            ],
+            "card": [
+                {
+                    "heading":"Counseling",
+                    "paragraph": "We are happy to share our knowledge, and the most important thing is to leave our customers with better prerequisites for thinking about accessibility at all levels.",
+                    "button_text": "Read about our advice offer"
+                },
+                {
+                    "heading":"Testing",
+                    "paragraph": "Over the years, we at Inclusio have specialized in using the best tools for testing web accessibility. Together with you and your supplier, we find solutions to problem areas",
+                    "button_text": "Read about our options for testing"
+                },
+                {
+                    "heading":"Workshops",
+                    "paragraph": "We don't do anything for you, we do it with you. Our specialists are happy to share their knowledge of web accessibility with you through close collaboration, training and joint solutions in workshops.",
+                    "button_text": "Read about our various workshops"
+                }
+            ]
+        }
+    ]
+}
