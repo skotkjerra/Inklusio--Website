@@ -1,0 +1,32 @@
+{
+    "home": {
+        "title": "Webtilgængelighed, WCAG 2.1test og rådgivning",
+        "text": "Home",
+        "url": "/en/"
+    },
+    "learn_more": {
+        "title": "Learn More",
+        "text": "Learn More",
+        "url": "/en/learn-more/"
+    },
+    "benefits": {
+        "title": "Web Accessibility | Tests, advice and workshops",
+        "text": "Benefits",
+        "url": "/en/benefits/"
+    },
+    "about": {
+        "title": "About Us",
+        "text": "About us",
+        "url": "/en/about-us/"
+    },
+    "blog": {
+        "title": "Blog",
+        "text": "Blog",        
+        "url": "/en/articles/"
+    },
+    "contact": {
+        "title": "Contact Us",
+        "text": "Contact us",
+        "url": "/en/contact-us/"
+    }
+}

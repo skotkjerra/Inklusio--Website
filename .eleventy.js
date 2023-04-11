@@ -1,10 +1,12 @@
-const { DateTime } = require('luxon');
 const fs = require('fs');
-const pluginRss = require('@11ty/eleventy-plugin-rss');
-const pluginNavigation = require('@11ty/eleventy-navigation');
+const { DateTime } = require('luxon');
 const markdownIt = require('markdown-it');
+const helperFunctions = require('./config/helper');
 const markdownItAnchor = require('markdown-it-anchor');
+const pluginRss = require('@11ty/eleventy-plugin-rss');
 const { asyncImage } = require('./config/imagePlugin');
+const { EleventyI18nPlugin } = require("@11ty/eleventy");
+const pluginNavigation = require('@11ty/eleventy-navigation');
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss);
@@ -48,6 +50,21 @@ module.exports = function (eleventyConfig) {
 
   // Adding ShortCode for Eleventy Image Plugin
   eleventyConfig.addShortcode("image", asyncImage);
+  eleventyConfig.addShortcode("str_replace", helperFunctions.str_replace)
+
+
+  // Eleventy i18n Plugin
+  eleventyConfig.addPlugin(EleventyI18nPlugin, {
+    defaultLanguage: "da", // Required "da"
+    filters: {
+      url: "locale_url",
+      links: "locale_links",
+    },
+    errorMode: "strict"
+  });
+
+  eleventyConfig.addFilter('urlLanguageFilter', helperFunctions.urlLanguageFilter)
+  eleventyConfig.addFilter('postListUrlLanguageFilter', helperFunctions.postListUrlLanguageFilter)
 
   /* Markdown Overrides */
   let markdownLibrary = markdownIt({

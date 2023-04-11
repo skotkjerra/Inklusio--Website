@@ -1,10 +1,16 @@
 ---
 layout: layouts/home.njk
-title: Webtilgængelighed, WCAG 2.1test og rådgivning
-eleventyNavigation:
-  key: Hjem
-  order: 1
+
+eleventyComputed:
+  page_lang: 'da'
+  permalink: "{{ translations[page_lang].navigation.home.url }}"
+  title: "{{ translations[page_lang].navigation.home.title }}"
+  
 ---
+
+<!-- Translation Data -->
+{% set homePageData = translations[page.lang].pages.home %}
+
 <!-- Imports -->
 {%- from "components/iconcard/macro.njk" import iconcard -%}
 {%- from "components/numbercard/macro.njk" import numbercard -%} 
@@ -14,18 +20,17 @@ eleventyNavigation:
   <div class="container-sm py-md-5">
     <div class="row align-items-center p-lg-2 mx-xxl-5 m-xxxl-0 p-xxxl-0">
       <div class="col-sm-12 col-md-12 col-lg-6">
-        <h1 class="banner-header banner-header-text mt-5 mt-lg-0">Vi arbejder sammen om at gøre webtilgængelighed overskueligt</h1>
+        <h1 class="banner-header banner-header-text mt-5 mt-lg-0">{{ homePageData.section[0].heading }}</h1>
         <p class="lead my-4 banner-header-helper-text">
-          Inklusio rådgiver dig om digital inklusion og webtilgængelighed. Vi gør tilgængeligheden overskuelig og nem med workshops, rådgivning og tests.
+          {{ homePageData.section[0].paragraph }}
         </p>
-        <a href="https://calendly.com/inklusio-ses/1-1" class="btn btn-primary">Book et møde</a>
+        <a href="https://calendly.com/inklusio-ses/1-1" class="btn btn-primary">{{ homePageData.section[0].button_text }}</a>
       </div> <!-- col -->
  
       <div class="col-sm-12 col-md-12 col-lg-6">
         <div class="mt-5 pb-5 pb-xxl-0 m-xxxl-5 rounded overflow-hidden">
-          {% image "img/AnneSEKat.jpg", "Billede af Anne, Katrine og Stein Erik ved en computer", "400, 800, 1200"%}
+          {% image "img/AnneSEKat.jpg", homePageData.section[0].img_alt, "400, 800, 1200"%}
         </div>
-        {# <img src="/img/AnneSEKat.jpg" class="img-fluid mt-5 pb-5 pb-xxl-0 m-xxxl-5 rounded" alt="Billede af Anne, Katrine og Stein Erik ved en computer"> #}
       </div><!-- col -->
     </div> <!-- row -->
   </div> <!-- Container -->
@@ -34,25 +39,25 @@ eleventyNavigation:
 <!-- Selling point responsive card -->
 <div class="container py-5">
   <div class="row m-md-5 p-md-2 m-lg-0 my-lg-5 p-lg-0 py-lg-2 my-xl-5 m-xxl-5 p-xl-2 text-justify">
-    {{ iconcard({
+    {{ iconcard ({
       card_class: 'card col-sm-12 col-lg-4 col-xl-4 border-0 pr-5',
       icon: 'bi bi-people',
-      heading: 'Workshops',
-      body: 'Vi laver ikke noget for jer, vi laver det med jer. Vores specialister deler gerne deres viden om webtilgængelighed med jer gennem tæt samarbejde, oplæring og fælles løsninger i skræddersyede workshops.'
+      heading: homePageData.section[1].card[0].heading,
+      body: homePageData.section[1].card[0].paragraph
     }) }}
       
     {{ iconcard({
       card_class: 'card col-sm-12 col-lg-4 col-xl-4 border-0 pr-5',
       icon: 'bi bi-ui-checks-grid',
-      heading: 'Bedst til test',
-      body: 'Vi har i Inklusio specialiseret os i at bruge de bedste værktøjer og metoder til test af webtilgængelighed. Sammen med dig og din leverandør finder vi problemområder og løsninger.'
+      heading: homePageData.section[1].card[1].heading,
+      body: homePageData.section[1].card[1].paragraph
     }) }}
 
     {{ iconcard({
       card_class: 'card col-sm-12 col-lg-4 col-xl-4 border-0 pr-5',    
       icon: 'bi bi-lightbulb',
-      heading: 'Rådgivning',
-      body: 'Vi deler altid ud af vores viden, og det vigtigste er at efterlade vores kunder med bedre forudsætninger for at indtænke tilgængelighed på alle niveauer.'
+      heading: homePageData.section[1].card[2].heading,
+      body: homePageData.section[1].card[2].paragraph
     }) }}
   </div>
 </div>
@@ -65,16 +70,16 @@ eleventyNavigation:
   <div class="row m-md-5 p-md-2 m-lg-0 p-lg-0 m-xxl-5 p-xxl-5 d-flex justify-content-center">
   
     <div class="col-12 col-lg-6 col-xxl-6">
-      {% image "img/Section6Image.png", "", "400, 800, 1200"%}
+      {% image "img/Section6Image.png", homePageData.section[2].img_alt, "400, 800, 1200"%}
     </div>
   
     <div class="d-lg-flex flex-lg-column px-xxl-5 ml-xxl-5 col-lg-5">
       <div class="my-lg-auto">
-        <h2 class="my-4 my-lg-0 my-xl-2">Hvad er webtilgængelighed?</h2>
+        <h2 class="my-4 my-lg-0 my-xl-2">{{ homePageData.section[2].heading }}</h2>
         <p class= "my-4 my-xl-5 text-justify">
-          Webtilgængelighed handler om, at alle skal kunne anvende websteder og mobilapplikationer uanset sin forudsætning for det. Det vil sige, at hvis du har eksempelvis permanent nedsat hørelse, eller hvis du har brækket en arm, så skal du stadig kunne benytte digitale løsninger.
+          {{ homePageData.section[2].paragraph }}
         </p>
-        <a href="/ydelser/" class="btn btn-primary mt-xl-3">Læs om det vi tilbyder</a>
+        <a href="/ydelser/" class="btn btn-primary mt-xl-3">{{ homePageData.section[2].button_text }}</a>
       </div>
     </div>
   </div>  
@@ -87,20 +92,20 @@ eleventyNavigation:
 
     {{ numbercard({
       number: '100+',
-      heading: 'Projekter',
-      body: 'Vi hjælper både små og store kunder, offentlige og private, komplicerede og enkle. Med respekt for jeres kompetencer tilrettelægger vi passende løsninger.'
+      heading: homePageData.section[3].card[0].heading,
+      body: homePageData.section[3].card[0].paragraph
     }) }}
 
      {{ numbercard({
       number: '6',
-      heading: 'Specialister',
-      body: 'Vi brænder for den digitale inklusion. Vi har over 20 års erfaring med webtilgængelighed, og vi deltager aktivt i udvikling af internationale standarder.'
+      heading: homePageData.section[3].card[0].heading,
+      body: homePageData.section[3].card[0].paragraph
     }) }}
 
      {{ numbercard({
       number: '2',
-      heading: 'Lokationer',
-      body: 'Inklusio har kontor i både Aalborg og København, og vi løser opgaver i hele Scandinavien.'
+      heading: homePageData.section[3].card[0].heading,
+      body: homePageData.section[3].card[0].paragraph
     }) }}
 
   </div>

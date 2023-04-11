@@ -1,23 +1,73 @@
+{% set navigationData = translations[page.lang].navigation %}
+
 <header class="site-header">
   <a class="skiptomain" href="#main">Spring til hovedindhold</a>
-    <div class="container-xxxl">
-      <nav class="navbar navbar-expand-lg navbar-dark px-0" aria-label="Top menu">
-        <a class="navbar-brand" href="/">
-          <div class="img-fluid mr-4 mb-1" style="width: 150px; height: 22px;">
-            {% image 'img/logo.png', "Inklusio logo", "400" %}
-          </div>
-        </a>
+  <div class="container-xxxl">
+    <nav class="navbar navbar-expand-lg navbar-dark px-0" aria-label="Top menu">
+      <a class="navbar-brand" href="{{navigationData.home.url}}">
+        <div class="mr-4 mb-2 mt-2 mt-lg-0" style="width: 150px; height: 22px;">
+          {% image 'img/logo.png', "Inklusio logo", "400" %}
+        </div>
+      </a>
 
+      <div class="d-flex flex-row ml-auto ">
+        <div class="d-block d-lg-none">
+          <div class="col text-center mt-2">
+            <div class="dropdown" id="languageDropdownMobile">
+              {% for key, navObj in navigationData %}
+                {% if navObj.url == page.url %}
+                  <button class="btn btn-sm btn-dark" type="button">
+                    <i class="bi bi-globe" style="font-size: 16px;"></i>
+                    <span class="text-uppercase" style="font-size: 16 px;">{{ page.lang }}</span>
+                  </button>
+                  <div class="dropdown-menu" style="display: none;">
+                    {% for lang, lang_data in languages %}
+                      {% if lang != page.lang %}
+                        <a class="dropdown-item" href="{{ translations[lang].navigation[key].url }}">{{lang_data.name}}</a>
+                      {% endif %}
+                    {% endfor %}
+                  </div>
+                {% endif %}
+              {% endfor %}
+            </div>
+          </div>
+        </div>
+  
         <button aria-label="menu" class="navbar-toggler ml-auto custom-toggler" type="button" data-toggle="collapse" data-target="#collapsingNavbar4" aria-expanded="false">
           <span class="navbar-toggler-icon"></span>
         </button>
+      </div>
 
-        <div class="navbar-collapse collapse" id="collapsingNavbar4">
-          <div class="navbar-nav">
-            {%- for entry in collections.all | eleventyNavigation %}
-              <a class="nav-item nav-link text-decoration-underline-hover text-white {% if entry.url == page.url %} text-decoration-underline {% endif %} mr-4" {% if entry.url == page.url %} aria-current="page"{% endif %} href="{{ entry.url | url }}">{{ entry.title }}</a>
-            {%- endfor %}
+      <div class="navbar-collapse collapse" id="collapsingNavbar4">
+        <div class="navbar-nav mt-1">
+          {% for _, navObj in navigationData %}
+            <a class="nav-item nav-link text-decoration-underline-hover text-white {% if navObj.url == page.url %} text-decoration-underline {% endif %} mr-4 mr-lg-2 mr-xl-4" {% if navObj.url == page.url %} aria-current="page"{% endif %} href="{{ navObj.url }}">{{ navObj.text }}</a>
+          {% endfor %}
         </div>
+
+
+        <div class="d-none d-lg-block ml-auto">
+          <div class="col text-center mt-2">
+            <div class="dropdown" id="languageDropdownDesktop">
+              {% for key, navObj in navigationData %}
+                {% if navObj.url == page.url %}
+                  <button class="btn btn-sm btn-dark" type="button">
+                    <i class="bi bi-globe" style="font-size: 16px;"></i>
+                    <span class="text-uppercase" style="font-size: 16px;">{{ page.lang }}</span>
+                  </button>
+                  <div class="dropdown-menu" style="display: none;">
+                    {% for lang, lang_data in languages %}
+                      {% if lang != page.lang %}
+                        <a class="dropdown-item" href="{{ translations[lang].navigation[key].url }}">{{lang_data.name}}</a>
+                      {% endif %}
+                    {% endfor %}
+                  </div>
+                {% endif %}
+              {% endfor %}
+            </div>
+          </div>
+        </div>
+
       </div>
     </nav>
   </div>

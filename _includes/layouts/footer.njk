@@ -1,3 +1,6 @@
+{% set navigationData = translations[page.lang].navigation %}
+{% set keywords = translations[page.lang].keywords %}
+
 <footer class="site-footer">
     <div class='col-12 d-flex flex-column flex-sm-row justify-between footer-container'>
         {#  About #}
@@ -21,7 +24,7 @@
                     </p>
                 </div>
                 <div class="mt-4">
-                    <span class="" style="font-size: 16px;">Telefon</span>
+                    <span class="" style="font-size: 16px;">{{keywords.phone}}</span>
                     <br />
                     <a
                         class="font-weight-semibold text-decoration-none text-light"
@@ -57,9 +60,9 @@
                 <span class="font-weight-bold fs-4">Navigations</span>
             </div>
             <div class="d-flex flex-column mt-4 mt-lg-8">
-                {%- for entry in collections.all | eleventyNavigation %}
-                  <a class="text-decoration-underline-hover text-white mt-2" {% if entry.url == page.url %} aria-current="page"{% endif %} href="{{ entry.url | url }}">{{ entry.title }}</a>
-                {%- endfor %}
+                {% for _, navObj in navigationData %}
+                    <a class="text-decoration-underline-hover text-white mt-2 {% if navObj.url == page.url %} text-decoration-underline {% endif %}" {% if navObj.url == page.url %} aria-current="page"{% endif %} href="{{ navObj.url }}">{{ navObj.text }}</a>
+                {% endfor %}
             </div>
         </div>
   </div>
