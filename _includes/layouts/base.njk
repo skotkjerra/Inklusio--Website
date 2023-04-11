@@ -8,27 +8,25 @@
 
     <link rel="stylesheet" href="{{ '/css/my-bootstrap.css' | url }}">
     <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
-<link rel="icon" type="image/x-icon" href="{{ '/img/favicon.ico' | url }}">
+    <link rel="icon" type="image/x-icon" href="{{ '/img/favicon.ico' | url }}">
+    <!-- Bootstrap Font Icon CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" />
+</head>
+<body>
+    <div class="site-container">
+        {% include "layouts/nav.njk" %}
 
-  </head>
-  <body>
-  <div class="site-container">
-     {% include "layouts/nav.njk" %}
+        <main id="main" tabindex="-1">
+            <div class="container-xxl p-sm-5"> 
+                {{ content | safe }}
+            </div>
+        </main>
 
-    <main id="main" tabindex="-1">
-        <div class="container-xxl p-5"> 
-            {{ content | safe }}
-        </div>
-    </main>
-     {% include "layouts/footer.njk" %}
-
- </div>
-
-
+        {% include "layouts/footer.njk" %}
+    </div>
     <!-- Current page: {{ page.url | url }} -->
 
 </body>
 
 <script src="{{ '/js/inklusio.js' | url }}"></script>
-
 </html>

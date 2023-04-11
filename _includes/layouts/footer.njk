@@ -1,22 +1,75 @@
-    <footer class="site-footer">
-        <div class="container-xxl">
-            <div class="row">
-                <div class="col-12 col-sm-12 col-md-12  col-lg-4 col-xl-4 ">
-                    <p class="my-3">
-                        Inklusio ApS, CVR: 41066784
-                    </p>
-                </div>
-                <div class="col-12 col-sm-12 col-md-12  col-lg-4 col-xl-4">
-                    <p class="my-3">
-                        CA Olesensgade 4, 9000 Aalborg, Denmark
+<footer class="site-footer">
+    <div class='col-12 d-flex flex-column flex-sm-row justify-between footer-container'>
+        {#  About #}
+        <div class="container">
+            <div class="relative" style="width: 200px; height: 30px;">
+                <img 
+                    src="{{ '/img/logo.png' | url }}" 
+                    alt="Inklusio logo"
+                    style="width: 100%; height: 100%;"
+                />
+            </div>
 
+            <div class="d-flex flex-column mt-5">
+                <div>
+                    <p class="fs-5">
+                        <span>
+                            CA Olesensgade 4<br />
+                        </span>
+                        <span>
+                            9000 Aalborg<br/>
+                        </span>
+                        <span>
+                            Denmark
+                        </span>
                     </p>
                 </div>
-                <div class="col-12 col-sm-12 col-md-12  col-lg-4 col-xl-4 ">
-                    <p class="my-3">
-                        <span id="phoneDesc">Telefon:</span> <a aria-describedby="phoneDesc" href="tel:+4526343455" class="text-white text-decoration-underline">+45 26 34 34 55</a>
-                    </p>
+                <div class="mt-4">
+                    <span class="" style="font-size: 16px;">Telefon</span>
+                    <br />
+                    <a
+                        class="font-weight-semibold text-decoration-none text-light"
+                        href='tel:$+45 26 34 34 55'
+                        style="font-size: 22px;"
+                    >
+                        +45 26 34 34 55
+                    </a>
+                </div>
+                <div class="mt-3">
+                    <span class="" style="font-size: 16px;">Email Address</span>
+                    <br />
+                    <a
+                        class="font-weight-semibold text-decoration-none text-light"
+                        href='mailto:ses@inklusio.dk'
+                        style="font-size: 22px;"
+                    >
+                        ses@inklusio.dk
+                    </a>
+                </div>
+
+                <div class="mt-5">
+                    <span class="font-weight-medium" style="font-size: 16px;">
+                        Inklusio ApS,<br/> CVR: 41066784
+                    </span>
                 </div>
             </div>
         </div>
-    </footer>
+
+        {# Navigation #}
+        <div class="container mt-5 mt-xl-0 p-xl-5">
+            <div>
+                <span class="font-weight-bold fs-4">Navigations</span>
+            </div>
+            <div class="d-flex flex-column mt-4 mt-lg-8">
+                {%- for entry in collections.all | eleventyNavigation %}
+                  <a class="text-decoration-underline-hover text-white mt-2" {% if entry.url == page.url %} aria-current="page"{% endif %} href="{{ entry.url | url }}">{{ entry.title }}</a>
+                {%- endfor %}
+            </div>
+        </div>
+  </div>
+
+  <div class="px-lg-5 w-full text-gray-500 font-medium text-sm text-center">
+    <hr class="border-top border-gray-700" />
+    <div class="pt-1 pb-3">All rights reserved © 2023 Inklusio</div>
+  </div>
+</footer>

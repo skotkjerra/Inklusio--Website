@@ -208,6 +208,13 @@ li {
   @extend .h6;
 }
 
+.font-weight-medium {
+  font-weight: 500 !important;
+}
+
+.font-weight-semibold {
+  font-weight: 600 !important;
+}
 
 .banner {
   hyphens: none;
@@ -242,7 +249,105 @@ p {
   font-size: 1.2rem;
 }
 
-
 .tester {
   margin-right: 40;
+}
+
+.banner-header-text {
+  font-size: 1.5rem;
+}
+
+.banner-header-helper-text{
+  font-size: 1rem;
+}
+
+.section-header-text{
+  font-size: 1.7rem;
+}
+
+.section-para-text{
+  font-size: 1rem;
+}
+
+.footer-container{
+  padding: 5rem 1rem 5rem 1rem;
+}
+
+/*
+  * Adding custom break-points as per the Grid Layout breakpoints
+*/
+
+$layout-breakpoint-xs: 0;
+$layout-breakpoint-sm: 576px;
+$layout-breakpoint-md: 768px;
+$layout-breakpoint-lg: 992px;
+$layout-breakpoint-xl: 1200px;
+$layout-breakpoint-xxl: 1400px;
+$layout-breakpoint-xxxl: 1680px;
+
+@media (min-width: $layout-breakpoint-sm) {
+  .banner-header-text {
+    font-size: 2.2rem;
+  }
+
+  .section-header-text{
+    font-size: 2rem;
+  }
+}
+
+@media (min-width: $layout-breakpoint-md) {
+  .banner-header-text {
+    font-size: 3rem;
+  }
+
+  .banner-header-helper-text{
+    font-size: 1.2rem;
+  }
+}
+
+@media (min-width: $layout-breakpoint-lg) {
+  .banner-header-text {
+    font-size: 2.2rem; 
+  }
+
+  .banner-header-helper-text{
+    font-size: 1rem;
+  }
+
+  .footer-container{
+    padding: 8rem 0rem 8rem 4rem;
+  }
+}
+
+@media (min-width: $layout-breakpoint-xl) {
+  .banner-header-text {
+    font-size: 2.6rem;
+  }
+
+  .banner-header-helper-text{
+    font-size: 1.2rem;
+  }
+
+  .footer-container{
+    padding: 5rem 10rem 10rem 10rem;
+  }
+}
+
+@media (min-width: $layout-breakpoint-xxl) {
+  .banner-header-text {
+    font-size: 3rem;
+  }
+
+  .section-header-text{
+    font-size: 2.3rem;
+  }
+  .section-para-text{
+    font-size: 1.2rem;
+  }
+}
+
+@media (min-width: $layout-breakpoint-xxxl) {
+  .banner-header-text {
+    font-size: 3.5rem;
+  }
 }
