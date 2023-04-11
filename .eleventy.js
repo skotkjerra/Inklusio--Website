@@ -4,6 +4,7 @@ const pluginRss = require('@11ty/eleventy-plugin-rss');
 const pluginNavigation = require('@11ty/eleventy-navigation');
 const markdownIt = require('markdown-it');
 const markdownItAnchor = require('markdown-it-anchor');
+const { asyncImage } = require('./config/imagePlugin');
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss);
@@ -44,6 +45,9 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy('css');
   eleventyConfig.addPassthroughCopy('robots.txt');
   eleventyConfig.addPassthroughCopy('admin');
+
+  // Adding ShortCode for Eleventy Image Plugin
+  eleventyConfig.addShortcode("image", asyncImage);
 
   /* Markdown Overrides */
   let markdownLibrary = markdownIt({

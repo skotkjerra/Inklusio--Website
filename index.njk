@@ -22,7 +22,10 @@ eleventyNavigation:
       </div> <!-- col -->
  
       <div class="col-sm-12 col-md-12 col-lg-6">
-        <img src="/img/AnneSEKat.jpg" class="img-fluid mt-5 pb-5 pb-xxl-0 m-xxxl-5 rounded" alt="Billede af Anne, Katrine og Stein Erik ved en computer">
+        <div class="mt-5 pb-5 pb-xxl-0 m-xxxl-5 rounded overflow-hidden">
+          {% image "img/AnneSEKat.jpg", "Billede af Anne, Katrine og Stein Erik ved en computer", "400, 800, 1200"%}
+        </div>
+        {# <img src="/img/AnneSEKat.jpg" class="img-fluid mt-5 pb-5 pb-xxl-0 m-xxxl-5 rounded" alt="Billede af Anne, Katrine og Stein Erik ved en computer"> #}
       </div><!-- col -->
     </div> <!-- row -->
   </div> <!-- Container -->
@@ -62,7 +65,7 @@ eleventyNavigation:
   <div class="row m-md-5 p-md-2 m-lg-0 p-lg-0 m-xxl-5 p-xxl-5 d-flex justify-content-center">
   
     <div class="col-12 col-lg-6 col-xxl-6">
-      <img src="/img/Section6Image.png" class="img-fluid" alt="" style="width: 100%; height: 100%;">
+      {% image "img/Section6Image.png", "", "400, 800, 1200"%}
     </div>
   
     <div class="d-lg-flex flex-lg-column px-xxl-5 ml-xxl-5 col-lg-5">
