@@ -108,7 +108,7 @@ templateClass: tmpl-more
 <div class="px-sm-4 px-md-0 py-5">
   <h2 class="fullwidth-lg section-header-text">{{ pageData.section[4].heading }}</h2>
   <div class="d-flex flex-row flex-wrap justify-content-between">
-    {{ numbercard({
+    {{ iconheadingcard({
       icon: 'bi bi-easel',
       heading: pageData.section[4].card[0].heading,
       body: pageData.section[4].card[0].paragraph
@@ -149,39 +149,6 @@ templateClass: tmpl-more
   </div> <!--card-group -->
 </div> <!--container -->
 
-    {{ iconcardheading({
-        icon: 'bi bi-list-check',
-        heading: 'WCAG testrapport',
-        body: 'Modtag en testrapport med detaljerede fejlbeskrivelser'
-      }) }}
-
-    {{ iconcardheading({
-        icon: 'bi bi-pencil-square',
-        heading: 'Design reviews',
-        body: 'Spar tid og få et design review af dine UI-skitser'
-      }) }}
-
-    {{ iconcardheading({
-        icon: 'bi bi-people',
-        heading: 'Collaborative test sessions',
-        body: 'Vær med til at teste og lær undervejs'
-      }) }}
-
-    {{ iconcardheading({
-        icon: 'bi bi-shield-check',
-        heading: 'Ekspertrådgivning som er til at forstå',
-        body: 'Få strategisk rådgivning når det passer dig'
-      }) }}
-
-
-      {{ iconcardheading({
-        icon: 'bi bi-calendar-event',
-        heading: 'Et fleksibelt samarbejde',
-        body: 'Med et time-klippekort hos os står vi altid klar til at løse dine udfordringer'
-      }) }}
-    </div> 
-</div> 
-   
 
 <!--Sektion 6 img/p Hvad laver vi  -->
 <div class="container py-5 my-lg-5">
@@ -250,8 +217,6 @@ templateClass: tmpl-more
     }) }}
   </div>
 </div>
-
-
 
   <!--Sektion 8 Hvad siger loven  p/img -->
 <div class="container py-5 my-lg-5">
