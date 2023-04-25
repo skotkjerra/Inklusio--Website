@@ -60,12 +60,11 @@ Kontrollen med at tilgængelighedsreglerne overholdes forventes delt mellem Sikk
 
 Hvis du vil høre mere om tilgængelighed eller den kommende lovgivning er du velkommen til at [kontakte Inklusio](https://inklusio.dk/kontakt-os/).
 
-Du kan læse mere på Sikkerhedsstyrelsens hjemmeside:
+Du kan læse mere på Sikkerhedsstyrelsens hjemmeside: 
 [Der kommer nye krav om tilgængelighed for produkter og tjenester](https://www.sik.dk/erhverv/produkter/generel-produktsikkerhed/love-og-regler/der-kommer-nye-krav-om-tilgaengelighed-produkter-og-tjenester)
 
-Digitaliseringsstyrelsen har en række tema-websider om webtilgængelighed, i det offentlige hvor du kan finde oplysninger om lovgivning, tilsyn, spørgsmål og svar m.m.:
+Digitaliseringsstyrelsen har en række tema-websider om webtilgængelighed, i det offentlige hvor du kan finde oplysninger om lovgivning, tilsyn, spørgsmål og svar m.m.: 
 [Om tilgængelig web i det offentlige](https://digst.dk/digital-service/webtilgaengelighed/)
 
-Regeringens digitaliseringsstrategi, som blev præsenteret den 5. maj 2022 findes her:
-[Danmarks
-digitaliseringsstrategi - Sammen om den digitale udvikling](https://fm.dk/udgivelser/2022/maj/danmarks-digitaliseringsstrategi-sammen-om-den-digitale-udvikling/)
+Regeringens digitaliseringsstrategi, som blev præsenteret den 5. maj 2022 findes her: 
+[Danmarks digitaliseringsstrategi - Sammen om den digitale udvikling](https://fm.dk/udgivelser/2022/maj/danmarks-digitaliseringsstrategi-sammen-om-den-digitale-udvikling/)
