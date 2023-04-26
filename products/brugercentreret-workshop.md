@@ -6,14 +6,18 @@ cta: Læs om Forstå dine brugere test workshoppen
 
 <p>Er din virksomhed interesseret i at gøre jeres digitale løsninger tilgængelige for alle? Så er vores workshop noget for jer! Vores kursus giver deltagerne de nødvendige værktøjer og kompetencer til at evaluere og forbedre digitale løsninger, som websites eller apps, ved at sætte sig i brugerens sted. Ved at fokusere på, at f.eks. blinde og svagsynede, lærer deltagerne at udføre grundlæggende test på de mest almindelige hjælpeteknologier for synshandicappede og afprøve nye ideer, prototyper og løsninger med hjælpeteknologier som skærmlæsere, tekstforstørrelse, stemmestyring og meget mere. Efter workshoppen vil jeres ansatte have viden nok til selv at kunne tage hånd om tilgængeligheden af jeres digitale løsninger.</p>
 
-## Hvad er collaborative test? 
+## Hvad får vi ud af workshoppen? 
 
-<p>I workshoppen vil vi i fællesskab teste jeres løsning for tilgængelighed. Collaborative testing workshoppen vil give jer kompetencerne til at selv kunne udføre simple manuelle tilgængelighedstests, som I vil kunne benytte i jeres videre arbejde med tilgængelighed af løsningen. På denne workshop vil I også stifte bekendtskab med hjælpeteknologier som skærmlæser, forstørrelse af tekst, stemmestyring og navigation med tastatur. I vil lære, hvordan hjælpeteknologierne fungerer og hvilken forskel tilgængelighed gør for dem, der benytter jeres løsning, ligesom vi ser på jeres muligheder for forbedringer.</p>
+<p>Vi tilbyder workshoppen som én eller to dages workshop. I éndagsworkshoppens version vælger du undervisning i enten app- eller webløsninger. Jeres deltagere får introduktion til tilgængelighed, indsigt i standarder og lovgivning og afslutningsvis demonstreret, hvordan forskellige hjælpeteknologier fungerer.</p>
+<p>
+Vælger I todagesudgaven, får I undervisning i både app og webløsninger, og I kommer dybere ned i både teori og praksis. Todages-workshoppen byder også på en række praktiske øvelser, så det bliver klart for deltagerne, hvad de skal fokusere på, før de begynder at udvikle en ny løsning. Hvis jeres ønske er, at deltagerne selv skal lære at teste for tilgængelighed og på sigt undgå ekstern hjælp, så er det helt klart todages-workshoppen, I skal vælge.</p>
 
 
-## Derfor skal I teste jeres løsning sammen med os
 
-* <b>Bedre samarbejde på tværs af afdelinger</b> - Denne workshop kan fremme samarbejdet og kommunikationen på tværs af forskellige afdelinger i virksomheden, som kan bidrage til bedre løsninger og en mere effektiv arbejdsproces.
+## Hvis du forstår din målgruppe, så bliver udvikling af løsninger en leg 
+<p>Med workshoppen ”Forstå dine brugere ” får du mulighed for at:</p>
+
+* <b>Blive klogere på målgruppen</b> - Deltagerne vil lære at sætte sig i brugerens sted og dermed kunne evaluere og forbedre digitale løsninger på en måde, der tager hensyn til brugernes behov og udfordringer.
 * <b>Udvikling af kompetencer</b> - Ved at lære at udføre manuelle tilgængelighedstests og arbejde med hjælpeteknologier, vil medarbejderne i virksomheden også kunne udvikle deres egne kompetencer og blive mere erfarne inden for området.
 * <b>Mulighed for at opdage og rette fejl</b> - Workshoppen kan hjælpe jer med at opdage og rette fejl og mangler i jeres løsninger, som kan forbedre brugeroplevelsen og undgå potentiel negativ feedback.
 * <b>Spar penge</b> – Eventuelle fejl og mangler kan opdages i tide og rettes, før løsningen går i produktion.  Dette kan reducere omkostningerne, da du undgår at skulle lave omfattende ændringer senere i processen.
