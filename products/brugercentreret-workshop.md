@@ -1,12 +1,10 @@
 ---
-title: Collaborative test workshop
-summary: "Du medbringer de produkter, du vil fokusere på, og sammen tester vi for tilgængelighed og identificerer potentielle udfordringer og løsninger."
-cta: Læs om collaborative test workshoppen
+title: Forstå dine brugere workshop
+summary: "Bliv fortrolig med hjælpeteknologier såsom skærmlæsere, tekstforstørrelse, stemmestyring og tastaturnavigation, så du selv kan udføre grundlæggende test af løsninger på de mest almindelige hjælpeteknologier for handicappede."
+cta: Læs om Forstå dine brugere test workshoppen
 ---
 
-## Test sammen med os! 
-
-<p>Ønsker du at skabe en mere inkluderende og tilgængelig løsning, samtidig med at du sparer tid og penge? Så er Collaborative Testing-workshoppen lige noget for dig! Sammen med vores erfarne tilgængelighedskonsulenter vil du lære at udføre simple manuelle tilgængelighedstests og få konkrete løsningsforslag til potentielle udfordringer. Denne workshop har fokus på, I selv på sigt skal kunne udføre tilgængelighedstests uden ekstern hjælp.</p>
+<p>Er din virksomhed interesseret i at gøre jeres digitale løsninger tilgængelige for alle? Så er vores workshop noget for jer! Vores kursus giver deltagerne de nødvendige værktøjer og kompetencer til at evaluere og forbedre digitale løsninger, som websites eller apps, ved at sætte sig i brugerens sted. Ved at fokusere på, at f.eks. blinde og svagsynede, lærer deltagerne at udføre grundlæggende test på de mest almindelige hjælpeteknologier for synshandicappede og afprøve nye ideer, prototyper og løsninger med hjælpeteknologier som skærmlæsere, tekstforstørrelse, stemmestyring og meget mere. Efter workshoppen vil jeres ansatte have viden nok til selv at kunne tage hånd om tilgængeligheden af jeres digitale løsninger.</p>
 
 ## Hvad er collaborative test? 
 
