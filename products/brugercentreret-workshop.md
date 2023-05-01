@@ -20,8 +20,8 @@ Vælger I todagesudgaven, får I undervisning i både app og webløsninger, og I
 * <b>Blive klogere på målgruppen</b> - Deltagerne vil lære at sætte sig i brugerens sted og dermed kunne evaluere og forbedre digitale løsninger på en måde, der tager hensyn til brugernes behov og udfordringer.
 * <b>Få bedre omdømme</b> - Virksomheder, der er engageret i at skabe mere tilgængelige løsninger, kan også forbedre deres omdømme og positionere sig selv som en inkluderende og ansvarlig virksomhed.
 * <b>Lære at indtænke tilgængelighed fra starten </b> - Eventuelle fejl og mangler kan opdages i tide og rettes, før løsningen går i produktion.  Dette kan reducere omkostningerne, da du undgår at skulle lave omfattende ændringer senere i processen.
-* <b>Spare tid </b> – Hjemmesiden eller appen bliver udviklet så effektivt som muligt, så du undgår unødvendige forsinkelser.
-* <b>Opnå bedre samarbejde på tværs af afdelinger </b> – Denne workshop kan fremme samarbejdet og kommunikationen på tværs af forskellige afdelinger i virksomheden, som kan bidrage til bedre løsninger og en mere effektiv arbejdsproces.
+* <b>Spare tid </b> - Hjemmesiden eller appen bliver udviklet så effektivt som muligt, så du undgår unødvendige forsinkelser.
+* <b>Opnå bedre samarbejde på tværs af afdelinger </b> - Denne workshop kan fremme samarbejdet og kommunikationen på tværs af forskellige afdelinger i virksomheden, som kan bidrage til bedre løsninger og en mere effektiv arbejdsproces.
 * <b>Opkvalificere</b> - Ved at lære om hjælpeteknologier, vil medarbejderne i virksomheden også kunne tage informeret beslutninger om designet af en løsning.
 * <b>Overholdelse af lovgivning og standarder</b> - Collaborative Testing workshoppen kan sikre, at produktet opfylder tilgængelighedslovgivning og standarder såsom WCAG. Dette kan reducere risikoen for retssager og andre negative konsekvenser.
 * <b>Få styr på lovgivningen </b> - Ved at forbedre tilgængeligheden kan man forbedre den generelle brugeroplevelse for alle brugere, uanset om de har et handicap eller ej. Dette kan øge brugertilfredshed og -engagement og føre til øget salg og indtjening.

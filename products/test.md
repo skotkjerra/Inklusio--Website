@@ -1,5 +1,5 @@
 ---
-title: "Test af din løsning"
+title: "Test din løsning"
 summary: Gennem årene har vi i Inklusio specialiseret os i at bruge de bedste
   værktøjer til test af webtilgængelighed. Sammen med dig og din leverandør
   finder vi løsningsforslag til problemområder

@@ -25,8 +25,8 @@ cta: Læs om Intro til webtilgængelighed workshoppen
 * <b>Få viden til at overholde lovgivning og standarder </b> - Workshoppen kan sikre, at dit produkt opfylder tilgængelighedslovgivning og standarder såsom WCAG. Dette reducerer risikoen for retssager og andre negative konsekvenser.
 * <b>Forbedre din løsnings brugeroplevelse</b> - Ved at forbedre tilgængeligheden kan man forbedre den generelle brugeroplevelse for alle brugere, uanset om de har et handicap eller ej. Dette kan øge brugertilfredshed og -engagement og føre til øget salg og indtjening.
 * <b>Opkvalificére jeres viden</b> - I kan drage nytte af vores viden og erfaring med inkludering af tilgængelighed i udvikling af web- eller app-løsning. Denne viden kan I tage med i fremtidige udviklingsprojekter, hvor I vil have et solidt udgangspunkt til at udvikle tilgængelige løsninger.
-* <b>Få positivt omdømme</b> – En virksomhed, der prioriterer tilgængelighed og inklusion, kan opbygge et positivt omdømme og differentiere sig fra konkurrenterne.
-* <b>Vise social ansvarlighed</b> – At tage hensyn til tilgængelighed er også et spørgsmål om socialt ansvar og kan bidrage til at skabe et mere inkluderende samfund.
+* <b>Få positivt omdømme</b> - En virksomhed, der prioriterer tilgængelighed og inklusion, kan opbygge et positivt omdømme og differentiere sig fra konkurrenterne.
+* <b>Vise social ansvarlighed</b> - At tage hensyn til tilgængelighed er også et spørgsmål om socialt ansvar og kan bidrage til at skabe et mere inkluderende samfund.
 
 
 ## Det kan du forvente af workshoppen 
