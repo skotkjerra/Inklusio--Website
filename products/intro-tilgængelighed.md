@@ -51,7 +51,7 @@ cta: Læs om Intro til webtilgængelighed workshoppen
 </p>
 
 ## Undervisere
-Inklusio består af erfarne undervisere, konsulenter og rådgivere, der brænder for at skabe en inkluderende digital verden. Vores ekspertise ligger inden for brugervenlighed og tilgængelighed, hvor vi har omfattende erfaring med manuelle tilgængelighedstests, rådgivning og udvikling af automatiske tilgængelighedsværktøjer. Vi har en omfattende viden om tilgængelighedsstandarder og lovgivning, herunder WCAG (Web Content Accessibility Guidelines). CEO, Stein Erik Skotkjerra er selv blind og har sammen med vores øvrige netværk en uvurderlig indsigt i såvel udfordringer som løsninger på tilgængelighedsområdet.
+<p>Inklusio består af erfarne undervisere, konsulenter og rådgivere, der brænder for at skabe en inkluderende digital verden. Vores ekspertise ligger inden for brugervenlighed og tilgængelighed, hvor vi har omfattende erfaring med manuelle tilgængelighedstests, rådgivning og udvikling af automatiske tilgængelighedsværktøjer. Vi har en omfattende viden om tilgængelighedsstandarder og lovgivning, herunder WCAG (Web Content Accessibility Guidelines). CEO, Stein Erik Skotkjerra er selv blind og har sammen med vores øvrige netværk en uvurderlig indsigt i såvel udfordringer som løsninger på tilgængelighedsområdet.</p>
 
 ## Kontakt os
 <p>Du kan kontakte os allerede i dag på mailen <a href="mailto:info@inklusio.dk">ses@inklusio.dk</a>, hvis du ønsker at høre mere om denne og andre workshops. Hvis du har spørgsmål eller ønsker at booke et uforpligtende møde, er du også velkommen til at kontakte os.</p>
