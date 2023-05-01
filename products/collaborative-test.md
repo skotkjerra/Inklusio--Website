@@ -38,7 +38,6 @@ cta: Læs om collaborative test workshoppen
 ## Undervisere
 Inklusio består af erfarne undervisere, konsulenter og rådgivere, der brænder for at skabe en inkluderende digital verden. Vores ekspertise ligger inden for brugervenlighed og tilgængelighed, hvor vi har omfattende erfaring med manuelle tilgængelighedstests, rådgivning og udvikling af automatiske tilgængelighedsværktøjer. Vi har en omfattende viden om tilgængelighedsstandarder og lovgivninger, herunder WCAG (Web Content Accessibility Guidelines). Vores CEO Stein Erik Skotkjerra er selv blind og har sammen med vores øvrige netværk en uvurderlig indsigt i såvel udfordringer som løsninger på tilgængelighedsområdet.
 
-
 ## Mulige tilvalg 
 <p><b>Få en efterfølgende test af webtilgængelighed af løsningen!</b></p>
 <p>Efter I har haft mulighed for at rette fejl fundet i workshoppen, er der mulighed for at få testet løsningen på ny, og modtage en rapport som beskriver udestående fund. Med denne test vil I få en minutiøs gennemgang af jeres løsning for samtlige de kriterier, der er omfattet af EU’s krav. Vi samler resultaterne i en overskuelig rapport med dokumentation af de fundne fejl, så I kan bruge den fremadrettet i arbejdet med forbedring af tilgængeligheden. Kontakt os for at høre mere.</p>

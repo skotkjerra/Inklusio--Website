@@ -14,7 +14,7 @@ Vælger I todagesudgaven, får I undervisning i både app og webløsninger, og I
 
 
 
-## Hvis du forstår din målgruppe, så bliver udvikling af løsninger en leg 
+## Hvis du forstår din målgruppe, <br> så bliver udvikling af løsninger en leg 
 <p>Med workshoppen ”Forstå dine brugere ” får du mulighed for at:</p>
 
 * <b>Blive klogere på målgruppen</b> - Deltagerne vil lære at sætte sig i brugerens sted og dermed kunne evaluere og forbedre digitale løsninger på en måde, der tager hensyn til brugernes behov og udfordringer.
