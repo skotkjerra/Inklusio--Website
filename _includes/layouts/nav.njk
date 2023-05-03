@@ -17,7 +17,7 @@
               {% for key, navObj in navigationData %}
                 {% if navObj.url == page.url %}
                   <button class="btn btn-sm btn-dark" type="button">
-                    <i class="bi bi-globe" style="font-size: 16px;"></i>
+                    <i class="bi bi-globe" style="font-size: 16px;" aria-label="Switch language. Current language is: "></i>
                     <span class="text-uppercase" style="font-size: 16 px;">{{ page.lang }}</span>
                   </button>
                   <div class="dropdown-menu" style="display: none;">
