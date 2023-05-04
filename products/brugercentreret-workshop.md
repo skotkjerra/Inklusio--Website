@@ -1,14 +1,16 @@
 ---
-title: Forstå dine brugere workshop
+title: Workshop: Forstå dine brugere
 summary: "Bliv fortrolig med hjælpeteknologier såsom skærmlæsere, tekstforstørrelse, stemmestyring og tastaturnavigation, så du selv kan udføre grundlæggende test af løsninger på de mest almindelige hjælpeteknologier for handicappede."
-cta: Læs om Forstå dine brugere test workshoppen
+cta: Læs om workshoppen Forstå dine brugere
 ---
 
-<p>Er din virksomhed interesseret i at gøre jeres digitale løsninger tilgængelige for alle? Så er vores workshop noget for jer! Vores kursus giver deltagerne de nødvendige værktøjer og kompetencer til at evaluere og forbedre digitale løsninger, som websites eller apps, ved at sætte sig i brugerens sted. Ved at fokusere på, at f.eks. blinde og svagsynede, lærer deltagerne at udføre grundlæggende test på de mest almindelige hjælpeteknologier for synshandicappede og afprøve nye ideer, prototyper og løsninger med hjælpeteknologier som skærmlæsere, tekstforstørrelse, stemmestyring og meget mere. Efter workshoppen vil jeres ansatte have viden nok til selv at kunne tage hånd om tilgængeligheden af jeres digitale løsninger.</p>
+<p>Er din virksomhed interesseret i at gøre jeres digitale løsninger tilgængelige for alle? Så er vores workshop noget for jer! </p>
+<p>Vores kursus giver deltagerne de nødvendige værktøjer og kompetencer til at evaluere og forbedre digitale løsninger, som websites eller apps, ved at sætte sig i brugerens sted. Ved at fokusere på f.eks. blinde og svagsynede lærer deltagerne at udføre grundlæggende test på de mest almindelige hjælpeteknologier for synshandicappede og afprøve nye ideer, prototyper og løsninger med hjælpeteknologier som skærmlæsere, tekstforstørrelse, stemmestyring og meget mere.</p>
+<p>Efter workshoppen vil jeres ansatte have viden nok til selv at kunne tage hånd om tilgængeligheden af jeres digitale løsninger.</p>
 
 ## Hvad får vi ud af workshoppen? 
 
-<p>Vi tilbyder workshoppen som én eller to dages workshop. I éndagsworkshoppens version vælger du undervisning i enten app- eller webløsninger. Jeres deltagere får introduktion til tilgængelighed, indsigt i standarder og lovgivning og afslutningsvis demonstreret, hvordan forskellige hjælpeteknologier fungerer.</p>
+<p>Vi tilbyder workshoppen som én eller to dages workshop. I éndagsudgaven vælger du undervisning i enten app- eller webløsninger. Jeres deltagere får introduktion til tilgængelighed, indsigt i standarder og lovgivning og afslutningsvis demonstreret, hvordan forskellige hjælpeteknologier fungerer.</p>
 <p>
 Vælger I todagesudgaven, får I undervisning i både app og webløsninger, og I kommer dybere ned i både teori og praksis. Todages-workshoppen byder også på en række praktiske øvelser, så det bliver klart for deltagerne, hvad de skal fokusere på, før de begynder at udvikle en ny løsning. Hvis jeres ønske er, at deltagerne selv skal lære at teste for tilgængelighed og på sigt undgå ekstern hjælp, så er det helt klart todages-workshoppen, I skal vælge.</p>
 
@@ -22,9 +24,9 @@ Vælger I todagesudgaven, får I undervisning i både app og webløsninger, og I
 * <b>Lære at indtænke tilgængelighed fra starten </b> - Eventuelle fejl og mangler kan opdages i tide og rettes, før løsningen går i produktion.  Dette kan reducere omkostningerne, da du undgår at skulle lave omfattende ændringer senere i processen.
 * <b>Spare tid </b> - Hjemmesiden eller appen bliver udviklet så effektivt som muligt, så du undgår unødvendige forsinkelser.
 * <b>Opnå bedre samarbejde på tværs af afdelinger </b> - Denne workshop kan fremme samarbejdet og kommunikationen på tværs af forskellige afdelinger i virksomheden, som kan bidrage til bedre løsninger og en mere effektiv arbejdsproces.
-* <b>Opkvalificere</b> - Ved at lære om hjælpeteknologier, vil medarbejderne i virksomheden også kunne tage informeret beslutninger om designet af en løsning.
-* <b>Overholdelse af lovgivning og standarder</b> - Collaborative Testing workshoppen kan sikre, at produktet opfylder tilgængelighedslovgivning og standarder såsom WCAG. Dette kan reducere risikoen for retssager og andre negative konsekvenser.
-* <b>Få styr på lovgivningen </b> - Ved at forbedre tilgængeligheden kan man forbedre den generelle brugeroplevelse for alle brugere, uanset om de har et handicap eller ej. Dette kan øge brugertilfredshed og -engagement og føre til øget salg og indtjening.
+* <b>Opkvalificere</b> - Ved at lære om hjælpeteknologier, vil medarbejderne i virksomheden også kunne tage informerede beslutninger om designet af en løsning.
+* <b>Overholdelse af lovgivning og standarder</b> - Viden fra workshoppen kan bruges til at sikre, at produkter opfylder tilgængelighedslovgivning og standarder såsom WCAG. Dette kan reducere risikoen for retssager og andre negative konsekvenser.
+* <b>Forbedret brugeroplevelse </b> - Ved at forbedre tilgængeligheden kan man forbedre den generelle brugeroplevelse for alle brugere, uanset om de har et handicap eller ej. Dette kan øge brugertilfredshed og -engagement og føre til øget salg og indtjening.
 * <b>Få undervisning fra Danmarks dygtigste eksperter </b> - Modtag undervisning fra kompetente tilgængelighedskonsulenter med tilsammen over 30 års erfaring.
 
 ## Det kan du forvente af Éndagsworkshoppen <br> (Native apps eller web) 
@@ -54,15 +56,23 @@ Vælger I todagesudgaven, får I undervisning i både app og webløsninger, og I
 
 
 ## Praktisk information
-<p>Vil du gerne modtage en ”Forstå dine brugere” workshop, starter vi med et forventningsmøde, hvor vi kan afstemme indholdet af undervisningen. Hvis du vælger Éndagsworkshoppen, skal vi vide, om du ønsker undervisning med fokus på apps eller webløsninger. Yderligere, vil vi snakke om, hvem der skal deltage på workshoppen, for at sikre os, at deltagerne får mest muligt ud af den. Workshoppen kan både foregå over teams og i fysiske rammer, dog vil vi med denne type workshop anbefale fysisk tilstedeværelse. Efter workshoppen vil I modtage det læringsmateriale, som blev brugt under workshoppen, herunder slides, hand-outs, guides og ”cheat sheets” brugt i workshoppen.</p>
+<p>Vil du gerne modtage en ”Forstå dine brugere” workshop, starter vi med et forventningsmøde, hvor vi kan afstemme indholdet af undervisningen. Hvis du vælger Éndagsworkshoppen, skal vi vide, om du ønsker undervisning med fokus på apps eller webløsninger. Yderligere, vil vi snakke om, hvem der skal deltage på workshoppen, for at sikre os, at deltagerne får mest muligt ud af den.</p>
+<pWorkshoppen kan både foregå over teams og i fysiske rammer, dog vil vi med denne type workshop anbefale fysisk tilstedeværelse.</p>
+<pEfter workshoppen vil I modtage det læringsmateriale, som blev brugt under workshoppen, herunder slides, hand-outs, guides og ”cheat sheets” brugt i workshoppen.</p>
 
 ## Undervisere
-Inklusio består af erfarne undervisere, konsulenter og rådgivere, der brænder for at skabe en inkluderende digital verden. Vores ekspertise ligger inden for brugervenlighed og tilgængelighed, hvor vi har omfattende erfaring med manuelle tilgængelighedstests, rådgivning og udvikling af automatiske tilgængelighedsværktøjer. Vi har en omfattende viden om tilgængelighedsstandarder og lovgivninger, herunder WCAG (Web Content Accessibility Guidelines). CEO, Stein Erik Skotkjerra er selv blind og har sammen med vores øvrige netværk en uvurderlig indsigt i såvel udfordringer som løsninger på tilgængelighedsområdet.
+<p>Inklusio består af erfarne undervisere, konsulenter og rådgivere, der brænder for at skabe en inkluderende digital verden.</p> 
+
+<p>Vores ekspertise ligger inden for brugervenlighed og tilgængelighed, hvor vi har omfattende erfaring med manuelle tilgængelighedstests, rådgivning og udvikling af automatiske tilgængelighedsværktøjer. Vi har en omfattende viden om tilgængelighedsstandarder og lovgivning, herunder WCAG (Web Content Accessibility Guidelines). </p> 
+
+<p>Inklusios CEO, Stein Erik Skotkjerra er selv blind og har sammen med vores øvrige netværk en uvurderlig indsigt i såvel udfordringer som løsninger på tilgængelighedsområdet.</p>
 
 ## Mulige tilvalg 
 <p><b>Få en efterfølgende test af webtilgængelighed på en af jeres løsninger</b></p>
-<p>Efter at workshoppen gav din virksomhed mod på at arbejde med tilgængelighed på jeres løsning, ønsker I garanteret at vide, hvordan det er gået. Derfor har I mulighed for at tilvælge en tilgængelighedstest. Med denne test vil I få en minutiøs gennemgang af jeres løsning for samtlige de kriterier, der er omfattet af EU’s krav. Vi samler resultaterne i en overskuelig rapport med dokumentation af de fundne fejl, sådan at I kan bruge den fremadrettet i arbejdet med forbedring af tilgængeligheden. Kontakt os for at høre mere.</p>
+<p>Efter at workshoppen har givet din virksomhed mod på at arbejde med tilgængelighed i jeres løsning, ønsker I garanteret at vide, hvordan det er gået. Derfor har I mulighed for at tilvælge en tilgængelighedstest. Med denne test vil I få en minutiøs gennemgang af jeres løsning for samtlige de tilgængelighedskrav. Vi samler resultaterne i en overskuelig rapport med dokumentation af de fundne fejl, sådan at I kan bruge den fremadrettet i arbejdet med forbedring af tilgængeligheden. Kontakt os for at høre mere.</p>
 
 ## Kontakt os
-<p>Du kan kontakte os allerede i dag på mailen <a href="mailto:info@inklusio.dk">ses@inklusio.dk</a>, hvis du ønsker at høre mere om denne og andre workshops. Hvis du har spørgsmål eller ønsker at booke et uforpligtende møde, er du også velkommen til at kontakte os.</p>
+<p>Du kan kontakte os allerede i dag på mailen <a href="mailto:info@inklusio.dk">ses@inklusio.dk</a>, hvis du ønsker at høre mere om denne og andre workshops.</p> 
+
+<p>Hvis du har spørgsmål eller ønsker at booke et uforpligtende møde, er du også velkommen til at kontakte os.</p>
 
