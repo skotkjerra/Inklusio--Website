@@ -14,7 +14,7 @@ cta: Læs om workshoppen Forstå dine brugere
 <p>
 Vælger I todagesudgaven, får I undervisning i både app og webløsninger, og I kommer dybere ned i både teori og praksis. Todages-workshoppen byder også på en række praktiske øvelser, så det bliver klart for deltagerne, hvad de skal fokusere på, før de begynder at udvikle en ny løsning. Hvis jeres ønske er, at deltagerne selv skal lære at teste for tilgængelighed og på sigt undgå ekstern hjælp, så er det helt klart todages-workshoppen, I skal vælge.</p>
 
-
+<a href="#CTA" class="btn btn-primary">Få et uforpligtende tilbud på en workshop</a>
 
 ## Hvis du forstår din målgruppe, <br> så bliver udvikling af løsninger en leg 
 <p>Med workshoppen ”Forstå dine brugere ” får du mulighed for at:</p>
@@ -54,6 +54,7 @@ Vælger I todagesudgaven, får I undervisning i både app og webløsninger, og I
 * Praktiske øvelser for både mobil og webløsninger
 * Sikre at dine løsninger fungerer optimalt for alle brugere
 
+<a href="#CTA" class="btn btn-primary">Få et uforpligtende tilbud på en workshop</a>
 
 ## Praktisk information
 <p>Vil du gerne modtage en ”Forstå dine brugere” workshop, starter vi med et forventningsmøde, hvor vi kan afstemme indholdet af undervisningen. Hvis du vælger Éndagsworkshoppen, skal vi vide, om du ønsker undervisning med fokus på apps eller webløsninger. Yderligere, vil vi snakke om, hvem der skal deltage på workshoppen, for at sikre os, at deltagerne får mest muligt ud af den.</p>
@@ -71,7 +72,7 @@ Vælger I todagesudgaven, får I undervisning i både app og webløsninger, og I
 <p><b>Få en efterfølgende test af webtilgængelighed på en af jeres løsninger</b></p>
 <p>Efter at workshoppen har givet din virksomhed mod på at arbejde med tilgængelighed i jeres løsning, ønsker I garanteret at vide, hvordan det er gået. Derfor har I mulighed for at tilvælge en tilgængelighedstest. Med denne test vil I få en minutiøs gennemgang af jeres løsning for samtlige de tilgængelighedskrav. Vi samler resultaterne i en overskuelig rapport med dokumentation af de fundne fejl, sådan at I kan bruge den fremadrettet i arbejdet med forbedring af tilgængeligheden. Kontakt os for at høre mere.</p>
 
-## Kontakt os
+## <a id="CTA"></a>Få et tilbud på en workshop
 <p>Du kan kontakte os allerede i dag på mailen <a href="mailto:info@inklusio.dk">ses@inklusio.dk</a>, hvis du ønsker at høre mere om denne og andre workshops.</p> 
 
 <p>Hvis du har spørgsmål eller ønsker at booke et uforpligtende møde, er du også velkommen til at kontakte os.</p>
