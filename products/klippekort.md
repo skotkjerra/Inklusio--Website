@@ -17,6 +17,8 @@ cta: Læs om Klippekort
 ## Derfor bør du købe et klippekort
 <p>Et klippekort baseret på antal timer kan være en fordelagtig løsning for dig i dit arbejde med webtilgængelighed. Fordelene ved et sådant klippekort er, at det giver dig fleksibilitet til at bruge rådgivningstiden efter behov og på den måde, der passer bedst til jeres situation og budget. Klippekortet giver mulighed for hurtig feedback på design og kode samt mulighed for at række ud til eksperter i Inklusio for sparring på konkrete komponenter eller lignende.</p>
 
+<a href="#CTA" class="btn btn-primary">Få et tilbud på et klippekort</a>
+
 ## Det kan du forvente ved køb af et klippekort 
 Med et klippekort får du bl.a. følgende fordele: 
 
@@ -40,6 +42,7 @@ Med et klippekort får du bl.a. følgende fordele:
 #### Tilgængelighedserklæringer
 <p>Det kan være svært at danne sig et overblik over niveauet af tilgængelighed på sit websted eller sin app, men det er nødvendigt for at kunne udfylde tilgængelighedserklæringer, som er lovpligtige for den offentlige sektor.</p>
 
+<a href="#CTA" class="btn btn-primary">Få et tilbud på et klippekort</a>
 
 ## Vi er Danmarks førende eksperter <br> i webtilgængelighed  
 <p>Inklusio består af erfarne undervisere, konsulenter og rådgivere, der brænder for at skabe en inkluderende digital verden.</p> 
@@ -49,7 +52,7 @@ Med et klippekort får du bl.a. følgende fordele:
 <p>Inklusios CEO, Stein Erik Skotkjerra er selv blind og har sammen med vores øvrige netværk en uvurderlig indsigt i såvel udfordringer som løsninger på tilgængelighedsområdet.</p>
 
 
-## Kontakt os
+## <a id="CTA"></a>Få et tilbud på et klippekort
 <p>Du kan kontakte os allerede i dag på mailen <a href="mailto:info@inklusio.dk">ses@inklusio.dk</a>, hvis du ønsker at høre mere om denne og andre workshops.</p> 
 
 <p>Hvis du har spørgsmål eller ønsker at booke et uforpligtende møde, er du også velkommen til at kontakte os.</p>
