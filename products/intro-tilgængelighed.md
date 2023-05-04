@@ -58,7 +58,7 @@ Det samme som ved en halv dag og derudover:
 
 <p>Inklusios CEO, Stein Erik Skotkjerra er selv blind og har sammen med vores øvrige netværk en uvurderlig indsigt i såvel udfordringer som løsninger på tilgængelighedsområdet.</p>
 
-## <a id="CTA"></a>Kontakt os og få et uforpligtende tilbud
+## <a id="CTA"></a>Kontakt os for et uforpligtende tilbud
 <p>Du kan kontakte os allerede i dag på mailen <a href="mailto:info@inklusio.dk">ses@inklusio.dk</a>, hvis du ønsker at høre mere om denne og andre workshops.</p> 
 
 <p>Hvis du har spørgsmål eller ønsker at booke et uforpligtende møde, er du også velkommen til at kontakte os.</p>
