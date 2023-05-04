@@ -20,7 +20,7 @@ cta: Læs om workshoppen Intro til webtilgængelighed
 
 <p>Der er mange gode grunde til at tænke tilgængelighed ind så tidligt som muligt i processen med at udvikle din webside og/eller app. Du kan spare penge, du kan forbedre kundeoplevelsen, opnå bedre SEO og øge din performance for blot at nævne nogle få fordele.</p>
 
-<a href="#CTA" class="btn btn-primary">Få et tilbud på workshop</a>
+<a href="#CTA" class="btn btn-primary">Få et uforpligtende tilbud på en workshop</a>
 
 ## Webtilgængelighed – også godt for bundlinjen 
 <p>Med workshoppen ”Intro til webtilgængelighed” får du mulighed for at: </p>
@@ -44,7 +44,7 @@ Det samme som ved en halv dag og derudover:
 * Dybdegående viden om teknologiske hjælpemidler
 * Demo af hvordan en skærmlæser navigerer på din løsning
 
-<a href="#CTA" class="btn btn-primary">Få et tilbud på workshop</a>
+<a href="#CTA" class="btn btn-primary">Få et uforpligtende tilbud på en workshop</a>
 
 ## Praktisk information
 <p>Hvis du har bestemt dig for at gennemføre workshoppen sammen med dine kolleger, så kontakt os, og vi vil i fællesskab finde en dato, der passer alle parter.</p> 
