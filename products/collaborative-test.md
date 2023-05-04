@@ -16,6 +16,7 @@ cta: Læs om collaborative test workshoppen
 <p>Collaborative testing workshoppen vil give jer kompetencerne til at selv kunne udføre simple manuelle tilgængelighedstests, som I vil kunne benytte i jeres videre arbejde med tilgængelighed af løsningen. </p>
 <p>I denne workshop vil I også stifte bekendtskab med hjælpeteknologier som skærmlæser, forstørrelse af tekst, stemmestyring og navigation med tastatur. I vil lære, hvordan hjælpeteknologierne fungerer og hvilken forskel tilgængelighed gør for dem, der benytter jeres løsning, ligesom vi ser på jeres muligheder for forbedringer.</p>
 
+<a href="#CTA" class="btn btn-primary">Få et uforpligtende tilbud på en workshop</a>
 
 ## Derfor skal I teste jeres løsning sammen med os
 
@@ -36,6 +37,8 @@ cta: Læs om collaborative test workshoppen
 * Masser af viden om forskellige typer af målgrupper med funktionsnedsættelser
 * Bliv skarp til at skabe inkluderende hjemmesider eller apps
 
+<a href="#CTA" class="btn btn-primary">Få et uforpligtende tilbud på en workshop</a>
+
 ## Praktisk information
 <p>Når du har givet os løsningen, som du ønsker, at vi skal teste sammen, vil vores team afsætte tid til at analysere løsningen med fokus på webtilgængelighed. Dernæst vil vi aftale en dag, hvor vi sammen kan teste løsningen for tilgængelighed.</p>
 <p>I workshoppen vil vi sammen identificere tilgængelighedsproblemer, og vi vil snakke om, hvordan I løser dem, og hvordan I kan organisere dem i jeres backlog. </p>
@@ -53,8 +56,7 @@ cta: Læs om collaborative test workshoppen
 
 <p>Kontakt os for at høre mere.</p>
 
-## Kontakt os
+## <a id="CTA"></a>Få et tilbud på en workshop
 <p>Du kan kontakte os allerede i dag på mailen <a href="mailto:info@inklusio.dk">ses@inklusio.dk</a>, hvis du ønsker at høre mere om denne og andre workshops.</p> 
 
 <p>Hvis du har spørgsmål eller ønsker at booke et uforpligtende møde, er du også velkommen til at kontakte os.</p>
-
