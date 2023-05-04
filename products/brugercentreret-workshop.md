@@ -38,7 +38,7 @@ Vælger I todagesudgaven, får I undervisning i både app og webløsninger, og I
 * Demo af hvordan dine løsning opleves af en person, som benytter skærmlæser til daglig
 * Intro i test på apps og websteder med fokus på skærmlæser, tekstforstørrelse, stemmestyrring, kompenserende strategier
 
-
+<a href="#CTA" class="btn btn-primary">Få et uforpligtende tilbud på en workshop</a>
 
 ## Det kan du forvente af Todagesworkshoppen <br>(Både native apps og webløsninger)
 ### Dag 1 - Introduktion
