@@ -1,5 +1,5 @@
 ---
-title: Workshop: Intro til webtilgængelighed
+title: "Workshop: Intro til webtilgængelighed"
 summary: "Du får en grundlæggende introduktion til begrebet tilgængelighed. Vi ser på reglerne, typiske udfordringer og mulige løsninger – hele tiden med udgangspunkt i dit eget produkt."
 cta: Læs om workshoppen Intro til webtilgængelighed
 ---
