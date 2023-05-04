@@ -1,7 +1,7 @@
 ---
 title: Design review
 summary: "Investér i et design review og sikr, at dit produkt eller website er tilgængeligt for alle. Design reviewet er en gennemgang af interface mock-ups eller designsystemer med det mål at forebygge tilgængelighedsproblemer før udviklingerne begynder at skrive koden."
-cta: Læs om Design review
+cta: Læs om design review
 ---
 
 <p>Design reviews er afgørende for at skabe en hjemmeside eller app, der er inkluderende og tilgængelig for alle. Ved at fokusere på webtilgængelighed i designfasen kan man identificere og adressere barrierer og udfordringer, som personer med funktionsnedsættelser kan opleve, når de kommer til at bruge din løsning.</p>
