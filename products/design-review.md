@@ -16,6 +16,7 @@ cta: Læs om Design review
 <p>Afslutningsvis vil vi give anbefalinger til, hvordan designet kan forbedres for at sikre tilgængelighed og inklusion for alle brugere. </p>
 <p>Målet med et tilgængeligt design er at sikre, at løsningen er så brugervenlig og inkluderende som muligt, også for brugere med funktionsnedsættelser såsom visuelle, auditive, motoriske, kognitive eller neurologiske udfordringer.</p>
 
+<a href="#CTA" class="btn btn-primary">Få et uforpligtende tilbud på et design review</a>
 
 ## Design reviews skaber stor værdi
 Med en gennemgang af dit design får du bl.a. følgende fordele: 
@@ -44,6 +45,7 @@ Med en gennemgang af dit design får du bl.a. følgende fordele:
 *	Bliv skarp til at skabe inkluderende designs
 *	Læring om, hvordan man kan sende sit design trygt videre til udviklerne 
 
+<a href="#CTA" class="btn btn-primary">Få et uforpligtende tilbud på et design review</a>
 
 ## Praktisk information
 <p>Når du har givet os adgang til jeres design-filer, vil vores team afsætte tid til at analysere jeres design med fokus på brugervenlighed og tilgængelighed. Dette vil hjælpe os med at identificere eventuelle problemer eller barrierer for brugere med forskellige behov og give os mulighed for at komme med anbefalinger til forbedringer af designet.</p>
@@ -56,7 +58,7 @@ Med en gennemgang af dit design får du bl.a. følgende fordele:
 
 <p>Inklusios CEO, Stein Erik Skotkjerra er selv blind og har sammen med vores øvrige netværk en uvurderlig indsigt i såvel udfordringer som løsninger på tilgængelighedsområdet.</p>
 
-## Kontakt os
+## <a id="CTA"></a>Få et tilbud på et design review
 <p>Du kan kontakte os allerede i dag på mailen <a href="mailto:info@inklusio.dk">ses@inklusio.dk</a>, hvis du ønsker at høre mere om denne og andre workshops.</p> 
 
 <p>Hvis du har spørgsmål eller ønsker at booke et uforpligtende møde, er du også velkommen til at kontakte os.</p>
