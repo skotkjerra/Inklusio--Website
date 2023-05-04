@@ -10,7 +10,8 @@ cta: Læs om workshoppen Forstå dine brugere
 
 ## Hvad får vi ud af workshoppen? 
 
-<p>Vi tilbyder workshoppen som én eller to dages workshop. I éndagsudgaven vælger du undervisning i enten app- eller webløsninger. Jeres deltagere får introduktion til tilgængelighed, indsigt i standarder og lovgivning og afslutningsvis demonstreret, hvordan forskellige hjælpeteknologier fungerer.</p>
+<p>Vi tilbyder workshoppen som én eller to dages workshop.</p> 
+<p>I éndagsudgaven vælger du undervisning i enten app- eller webløsninger. Jeres deltagere får introduktion til tilgængelighed, indsigt i standarder og lovgivning og afslutningsvis demonstreret, hvordan forskellige hjælpeteknologier fungerer.</p>
 <p>
 Vælger I todagesudgaven, får I undervisning i både app og webløsninger, og I kommer dybere ned i både teori og praksis. Todages-workshoppen byder også på en række praktiske øvelser, så det bliver klart for deltagerne, hvad de skal fokusere på, før de begynder at udvikle en ny løsning. Hvis jeres ønske er, at deltagerne selv skal lære at teste for tilgængelighed og på sigt undgå ekstern hjælp, så er det helt klart todages-workshoppen, I skal vælge.</p>
 
