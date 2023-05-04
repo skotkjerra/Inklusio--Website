@@ -12,9 +12,11 @@ eleventyComputed:
 {% set pageData = translations[page.lang].pages.about_us %}
 {% set keywords = translations[page.lang].keywords %}
 
-<p>
-  {{ pageData.section[0].paragraph }}
-</p>
+<div class="container">
+  <p>
+    {{ pageData.section[0].paragraph }}
+  </p>
+</div>
 
 {% for member in pageData.team_members %}
   <div class="container py-5">

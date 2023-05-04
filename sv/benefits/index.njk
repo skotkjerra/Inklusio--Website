@@ -11,16 +11,16 @@ eleventyComputed:
 {% set pageData = translations[page.lang].pages.benefits %}
 
 <div class="container">
-  <div class="row d-flex flex-column">
+  <div class="d-flex flex-column">
     {% for paragraph in pageData.section[0].paragraph %}
-      <p class="text-justify mt-2">
+      <p class="text-left mt-2">
         {{ paragraph }}
       </p>
     {% endfor %}
   </div>
 </div>
-<div class="container-fluid p-0">
-  <div class="row gy-2">
+<div class="container p-0">
+  <div class="d-flex gy-2">
     {% for post in collections.sv_products %}
       <div class="col-12 col-md-6 col-lg-4 mb-5">
         <div class="card p-4 bg-white h-100">
