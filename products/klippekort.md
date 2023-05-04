@@ -3,7 +3,7 @@ title: Klippekort
 summary: "Vi deler gerne ud af vores viden, og det vigtigste er at efterlade
   vores kunder med bedre forudsætninger for at indtænke tilgængelighed på alle
   niveauer."
-cta: Læs om Klippekort
+cta: Læs om klippekort
 ---
 
 <p>Et klippekort fra Inklusio giver dig og dine ansatte den ultimative fleksibilitet. Køb 25, 50 eller 100 timers rådgivning fra Danmarks førende eksperter i webtilgængelighed.</p>
