@@ -1,7 +1,7 @@
 ---
 title: "Workshop: Forstå dine brugere"
 summary: "Bliv fortrolig med hjælpeteknologier såsom skærmlæsere, tekstforstørrelse, stemmestyring og tastaturnavigation, så du selv kan udføre grundlæggende test af løsninger på de mest almindelige hjælpeteknologier for handicappede."
-cta: Læs om workshoppen Forstå dine brugere
+cta: Læs om Forstå dine brugere
 ---
 
 <p>Er din virksomhed interesseret i at gøre jeres digitale løsninger tilgængelige for alle? Så er vores workshop noget for jer! </p>
