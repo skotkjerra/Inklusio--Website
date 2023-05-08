@@ -72,9 +72,3 @@ Vælger I todagesudgaven, får I undervisning i både app og webløsninger, og I
 ## Mulige tilvalg 
 <p><b>Få en efterfølgende test af webtilgængelighed på en af jeres løsninger</b></p>
 <p>Efter at workshoppen har givet din virksomhed mod på at arbejde med tilgængelighed i jeres løsning, ønsker I garanteret at vide, hvordan det er gået. Derfor har I mulighed for at tilvælge en tilgængelighedstest. Med denne test vil I få en minutiøs gennemgang af jeres løsning for samtlige de tilgængelighedskrav. Vi samler resultaterne i en overskuelig rapport med dokumentation af de fundne fejl, sådan at I kan bruge den fremadrettet i arbejdet med forbedring af tilgængeligheden. Kontakt os for at høre mere.</p>
-
-## <a id="CTA"></a>Få et tilbud på en workshop
-<p>Du kan kontakte os allerede i dag på mailen <a href="mailto:info@inklusio.dk">ses@inklusio.dk</a>, hvis du ønsker at høre mere om denne og andre workshops.</p> 
-
-<p>Hvis du har spørgsmål eller ønsker at booke et uforpligtende møde, er du også velkommen til at kontakte os.</p>
-
