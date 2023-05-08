@@ -30,7 +30,7 @@ Teknologien giver mange muligheder – men som altid virker teknologien bedst p�
 
 ## Tips til tilgængelighed (accessibility)
 
-Så hvordan kan du give folk, som bruger øjenstyring, en god oplevelse? Her er nogle eksempler: 
+Så hvordan kan du give folk, som bruger øjenstyring, en god oplevelse? Her er nogle eksempler på, hvordan du kan forbedre webtilgængeligheden, også kendt som accessibility: 
 
 * **Sørg for gode kontraster**, da det aflaster brugernes øjne. \
   Læs mere om kontraster i vores blogindlæg ["Digital Tilgængelighed 101: Lever dine tekster op til kravet om kontrast?"](<* https://inklusio.dk/posts/digital-tilgaengelighed-101-lever-dine-tekster-op-til-kravet-om-kontrast/>).
