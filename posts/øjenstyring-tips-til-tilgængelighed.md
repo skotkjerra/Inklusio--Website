@@ -28,7 +28,7 @@ Med øjenstyring kan du styre digitale enheder med øjnene, og det er især en h
 
 Teknologien giver mange muligheder – men som altid virker teknologien bedst på hjemmesider, som er godt designet. 
 
-## Tips til tilgængelighed
+## Tips til tilgængelighed (accessibility)
 
 Så hvordan kan du give folk, som bruger øjenstyring, en god oplevelse? Her er nogle eksempler: 
 
