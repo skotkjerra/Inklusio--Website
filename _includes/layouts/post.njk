@@ -5,4 +5,3 @@ templateClass: tmpl-post
 {% if title %}<h1>{{ title }}</h1>{% endif %}
 {% if author or date %}<p>Skrevet{% if author  %} af {{ author }}{% endif %}{% if date %} den <time datetime="{{ date|htmlDateString }}">{{ page.date|readableDate }}{% endif %}</time></p>{% endif %}
 {{ content | safe }}
-

@@ -238,10 +238,13 @@ li {
   font-size: 3rem;
 }
 
-p {
+p, li {
   font-size: 1.2rem;
 }
 
+.btn {
+  text-decoration: none;
+}
 
 .tester {
   margin-right: 40;

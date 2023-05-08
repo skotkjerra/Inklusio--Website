@@ -1,5 +1,6 @@
-{ 
-"layout": "layouts/product.njk",
-"tags": [
-    "products" ]
+{
+    "layout": "layouts/product.njk",
+    "tags": [
+        "products"
+    ]
 }
