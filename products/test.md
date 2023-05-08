@@ -30,8 +30,3 @@ Vi bruger en eller to dage sammen med jer og jeres leverandør, hvor vi gennemg�
 <p>Vores ekspertise ligger inden for brugervenlighed og tilgængelighed, hvor vi har omfattende erfaring med manuelle tilgængelighedstests, rådgivning og udvikling af automatiske tilgængelighedsværktøjer. Vi har en omfattende viden om tilgængelighedsstandarder og lovgivning, herunder WCAG (Web Content Accessibility Guidelines). </p> 
 
 <p>Inklusios CEO, Stein Erik Skotkjerra er selv blind og har sammen med vores øvrige netværk en uvurderlig indsigt i såvel udfordringer som løsninger på tilgængelighedsområdet.</p>
-
-## <a id="CTA"></a>Få et tilbud på test
-<p>Du kan kontakte os allerede i dag på mailen <a href="mailto:info@inklusio.dk">ses@inklusio.dk</a>, hvis du ønsker at høre mere om vores ydelser inden for test af tilgængelighed.</p> 
-
-<p>Hvis du har spørgsmål eller ønsker at booke et uforpligtende møde, er du også velkommen til at kontakte os.</p>
