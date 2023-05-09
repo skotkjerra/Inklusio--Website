@@ -4,7 +4,8 @@ date: 2021-09-09T10:44:54.318Z
 author: Katrine Gregersen
 summary: "I denne artikel vil vi hjælpe dig med at få styr på, hvilke regler der
   gør sig gældende for kontrastforhold mellem tekst og tekstens baggrund på
-  digitale løsninger. "
+  digitale løsninger, så du skaber bedre webtilgængelighed (web
+  accessibility).  "
 tags:
   - Vejledning
   - WCAG
