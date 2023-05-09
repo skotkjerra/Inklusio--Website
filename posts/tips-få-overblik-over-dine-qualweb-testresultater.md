@@ -3,14 +3,14 @@ title: "Tips: få overblik over dine QualWeb-testresultater"
 date: 2022-02-14T11:13:09.179Z
 author: Anne Thyme Nørregaard
 summary: "QualWeb er et testværktøj, som du kan bruge til at teste
-  tilgængeligheden på din webside. Her får du vores bedste tips til at forstå
-  testresultaterne. "
+  tilgængeligheden, også kaldt accessibility, på din webside. Her får du vores
+  bedste tips til at forstå testresultaterne. "
 tags:
   - QualWeb
   - Testresultater
   - Monitorering
 ---
-QualWeb er et testværktøj, som du kan bruge til at teste tilgængeligheden på din webside. Det er samtidig det værktøj, der bruges til monitoreringen for webtilgængelighedsloven i Danmark.
+QualWeb er et testværktøj, som du kan bruge til at teste tilgængeligheden, også kaldt accessibility, på din webside. Det er samtidig det værktøj, der bruges til monitoreringen for webtilgængelighedsloven i Danmark.
 
 Når du bruger QualWeb, er selvfølgelig vigtigt at vide, hvordan du skal læse testresultaterne – og det får du vores tips til her! 😊
 
@@ -46,8 +46,6 @@ I monitoreringerne for webtilgængelighedsloven medtages kun de ACT-regler, som 
 Hvis du vil have testresultater, der stemmer overens med monitoreringen, så skal du altså bare ignorere alle fejltyper i QualWeb, som ikke har WCAG-succeskriterier opgivet.
 
 ![Kvinde arbejder ved computer, på skærmen står der "tips og tricks". ](/img/tips-tricks-online-lille.jpg)
-
-
 
 ### Tip 4: Kig på fejlbeskrivelsen og kodevisningen for at forstå, hvad fejlen er
 
