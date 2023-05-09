@@ -9,7 +9,7 @@ summary: Hvordan sparer du tid og penge, når du udvikler tilgængelige apps? De
 tags:
   - Tilgængelige Mobilapps
 ---
-Hvordan sparer du tid og penge, når du udvikler tilgængelige apps? Det handler bl.a. om at komme godt fra start! Hvis du indtænker tilgængelighed allerede fra starten, skal du nemlig ikke kæmpe med at lave tingene om senere, hvilket gavner både jeres tid, jeres budget og brugerne. 
+Hvordan sparer du tid og penge, når du udvikler tilgængelige apps? Det handler bl.a. om at komme godt fra start! Hvis du indtænker tilgængelighed (accessibility) allerede fra starten, skal du nemlig ikke kæmpe med at lave tingene om senere, hvilket gavner både jeres tid, jeres budget og brugerne. 
 
 Derfor har vi samlet 5 gode råd til at komme godt fra start med tilgængelige apps.
 
