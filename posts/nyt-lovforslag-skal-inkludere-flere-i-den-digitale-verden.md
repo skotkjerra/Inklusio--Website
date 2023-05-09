@@ -5,7 +5,8 @@ author: Pia Christensen Bang
 summary: Det skal blive lettere for mennesker med handicap at navigere i den
   digitale verden. Det er formålet med det lovforslag om tilgængelighed for
   produkter og tjenester, som folketinget førstebehandler tirsdag den 1. marts
-  2022.
+  2022. Det nye lovforslag om tilgængelighed (også kaldt accessibility), gælder
+  også for en række private virksomheder.
 tags:
   - Lovforslag
   - Tilgængelighed for Produkter og Tjenester
