@@ -3,8 +3,9 @@ title: Webtilgængelighed – nu også på det private område
 date: 2022-05-05T08:00:00.000Z
 author: Pia Christensen Bang
 summary: Fra 2025 bliver det lovpligtigt for mange private virksomheder at sikre
-  tilgængelighed i deres løsninger. Læs alt du har brug for at vide om lov om
-  tilgængelighed af produkter og tjenester i denne opsummering
+  tilgængelighed, også kaldt accessibility, i deres løsninger. Læs alt du har
+  brug for at vide om lov om tilgængelighed af produkter og tjenester i denne
+  opsummering.
 tags:
   - E-handel
   - Webtilgængelighed
@@ -12,7 +13,7 @@ tags:
 ---
 Siden efteråret 2019 har det været lovpligtigt, at offentlige websteder og apps skal være tilgængelige for alle borgere uanset eventuelle handicap eller funktionsnedsættelser. Det betyder populært sagt, at synshandicappede skal kunne navigere rundt på en app eller webside med en skærmlæser, en døv skal kunne læse tekstede udgaver af videoer og lignende.
 
-Fra sommeren 2025 kommer kravene om webtilgængelighed til også at gælde for visse digitale platforme som blandt andre banker, forsikringsselskaber, e-handelsvirksomheder og lignende. Kravene vil gælde udvalgte produkter og tjenester som blandt andet smartphones, e-bøger, rejseinformation og interaktive informationsskærme.
+Fra sommeren 2025 kommer kravene om webtilgængelighed (også kaldt accessibility) til også at gælde for visse digitale platforme som blandt andre banker, forsikringsselskaber, e-handelsvirksomheder og lignende. Kravene vil gælde udvalgte produkter og tjenester som blandt andet smartphones, e-bøger, rejseinformation og interaktive informationsskærme.
 
 ## Hvorfor stille krav?
 
