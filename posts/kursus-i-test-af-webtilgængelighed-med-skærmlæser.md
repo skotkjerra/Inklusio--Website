@@ -2,10 +2,11 @@
 title: "Kursus: Brug skærmlæser til at teste for webtilgængelighed"
 date: 2021-09-15T05:41:31.392Z
 author: Inklusio
-summary: Kursus i test af webtilgængelighed ved hjælp af skærmlæsersoftware. For
-  at hjælpe alle dem, der arbejder med webtilgængelighed og som gerne selv vil
-  kunne teste med en skærmlæser eller blot gerne vil have en dybere indsigt i,
-  hvad det vil sige at bruge en skærmlæser til at tilgå digitalt indhold.
+summary: Kursus i test af webtilgængelighed (accessibility) ved hjælp af
+  skærmlæsersoftware. For at hjælpe alle dem, der arbejder med webtilgængelighed
+  og som gerne selv vil kunne teste med en skærmlæser eller blot gerne vil have
+  en dybere indsigt i, hvad det vil sige at bruge en skærmlæser til at tilgå
+  digitalt indhold.
 tags:
   - Kursus
   - Skærmlæser
@@ -13,7 +14,7 @@ tags:
 ---
 ## Niveau for dette kursus
 
-Avanceret webtilgængelighed
+Avanceret webtilgængelighed (Advanced accessibility)
 
 ## Tid og sted
 
