@@ -3,15 +3,15 @@ title: Her er de interaktive elementer, som skaber tilgængelighedsproblemer på
   dit websted
 date: 2021-05-20T05:30:00.000Z
 author: Anne Thyme Nørregaard
-summary: Når vi hos Inklusio tester websteder for webtilgængelighed, ser vi
-  mange af de samme problemer igen og igen på forskellige websteder. Især
-  interaktive elementer med komplekse interaktioner volder typisk en del
-  problemer.
+summary: Når vi hos Inklusio tester websteder for webtilgængelighed (også kaldt
+  accessibility), ser vi mange af de samme problemer igen og igen på forskellige
+  websteder. Især interaktive elementer med komplekse interaktioner volder
+  typisk en del problemer.
 tags:
   - Vejledninger
   - Test
 ---
-Når vi hos Inklusio tester websteder for webtilgængelighed, ser vi mange af de samme problemer igen og igen på forskellige websteder.
+Når vi hos Inklusio tester websteder for webtilgængelighed (også kaldt accessibility), ser vi mange af de samme problemer igen og igen på forskellige websteder.
 
 Jeg fører selv en mental liste over webindhold, som straks hejser et rødt flag hos mig, når jeg møder dem i en tilgængelighedstest – simpelthen fordi jeg ville blive helt overrasket, hvis der for en gangs skyld ikke fandtes en række af de samme gengangerfejl i dette indhold.
 
