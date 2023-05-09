@@ -4,7 +4,7 @@ date: 2021-02-03T13:20:39.434Z
 author: Anne Thyme Nørregaard
 summary: Her har du 6 tips til, hvordan du kommer godt fra start med at bruge
   automatiske testværktøjer såsom Siteimprove og Monsido. Værktøjerne kan løfte
-  arbejdet for webtilgængelighed markant i din organisation.
+  arbejdet for webtilgængelighed (accessibility) markant i din organisation.
 tags:
   - Automatisk Testværktøj
   - Siteimprove
@@ -16,7 +16,7 @@ Uanset hvor du er i forhold til at komme i gang med at bruge automatiske testvæ
 
 ## Kom godt i gang med dit testværktøj
 
-Forestil dig dit testværktøj som en slags tilgængelighedskonsulent, som hænger ud i din organisation, og som er klar til at forklare dig om tilgængelighed, lige når du har tid. Hvis vi leger lidt med tanken om, at dit testværktøj er din egen personlige tilgængelighedskonsulent, så vil det ikke være overraskende, at værktøjet skal lære noget om din organisation, for at kunne målrette hjælpen til jer.
+Forestil dig dit testværktøj som en slags tilgængelighedskonsulent, som hænger ud i din organisation, og som er klar til at forklare dig om tilgængelighed, også kaldt accessibility, lige når du har tid. Hvis vi leger lidt med tanken om, at dit testværktøj er din egen personlige tilgængelighedskonsulent, så vil det ikke være overraskende, at værktøjet skal lære noget om din organisation, for at kunne målrette hjælpen til jer.
 
 Hos Inklusio har vi efterhånden lavet en del workshops, hvor vi ”interviewer” vores kunder omkring deres weborganisation og hjælper dem med at sætte deres testværktøj op, så det matcher deres organisering og workflows til at understøtte deres arbejde bedst muligt. 
 
