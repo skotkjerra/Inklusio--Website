@@ -55,8 +55,3 @@ cta: Læs om collaborative test
 <p>Efter I har haft mulighed for at rette fejl fundet i workshoppen, er der mulighed for at få testet løsningen på ny og modtage en rapport, som beskriver udestående fund. Med denne test vil I få en minutiøs gennemgang af jeres løsning for samtlige tilgængelighedskrav. Vi samler resultaterne i en overskuelig rapport med dokumentation af de fundne fejl, så I kan bruge den fremadrettet i arbejdet med forbedring af tilgængeligheden.</p> 
 
 <p>Kontakt os for at høre mere.</p>
-
-## <a id="CTA"></a>Få et tilbud på en workshop
-<p>Du kan kontakte os allerede i dag på mailen <a href="mailto:info@inklusio.dk">ses@inklusio.dk</a>, hvis du ønsker at høre mere om denne og andre workshops.</p> 
-
-<p>Hvis du har spørgsmål eller ønsker at booke et uforpligtende møde, er du også velkommen til at kontakte os.</p>
