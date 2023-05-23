@@ -15,7 +15,7 @@ tags:
 ---
 ## Hvad er webtilgængelighed?
 
-Webtilgængelighed handler om, at alle skal kunne anvende websteder og mobilapplikationer uanset sin forudsætning for det. Det vil sige, at hvis man har eksempelvis permanent nedsat hørelse, eller hvis man har brækket en arm, så skal man stadig kunne benytte digitale løsninger. Webtilgængelighed kaldes også accessibility. 
+Webtilgængelighed kaldes også accessibility og handler om, at alle skal kunne anvende websteder og mobilapplikationer uanset sin forudsætning for det. Det vil sige, at hvis man har eksempelvis permanent nedsat hørelse, eller hvis man har brækket en arm, så skal man stadig kunne benytte digitale løsninger.
 
 ## Skab en bedre brugeroplevelse for alle
 
