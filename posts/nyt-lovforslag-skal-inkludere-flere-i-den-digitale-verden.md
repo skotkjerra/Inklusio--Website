@@ -11,8 +11,10 @@ tags:
   - Lovforslag
   - Tilgængelighed for Produkter og Tjenester
 ---
-Det skal blive lettere for mennesker med handicap at navigere i den digitale verden. Det er formålet med det lovforslag om tilgængelighed for produkter og tjenester, som folketinget førstebehandler tirsdag den 1. marts 2022. \
-Det nye lovforslag om tilgængelighed (også kaldt accessibility), gælder både for offentlige myndigheder og for en række private virksomheder. Baggrunden for lovforslaget er et EU-direktiv, der betyder, at en række produkter og tjenester skal leve op til tilgængelighedskrav senest fra sommeren 2025. 
+Det skal blive lettere for mennesker med handicap at navigere i den digitale verden. Det er formålet med det lovforslag om tilgængelighed for produkter og tjenester, som folketinget førstebehandler tirsdag den 1. marts 2022. 
+
+\
+Det nye lovforslag om tilgængelighed (accessibility) gælder både for offentlige myndigheder og for en række private virksomheder. Baggrunden for lovforslaget er et EU-direktiv, der betyder, at en række produkter og tjenester skal leve op til tilgængelighedskrav senest fra sommeren 2025. 
 
 ![5 hænder holder skilt med ordet "accessible"](/img/accessible_haender_holder_skilt_med_ordet_accessible.jpg)
 
