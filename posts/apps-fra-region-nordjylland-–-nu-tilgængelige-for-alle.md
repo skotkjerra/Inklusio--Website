@@ -11,7 +11,7 @@ tags:
   - Mobilapplikationer
   - Tilgængelighed
 ---
-Region Nordjylland er et af de offentlige organer, som siden september 2020 har været omfattet af loven om tilgængelighed for offentlige websteder og apps. Det betyder kort fortalt, at appsene også skal kunne anvendes af borgere med funktionshandicap. Tilgængelighed (accessibility) handler nemlig om at gøre digitale løsninger anvendelige for alle. 
+Region Nordjylland er et af de offentlige organer, som siden september 2020 har været omfattet af loven om tilgængelighed for offentlige websteder og apps. Det betyder kort fortalt, at appsene også skal kunne anvendes af borgere med funktionshandicap. Tilgængelighed (accessibility) handler nemlig om at gøre websteder og apps anvendelige for alle.
 
 Regionens afdeling Digitalisering og IT valgte et lokalt funderet konsortie bestående af tilgængelighedsspecialister i de tre firmaer Inklusio, Inqlude IT og Diversa Consult til at gennemgå ni forskellige apps – blandt andre appsene OTH Nord, Mit hospital og Videosamtale – og komme med konkrete løsninger på de fundne udfordringer.
 
