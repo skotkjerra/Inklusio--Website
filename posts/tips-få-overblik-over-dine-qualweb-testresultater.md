@@ -12,7 +12,7 @@ tags:
 ---
 QualWeb er et testværktøj, som du kan bruge til at teste tilgængeligheden, også kaldt accessibility, på din webside. Det er samtidig det værktøj, der bruges til monitoreringen for webtilgængelighedsloven i Danmark.
 
-Når du bruger QualWeb, er selvfølgelig vigtigt at vide, hvordan du skal læse testresultaterne – og det får du vores tips til her! 😊
+Når du bruger QualWeb, er det selvfølgelig vigtigt at vide, hvordan du skal læse testresultaterne – og det får du vores tips til her! 😊
 
 Hvis du er i tvivl om, hvordan du tester med QualWeb, så læs først vores artikel ”[Kom nemt i gang med at bruge QualWeb](https://inklusio.dk/posts/s%C3%A5dan-kommer-du-nemt-i-gang-med-at-bruge-qualweb/)”.
 
