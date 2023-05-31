@@ -272,7 +272,7 @@ Access Guide er mere visuel end de fleste andre tilgængelighedsressourcer, og m
 
 ## 20. december: Supplementer til farve-kommunikation
 
-Dagens Ressource: [Inklusios blogindlæg "Digital tilgængelighed 101: Find ud af, hvorfor farver ikke er det bedste kommunikationsmiddel på hjemmesider"](https://inklusio.dk/posts/digital-tilg%C3%A6ngelighed-101-find-ud-af-hvorfor-farver-ikke-er-det-bedste-kommunikationsmiddel-p%C3%A5-hjemmesider/)
+Dagens Ressource: [Inklusios blogindlæg "Digital tilgængelighed 101: Find ud af, hvorfor farver ikke er det bedste kommunikationsmiddel på hjemmesider"](https://inklusio.dk/posts/digital-tilgaengelighed-101-find-ud-af-hvorfor-farver-ikke-er-det-bedste-kommunikationsmiddel-på-hjemmesider/)
 
 Hvorfor er farver ikke det bedste kommunikationsmiddel på hjemmesider?
 
