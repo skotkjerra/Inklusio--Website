@@ -70,7 +70,7 @@ Da dette er et avanceret kursus, forudsætter det, at du allerede har grundlægg
 
 ## Underviser
 
-Stein Erik Skotkjerra, grundlægger af Inklusio og skærmlæserbruger siden 1992. [Læs mere om Stein Erik](https://inklusio.dk/hvem-er-vi/). 
+Stein Erik Skotkjerra, grundlægger af Inklusio og skærmlæserbruger siden 1992. [Læs mere om Stein Erik](https://inklusio.dk/om-os/). 
 
 ## Ja tak, tilmeld mig kurset!
 
