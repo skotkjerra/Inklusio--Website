@@ -1,13 +1,13 @@
 {
     "contact": "Kontakt",
     "mail": "Mail",
-    "phone": "Telefon",
+    "phone": "TIf.",
     "connect_on_linkedin": "{name} på LinkedIn",
     "see": "Se",
     "visit_address": "Besøgsadresse",
     "send_email": "Send en mail til",
     "get_offer": "Få et tilbud",
-    "articles_marked_with":"Artikler markeret med",
+    "articles_marked_with": "Artikler markeret med",
     "all_tags": "alle tags",
     "tags_for_article": "Tags til denne artikel",
     "written": "Skrevet",
@@ -15,5 +15,6 @@
     "on": "den",
     "book_meeting": "Book et møde",
     "contact_details": "Kontaktoplysninger",
-    "navigations": "Genveje"
+    "navigations": "Genveje",
+    "find_us": "Find os også her"
 }

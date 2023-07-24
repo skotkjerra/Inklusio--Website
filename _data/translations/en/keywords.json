@@ -7,7 +7,7 @@
     "visit_address": "Visiting address",
     "send_email": "Send an email to",
     "get_offer": "Get an offer",
-    "articles_marked_with":"Articles marked with",
+    "articles_marked_with": "Articles marked with",
     "all_tags": "All tags",
     "tags_for_article": "Tags for this article",
     "written": "Written",
@@ -15,5 +15,6 @@
     "on": "on",
     "book_meeting": "Book a meeting",
     "contact_details": "Contact Information",
-    "navigations": "Navigations"
+    "navigations": "Navigations",
+    "find_us": "Find us on"
 }

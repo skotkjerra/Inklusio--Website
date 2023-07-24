@@ -1,28 +1,26 @@
 {% set navigationData = translations[page.lang].navigation %}
 {% set keywords = translations[page.lang].keywords %}
 
-<footer class="site-footer">
-    <div class='col-12 d-flex flex-column flex-sm-row footer-container'>
+<footer class="col-12 site-footer">
+    <div class='col-12 col-lg-10 d-flex flex-column m-sm-auto pt-5'>        
         {#  About #}
-        <div class="col-12 col-sm-8 col-md-5 mt-4">       
-            <div>
-                <span class="font-weight-bold fs-4">{{ keywords.contact_details }}</span>
+        <div class="d-flex col-sm-12">
+            <div class="" style="width: 200px; height: 30px;">
+                {% image "img/logo.png", "Inklusio logo", "400, 800, 1200"%}
             </div>
-            <div class="d-flex flex-column mt-5">
-                <div>
-                    <p class="">
-                        <span>
-                            CA<br />Olesensgade<br />49000 Aalborg<br/>Denmark
-                        </span>
-                    </p>
+        </div>
+        <div class="col-lg-10 d-flex flex-column flex-sm-row justify-content-between mt-2">
+            <div class="mt-4">       
+                <div class="">
+                    <span class="font-weight-bold fs-5">{{ keywords.contact }}</span>
                 </div>
-                <div class="mt-2">
-                    <p>
+                <div class="d-flex flex-column mt-4">
+                    <span>
+                        Inklusio<br/>CA Olesensgade <br/>49000 Aalborg
+                    </span>
+                    <div class="d-flex">
                         <span class="font-weight-semibold">{{keywords.phone}}</span>
-
-                        <br />
-
-                        <span class="">
+                        <span class="pl-2">
                             <a
                                 class="text-decoration-underline text-light"
                                 href='tel:$+45 26 34 34 55'
@@ -30,57 +28,53 @@
                                 +45 26 34 34 55
                             </a>
                         </span>
-                    </p>
-                </div>
-                <div class="mt-2">
-                    <p>
-                        <span class="font-weight-semibold">E-mail</span>
-                        <br />
-                        <a
-                            class="text-decoration-underline text-light"
-                            href='mailto:ses@inklusio.dk'
-                        >
-                            ses@inklusio.dk
-                        </a>
-                    </p>
-                </div>
-
-                <div class="mt-2">
-                    <p>
-                        <span class="">
-                            Inklusio ApS<br/> CVR: 41066784
-                        </span>
-                    </p>
-                </div>
-                <a href="https://www.linkedin.com/company/inklusio" target="_blank">
-                    <div class="pointer" style="width: 40px; height: 40px;">
-                        {% image "img/linkedin_logo.png", "LinkedIn logo", "400, 800, 1200"%}            
                     </div>
-                </a>
+    
+                    <div class="">
+                            <a
+                                class="text-decoration-underline text-light"
+                                href='mailto:ses@inklusio.dk'
+                            >
+                                ses@inklusio.dk
+                            </a>
+                    </div>
+    
+                    <div class="mt-4">
+                            <span class="">
+                                Inklusio ApS<br/> CVR: 41066784
+                            </span>
+                    </div>
+                </div>
             </div>
-        </div>
-
-        {# Navigation #}
-        <div class="mt-5 mt-sm-4 pl-2">
-            <div>
-                {# <span class="font-weight-bold fs-4">Navigations</span> #}
-                <span class="font-weight-bold fs-4">{{ keywords.navigations }}</span>
+    
+            {# Navigation #}
+            <div class="mt-4">
+                <div>
+                    <span class="font-weight-bold fs-5">{{ keywords.navigations }}</span>
+                </div>
+                <div class="mt-4">
+                    <div class="d-flex flex-column">
+                        {% for _, navObj in navigationData %}
+                            <a class="text-decoration-underline text-white {% if navObj.url == page.url %} text-decoration-underline {% endif %}" {% if navObj.url == page.url %} aria-current="page"{% endif %} href="{{ navObj.url }}">{{ navObj.text }}</a>
+                        {% endfor %}
+                    </div>
+                </div>
             </div>
-            <div class="mt-4 pt-2">
-                <p class="d-flex flex-column">
-                    {% for _, navObj in navigationData %}
-                        <a class="text-decoration-underline text-white mt-3 {% if navObj.url == page.url %} text-decoration-underline {% endif %}" {% if navObj.url == page.url %} aria-current="page"{% endif %} href="{{ navObj.url }}">{{ navObj.text }}</a>
-                    {% endfor %}
-                </p>
+            
+            {# Find Us #}
+            <div class="mt-4">
+                <div>
+                    <span class="font-weight-bold fs-5">{{ keywords.find_us }}</span>
+                </div>
+                <div class="mt-4">
+                    <a href="https://www.linkedin.com/company/inklusio" target="_blank" class="text-decoration-underline text-white">
+                        LinkedIn
+                    </a>
+                </div>
             </div>
         </div>
     </div>
-    <div class="d-flex justify-content-center">
-        <div class="" style="width: 200px; height: 30px;">
-            {% image "img/logo.png", "Inklusio logo", "400, 800, 1200"%}
-        </div>
-    </div>
-    <div class="pt-5 mt-3 px-lg-5 w-full text-gray-500 font-medium text-sm text-center">
+    <div class="mt-4 px-lg-5 w-full text-gray-500 font-medium text-sm text-center">
         <hr class="border-top border-gray-700" />
         <div class="pt-1 pb-3">All rights reserved © 2023 Inklusio</div>
     </div>
