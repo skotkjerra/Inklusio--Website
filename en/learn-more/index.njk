@@ -1,7 +1,7 @@
 ---
 layout: layouts/base.njk
 eleventyComputed:
-  page_lang: 'en'
+  page_lang: "en"
   permalink: "{{ translations[page_lang].navigation.learn_more.url }}"
   title: "{{ translations[page_lang].navigation.learn_more.title }}"
 
@@ -12,27 +12,38 @@ templateClass: tmpl-more
 {% set pageData = translations[page.lang].pages.learn_more %}
 
 <!-- Imports -->
-{%- from "components/iconcard/macro.njk" import iconcard -%}
-{%- from "components/numbercard/macro.njk" import numbercard -%}
-{%- from "components/iconheadingcard/macro.njk" import iconheadingcard -%}
-
+{%- from "components/iconcard/macro.njk" import iconcard -%} {%- from
+"components/numbercard/macro.njk" import numbercard -%} {%- from
+"components/iconheadingcard/macro.njk" import iconheadingcard -%}
 
 <!--Sektion 1 p/img -->
 <div class="container-sm py-5 my-xl-5">
   <div class="d-flex flex-row align-items-center justify-content-between">
     <div class="">
-      <h2 class="section-header-text mr-xl-5 pr-xl-5">{{ pageData.section[0].heading }}</h2>
+      <div class="mr-xl-5 pr-xl-5">
+        <h2 class="section-header-text mr-2 mr-md-4 mr-xl-5 pr-xl-5">
+          {{ pageData.section[0].heading }}
+        </h2>
+      </div>
       <p class="section-para-text text-left">
         {{ pageData.section[0].paragraph[0] }}
       </p>
       <div class="d-lg-none px-2 py-5 px-sm-5">
-        {% image "img/diverse-group-drawing.jpg", pageData.section[0].img_alt, "400, 800, 1200"%}
+        {% image "img/diverse-group-drawing.jpg", "Tegning af forskellige
+        mennesker, herunder mænd og kvinder, med og uden briller, en med et
+        kunstigt ben og en, der bruger kørestol. De fleste er glade, men en ser
+        lidt bekymret eller nedtrykt ud", "400, 800, 1200"%}
       </div>
       <p class="section-para-text text-left">
         {{ pageData.section[0].paragraph[1] }}
+      </p>
     </div>
+
     <div class="d-none d-lg-block col-xl-5">
-      {% image "img/diverse-group-drawing.jpg", pageData.section[0].img_alt, "400, 800, 1200"%}
+      {% image "img/diverse-group-drawing.jpg", "Tegning af forskellige
+      mennesker, herunder mænd og kvinder, med og uden briller, en med et
+      kunstigt ben og en, der bruger kørestol. De fleste er glade, men en ser
+      lidt bekymret eller nedtrykt ud", "400, 800, 1200"%}
     </div>
   </div>
 </div>
@@ -41,193 +52,255 @@ templateClass: tmpl-more
 <div class="container-sm">
   <div class="d-lg-flex flex-row align-items-center justify-content-between">
     <div class="col-8 col-md-6 col-lg-4 py-4 pr-lg-5 mx-auto mx-lg-0">
-      {% image "img/accessibility-icon.jpg", pageData.section[1].img_alt, "400, 800, 1200"%}
+      {% image "img/accessibility-icon.jpg", "Ikon for tilgængelighed eller
+      brugeren i centrum (en tændstikperson i en blå cirkel)", "400, 800,
+      1200"%}
     </div>
     <div class="">
       <h2 class="section-header-text">{{ pageData.section[1].heading }}</h2>
-      <p class="section-para-text text-left">{{ pageData.section[1].paragraph }}</p>
+      <p class="section-para-text text-left">
+        {{ pageData.section[1].paragraph }}
+      </p>
     </div>
   </div>
 </div>
-
 
 <!--Sektion 3 Gode grunde til at arbejde med webtilgængelighed-->
 <div class="container-sm py-5">
   <h2 class="section-header-text">{{ pageData.section[2].heading }}</h2>
   <div class="row">
-    {{ numbercard({
-      number: '1',
-      heading: pageData.section[2].card[0].heading,
-      body: pageData.section[2].card[0].paragraph
-    }) }}
-    {{ numbercard({
-      number: '2',
-      heading: pageData.section[2].card[1].heading,
-      body: pageData.section[2].card[1].paragraph
-    }) }}
-    {{ numbercard({
-      number: '3',
-      heading: pageData.section[2].card[2].heading,
-      body: pageData.section[2].card[2].paragraph
-    }) }}
-    {{ numbercard({
-      number: '4',
-      heading: pageData.section[2].card[3].heading,
-      body: pageData.section[2].card[3].paragraph
-    }) }}
-    {{ numbercard({
-      number: '5',
-      heading: pageData.section[2].card[4].heading,
-      body: pageData.section[2].card[4].paragraph
-    }) }}
-    {{ numbercard({
-      number: '6',
-      heading: pageData.section[2].card[5].heading,
-      body: pageData.section[2].card[5].paragraph
-    }) }}
+    {{
+      numbercard({
+        number: "1",
+        heading: pageData.section[2].card[0].heading,
+        body: pageData.section[2].card[0].paragraph
+      })
+    }}
+    {{
+      numbercard({
+        number: "2",
+        heading: pageData.section[2].card[1].heading,
+        body: pageData.section[2].card[1].paragraph
+      })
+    }}
+    {{
+      numbercard({
+        number: "3",
+        heading: pageData.section[2].card[2].heading,
+        body: pageData.section[2].card[2].paragraph
+      })
+    }}
+    {{
+      numbercard({
+        number: "4",
+        heading: pageData.section[2].card[3].heading,
+        body: pageData.section[2].card[3].paragraph
+      })
+    }}
+    {{
+      numbercard({
+        number: "5",
+        heading: pageData.section[2].card[4].heading,
+        body: pageData.section[2].card[4].paragraph
+      })
+    }}
+    {{
+      numbercard({
+        number: "6",
+        heading: pageData.section[2].card[5].heading,
+        body: pageData.section[2].card[5].paragraph
+      })
+    }}
   </div>
 </div>
 
 <!--Sektion 4 img/p Vi er førende i DK -->
 <div class="container py-5 my-lg-5">
   <div class="d-flex flex-row align-items-center justify-content-between">
-    <div class="pr-4">
-      <h2 class="section-header-text">{{ pageData.section[3].heading }}</h2>
+    <div class="pr-4 col-xl-6">
+      <h2 class="section-header-text mr-4 mr-xl-5 pr-md-2 pr-xl-5">
+        {{ pageData.section[3].heading }}
+      </h2>
       <div class="d-lg-none py-3 rounded overflow-hidden">
-        {% image "img/SE.jpg", pageData.section[3].img_alt, "400, 800, 1200"%}
+        {% image "img/SE.jpg", "Fotografi af Stein Erik Skotkjerra, CEO og
+        grundlægger af Inklusio", "400, 800, 1200"%}
       </div>
-      <p class="section-para-text text-left">{{ pageData.section[3].paragraph }}</p>
+      <p class="section-para-text text-left">
+        {{ pageData.section[3].paragraph }}
+      </p>
     </div>
     <div class="d-none d-lg-block col-xl-5 rounded overflow-hidden">
-      {% image "img/SE.jpg", pageData.section[3].img_alt, "400, 800, 1200"%}
+      {% image "img/SE.jpg", "Fotografi af Stein Erik Skotkjerra, CEO og
+      grundlægger af Inklusio", "400, 800, 1200"%}
     </div>
   </div>
 </div>
 
 <!--Sektion 5 Vi leverer-->
 <div class="container py-5">
-  <h2 class="fullwidth-lg section-header-text">{{ pageData.section[4].heading }}</h2>
+  <h2 class="fullwidth-lg section-header-text">
+    {{ pageData.section[4].heading }}
+  </h2>
   <div class="d-flex flex-row flex-wrap justify-content-between">
-    {{ iconheadingcard({
-      icon: 'bi bi-easel',
-      heading: pageData.section[4].card[0].heading,
-      body: pageData.section[4].card[0].paragraph
-    }) }}
-  
-    {{ iconheadingcard({
-      icon: 'bi bi-list-check',
-      heading: pageData.section[4].card[1].heading,
-      body: pageData.section[4].card[0].paragraph 
-    }) }}
+    {{
+      iconheadingcard({
+        icon: "bi bi-easel",
+        heading: pageData.section[4].card[0].heading,
+        body: pageData.section[4].card[0].paragraph
+      })
+    }}
 
-    {{ iconheadingcard({
-      icon: 'bi bi-pencil-square',
-      heading: pageData.section[4].card[2].heading,
-      body: pageData.section[4].card[0].paragraph
-    }) }}
+    {{
+      iconheadingcard({
+        icon: "bi bi-list-check",
+        heading: pageData.section[4].card[1].heading,
+        body: pageData.section[4].card[0].paragraph
+      })
+    }}
 
-  </div> <!--card-group -->
+    {{
+      iconheadingcard({
+        icon: "bi bi-pencil-square",
+        heading: pageData.section[4].card[2].heading,
+        body: pageData.section[4].card[0].paragraph
+      })
+    }}
+  </div>
+  <!--card-group -->
 
   <div class="d-flex flex-row flex-wrap justify-content-between">
-    {{ iconheadingcard({
-      icon: 'bi bi-people',
-      heading: pageData.section[4].card[3].heading,
-      body: pageData.section[4].card[3].paragraph 
-    }) }}
+    {{
+      iconheadingcard({
+        icon: "bi bi-people",
+        heading: pageData.section[4].card[3].heading,
+        body: pageData.section[4].card[3].paragraph
+      })
+    }}
 
-    {{ iconheadingcard({
-      icon: 'bi bi-shield-check',
-      heading: pageData.section[4].card[4].heading,
-      body: pageData.section[4].card[4].paragraph
-    }) }}
+    {{
+      iconheadingcard({
+        icon: "bi bi-shield-check",
+        heading: pageData.section[4].card[4].heading,
+        body: pageData.section[4].card[4].paragraph
+      })
+    }}
 
-    {{ iconheadingcard({
-      icon: 'bi bi-calendar-event',
-      heading: pageData.section[4].card[5].heading,
-      body: pageData.section[4].card[5].paragraph
-    }) }}
-  </div> <!--card-group -->
-</div> <!--container -->
-
+    {{
+      iconheadingcard({
+        icon: "bi bi-calendar-event",
+        heading: pageData.section[4].card[5].heading,
+        body: pageData.section[4].card[5].paragraph
+      })
+    }}
+  </div>
+  <!--card-group -->
+</div>
+<!--container -->
 
 <!--Sektion 6 img/p Hvad laver vi  -->
 <div class="container py-5 my-lg-5">
   <div class="d-flex flex-row align-items-center justify-content-between">
-    <div class="pr-4">
-      <h2 class="section-header-text">{{ pageData.section[5].heading }}</h2>
+    <div class="pr-4 col-xl-6">
+      <h2 class="section-header-text pr-lg-5">
+        {{ pageData.section[5].heading }}
+      </h2>
       <div class="d-lg-none py-4 rounded overflow-hidden">
-        {% image "img/DR.jpeg", pageData.section[5].img_alt, "400, 800, 1200"%}
+        {% image "img/DR.jpeg", "Fotografi af tilgængelighedsworkshop i DRs
+        koncertsal", "400, 800, 1200"%}
       </div>
       <p class="section-para-text text-left">
         {{ pageData.section[5].paragraph }}
       </p>
     </div>
     <div class="d-none d-lg-block col-xl-5 rounded overflow-hidden">
-      {% image "img/DR.jpeg", pageData.section[5].img_alt, "400, 800, 1200"%}
+      {% image "img/DR.jpeg", "Fotografi af tilgængelighedsworkshop i DRs
+      koncertsal", "400, 800, 1200"%}
     </div>
   </div>
 </div>
 
 <!--Sektion 7 Tilgængelighed giver et hav af fordele -->
 <div class="container py-5 my-lg-5">
-  <h2 class="fullwidth-sm section-header-text">{{ pageData.section[6].heading }}</h2>
+  <h2 class="fullwidth-sm section-header-text">
+    {{ pageData.section[6].heading }}
+  </h2>
   <div class="d-flex flex-row flex-wrap justify-content-between mt-5">
-    {{ iconcard({
-      card_class: 'card col-sm-12 col-md-4 col-xl-3 border-0 my-2 pr-md-4 pr-xl-0',
-      icon: 'bi bi-people',
-      heading: pageData.section[6].card[0].heading,
-      body: pageData.section[6].card[0].paragraph
-    }) }}
+    {{
+      iconcard({
+        card_class:
+          "card col-sm-12 col-md-4 col-xl-3 border-0 my-2 pr-md-4 pr-xl-0",
+        icon: "bi bi-people",
+        heading: pageData.section[6].card[0].heading,
+        body: pageData.section[6].card[0].paragraph
+      })
+    }}
 
-    {{ iconcard({
-      card_class: 'card col-sm-12 col-md-4 col-xl-3 border-0 my-2 pr-md-4 pr-xl-0',      
-      icon: 'bi bi-person-check',
-      heading: pageData.section[6].card[1].heading,
-      body: pageData.section[6].card[1].paragraph 
-    }) }}
+    {{
+      iconcard({
+        card_class:
+          "card col-sm-12 col-md-4 col-xl-3 border-0 my-2 pr-md-4 pr-xl-0",
+        icon: "bi bi-person-check",
+        heading: pageData.section[6].card[1].heading,
+        body: pageData.section[6].card[1].paragraph
+      })
+    }}
 
-    {{ iconcard({
-      card_class: 'card col-sm-12 col-md-4 col-xl-3 border-0 my-2 pr-md-4 pr-xl-0',      
-      icon: 'bi bi-book',
-      heading: pageData.section[6].card[2].heading,
-      body: pageData.section[6].card[2].paragraph
-    }) }}
+    {{
+      iconcard({
+        card_class:
+          "card col-sm-12 col-md-4 col-xl-3 border-0 my-2 pr-md-4 pr-xl-0",
+        icon: "bi bi-book",
+        heading: pageData.section[6].card[2].heading,
+        body: pageData.section[6].card[2].paragraph
+      })
+    }}
   </div>
 
   <div class="d-flex flex-row flex-wrap justify-content-between">
-    {{ iconcard({
-      card_class: 'card col-sm-12 col-md-4 col-xl-3 border-0 my-2 pr-md-4 pr-xl-0',      
-      icon: 'bi bi-google',
-      heading: pageData.section[6].card[3].heading,
-      body: pageData.section[6].card[3].paragraph 
-    }) }}
+    {{
+      iconcard({
+        card_class:
+          "card col-sm-12 col-md-4 col-xl-3 border-0 my-2 pr-md-4 pr-xl-0",
+        icon: "bi bi-google",
+        heading: pageData.section[6].card[3].heading,
+        body: pageData.section[6].card[3].paragraph
+      })
+    }}
 
-    {{ iconcard({
-      card_class: 'card col-sm-12 col-md-4 col-xl-3 border-0 my-2 pr-md-4 pr-xl-0',      
-      icon: 'bi bi-megaphone',
-      heading: pageData.section[6].card[4].heading,
-      body: pageData.section[6].card[4].paragraph
-    }) }}
+    {{
+      iconcard({
+        card_class:
+          "card col-sm-12 col-md-4 col-xl-3 border-0 my-2 pr-md-4 pr-xl-0",
+        icon: "bi bi-megaphone",
+        heading: pageData.section[6].card[4].heading,
+        body: pageData.section[6].card[4].paragraph
+      })
+    }}
 
-    {{ iconcard({
-      card_class: 'card col-sm-12 col-md-4 col-xl-3 border-0 my-2 pr-md-4 pr-xl-0',      
-      icon: 'bi bi-arrow-up-circle',
-      heading: pageData.section[6].card[5].heading,
-      body: pageData.section[6].card[5].paragraph
-    }) }}
+    {{
+      iconcard({
+        card_class:
+          "card col-sm-12 col-md-4 col-xl-3 border-0 my-2 pr-md-4 pr-xl-0",
+        icon: "bi bi-arrow-up-circle",
+        heading: pageData.section[6].card[5].heading,
+        body: pageData.section[6].card[5].paragraph
+      })
+    }}
   </div>
 </div>
 
-  <!--Sektion 8 Hvad siger loven  p/img -->
+<!--Sektion 8 Hvad siger loven  p/img -->
 <div class="container py-5 my-lg-5">
   <div class="d-flex flex-row align-items-center justify-content-between">
     <div class="d-none d-lg-block col-xl-5 pr-5">
-      {% image "img/Section7Image.png", pageData.section[7].img_alt, "400, 800, 1200"%}
+      {% image "img/Section7Image.png", "En masse EU-flag der holdes af hænder i
+      alle farver", "400, 800, 1200"%}
     </div>
     <div class="">
       <h2 class="section-header-text">{{ pageData.section[7].heading }}</h2>
       <div class="d-lg-none py-4">
-        {% image "img/Section7Image.png", pageData.section[7].img_alt, "400, 800, 1200"%}
+        {% image "img/Section7Image.png", "En masse EU-flag der holdes af hænder
+        i alle farver", "400, 800, 1200"%}
       </div>
       <p class="section-para-text text-left">
         {{ pageData.section[7].paragraph[0] }}
@@ -242,17 +315,23 @@ templateClass: tmpl-more
 <!--Sektion 9 p/img  -->
 <div class="container py-5">
   <div class="d-flex flex-row align-items-center justify-content-between">
-    <div class="mr-xl-5 pr-xl-5">
-      <h2 class="section-header-text mr-xl-5">{{ pageData.section[8].heading }}</h2>
+    <div class="col-6 mr-xl-5 pr-xl-5">
+      <h2 class="section-header-text mr-4 mr-md-5 mr-xl-5">
+        {{ pageData.section[8].heading }}
+      </h2>
       <div class="d-lg-none col-8 col-md-6 mx-auto py-4">
-        {% image "img/people-group-drawing.jpg", pageData.section[8].img_alt, "400, 800, 1200"%}
+        {% image "img/people-group-drawing.jpg", "Tegning af forskellige
+        mennesker, herunder en ældre dame med en kaffekop, en ung smart fyr med
+        mørke solbriller og en skaldet mand, der sidder ned", "400, 800, 1200"%}
       </div>
       <p class="section-para-text text-left">
         {{ pageData.section[8].paragraph }}
       </p>
     </div>
     <div class="d-none d-lg-block col-lg-4">
-      {% image "img/people-group-drawing.jpg", pageData.section[8].img_alt, "400, 800, 1200"%}
+      {% image "img/people-group-drawing.jpg", "Tegning af forskellige
+      mennesker, herunder en ældre dame med en kaffekop, en ung smart fyr med
+      mørke solbriller og en skaldet mand, der sidder ned", "400, 800, 1200"%}
     </div>
   </div>
 </div>
@@ -261,12 +340,20 @@ templateClass: tmpl-more
 <div class="container">
   <div class="d-flex flex-row align-items-center justify-content-between">
     <div class="d-none d-lg-block col-lg-5 pr-5">
-      {% image "img/eye-ear-mouth.jpg", pageData.section[9].img_alt, "400, 800, 1200"%}
+      {% image "img/eye-ear-mouth.jpg", "Tegning af et øje, en mund og et øre,
+      alle med streg over for at indikere manglende syn, tale og hørelse", "400,
+      800, 1200"%}
     </div>
-    <div class="">
-      <h2 class="section-header-text">{{ pageData.section[9].heading }}</h2>
+    <div class="col-xl-5">
+      <div class="">
+        <h2 class="section-header-text mr-4 mr-md-5">
+          {{ pageData.section[9].heading }}
+        </h2>
+      </div>
       <div class="d-lg-none col-8 col-md-6 mx-auto">
-        {% image "img/eye-ear-mouth.jpg", pageData.section[9].img_alt, "400, 800, 1200"%}
+        {% image "img/eye-ear-mouth.jpg", "Tegning af et øje, en mund og et øre,
+        alle med streg over for at indikere manglende syn, tale og hørelse",
+        "400, 800, 1200"%}
       </div>
       <p class="section-para-text text-left">
         {{ pageData.section[9].paragraph }}
