@@ -2,16 +2,18 @@
 title: Apps fra Region Nordjylland – nu tilgængelige for alle
 date: 2022-03-24T11:42:59.756Z
 author: Pia Christensen Bang
-summary: Region Nordjylland er et af de offentlige organer, som siden september
+summary: "Region Nordjylland er et af de offentlige organer, som siden september
   2020 har været omfattet af loven om tilgængelighed for offentlige websteder og
   apps. Det betyder kort fortalt, at appsene også skal kunne anvendes af borgere
-  med funktionshandicap
+  med funktionshandicap. Tilgængelighed kaldes også accessibility. "
 tags:
   - Apps
   - Mobilapplikationer
   - Tilgængelighed
 ---
-Region Nordjylland er et af de offentlige organer, som siden september 2020 har været omfattet af loven om tilgængelighed for offentlige websteder og apps. Det betyder kort fortalt, at appsene også skal kunne anvendes af borgere med funktionshandicap. Regionens afdeling Digitalisering og IT valgte et lokalt funderet konsortie bestående af tilgængelighedsspecialister i de tre firmaer Inklusio, Inqlude IT og Diversa Consult til at gennemgå ni forskellige apps – blandt andre appsene OTH Nord, Mit hospital og Videosamtale – og komme med konkrete løsninger på de fundne udfordringer.
+Region Nordjylland er et af de offentlige organer, som siden september 2020 har været omfattet af loven om tilgængelighed for offentlige websteder og apps. Det betyder kort fortalt, at appsene også skal kunne anvendes af borgere med funktionshandicap. Tilgængelighed (accessibility) handler nemlig om at gøre websteder og apps anvendelige for alle.
+
+Regionens afdeling Digitalisering og IT valgte et lokalt funderet konsortie bestående af tilgængelighedsspecialister i de tre firmaer Inklusio, Inqlude IT og Diversa Consult til at gennemgå ni forskellige apps – blandt andre appsene OTH Nord, Mit hospital og Videosamtale – og komme med konkrete løsninger på de fundne udfordringer.
 
 > "Vi fik kortlagt de udfordringer, der var i de forskellige apps i forhold til WCAG standardens krav om blandt andet kontraster, understøttelsen af forstørret tekst og at de skal kunne anvendes med skærmlæser og tastatur", forklarer Orla Pedersen, CEO hos Inqlude IT.
 

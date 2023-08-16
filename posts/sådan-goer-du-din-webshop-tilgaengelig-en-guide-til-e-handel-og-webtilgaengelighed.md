@@ -4,18 +4,18 @@ title: "Sådan gør du din webshop tilgængelig - En guide til e-handel og
 date: 2022-05-10T11:39:32.635Z
 author: Katrine Gregersen
 summary: Skal din webshop leve op til sit fulde potentiale, så tag et kig på
-  tilgængeligheden af den. Fordelene ved webtilgængelighed er mange - fra bedre
-  placeringer på Google til muligheder for at sælge til en større gruppe
-  mennesker. I denne blog vil vi dykke ned i grundene til, at du skal tænke
-  tilgængelighed ind i e-handel - eller eCommerce som det også er kendt som -
-  allerede i dag, og vi giver dig 5 tips til at komme i gang med det samme.
+  dens tilgængelighed (accessibility). Fordelene ved webtilgængelighed er mange
+  - fra bedre placeringer på Google til muligheder for at sælge til en større
+  gruppe mennesker. I denne blog vil vi dykke ned i grundene til, at du skal
+  tænke tilgængelighed ind i e-handel - eller eCommerce som det også er kendt
+  som - allerede i dag, og vi giver dig 5 tips til at komme i gang med det
+  samme.
 tags:
   - E-handel
 ---
-
 ## Hvad er webtilgængelighed?
 
-Webtilgængelighed handler om, at alle skal kunne anvende websteder og mobilapplikationer uanset sin forudsætning for det. Det vil sige, at hvis man har eksempelvis permanent nedsat hørelse, eller hvis man har brækket en arm, så skal man stadig kunne benytte digitale løsninger. 
+Webtilgængelighed kaldes også accessibility og handler om, at alle skal kunne anvende websteder og mobilapplikationer uanset sin forudsætning for det. Det vil sige, at hvis man har eksempelvis permanent nedsat hørelse, eller hvis man har brækket en arm, så skal man stadig kunne benytte digitale løsninger.
 
 ## Skab en bedre brugeroplevelse for alle
 
@@ -58,7 +58,8 @@ De ovenstående punkter er lette at teste selv på ens webshop, men har man et �
 
 Det vil altid være den bedste strategi at tænke tilgængelighed ind fra starten, da det hurtigt kan blive dyrt at rette det senere. Ved at uddanne dig eller dine medarbejdere i webtilgængelighed vil I have mulighed at inkorporere det i udviklingsprocessen og spare en masse tid og penge.    
 
-## Konklusion om e-handel og webtilgængelighed 
+## Konklusion om e-handel og webtilgængelighed
+
 Fordelene med at indtænke webtilgængelighed i e-handel er mange. 
 
 * Det bliver muligt for flere mennesker at bruge din webshop

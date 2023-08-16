@@ -3,7 +3,8 @@ title: Kom nemt i gang med at bruge QualWeb
 date: 2022-02-14T08:30:41.293Z
 author: Anne Thyme Nørregaard
 summary: >-
-  Qualweb er et testværktøj til test af tilgængelighed på websider. 
+  Qualweb er et testværktøj til test af tilgængelighed (accessibility) på
+  websider. 
 
   Det er også det værktøj, der bruges til monitoreringen for webtilgængelighedsloven i Danmark, så det kan være godt at kende til det.
 tags:

@@ -28,12 +28,12 @@ Med øjenstyring kan du styre digitale enheder med øjnene, og det er især en h
 
 Teknologien giver mange muligheder – men som altid virker teknologien bedst på hjemmesider, som er godt designet. 
 
-## Tips til tilgængelighed
+## Tips til tilgængelighed (accessibility)
 
-Så hvordan kan du give folk, som bruger øjenstyring, en god oplevelse? Her er nogle eksempler: 
+Så hvordan kan du give folk, som bruger øjenstyring, en god oplevelse? Her er nogle eksempler på, hvordan du kan forbedre webtilgængeligheden, også kendt som accessibility: 
 
 * **Sørg for gode kontraster**, da det aflaster brugernes øjne. \
-  Læs mere om kontraster i vores blogindlæg ["Digital Tilgængelighed 101: Lever dine tekster op til kravet om kontrast?"](<* https://inklusio.dk/posts/digital-tilgaengelighed-101-lever-dine-tekster-op-til-kravet-om-kontrast/>).
+  Læs mere om kontraster i vores blogindlæg ["Digital Tilgængelighed 101: Lever dine tekster op til kravet om kontrast?"](https://inklusio.dk/posts/digital-tilgaengelighed-101-lever-dine-tekster-op-til-kravet-om-kontrast/).
 * **Begræns gerne lysmængden** på skærmen. Design med mørk baggrund er en fordel for øjenstyringsbrugere, da store lysmængder kan være hårdt for øjnene. Alternativt kan man give brugeren mulighed for at vælge night mode eller at justere skærmens lysstyrke. 
 * **Sørg for store interaktionsflader**, så det bliver lettere for brugeren at ramme sit mål – f.eks. at aktivere et link eller en knap. Selvom brugeren kan zoome ved hjælp af øjnene, er det nemlig ofte en udfordring at ramme små interaktionsflader. \
   Som udgangspunkt skal en interaktionsflade minimum være 44 gange 44 CSS-pixels (se mere under [WCAG-succeskriterium 2.5.5 om Målstørrelse](https://www.w3.org/Translations/WCAG21-da/#target-size)). 
