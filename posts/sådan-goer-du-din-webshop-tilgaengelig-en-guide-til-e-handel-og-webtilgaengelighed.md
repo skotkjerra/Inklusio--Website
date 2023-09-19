@@ -13,7 +13,7 @@ summary: Skal din webshop leve op til sit fulde potentiale, så tag et kig på
 tags:
   - E-handel
 ---
-Skal din webshop leve op til sit fulde potentiale, så tag et kig på dens tilgængelighed (accessibility). Fordelene ved webtilgængelighed er mange, lige fra bedre placeringer på Google til muligheder for at sælge til en større gruppe mennesker. I denne blog vil vi dykke ned i grundene til, at du skal tænke tilgængelighed ind i e-handel – eller eCommerce, som det også er kendt som –  allerede i dag, og vi giver dig 5 tips til at komme i gang med det samme. 
+Skal din webshop leve op til sit fulde potentiale, så tag et kig på dens tilgængelighed (accessibility). Fordelene ved webtilgængelighed er mange, lige fra bedre placeringer på Google til muligheder for at sælge til en større gruppe mennesker. I denne blog vil vi dykke ned i grundene til, at du skal tænke tilgængelighed ind i e-handel – eller eCommerce, som det også kaldes –  allerede i dag, og vi giver dig 5 tips til at komme i gang med det samme. 
 
 ## Hvad er webtilgængelighed?
 
