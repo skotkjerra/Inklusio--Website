@@ -7,15 +7,15 @@ summary: Skal din webshop leve op til sit fulde potentiale, så tag et kig på
   dens tilgængelighed (accessibility). Fordelene ved webtilgængelighed er mange
   - fra bedre placeringer på Google til muligheder for at sælge til en større
   gruppe mennesker. I denne blog vil vi dykke ned i grundene til, at du skal
-  tænke tilgængelighed ind i e-handel - eller eCommerce som det også er kendt
-  som - allerede i dag, og vi giver dig 5 tips til at komme i gang med det
+  tænke tilgængelighed ind i e-handel – eller eCommerce, som det også er kendt
+  som –  allerede i dag, og vi giver dig 5 tips til at komme i gang med det
   samme.
 tags:
   - E-handel
 ---
 ## Hvad er webtilgængelighed?
 
-Webtilgængelighed kaldes også accessibility og handler om, at alle skal kunne anvende websteder og mobilapplikationer uanset sin forudsætning for det. Det vil sige, at hvis man har eksempelvis permanent nedsat hørelse, eller hvis man har brækket en arm, så skal man stadig kunne benytte digitale løsninger.
+Webtilgængelighed kaldes også accessibility og handler om, at alle skal kunne anvende websteder og mobilapplikationer uanset deres forudsætning for det. Det vil sige, at hvis man har eksempelvis permanent nedsat hørelse, eller hvis man har brækket en arm, så skal man stadig kunne benytte digitale løsninger.
 
 ## Skab en bedre brugeroplevelse for alle
 
