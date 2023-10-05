@@ -70,7 +70,7 @@ Bud på dansk oversættelse: ”Fokus skjules ikke”
 Når et interaktivt element får tastaturfokus, må elementet ikke være fuldstændigt skjult af andet indhold.
 Dette er fx relevant at tjekke, hvor der er sticky header eller footer eller et cookie-banner, som dækker noget af siden, men hvor siden scroller ”inde bagved” dette indhold.
 
-2.5.7 Dragging Movements
+## 2.5.7 Dragging Movements
 
 Niveau: AA
 
@@ -128,9 +128,10 @@ Niveau: AA
 Bud på dansk oversættelse: ”Tilgængelig autentificering”
 
 En kognitiv funktionstest (såsom at huske et password eller løse et puslespil) er ikke krævet på noget trin i en autentifikationsproces, medmindre dette trin stiller mindst en af følgende muligheder til rådighed: 
-•	Alternativ: Der er en alternativ autentifikationsmetode, som ikke er afhængig af en kognitiv funktionstest.
-•	Mekanisme: Der er en mekanisme til rådighed, som kan hjælpe brugeren med at gennemføre den kognitive funktionstest.
-•	Objektgenkendelse: Den kognitive funktionstest består i at genkende objekter.
-•	Personligt indhold: Den kognitive funktionstest er at identificere ikke-tekstligt indhold, som brugeren har givet til webstedet.
+
+* Alternativ: Der er en alternativ autentifikationsmetode, som ikke er afhængig af en kognitiv funktionstest.
+* Mekanisme: Der er en mekanisme til rådighed, som kan hjælpe brugeren med at gennemføre den kognitive funktionstest.
+* Objektgenkendelse: Den kognitive funktionstest består i at genkende objekter.
+* Personligt indhold: Den kognitive funktionstest er at identificere ikke-tekstligt indhold, som brugeren har givet til webstedet.
 
 Et eksempel på indhold, som ville dumpe dette succeskriterium, er en kontaktformular, hvor man skal indtaste svaret på et tilfældigt genereret regnestykke for at kunne indsende formularen, og hvor der ikke stilles alternative muligheder til rådighed.
