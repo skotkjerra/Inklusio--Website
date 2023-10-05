@@ -113,7 +113,7 @@ Det kan fx betyde, at en chatfunktion altid skal findes på samme sted på siden
 
 Niveau: A
 
-”Overflødig indtastning”
+Bud på dansk oversættelse: ”Overflødig indtastning”
 
 Information som tidligere er indtastet i en formular, som skal bruges igen i den samme proces, er enten auto-udfyldt eller der gives mulighed for at brugeren kan vælge den.
 Kravet gælder ikke, hvis det er essentielt at udfylde informationen igen, fx for at bekræfte en e-mailadresse, hvis informationen er vigtig af sikkerhedshensyn, eller den tidligere indtastede information ikke længere er gyldig. 
