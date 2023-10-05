@@ -40,23 +40,23 @@ Hvis du er dækket enten af webtilgængelighedsloven eller lov om tilgængelighe
 
 I WCAG 2.2 er der 6 nye succeskriterier på niveau A + AA, som er de niveauer, langt de fleste går efter at leve op til:
 
-•	2.4.11 Focus Not Obscured (Minimum) (AA)
-•	2.5.7 Dragging Movements (AA)
-•	2.5.8 Target Size (Minimum) (AA)
-•	3.2.6 Consistent Help (A)
-•	3.3.7 Redundant Entry (A)
-•	3.3.8 Accessible Authentication (Minimum) (AA)
+* 2.4.11 Focus Not Obscured (Minimum) (AA)
+* 2.5.7 Dragging Movements (AA)
+* 2.5.8 Target Size (Minimum) (AA)
+* 3.2.6 Consistent Help (A)
+* 3.3.7 Redundant Entry (A)
+* 3.3.8 Accessible Authentication (Minimum) (AA)
 
 Derudover er der også 3 nye succeskriterier på niveau AAA: 
 
-•	2.4.12 Focus Not Obscured (Enhanced) (AAA)
-•	2.4.13 Focus Appearance (AAA)
-•	3.3.9 Accessible Authentication (Enhanced) (AAA)
+* 2.4.12 Focus Not Obscured (Enhanced) (AAA)
+* 2.4.13 Focus Appearance (AAA)
+* 3.3.9 Accessible Authentication (Enhanced) (AAA)
 
 Krav der udgår i WCAG 2.2 – og i praksis også i WCAG 2.1!
 
-Derudover er der et enkelt succeskriterium, som i praksis udgår af WCAG: 
-•	4.1.1 Parsing (Obsolete and removed)
+* Derudover er der et enkelt succeskriterium, som i praksis udgår af WCAG: 
+  4.1.1 Parsing (Obsolete and removed)
 
 Bemærk, at WCAG 2.1 er blevet opdateret med en note om, at 4.1.1 Parsing skal betragtes som altid bestået for indhold implementeret med HTML eller XML, hvilket vil sige stort set alt webindhold.
 Dette skyldes, at moderne browsere reparerer det, som tidligere skabte problemer for brugerne.
@@ -81,7 +81,7 @@ Undtagelser er, hvis trækkebevægelsen er ”essentiel”, dvs. ikke kan undvæ
 Eksempler kunne være, at en liste, hvor man kan ændre rækkefølgen af elementer ved at trække dem op og ned, også stiller en menu til rådighed, hvis man klikker på et element, hvor man kan vælge at flytte elementet op eller ned, eller en videoafspiller, hvor man kan spole i videoen ved at trække i en ”slider” på videoens tidslinje, men også kan klikke på tidslinjen for at spole til det ønskede sted. 
 Bemærk, at dette krav ikke handler om tastaturnavigation. Det skal altså være muligt at bruge funktionen ved hjælp af en mus eller touch, selvom man ikke kan udføre en trækkebevægelse.
 
-## 2.5.8 Target Size (Minimum) 
+## 2.5.8 Target Size (Minimum)
 
 Niveau: AA
 
@@ -120,7 +120,7 @@ Kravet gælder ikke, hvis det er essentielt at udfylde informationen igen, fx fo
 Et velkendt eksempel på dette er i webshops, hvor man med en tjekboks kan vælge, at leveringsadressen skal være den samme som faktureringsadressen, eller vælge at indtaste en ny leveringsadresse.
 Dette er vigtigt for især brugere med kognitive funktionsnedsættelser, som kan have problemer med at udfylde formularer korrekt, samt personer med motoriske funktionsnedsættelser, for hvem det kan være fysisk anstrengende og tidskrævende at indtaste tekst.
 
-## 3.3.8 Accessible Authentication (Minimum) 
+## 3.3.8 Accessible Authentication (Minimum)
 
 Niveau: AA
 
