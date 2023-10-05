@@ -100,11 +100,12 @@ Niveau: A
 
 Bud på dansk oversættelse: ”Konsekvent hjælp”
 
-Dette krav gælder for hjemmesider, som indeholder hjælpemekanismer såsom:\
-•	kontaktinformationer til mennesker, fx telefonnummer eller e-mail-adresse
-•	en mekanisme til at kontakte mennesker, fx en chat eller en kontaktformular
-•	selvhjælpsmuligheder, fx en FAQ, Help Center eller hjælpetekst, der foldes ud via ”?”-tooltips
-•	en fuldautomatisk kontaktmekanisme, fx chatbot 
+Dette krav gælder for hjemmesider, som indeholder hjælpemekanismer såsom:
+
+* kontaktinformationer til mennesker, fx telefonnummer eller e-mail-adresse
+* en mekanisme til at kontakte mennesker, fx en chat eller en kontaktformular
+* selvhjælpsmuligheder, fx en FAQ, Help Center eller hjælpetekst, der foldes ud via ”?”-tooltips
+* en fuldautomatisk kontaktmekanisme, fx chatbot 
 
 Hvis nogle af disse hjælpemekanismer findes på flere sider inden for en samling af websider, skal funktioner findes i den samme relative rækkefølge i forhold til andet indhold på siden, medmindre brugeren selv laver en ændring.
 Det kan fx betyde, at en chatfunktion altid skal findes på samme sted på siden, at linket til en kontaktside altid skal kunne findes på samme sted i footeren, eller at hjælpetekster i en formular altid skal kunne findes på samme sted i forhold til indtastningsfelterne, fx bag et ”?”-ikon.
