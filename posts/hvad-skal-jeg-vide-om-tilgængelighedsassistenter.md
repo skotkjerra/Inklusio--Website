@@ -47,7 +47,7 @@ Du kan læse mere om, hvorfor overlays er en rigtigt dårlig ide her:
 
 Overlays kommer ofte i en pakke, som også har tilgængelighedsassistent-funktioner.
 
-*Nedenfor taler vi ikke om overlays, men om tilgængelighedsassistenter.*
+**Nedenfor taler vi *ikke* om overlays, men om tilgængelighedsassistenter.**
 
 ## Bliver mit websted tilgængeligt, hvis jeg installerer en tilgængelighedsassistent?
 
