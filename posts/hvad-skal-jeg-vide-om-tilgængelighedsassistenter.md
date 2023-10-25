@@ -196,3 +196,20 @@ Og uanset hvad, vil der stadig være en stor mængde krav, som skal opfyldes på
 Derfor må en tilgængelighedsassistent siges at være en NICE TO HAVE, hvis du vil gøre noget ekstra for nogle brugergrupper, fx ved at tilføje højtlæsning eller andet som en ekstra service. 
 
 Til gengæld er et tilgængeligt websted en NEED TO HAVE. Du kommer altså ikke uden om at arbejde med at skabe et tilgængeligt websted, uanset om du vælger at tilføje en tilgængelighedsassistent eller ej.
+
+## Er tilgængelighedsassistent det samme som “overlays”?
+
+Hvor tilgængelighedsassistenter stiller funktioner til rådighed, som kan hjælpe brugerne med at tilpasse webstedet til deres præferencer, lover overlays at fikse webstedets kode, så webstedet bliver tilgængeligt – helt uden at du selv eller din udvikler skal gøre noget.
+\
+Lyder det for godt til at være sandt?
+\
+Det er det nok også.
+\
+I værste fald bliver webstedet faktisk mindre tilgængeligt eller direkte ubrugeligt for brugere, der er afhængige af hjælpeteknologier.
+
+Du kan læse mere om, hvorfor overlays er en rigtigt dårlig ide her:
+
+* [Overlay Fact Sheet](https://overlayfactsheet.com/)
+* [European Disability Forum: "Accessibility overlays don’t guarantee compliance with European legislation"](<* https://www.edf-feph.org/accessibility-overlays-dont-guarantee-compliance-with-european-legislation/>)
+
+Overlays kommer ofte i en pakke, som også har tilgængelighedsassistent-funktioner.
