@@ -105,7 +105,7 @@ Antal WCAG-krav, som potentielt kan dækkes via funktionen: 1
 
 ### Hvor mange WCAG-krav kan så dækkes af en tilgængelighedsassistent?
 
-Med ovenstående funktioner kan man altså i bedste fald leve op til 9 forskellige succeskriterier i WCAG 2.1 (hvoraf 2 succeskriterier potentielt kan håndteres af forskellige funktioner)
+Med ovenstående funktioner kan man altså i bedste fald leve op til 9 forskellige succeskriterier i WCAG 2.1 (hvoraf 3 succeskriterier potentielt kan håndteres af forskellige funktioner).
 
 I WCAG 2.1 er der på niveau AA 50 succeskriterier.
 
