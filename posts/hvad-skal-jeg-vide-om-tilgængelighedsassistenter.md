@@ -42,8 +42,8 @@ I værste fald bliver webstedet faktisk mindre tilgængeligt eller direkte ubrug
 
 Du kan læse mere om, hvorfor overlays er en rigtigt dårlig ide her:
 
-* [Overlay Fact Sheet](https://overlayfactsheet.com/)[European ](<* https://www.edf-feph.org/accessibility-overlays-dont-guarantee-compliance-with-european-legislation/>)
-* [Disability Forum: "Accessibility overlays don’t guarantee compliance with European legislation"](https://www.edf-feph.org/accessibility-overlays-dont-guarantee-compliance-with-european-legislation/)
+* [Overlay Fact Sheet](https://overlayfactsheet.com/)[](<* https://www.edf-feph.org/accessibility-overlays-dont-guarantee-compliance-with-european-legislation/>)
+* [﻿European Disability Forum: "Accessibility overlays don’t guarantee compliance with European legislation"](https://www.edf-feph.org/accessibility-overlays-dont-guarantee-compliance-with-european-legislation/)
 
 Overlays kommer ofte i en pakke, som også har tilgængelighedsassistent-funktioner.
 
