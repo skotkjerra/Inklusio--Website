@@ -18,7 +18,7 @@ Vi starter med den helt korte version:
 **Du må gerne tilføje en tilgængelighedsassistent til dit websted.
 Men det må aldrig stå i stedet for at gøre selve dit websted tilgængeligt.**
 
-## Hvad er en tilgængelighedsassistent? 
+## Hvad er en tilgængelighedsassistent?
 
 Og så den lidt længere version: Det, jeg har valgt at kalde en ”tilgængelighedsassistent”, er som regel en lille værktøjslinje, som du tilføjer til dit websted, og som giver brugerne af webstedet mulighed for at gøre ting som fx:
 
@@ -40,7 +40,7 @@ Webtilgængelighedsloven stiller krav om overholdelse af WCAG på niveau AA (som
 
 Derfor kan det være interessant at se, hvordan forskellige mulige funktioner i tilgængelighedsassistenter er relateret til forskellige krav i WCAG.
 
-## Hvilke WCAG-krav kan dækkes af en tilgængelighedsassistent? 
+## Hvilke WCAG-krav kan dækkes af en tilgængelighedsassistent?
 
 #### Funktion: Få læst siden op
 
@@ -144,9 +144,10 @@ Om en tilgængelighedsassistent kan siges at udgøre en alternativ version vil d
 Det korte svar er NEJ. 
 
 Her kommer et par eksempler på brugergrupper, der ikke har gavn af tilgængelighedsassistenter: 
-•	Brugere, der er afhængige af deres egne hjælpemidler
-•	Brugere, der ikke er bevidste om, at de har en funktionsnedsættelse
-•	Brugere, der er usikre it-brugere
+
+* Brugere, der er afhængige af deres egne hjælpemidler
+* Brugere, der ikke er bevidste om, at de har en funktionsnedsættelse
+* Brugere, der er usikre it-brugere
 
 ### Brugere, der er afhængige af deres egne hjælpemidler
 
@@ -182,7 +183,7 @@ Karen kunne aldrig finde på at trykke på noget, som hun ikke ved hvad er, af f
 Karen ville aldrig udforske funktionerne i en tilgængelighedsassistent på egen hånd.
 Og selvom hun havde lært at bruge tilgængelighedsassistenten på ét websted, vil hun ikke nødvendigvis kunne overføre sin viden til en anden tilgængelighedsassistent på et andet websted. 
 
-## Er det ok, at mit websted har et tilgængelighedsproblem, hvis bare det kan fikses med min tilgængelighedsassistent? 
+## Er det ok, at mit websted har et tilgængelighedsproblem, hvis bare det kan fikses med min tilgængelighedsassistent?
 
 Det bedste ville være, at dit websted var tilgængeligt for alle mennesker, med det samme de kommer ind på det, uden at de selv skal bøvle med at ”fikse” tilgængelighedsproblemerne via en tilgængelighedsassistent.
 
