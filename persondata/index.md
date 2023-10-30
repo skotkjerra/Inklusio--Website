@@ -11,7 +11,7 @@ C.A. Olesens Gade 4, 9000 Aalborg
 CVR-nr.: 41066784 
 
 ## Hjemmeside
-Vores hjemmeside er [https://inklusio.dk]
+Vores hjemmeside er [https://inklusio.dk](https://inklusio.dk)
 
 ## Kontakt
 Inklusio er dataansvarlig for dine personoplysninger.
