@@ -4,6 +4,7 @@ title: Persondatapolitik
 templateClass: tmpl-contact
 ---
 Dato for seneste opdatering: 30.10.2023
+
 ## Virksomhed
 Inklusio ApS
 C.A. Olesens Gade 4, 9000 Aalborg
@@ -36,8 +37,10 @@ Vi bruger også oplysningerne til at kontakte dig eller den virksomhed, som du r
 ## Leverandører
 Når du repræsenterer en leverandør, indsamler vi oplysninger om dit navn, e-mail, telefonnummer, hvilken virksomhed du repræsenterer, og andre oplysninger, som du selv vælger at give os, undtagen eventuelle følsomme oplysninger. 
 Formålet er, at vi kan kommunikere med dig, fx på mail og telefon, i forbindelse med opgaver, som du eller den virksomhed, som du repræsenterer, udfører for os som leverandør.
+
 ## Besøg på hjemmeside
 Når du besøger vores hjemmeside, anvender vi cookies af hensyn til funktionaliteten og for at optimere hjemmesiden for vores kunder. 
+
 ## Nyhedsbrev 
 Vi har et nyhedsbrev, som det er frivilligt at tilmelde sig – og du kan altid framelde dig dette igen. 
 Formålet med nyhedsbrevet er at sende de tilmeldte mails med ny information fra virksomheden, som fx kan omhandle nyt indhold på hjemmesiden og annoncering af vores ydelser.
@@ -69,5 +72,6 @@ Vi sletter dine personoplysninger, når indsamling, behandling og opbevaring af 
 
 ## Opdatering af denne persondatapolitik
 Inklusio ApS kan opdatere denne persondatapolitik ved at offentliggøre en ny version på vores hjemmeside. Du bør tjekke vores side af og til for at sikre, at du er bekendt med eventuelle ændringer.
+
 ## Klage til Datatilsynet
 Du har ret til at indgive en klage til Datatilsynet, hvis du er utilfreds med den måde, som vi behandler dine personoplysninger på. Du finder Datatilsynets kontaktoplysninger på www.datatilsynet.dk.
