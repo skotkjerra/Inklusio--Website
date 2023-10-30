@@ -3,7 +3,6 @@ layout: layouts/page.njk
 title: Persondatapolitik
 templateClass: tmpl-contact
 ---
-# persondatapolitik, Inklusio ApS’  
 Dato for seneste opdatering: 30.10.2023 
 ## Virksomhed
 Inklusio ApS
@@ -11,7 +10,7 @@ C.A. Olesens Gade 4 9000 Aalborg
 CVR-nr.: 41066784 
 
 ## Hjemmeside
-Vores hjemmeside er [www.inklusio.dk]  
+Vores hjemmeside er [https://inklusio.dk]
 ## Kontakt
 Inklusio er dataansvarlig for dine personoplysninger.
 Hvis du har spørgsmål til behandlingen af dine personoplysninger, kan du kontakte Inklusio på
