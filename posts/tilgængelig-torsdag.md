@@ -33,11 +33,18 @@ Vi glæder os til besvare spørgsmål om alt fra målgrupper og hjælpemidler ti
 
 0 kr.
 
+## T﻿id og sted
+
+O﻿nline, torsdag d. 30. november. 
+
+* K﻿l. 9-10: Introduktion til Webtilgængelighed
+* K﻿l. 10-11: Spørg en ekspert
+
 ## **Tilmelding**
 
 Du tilmelder dig via linksne nedenfor. Hvis du vil deltage til både ”Introduktion til Webtilgængelighed” og ”Spørg en Ekspert”, så husk at tilmelde dig via begge nedenstående links:
 
-* [Tilmeld dig ”Introduktion til webtilgængelighed”](https://us02web.zoom.us/webinar/register/WN_yfIft2xbSwuwWKnV6fWoKw)
+* [﻿Tilmeld dig ”Introduktion til webtilgængelighed”](https://us02web.zoom.us/webinar/register/WN_yfIft2xbSwuwWKnV6fWoKw#/) ﻿
 * [Tilmeld dig ”Spørg en Ekspert”](https://us02web.zoom.us/webinar/register/WN_0z9ytg6iS3SrG69JeUSGug)
 
 Vi glæder os til at se dig til Tilgængelig Torsdag! 
