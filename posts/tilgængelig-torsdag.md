@@ -10,11 +10,11 @@ tags:
 ---
 Kom med til **Tilgængelig Torsdag** med Inklusio!
 
-Tilgængelig Torsdag er et **online-arrangement** for dig, der gerne vil lære om webtilgængelighed, hvad enten du er nybegynder eller har erfaring med webtilgængelighed. 
+Tilgængelig Torsdag er et *online-arrangement* for dig, der gerne vil lære om webtilgængelighed, hvad enten du er nybegynder eller har erfaring med webtilgængelighed. 
 
 **Torsdag d. 30. november** afholder vi nemlig en todelt session, bestående af:
 
-Kl. 9-10: **Introduktion til webtilgængelighed**
+## Kl. 9-10: **Introduktion til webtilgængelighed**
 
 Få overblik over, hvad webtilgængelighed er, hvorfor det er vigtigt og eksempler på, hvordan du forbedrer dit websted til gavn for dine brugere, SEO m.m. Vi kommer bl.a. ind på følgende: 
 
@@ -23,14 +23,18 @@ Få overblik over, hvad webtilgængelighed er, hvorfor det er vigtigt og eksempl
 * Hvilke love og standarder er gældende? 
 * Tips til, hvad du kan gøre for at forbedre dit websted
 
-Kl. 10-11: **Spørg en ekspert**
-Har du udfordringer med tilgængeligheden på dit websted? Så kan du frit stille spørgsmål til en af Inklusios tilgængeligheds-eksperter.
+## Kl. 10-11: **Spørg en ekspert**
+
+Stil frit spørgsmål om webtilgængelighed til en af Inklusios tilgængeligheds-eksperter.
 
 Vi glæder os til besvare spørgsmål om alt fra målgrupper og hjælpemidler til WCAG 2.1, webtilgængelighedsloven, standarden EN 301 540, POUR, SEO – og meget mere! 
 
-**Pris:** 0 kr.
+## **Pris**
 
-**Tilmelding:** 
+0 kr.
+
+## **Tilmelding**
+
 Du tilmelder dig via linksne nedenfor. Hvis du vil deltage til både ”Introduktion til Webtilgængelighed” og ”Spørg en Ekspert”, så husk at tilmelde dig via begge nedenstående links:
 
 * [Tilmeld dig ”Introduktion til webtilgængelighed”](https://us02web.zoom.us/webinar/register/WN_yfIft2xbSwuwWKnV6fWoKw)
