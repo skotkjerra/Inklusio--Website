@@ -8,11 +8,7 @@ summary: Tilgængelig Torsdag er et online-arrangement for dig, der gerne vil
 tags:
   - Webinar
 ---
-
-
 Kom med til **Tilgængelig Torsdag** med Inklusio!
-
-
 
 Tilgængelig Torsdag er et **online-arrangement** for dig, der gerne vil lære om webtilgængelighed, hvad enten du er nybegynder eller har erfaring med webtilgængelighed. 
 
@@ -42,6 +38,6 @@ Du tilmelder dig via linksne nedenfor. Hvis du vil deltage til både ”Introduk
 
 Vi glæder os til at se dig til Tilgængelig Torsdag! 
 
-Og hvis du har en ven eller kollega, som kunne være interesseret, så del gerne dette blogindlæg med dem.
+Hvis du har en ven eller kollega, som kunne være interesseret, så del gerne dette blogindlæg med dem.
 
 Bedste hilsner, Inklusio
