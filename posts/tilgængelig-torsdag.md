@@ -35,10 +35,7 @@ Vi glæder os til besvare spørgsmål om alt fra målgrupper og hjælpemidler ti
 
 ## T﻿id og sted
 
-O﻿nline, torsdag d. 30. november. 
-
-* K﻿l. 9-10: Introduktion til Webtilgængelighed
-* K﻿l. 10-11: Spørg en ekspert
+O﻿nline, torsdag d. 30. november kl. 9-11
 
 ## **Tilmelding**
 
