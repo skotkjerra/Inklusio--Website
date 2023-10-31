@@ -30,7 +30,7 @@ Og så den lidt længere version: Det, jeg har valgt at kalde en ”tilgængelig
 * Lægge en ”maske” over siden, der kan hjælpe til at fokusere dit blik, eller lave en linje, der kan guide ved læsning af tekst
 * Vise siden som ”ren tekst” uden layout
 
-Det vil være lidt forskelligt fra værktøj til værktøj, hvad de kan gøre, og ovenstående er et sammenkog af funktioner fra forskellige tilgængelighedsassistenter. Normalt har én assistent ikke alle de funktionerne, som er nævnt ovenfor.
+Det vil være lidt forskelligt fra værktøj til værktøj, hvad de kan gøre, og ovenstående er et sammenkog af funktioner fra forskellige tilgængelighedsassistenter. Normalt har én assistent ikke alle de funktioner, som er nævnt ovenfor.
 
 ## Er tilgængelighedsassistent det samme som “overlays”?
 
@@ -132,7 +132,8 @@ Det vil sige, at der er 41 WCAG 2.1 succeskriterier, som slet ikke berøres af d
 
 Som nævnt længere oppe, er det desuden ikke alle tilgængelighedsassistenter, der har alle de nævnte funktioner, og dækningen af WCAG-krav for en enkelt tilgængelighedsassistent vil derfor normalt være lavere end de 18%, som i bedste fald kunne dækkes. 
 
-Hvor godt dækkes de enkelte WCAG-krav af en tilgængelighedsassistent?
+### Hvor godt dækkes de enkelte WCAG-krav af en tilgængelighedsassistent?
+
 Det kan også være et problem, at en tilgængelighedsassistent faktisk ikke sikrer overholdelse af de krav, som en funktion kunne være relateret til. 
 
 Fx er der nogle tilgængelighedsassistenter, der godt nok kan forstørre teksten, men ikke helt op til 200% eller 400%, som WCAG stiller krav om. 
