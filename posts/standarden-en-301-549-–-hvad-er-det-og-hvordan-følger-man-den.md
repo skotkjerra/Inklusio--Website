@@ -77,8 +77,10 @@ Kapitlet indeholder også to yderligere krav, som ikke er i WCAG, og som vedrør
 
 Kapitel 11 indeholder krav til software – herunder krav til apps til mobil og tablet. 
 
-Vi håber, at dette gav dig et bedre overblik, end du havde før.
+## V﻿il du vide mere? 
 
-Vil du være på forkant med lovgivningen inden for webtilgængelighed? Så anbefaler vi, at du læser vores blogindlæg ”[Webtilgængelighed – nu også på det private område](https://inklusio.dk/posts/lov-om-webtilg%C3%A6ngelighed-pa-det-private-omrade/)”. 
+Vi håber, at o﻿venstående f﻿orklaring om EN 301 549 gav dig et bedre overblik, end du havde før.
 
 Hvis du vil vide mere om webtilgængelighed, EN 301 549 og WCAG er du velkommen til at [kontakte Inklusio](https://inklusio.dk/kontakt-os/).
+
+Vil du være på forkant med lovgivningen inden for webtilgængelighed? Så anbefaler vi, at du læser vores blogindlæg ”[Webtilgængelighed – nu også på det private område](https://inklusio.dk/posts/lov-om-webtilg%C3%A6ngelighed-pa-det-private-omrade/)”.
