@@ -1,7 +1,7 @@
 ---
 title: Standarden EN 301 549 – hvad er det og hvordan følger man den?
 date: 2023-11-02T10:46:18.945Z
-author: Anonymous
+author: Stein Erik Skotkjerra
 summary: "Hvad er standarden EN 301 549? Hvad er WCAG? Og hvad er forskellen på
   EN 301 549 og WCAG? "
 tags:
