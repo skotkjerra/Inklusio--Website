@@ -27,7 +27,7 @@ Få overblik over, hvad webtilgængelighed er, hvorfor det er vigtigt og eksempl
 
 Stil frit spørgsmål om webtilgængelighed til en af Inklusios tilgængeligheds-eksperter.
 
-Vi glæder os til besvare spørgsmål om alt fra målgrupper og hjælpemidler til WCAG 2.1, webtilgængelighedsloven, standarden EN 301 540, POUR, SEO – og meget mere! 
+Vi glæder os til at besvare spørgsmål om alt fra målgrupper og hjælpemidler til WCAG 2.2, webtilgængelighedsloven, standarden EN 301 549, POUR, SEO – og meget mere! 
 
 ## **Pris**
 
@@ -41,8 +41,8 @@ O﻿nline, torsdag d. 30. november kl. 9-11
 
 Du tilmelder dig via linksne nedenfor. **OBS:** Hvis du vil deltage til både ”Introduktion til Webtilgængelighed” og ”Spørg en Ekspert”, så husk at tilmelde dig via begge nedenstående links: 
 
-* [﻿Tilmeld dig ”Introduktion til webtilgængelighed”](https://us02web.zoom.us/webinar/register/WN_yfIft2xbSwuwWKnV6fWoKw) (﻿kl. 9-10)
-* [Tilmeld dig ”Spørg en Ekspert”](https://us02web.zoom.us/webinar/register/WN_0z9ytg6iS3SrG69JeUSGug) (kl. 10-11)
+* [﻿Tilmeld dig Introduktion til webtilgængelighed](https://us02web.zoom.us/webinar/register/WN_yfIft2xbSwuwWKnV6fWoKw) (﻿kl. 9-10)
+* [Tilmeld dig Spørg en Ekspert](https://us02web.zoom.us/webinar/register/WN_0z9ytg6iS3SrG69JeUSGug) (kl. 10-11)
 
 Vi glæder os til at se dig til Tilgængelig Torsdag!
 
