@@ -38,7 +38,7 @@ Begrebet formodning om overensstemmelse kaldes på engelsk for ”presumption of
 
 Man skal ikke nødvendigvis benytte den givne standard – der kan være andre måder at demonstrere, at ens produkt eller tjeneste overholder lovgivningen på. Når det gælder tilgængelighed, er det dog næsten uden undtagelse EN 301 549, der bruges for både at vise og vurdere tilgængeligheden af et produkt eller en tjeneste (f.eks. et websted eller en app).
 
-Hvad er forskellen på EN 301 549 og WCAG?
+## Hvad er forskellen på EN 301 549 og WCAG?
 
 For at besvare dette spørgsmål vil vi først sikre, at du kender lidt til WCAG: 
 
