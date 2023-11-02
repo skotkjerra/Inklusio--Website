@@ -34,7 +34,7 @@ lovgivningen. F.eks. angiver Annex C i EN 301 549, hvilke krav der gælder for a
 
 ### Formodning om overensstemmelse
 
-Begrebet formodning om overensstemmelse kaldes på engelsk for ”presumption of confor-mity”, og det er en måde at vise, at ens produkt eller tjeneste overholder en EU-lovgivning. Det kræver, at man opfylder de krav, der findes i en harmoniseret standard, som beskrevet i forrige afsnit. Når man overholder disse krav, kan man sige, at man som ejer eller udbyder af et produkt eller en tjeneste har en formodning om overenstemmelse med EU-lovgivningen, fordi man overholder kravene fra en harmoniseret standard.
+Begrebet formodning om overensstemmelse kaldes på engelsk for ”presumption of conformity”, og det er en måde at vise, at ens produkt eller tjeneste overholder en EU-lovgivning. Det kræver, at man opfylder de krav, der findes i en harmoniseret standard, som beskrevet i forrige afsnit. Når man overholder disse krav, kan man sige, at man som ejer eller udbyder af et produkt eller en tjeneste har en formodning om overensstemmelse med EU-lovgivningen, fordi man overholder kravene fra en harmoniseret standard.
 
 Man skal ikke nødvendigvis benytte den givne standard – der kan være andre måder at demonstrere, at ens produkt eller tjeneste overholder lovgivningen på. Når det gælder tilgængelighed, er det dog næsten uden undtagelse EN 301 549, der bruges for både at vise og vurdere tilgængeligheden af et produkt eller en tjeneste (f.eks. et websted eller en app).
 
@@ -54,7 +54,7 @@ Omvendt, overholder man de relevante krav fra EN 301 549, overholder man også W
 
 ### Det lidt længere svar
 
-EN 301 549 indeholder krav til mange forskellige slags IT-baserede løsninger. For websteder og andre webbaserede løsninger, digitale dokumenter og software, herunder apps, har man valgt at henvise til WCAG fremor at udvikle helt nye krav. 
+EN 301 549 indeholder krav til mange forskellige slags IT-baserede løsninger. For websteder og andre webbaserede løsninger, digitale dokumenter og software, herunder apps, har man valgt at henvise til WCAG fremfor at udvikle helt nye krav. 
 
 En af de store ændringer fra WCAG version 1.0 til 2.0 (se afsnittet om WCAG ovenfor) var, at WCAG blev såkaldt teknologiagnostisk. Dette betyder, at den i princippet kan bruges på andet digitalt indhold end bare websteder – f.eks. dokumenter og mobilapplikationer. Derfor gav det god mening at inddrage disse krav som en del af EN 301 549. Sidste version af EN 301 549 (v 3.2.1 fra marts 2021) henviser til WCAG 2.1 og indeholder alle krav på niveau A og AA.
 
@@ -70,14 +70,14 @@ Udover succeskriterierne på niveau A og AA indeholder kapitel 9 også alle krav
 
 Derudover indeholder kapitel 9 også nogle yderligere punkter fra WCAGs kapitel 5, der vedrører, hvordan man vurderer, om en side overholder kravene.
 
-Kapitel 10 omhandler ikke web-baserede dokumenter og elektroniske publikationer. Dvs. at de omhandler dokumenter, der kan downloades fra en webside, men ikke webbaserede dokumenter (dvs. f.eks. lavet i HTML). Det omfatter heller ikke dokumenter indbygget i en webside. Det betyder f.eks., at hvis man har en PDF-læser indebygget i en webside, skal indholdet vurderes som en webside ifølge kapitel 9, og ikke som et dokument. Ofte vil dokumenter dog også være mulige at downloade, hvilket betyder, at de skal behandles både som en webside (i den indbyggede version) og som et downloadbart dokument iflg. kapitel 10. 
+Kapitel 10 omhandler ikke web-baserede dokumenter og elektroniske publikationer. Dvs. at de omhandler dokumenter, der kan downloades fra en webside, men ikke webbaserede dokumenter (dvs. f.eks. lavet i HTML). Det omfatter heller ikke dokumenter indbygget i en webside. Det betyder f.eks., at hvis man har en PDF-læser indbygget i en webside, skal indholdet vurderes som en webside ifølge kapitel 9, og ikke som et dokument. Ofte vil dokumenter dog også være mulige at downloade, hvilket betyder, at de skal behandles både som en webside (i den indbyggede version) og som et downloadbart dokument iflg. kapitel 10. 
 
-Nogle af kravene i kapitel 10 er omskrevet, så de passer til dokumenter , men essensen i kravene er altid den samme som i WCAG. I tillæg er enkelte krav fra WCAG udeladt, fordi de simpelthen ikke giver mening i kontekst af dokumenter.
+Nogle af kravene i kapitel 10 er omskrevet, så de passer til dokumenter , men essensen i kravene er altid den samme som i WCAG. I tillæg er enkelte krav fra WCAG udeladt, fordi de simpelthen ikke giver mening i kontekst af dokumenter .
 Kapitlet indeholder også to yderligere krav, som ikke er i WCAG, og som vedrører placering af undertekster og timing af synstolkning.
 
 Kapitel 11 indeholder krav til software – herunder krav til apps til mobil og tablet. 
 
-## V﻿il du vide mere?
+## V﻿il du vide mere? 
 
 Vi håber, at o﻿venstående f﻿orklaring om EN 301 549 gav dig et bedre overblik, end du havde før.
 
