@@ -72,12 +72,12 @@ Derudover indeholder kapitel 9 også nogle yderligere punkter fra WCAGs kapitel 
 
 Kapitel 10 omhandler ikke web-baserede dokumenter og elektroniske publikationer. Dvs. at de omhandler dokumenter, der kan downloades fra en webside, men ikke webbaserede dokumenter (dvs. f.eks. lavet i HTML). Det omfatter heller ikke dokumenter indbygget i en webside. Det betyder f.eks., at hvis man har en PDF-læser indebygget i en webside, skal indholdet vurderes som en webside ifølge kapitel 9, og ikke som et dokument. Ofte vil dokumenter dog også være mulige at downloade, hvilket betyder, at de skal behandles både som en webside (i den indbyggede version) og som et downloadbart dokument iflg. kapitel 10. 
 
-Nogle af kravene i kapitel 10 er omskrevet, så de passer til dokumenter , men essensen i kravene er altid den samme som i WCAG. I tillæg er enkelte krav fra WCAG udeladt, fordi de simpelthen ikke giver mening i kontekst af dokumenter .
+Nogle af kravene i kapitel 10 er omskrevet, så de passer til dokumenter , men essensen i kravene er altid den samme som i WCAG. I tillæg er enkelte krav fra WCAG udeladt, fordi de simpelthen ikke giver mening i kontekst af dokumenter.
 Kapitlet indeholder også to yderligere krav, som ikke er i WCAG, og som vedrører placering af undertekster og timing af synstolkning.
 
 Kapitel 11 indeholder krav til software – herunder krav til apps til mobil og tablet. 
 
-## V﻿il du vide mere? 
+## V﻿il du vide mere?
 
 Vi håber, at o﻿venstående f﻿orklaring om EN 301 549 gav dig et bedre overblik, end du havde før.
 
