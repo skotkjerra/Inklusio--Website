@@ -55,9 +55,11 @@ For at besvare dette spørgsmål vil vi først sikre, at du kender lidt til WCAG
 WCAG står for Web Content Accessibility Guidelines (på dansk: Retningslinjer for Tilgængeligt Webindhold). WCAG indeholder succeskriterier for tilgængeligt webindhold, og disse succeskriterier inddeles i 3 niveauer, hhv. A, AA og AAA. I Danmark stiller webtilgænge-lighedsloven krav til, at digitale løsninger skal overholde WCAG version 2.1 på niveau AA (som er succeskriterier på niveau A+AA). 
 WCAG har eksisteret siden 2002 og er den mest kendte standard på området (selvom den rent teknisk ikke er en standard, men retningslinjer). WCAG version 1.0 udkom i 2002, version 2.0 i 2008, WCAG 2.1 i 2018 og WCAG 2.2 i 2023.
 
+**Hvad er så forskellen på EN 301 549 og WCAG?**
+
 ### Det korte svar
 
-Hvad er så forskellen på EN 301 549 og WCAG? Det meget korte svar er, at WCAG 2.1 på niveau AA er en del af EN 301 549. Overholder man WCAG 2.1 AA, overholder man også kravene i den del af EN 301 549. Dog er det vigtigt at bemærke, at en app eller et websted også kan være omfattet af andre krav fra EN 301 549, der rækker ud over WCAG. 
+ Det meget korte svar på spørgsmålet er, at WCAG 2.1 på niveau AA er en del af EN 301 549. Overholder man WCAG 2.1 AA, overholder man også kravene i den del af EN 301 549. Dog er det vigtigt at bemærke, at en app eller et websted også kan være omfattet af andre krav fra EN 301 549, der rækker ud over WCAG. 
 Omvendt, overholder man de relevante krav fra EN 301 549, overholder man også WCAG 2.1 på niveau AA.
 
 ### Det lidt længere svar
