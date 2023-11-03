@@ -91,4 +91,4 @@ Vi håber, at o﻿venstående f﻿orklaring om EN 301 549 gav dig et bedre overb
 
 Hvis du vil vide mere om webtilgængelighed, EN 301 549 og WCAG er du velkommen til at [kontakte Inklusio](https://inklusio.dk/kontakt-os/).
 
-Vil du være på forkant med lovgivningen inden for webtilgængelighed? Så anbefaler vi, at du læser vores blogindlæg ”[Webtilgængelighed – nu også på det private område](https://inklusio.dk/posts/lov-om-webtilg%C3%A6ngelighed-pa-det-private-omrade/)”.
+Vil du være på forkant med den lovgivning om webtilgængelighed, som træder i kraft allerede i 2025? Så anbefaler vi, at du læser vores blogindlæg ”[Webtilgængelighed – nu også på det private område](https://inklusio.dk/posts/lov-om-webtilg%C3%A6ngelighed-pa-det-private-omrade/)”.
