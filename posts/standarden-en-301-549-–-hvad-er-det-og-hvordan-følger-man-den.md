@@ -25,11 +25,19 @@ Det kan være svært at finde rundt i og forstå både selve standarden og de do
 
 ### Harmoniserede standarder
 
-EN 301 549 er en såkaldt harmoniseret standard. Harmoniserede standarder er standarder, der er udviklet af en (eller flere) af de europæiske standardiseringsorganisationer CEN, CENELEC eller ETSI som følge af en standardiseringsanmodning fra EU-kommissionen. En standardiseringsanmodning er en bestilling på en bestemt standard, som EU-kommissionen kan sende til en eller flere af de europæiske standardiseringsorganisationer. Typisk følger der finansiering med en standardiseringsanmodning. Inden standardiseringsorganisationerne godkender bestillingen, foregår der en forhandling om indhold, tidsfrister og andet. Når en eller flere af organisationerne accepterer standardiseringsforespørgslen fra EU-kommissionen, går de i gang med arbejdet. Tidligere blev disse standardiseringsmandater kaldt “Standards mandates” på engelsk. Dette er nu ændret til “Standards request”. Derfor vil man finde begge begreber brugt. På dansk kaldes det som regel en standardiseringsanmodning.
+EN 301 549 er en såkaldt harmoniseret standard. Harmoniserede standarder er standarder, der er udviklet af en (eller flere) af de europæiske standardiseringsorganisationer CEN, CENELEC eller ETSI som følge af en standardiseringsanmodning fra EU-kommissionen. 
+
+En standardiseringsanmodning er en bestilling på en bestemt standard, som EU-kommissionen kan sende til en eller flere af de europæiske standardiseringsorganisationer. Typisk følger der finansiering med en standardiseringsanmodning. 
+
+Inden standardiseringsorganisationerne godkender bestillingen, foregår der en forhandling om indhold, tidsfrister og andet. 
+
+Når en eller flere af organisationerne accepterer standardiseringsforespørgslen fra EU-kommissionen, går de i gang med arbejdet. 
+
+Tidligere blev disse standardiseringsmandater kaldt “Standards mandates” på engelsk. Dette er nu ændret til “Standards request”. Derfor vil man finde begge begreber brugt. På dansk kaldes det som regel en standardiseringsanmodning.
 
 Når standarden er klar, og godkendt af EU-kommissionen, kan en henvisning publiceres i EU’s lovtidende (OJEU). Når dette er sket, giver standarden formodning om overensstemmelse (presumption of conformity), og det regnes som en harmoniseret standard.
 
-Harmoniserede standarder er altså standarder, som EU-kommissionen anser for at være tilstrækkelige til at overholde EU-lovgivning på et afgrænset område. Standarden skal indeholde et obligatorisk annex (kaldt ZA/Z)Z, som redegør for sammenhængen mellem kravene i standarden og overensstemmelse med
+Harmoniserede standarder er altså standarder, som EU-kommissionen anser for at være tilstrækkelige til at overholde EU-lovgivning på et afgrænset område. Standarden skal indeholde et obligatorisk annex (kaldt ZA/ZZ), som redegør for sammenhængen mellem kravene i standarden og overensstemmelse med
 lovgivningen. F.eks. angiver Annex C i EN 301 549, hvilke krav der gælder for apps og websteder.
 
 ### Formodning om overensstemmelse
@@ -77,7 +85,7 @@ Kapitlet indeholder også to yderligere krav, som ikke er i WCAG, og som vedrør
 
 Kapitel 11 indeholder krav til software – herunder krav til apps til mobil og tablet. 
 
-## V﻿il du vide mere? 
+## V﻿il du vide mere?
 
 Vi håber, at o﻿venstående f﻿orklaring om EN 301 549 gav dig et bedre overblik, end du havde før.
 
