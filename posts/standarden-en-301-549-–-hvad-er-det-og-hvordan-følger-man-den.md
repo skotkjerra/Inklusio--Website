@@ -38,7 +38,7 @@ Tidligere blev disse standardiseringsmandater kaldt “Standards mandates” på
 Når standarden er klar, og godkendt af EU-kommissionen, kan en henvisning publiceres i EU’s lovtidende (OJEU). Når dette er sket, giver standarden formodning om overensstemmelse (presumption of conformity), og det regnes som en harmoniseret standard.
 
 Harmoniserede standarder er altså standarder, som EU-kommissionen anser for at være tilstrækkelige til at overholde EU-lovgivning på et afgrænset område. Standarden skal indeholde et obligatorisk annex (kaldt ZA/ZZ), som redegør for sammenhængen mellem kravene i standarden og overensstemmelse med
-lovgivningen. F.eks. angiver Annex B i EN 301 549, hvilke krav der gælder for apps og websteder.
+lovgivningen. F.eks. angiver Annex A i EN 301 549, hvilke krav der gælder for apps og websteder.
 
 ### Formodning om overensstemmelse
 
