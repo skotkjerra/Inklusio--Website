@@ -49,3 +49,7 @@ Vi glæder os til at se dig til Tilgængelig Torsdag!
 Og hvis du har en ven eller kollega, som kunne være interesseret, så del gerne dette blogindlæg med dem.
 
 Bedste hilsner, Inklusio
+
+
+
+![Anne, Katrine og Stein Erik fra Inklusio arbejder sammen foran en computer. På billedet står der "Tilgængelig torsdag med Inklusio". ](/img/tilgængelig-torsdag-anne-katrine-stein-erik.png "Tilgængelig Torsdag med Inklusio")
