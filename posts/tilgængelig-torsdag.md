@@ -37,7 +37,8 @@ O﻿nline, torsdag d. 30. november kl. 9-11
 
 ## **Tilmelding**
 
-Du tilmelder dig via linksne nedenfor. **OBS:** Hvis du vil deltage til både ”Introduktion til Webtilgængelighed” og ”Spørg en Ekspert”, så husk at tilmelde dig via begge nedenstående links: 
+Du tilmelder dig via linksne nedenfor. \
+**OBS:** Hvis du vil deltage til begge sessioner, så husk at tilmelde dig via begge nedenstående links:
 
 * **[﻿Tilmeld dig Introduktion til webtilgængelighed](https://us02web.zoom.us/webinar/register/WN_yfIft2xbSwuwWKnV6fWoKw)** (﻿kl. 9-10)
 * **[Tilmeld dig Spørg en Ekspert](https://us02web.zoom.us/webinar/register/WN_0z9ytg6iS3SrG69JeUSGug)** (kl. 10-11)
