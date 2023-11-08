@@ -47,10 +47,27 @@ Du tilmelder dig via linksne nedenfor.
 D﻿et koster ikke penge at tilmelde sig.\
 Når du tilmelder dig bliver du tilmeldt vores nyhedsbrev, så du får besked om lignende arrangementer, nyttig viden om webtilgængelighed og markedsføring i fremtiden. Du kan altid framelde dig senere, og vi lover, at vi ikke spammer.
 
-Vi glæder os til at se dig til Tilgængelig Torsdag!
+**Vi glæder os til at se dig til Tilgængelig Torsdag!**
 
 Og hvis du har en ven eller kollega, som kunne være interesseret, så del gerne dette blogindlæg med dem.
 
 Bedste hilsner, Inklusio
 
+
+
+
+
 ![Anne, Katrine og Stein Erik fra Inklusio arbejder sammen foran en computer. På billedet står der "Tilgængelig torsdag med Inklusio". ](/img/tilgængelig-torsdag-anne-katrine-stein-erik.png "Tilgængelig Torsdag med Inklusio")
+
+## K﻿ommende datoer
+
+T﻿ilgængelig Torsdag afholdes den sidste torsdag hver måned. 
+
+D﻿e kommende datoer er: 
+
+* 3﻿0. november 2023 kl. 9-11 (tilmelding åben - se links ovenfor)
+* I﻿ december holder vi julepause
+* 25. januar 2024 (åbner for tilmeldinger 1. december)
+* 2﻿9. februar 2024
+* 2﻿8. marts 2024
+* 2﻿5. april 2024
