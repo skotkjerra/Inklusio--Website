@@ -59,7 +59,7 @@ T﻿ilgængelig Torsdag afholdes den sidste torsdag hver måned.
 
 D﻿e kommende datoer er: 
 
-* **3﻿0. november 2023** (tilmelding åben - se links ovenfor)
+* **3﻿0. november 2023** (åben for tilmeldinger - se links ovenfor) 
 * December: vi holder julepause
 * **25. januar 2024** (åbner for tilmeldinger 1. december)
 * **2﻿9. februar 2024**
