@@ -29,9 +29,10 @@ Stil frit spørgsmål om webtilgængelighed til en af Inklusios tilgængeligheds
 
 Vi glæder os til at besvare spørgsmål om alt fra målgrupper og hjælpemidler til WCAG 2.2, webtilgængelighedsloven, standarden EN 301 549, POUR, SEO – og meget mere! 
 
-## **Pris**
+D﻿et koster ikke penge at tilmelde sig.\
+Når du tilmelder dig bliver du tilmeldt vores nyhedsbrev, så du får besked om lignende arrangementer, nyttig viden om webtilgængelighed og markedsføring i fremtiden. Du kan altid framelde dig senere, og vi lover, at vi ikke spammer.
 
-0 kr.
+
 
 ## T﻿id og sted
 
@@ -49,7 +50,5 @@ Vi glæder os til at se dig til Tilgængelig Torsdag!
 Og hvis du har en ven eller kollega, som kunne være interesseret, så del gerne dette blogindlæg med dem.
 
 Bedste hilsner, Inklusio
-
-
 
 ![Anne, Katrine og Stein Erik fra Inklusio arbejder sammen foran en computer. På billedet står der "Tilgængelig torsdag med Inklusio". ](/img/tilgængelig-torsdag-anne-katrine-stein-erik.png "Tilgængelig Torsdag med Inklusio")
