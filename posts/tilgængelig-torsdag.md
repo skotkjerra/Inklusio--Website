@@ -29,9 +29,6 @@ Stil frit spørgsmål om webtilgængelighed til en af Inklusios tilgængeligheds
 
 Vi glæder os til at besvare spørgsmål om alt fra målgrupper og hjælpemidler til WCAG 2.2, webtilgængelighedsloven, standarden EN 301 549, POUR, SEO – og meget mere! 
 
-D﻿et koster ikke penge at tilmelde sig.\
-Når du tilmelder dig bliver du tilmeldt vores nyhedsbrev, så du får besked om lignende arrangementer, nyttig viden om webtilgængelighed og markedsføring i fremtiden. Du kan altid framelde dig senere, og vi lover, at vi ikke spammer.
-
 
 
 ## T﻿id og sted
@@ -44,6 +41,9 @@ Du tilmelder dig via linksne nedenfor. **OBS:** Hvis du vil deltage til både �
 
 * **[﻿Tilmeld dig Introduktion til webtilgængelighed](https://us02web.zoom.us/webinar/register/WN_yfIft2xbSwuwWKnV6fWoKw)** (﻿kl. 9-10)
 * **[Tilmeld dig Spørg en Ekspert](https://us02web.zoom.us/webinar/register/WN_0z9ytg6iS3SrG69JeUSGug)** (kl. 10-11)
+
+D﻿et koster ikke penge at tilmelde sig.\
+Når du tilmelder dig bliver du tilmeldt vores nyhedsbrev, så du får besked om lignende arrangementer, nyttig viden om webtilgængelighed og markedsføring i fremtiden. Du kan altid framelde dig senere, og vi lover, at vi ikke spammer.
 
 Vi glæder os til at se dig til Tilgængelig Torsdag!
 
