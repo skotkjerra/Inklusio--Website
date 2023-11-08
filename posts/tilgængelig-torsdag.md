@@ -29,8 +29,6 @@ Stil frit spørgsmål om webtilgængelighed til en af Inklusios tilgængeligheds
 
 Vi glæder os til at besvare spørgsmål om alt fra målgrupper og hjælpemidler til WCAG 2.2, webtilgængelighedsloven, standarden EN 301 549, POUR, SEO – og meget mere! 
 
-
-
 ## T﻿id og sted
 
 O﻿nline, torsdag d. 30. november kl. 9-11
@@ -53,10 +51,6 @@ Og hvis du har en ven eller kollega, som kunne være interesseret, så del gerne
 
 Bedste hilsner, Inklusio
 
-
-
-
-
 ![Anne, Katrine og Stein Erik fra Inklusio arbejder sammen foran en computer. På billedet står der "Tilgængelig torsdag med Inklusio". ](/img/tilgængelig-torsdag-anne-katrine-stein-erik.png "Tilgængelig Torsdag med Inklusio")
 
 ## K﻿ommende datoer
@@ -65,9 +59,9 @@ T﻿ilgængelig Torsdag afholdes den sidste torsdag hver måned.
 
 D﻿e kommende datoer er: 
 
-* 3﻿0. november 2023 kl. 9-11 (tilmelding åben - se links ovenfor)
-* I﻿ december holder vi julepause
-* 25. januar 2024 (åbner for tilmeldinger 1. december)
-* 2﻿9. februar 2024
-* 2﻿8. marts 2024
-* 2﻿5. april 2024
+* **3﻿0. november 2023** (tilmelding åben - se links ovenfor)
+* December: vi holder julepause
+* **25. januar 2024** (åbner for tilmeldinger 1. december)
+* **2﻿9. februar 2024**
+* **2﻿8. marts 2024**
+* **2﻿5. april 2024**
