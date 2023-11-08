@@ -12,7 +12,7 @@ Kom med til Tilgængelig Torsdag med Inklusio!
 
 **Tilgængelig Torsdag er et online-arrangement** for dig, der gerne vil lære om webtilgængelighed, hvad enten du er nybegynder eller har erfaring med webtilgængelighed. 
 
-**Torsdag d. 30. november** afholder vi nemlig en todelt session, bestående af:
+D﻿en sidste torsdag hver måned (næste gang er **d. 30. november**) afholder vi nemlig en todelt session, bestående af:
 
 ## Kl. 9-10: **Introduktion til webtilgængelighed**
 
