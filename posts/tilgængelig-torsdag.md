@@ -14,7 +14,7 @@ Kom med til Tilgængelig Torsdag med Inklusio!
 
 D﻿en sidste torsdag hver måned (næste gang er **d. 30. november**) afholder vi nemlig en todelt session, bestående af:
 
-## Kl. 9-10: **Introduktion til webtilgængelighed**
+## Kl. 9-10: Introduktion til webtilgængelighed
 
 Få overblik over, hvad webtilgængelighed er, hvorfor det er vigtigt og eksempler på, hvordan du forbedrer dit websted til gavn for dine brugere, SEO m.m. Vi kommer bl.a. ind på følgende: 
 
@@ -23,7 +23,7 @@ Få overblik over, hvad webtilgængelighed er, hvorfor det er vigtigt og eksempl
 * Hvilke love og standarder er gældende? 
 * Tips til, hvad du kan gøre for at forbedre dit websted
 
-## Kl. 10-11: **Spørg en ekspert**
+## Kl. 10-11: Spørg en ekspert
 
 Stil frit spørgsmål om webtilgængelighed til en af Inklusios tilgængeligheds-eksperter.
 
@@ -33,7 +33,7 @@ Vi glæder os til at besvare spørgsmål om alt fra målgrupper og hjælpemidler
 
 O﻿nline, torsdag d. 30. november kl. 9-11
 
-## **Tilmelding**
+## Tilmelding
 
 Du tilmelder dig via linksne nedenfor. 
 
