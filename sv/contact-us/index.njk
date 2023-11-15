@@ -3,25 +3,30 @@ layout: layouts/page.njk
 templateClass: tmpl-contact
 
 eleventyComputed:
-  page_lang: 'sv'
+  page_lang: "sv"
   permalink: "{{ translations[page_lang].navigation.contact.url }}"
   title: "{{ translations[page_lang].navigation.contact.title }}"
 ---
 
 <!-- Translation Data -->
-{% set pageData = translations[page.lang].pages.contact %}
-{% set keywords = translations[page.lang].keywords %}
+{% set pageData = translations[page.lang].pages.contact %} {% set keywords =
+translations[page.lang].keywords %}
 
-<div class="container">
+<div class="container px-2 px-md-2 px-lg-2 px-xl-4 px-xxxl-4">
   {% for paragraph in pageData.section[0].paragraph %}
-    <p>
-      {{ paragraph }}
-    </p>
+  <p>
+    {{ paragraph }}
+  </p>
   {% endfor %}
 
   <ul>
     <li>{{ keywords.phone }} <a href="tel:+4526343455">+45 26 34 34 55</a></li>
-    <li>{{ keywords.send_email }} <a href="mailto:info@inklusio.dk">ses@inklusio.dk</a></li>
-    <li>{{ keywords.visit_address }}: Fredrik Bajers Vej 300, 9220 Aalborg Ø</li>
+    <li>
+      {{ keywords.send_email }}
+      <a href="mailto:info@inklusio.dk">ses@inklusio.dk</a>
+    </li>
+    <li>
+      {{ keywords.visit_address }}: Fredrik Bajers Vej 300, 9220 Aalborg Ø
+    </li>
   </ul>
 </div>

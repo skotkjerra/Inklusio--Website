@@ -15,9 +15,15 @@ renderData:
   title: Tagged “{{ tag }}”
 permalink: /sv/tags/{{ tag }}/
 ---
+
 {% set keywords = translations[page.lang].keywords %}
 
-<h1>{{ keywords.articles_marked_with }} “{{ tag }}”</h1>
-{% set postslist = collections[ tag ] %}
-{% include "postslist.njk" %}
-<p>{{ keywords.see }} <a href="{{ '/sv/tags/' | url }}">{{ keywords.all_tags }}</a>.</p>
+<div class="container px-2 px-md-2 px-lg-2 px-xl-4 px-xxxl-4">
+  <h1>{{ keywords.articles_marked_with }} “{{ tag }}”</h1>
+  {% set postslist = collections[ tag ] %} {% include "postslist.njk" %}
+  <p>
+    {{ keywords.see }}
+    <a href="{{ '/sv/tags/' | url }}">{{ keywords.all_tags }}</a
+    >.
+  </p>
+</div>

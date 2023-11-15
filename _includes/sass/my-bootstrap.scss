@@ -122,6 +122,17 @@ main a {
  * 1) Limit line lenght for readability
  * 2) Make sure text content has proper margins
  */
+.markdown-content h4,
+.markdown-content h5,
+.markdown-content h6,
+.markdown-content p,
+.markdown-content li {
+  max-width: none !important;
+  /* 1 */
+  hyphens: none;
+  overflow-wrap: anywhere;
+}
+
 h4,
 h5,
 h6,

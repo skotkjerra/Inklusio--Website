@@ -3,43 +3,59 @@ layout: layouts/page.njk
 templateClass: tmpl-more
 
 eleventyComputed:
-  page_lang: 'sv'
+  page_lang: "sv"
   permalink: "{{ translations[page_lang].navigation.about.url }}"
   title: "{{ translations[page_lang].navigation.about.title }}"
 ---
 
 <!-- Translation Data -->
-{% set pageData = translations[page.lang].pages.about_us %}
-{% set keywords = translations[page.lang].keywords %}
+{% set pageData = translations[page.lang].pages.about_us %} {% set keywords =
+translations[page.lang].keywords %}
 
-<div class="container">
+<div class="container px-2 px-md-2 px-lg-2 px-xl-4 px-xxxl-4">
   <p>
     {{ pageData.section[0].paragraph }}
   </p>
 </div>
 
 {% for member in pageData.team_members %}
-  <div class="container py-5">
-    <div class="row align-items-center justify-content-between">
-      <div class="col-md-7">
-        <h2>{{ member.full_name }}</h2>
-        <p>{{ member.role }}</p>
-        {% for paragraph in member.summary %}
-          <p>{{ paragraph }}</p>
-        {% endfor %}
+<div class="container px-2 px-md-2 px-lg-2 px-xl-4 px-xxxl-4">
+  <div class="row align-items-center justify-content-between">
+    <div class="col-md-7">
+      <h2>{{ member.full_name }}</h2>
+      <p>{{ member.role }}</p>
+      {% for paragraph in member.summary %}
+      <p>{{ paragraph }}</p>
+      {% endfor %}
 
-        <h4>{{ keywords.contact }} {{ member.full_name }}</h4>
-        <ul>
-          <li>{{ keywords.mail }}: <a href="mailto:{{ member.contact.mail }}">{{ member.contact.mail }}</a></li>
-          {% if member.contact.phone %}
-            <li>{{ keywords.phone }}: <a href="tel:{{ member.contact.phone }}">{{ member.contact.phone }}</a></li>
-          {% endif %}
-          <li>{{ keywords.see }} <a href="{{ member.contact.linkedin }}">{% str_replace keywords.connect_on_linkedin, "{name}", member.full_name %}</a></li>
-        </ul>
-      </div>
-      <div class="col-md-5 px-5">
-        {% image member["picture_url"], member["full_name"], "400, 800, 1200"%}
-      </div>
+      <h4>{{ keywords.contact }} {{ member.full_name }}</h4>
+      <ul>
+        <li>
+          {{ keywords.mail }}:
+          <a href="mailto:{{ member.contact.mail }}">{{
+            member.contact.mail
+          }}</a>
+        </li>
+        {% if member.contact.phone %}
+        <li>
+          {{ keywords.phone }}:
+          <a href="tel:{{ member.contact.phone }}">{{
+            member.contact.phone
+          }}</a>
+        </li>
+        {% endif %}
+        <li>
+          {{ keywords.see }}
+          <a href="{{ member.contact.linkedin }}"
+            >{% str_replace keywords.connect_on_linkedin, "{name}",
+            member.full_name %}</a
+          >
+        </li>
+      </ul>
+    </div>
+    <div class="col-md-5 px-5">
+      {% image member["picture_url"], member["full_name"], "400, 800, 1200"%}
     </div>
   </div>
+</div>
 {% endfor %}

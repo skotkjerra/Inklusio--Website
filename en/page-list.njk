@@ -6,17 +6,24 @@ pagination:
 layout: layouts/home.njk
 permalink: /en/page-list/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber }}/{% endif %}
 ---
-<table>
-  <thead>
-    <th>URL</th>
-    <th>Page Title</th>
-  </thead>
-  <tbody>
-  {%- for entry in entries | urlLanguageFilter(page.lang) %}
+
+<div class="container my-5 px-2 px-md-2 px-lg-2 px-xl-4 px-xxxl-4">
+  <table>
+    <thead>
+      <th>URL</th>
+      <th>Page Title</th>
+    </thead>
+    <tbody>
+      {%- for entry in entries | urlLanguageFilter(page.lang) %}
       <tr>
-        <td><a href="{{ entry.url }}"><code>{{ entry.url }}</code></a></td>
+        <td>
+          <a href="{{ entry.url }}"
+            ><code>{{ entry.url }}</code></a
+          >
+        </td>
         <td>{{ entry.data.title }}</td>
       </tr>
-  {%- endfor %}
-  </tbody>
-</table>
+      {%- endfor %}
+    </tbody>
+  </table>
+</div>

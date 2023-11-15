@@ -1,12 +1,11 @@
 ---
 layout: layouts/page.njk
 eleventyComputed:
-  page_lang: 'sv'
+  page_lang: "sv"
   permalink: "{{ translations[page_lang].navigation.blog.url }}"
   title: "{{ translations[page_lang].navigation.blog.title }}"
-
 ---
-<div class="container my-4">
-{% set postslist = collections.posts %}
-{% include "postslist.njk" %}
+
+<div class="container px-2 px-md-2 px-lg-2 px-xl-4 px-xxxl-4">
+  {% set postslist = collections.posts %} {% include "postslist.njk" %}
 </div>
