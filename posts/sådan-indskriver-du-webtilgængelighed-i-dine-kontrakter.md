@@ -32,8 +32,7 @@ I tillæg til at referere til de standarder, som løsningen skal leve op til, ka
 
 Eksempler på områder kan være: 
 
-Krav om farvevalg af tekst, grafik og interaktive elementer: Hjemmesiden eller appen skal benytte tilstrækkeligt kontrastfulde farver, så det er let for brugere med nedsat syn at læse tekster og skelne mellem forskellige elementer på siden.
-
+* **Krav om farvevalg af tekst, grafik og interaktive elementer:** Hjemmesiden eller appen skal benytte tilstrækkeligt kontrastfulde farver, så det er let for brugere med nedsat syn at læse tekster og skelne mellem forskellige elementer på siden.
 * **Krav om alternativ tekst til billeder:** Hjemmesiden skal indeholde alternativ tekst til alle billeder, så brugere med nedsat syn eller som bruger skærmlæsere kan få beskrivende information om, hvad billedet viser.
 * **Krav til navigation med tastatur:** Brugere skal kunne navigere hjemmesiden eller appen uden brug af mus eller touch, da nogle brugere kun benytter tastatur til at navigere på internettet. Det betyder konkret, at alle sider, links, knapper og formularfelter osv. skal være tilgængelige og navigerbare med tastaturet alene.
 * **Krav om at understøtte hjælpeteknologier:** Hjemmesiden eller appen skal fungere ved brug af diverse hjælpeteknologier, såsom skærmlæsere og stemmestyring osv., så brugere med nedsat syn eller mobilitetsproblemer kan bruge hjemmesiden uden problemer.
@@ -51,6 +50,6 @@ Man kan overveje at inkludere en konsekvens, hvis tilgængelighedsstandarderne i
 
 Beskriv også nøje i kontrakten, hvordan du ønsker tilgængeligheden opretholdt og opdateret efter lanceringen af hjemmesiden eller appen. Dette kan indebære en aftale om regelmæssig opfølgning og vedligeholdelse, så løsningen fortsat lever op til tilgængelighedsstandarderne.
 
-## Opsummering 
+## Opsummering
 
 Da der i allerede er lovgivning om webtilgængelighed på det offentlige område, og lovgivning på det private område er på vej, er det vigtigt at kunne stille krav til eksterne leverandører om tilgængeligheden af de udviklede hjemmesider eller apps. Jo før tilgængelighed bliver belyst i processen, des større chance er det også for, at løsningen kommer til at leve op til kravene. Dette er måden, hvorpå du som kunde kan påtage dig din del af ansvaret for, at din fremtidige app eller hjemmeside bliver brugervenlig og tilgængelig for alle.
