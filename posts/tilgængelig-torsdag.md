@@ -12,7 +12,7 @@ Kom med til Tilgængelig Torsdag med Inklusio!
 
 **Tilgængelig Torsdag er et online-arrangement** for dig, der gerne vil lære om webtilgængelighed, hvad enten du er nybegynder eller har erfaring med webtilgængelighed. 
 
-D﻿en sidste torsdag hver måned (næste gang er **d. 30. november**) afholder vi nemlig en todelt session, bestående af:
+D﻿en sidste torsdag hver måned (næste gang er **d. 25. januar**) afholder vi nemlig en todelt session, bestående af:
 
 ## Kl. 9-10: Introduktion til webtilgængelighed
 
@@ -31,7 +31,7 @@ Vi glæder os til at besvare spørgsmål om alt fra målgrupper og hjælpemidler
 
 ## T﻿id og sted
 
-O﻿nline, torsdag d. 30. november kl. 9-11
+O﻿nline, torsdag d. 25. januar kl. 9-11
 
 ## Tilmelding
 
@@ -39,8 +39,8 @@ Du tilmelder dig via linksne nedenfor.
 
 **OBS:** Hvis du vil deltage til begge sessioner, så husk at tilmelde dig via begge nedenstående links:
 
-* **[﻿Tilmeld dig Introduktion til webtilgængelighed](https://us02web.zoom.us/webinar/register/WN_yfIft2xbSwuwWKnV6fWoKw)** (﻿kl. 9-10)
-* **[Tilmeld dig Spørg en Ekspert](https://us02web.zoom.us/webinar/register/WN_0z9ytg6iS3SrG69JeUSGug)** (kl. 10-11)
+* **﻿[Tilmeld dig Introduktion til webtilgængelighed](https://us02web.zoom.us/webinar/register/WN_PHo0uKq3Qv-VfaFKmJ6IkA)** (﻿kl. 9-10)
+* **[Tilmeld dig Spørg en Ekspert](https://us02web.zoom.us/webinar/register/WN_jIDNEaGwTdaB4aSzdpsPjA)** (kl. 10-11)
 
 D﻿et koster ikke penge at tilmelde sig.\
 Når du tilmelder dig bliver du tilmeldt vores nyhedsbrev, så du får besked om lignende arrangementer, nyttig viden om webtilgængelighed og markedsføring i fremtiden. Du kan altid framelde dig senere, og vi lover, at vi ikke spammer.
@@ -55,13 +55,13 @@ Bedste hilsner, Inklusio
 
 ## K﻿ommende datoer
 
-T﻿ilgængelig Torsdag afholdes den sidste torsdag hver måned. 
+T﻿ilgængelig Torsdag afholdes den **sidste torsdag hver måned**. 
 
 D﻿e kommende datoer er: 
 
-* **3﻿0. november 2023** (åben for tilmeldinger - se links ovenfor) 
 * December: vi holder julepause
-* **25. januar 2024** (åbner for tilmeldinger d. 1. december)
-* **2﻿9. februar 2024**
+* **25. januar 2024** (åben for tilmeldinger - se ovenfor) 
+* **2﻿9. februar 2024** (åbner for tilmeldinger d. 1. marts)
 * **2﻿8. marts 2024**
 * **2﻿5. april 2024**
+* **3﻿0. maj 2024**
