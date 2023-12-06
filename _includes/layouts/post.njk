@@ -4,11 +4,11 @@ templateClass: tmpl-post
 ---
 
 {# #}
-<div class="container py-5 my-xl-2 px-3 border">
+<div class="container py-5 my-xl-2 px-3">
   {% set keywords = translations[page.lang].keywords %} {% if title %}
   <h1>{{ title }}</h1>
   {% endif %} {% if author or date %}
-  <p class="border">
+  <p>
     {% if author %} {{ keywords.written_by }} {{ author }} {% else %}
     {{ keywords.written }} {% endif %}{% if date %} {{ keywords.on }}
     <time datetime="{{ date | htmlDateString }}"
