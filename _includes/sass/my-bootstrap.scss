@@ -103,6 +103,10 @@ a.skiptomain:active {
   line-height: 1.5;
 }
 
+.btn-primary {
+  text-decoration: none;
+}
+
 /*
  * Bootstrap has a utility class "text-decoration-none" but not a "text-decoration-underline".
  * Let's add that and a similar one for forcing underlines on hover.
