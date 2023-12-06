@@ -9,11 +9,17 @@ templateClass: tmpl-post
   <h1>{{ title }}</h1>
   {% endif %} {% if author or date %}
   <p>
-    {% if author %} {{ keywords.written_by }} {{ author }} {% else %}
-    {{ keywords.written }} {% endif %}{% if date %} {{ keywords.on }}
-    <time datetime="{{ date | htmlDateString }}"
-      >{{ page.date | readableDate }}{% endif %}</time
-    >
+    {% if author %}
+      {{ keywords.written_by }} {{ author }}
+    {% else %}
+      {{ keywords.written }}
+    {% endif %}
+    {% if date %}
+      {{ keywords.on }}
+      <time datetime="{{ date | htmlDateString }}">
+        {{ page.date | readableDate(page.lang) }}
+      </time>
+    {% endif %}
   </p>
   {% endif %}
   <div class="markdown-content">

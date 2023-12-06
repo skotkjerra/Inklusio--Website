@@ -18,10 +18,18 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addLayoutAlias('post', 'layouts/post.njk');
 
-  eleventyConfig.addFilter('readableDate', (dateObj) => {
-    return DateTime.fromJSDate(dateObj, { zone: 'utc' }).toFormat(
-      'dd LLL yyyy'
-    );
+  eleventyConfig.addFilter('readableDate', (dateObj, locale = 'en') => {
+    if (locale === 'en') {
+      // English format: "July 4, 2023"
+      return DateTime.fromJSDate(dateObj, { zone: 'utc' })
+        .setLocale(locale)
+        .toFormat('LLLL d, yyyy');
+    } else {
+      // Other languages format: "4. July 2023"
+      return DateTime.fromJSDate(dateObj, { zone: 'utc' })
+        .setLocale(locale)
+        .toFormat('d' + "'.'" + ' LLLL yyyy');
+    }
   });
 
   eleventyConfig.addFilter('htmlDateString', (dateObj) => {
