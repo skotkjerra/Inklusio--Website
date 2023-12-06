@@ -175,6 +175,11 @@ h6 {
   font-weight: bold;
 }
 
+// H3 looks too large with Bootstrap's native size
+h3, .h3, .fs-3 {
+  font-size: 1.5rem;
+}
+
 *:is(h2, h3, h4, h5, h6):not([class]) {
   margin-top: 1.5em;
   /* 1.5 */

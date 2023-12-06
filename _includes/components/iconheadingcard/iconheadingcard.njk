@@ -1,5 +1,7 @@
 <div class="card col-sm-12 col-md-4 col-xl-3 border-0 my-2 px-sm-2">
   <i class="{{ params.icon }}" style="font-size: 3rem;" alt=""></i>
-  <h2 class="card-title my-4">{{ params.heading }}</h2>
+  <h3 class="card-title my-4"{% if params.heading_level %} aria-level="{{ params.heading_level }}"{% endif %}>
+    {{ params.heading }}
+  </h3>
   <p class="my-5">{{ params.body }}</p>
 </div>

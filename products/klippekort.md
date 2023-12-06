@@ -33,13 +33,13 @@ Med et klippekort får du bl.a. følgende fordele:
 ## Få hjælp til alt inden for webtilgængelighed 
 <p>Gennem et klippekort vil du kunne få rådgivning om alt der har med webtilgængelighed at gøre. Vi tilbyder blandt andet rådgivning inden for lovgivning, strategi og forankring samt tilgængelighedserklæringer.</p>
 
-#### Lovgivning 
+### Lovgivning 
 <p>Hvilken lovgivning er gældende lige nu? Er din organisation omfattet af reglerne og kravene, og er der undtagelser? Vi holder os løbende orienteret om lovgivning på såvel nationalt som internationalt niveau og kan rådgive dig om standarderne.</p>
 
-#### Strategi og forankring
+### Strategi og forankring
 <p>Vi kan hjælpe din arbejdsplads med at sætte mål, udvikle strategier og sikre bred forankring af de nødvendige ændringsprocesser, når det gælder arbejdet med tilgængelighed.</p>
 
-#### Tilgængelighedserklæringer
+### Tilgængelighedserklæringer
 <p>Det kan være svært at danne sig et overblik over niveauet af tilgængelighed på sit websted eller sin app, men det er nødvendigt for at kunne udfylde tilgængelighedserklæringer, som er lovpligtige for den offentlige sektor.</p>
 
 <a href="#CTA" class="btn btn-primary">Få et tilbud på et klippekort</a>

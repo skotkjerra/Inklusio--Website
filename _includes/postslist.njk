@@ -4,14 +4,14 @@
   {% for post in postslist | postListUrlLanguageFilter(page.lang) | reverse %}
   <li class="list-group-item border-0 col-12">
     <div class="ml-n3 d-flex justify-content-between">
-      <h3 class="mb-1 fs-5">
+      <h2 class="mb-1 fs-5">
         <a class="text-decoration-none" href="{{ post.url | url }}"
           >{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{
             post.url
           }}</code
           >{% endif %}</a
         >
-      </h3>
+      </h2>
       <small class="flex-shrink-1 white-space-nowrap">
         <time datetime="{{ post.date | htmlDateString }}">
           {{ post.date | readableDate(page.lang) }}
