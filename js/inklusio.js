@@ -9,12 +9,8 @@ function toggle(el) {
 
   let isExpanded = btn.getAttribute('aria-expanded') === 'true';
 
-  console.log('IS Expanded')
-  console.log(isExpanded);
-
   btn.addEventListener('click', () => {
     if (isExpanded) {
-      console.log('Here when Hiding the bar')
       btn.setAttribute('aria-expanded', 'false');
       target.setAttribute('aria-hidden', 'true');
     } else {
