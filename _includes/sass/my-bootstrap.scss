@@ -137,7 +137,8 @@ main a {
 .markdown-content li {
   max-width: none !important;
   /* 1 */
-  hyphens: auto;
+  hyphens: none;
+  overflow-wrap: anywhere;
 }
 
 h4,
@@ -147,7 +148,8 @@ p,
 li {
   max-width: 65ch;
   /* 1 */
-  hyphens: auto;
+  hyphens: none;
+  overflow-wrap: anywhere;
 }
 
 h1,
@@ -236,8 +238,12 @@ li {
   font-weight: 600 !important;
 }
 
+.rounded {
+  border-radius: 0.5rem !important;
+}
+
 .banner {
-  hyphens: auto;
+  hyphens: none;
   position: relative;
   overflow-x: hidden;
 }

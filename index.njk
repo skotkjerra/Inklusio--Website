@@ -17,9 +17,9 @@ eleventyComputed:
 <!-- Banner -->
 <div class="banner bg-dark text-light">
   {# #}
-  <div class="container py-md-5">
-    <div class="row align-items-center mx-xxl-5 m-xxxl-0 p-xxxl-0">
-      <div class="col-sm-12 col-md-12 col-lg-6">
+  <div class="container pb-md-5">
+    <div class="row align-items-center">
+      <div class="col-12 col-lg-6 mb-2 mb-lg-0">
         <h1 class="banner-header banner-header-text mt-5 mt-lg-0">
           {{ homePageData.section[0].heading }}
         </h1>
@@ -29,34 +29,28 @@ eleventyComputed:
         <a
           href="https://calendly.com/inklusio-ses/1-1"
           class="btn btn-primary"
-          >{{ homePageData.section[0].button_text }}</a
-        >
+          >
+          {{ homePageData.section[0].button_text }}
+        </a>
       </div>
-      <!-- col -->
 
-      <div class="col-sm-12 col-md-12 col-lg-6 pr-4">
-        <div class="mt-5 pb-5 pb-xxl-0 m-xxxl-5 rounded overflow-hidden">
+      <div class="col-12 col-lg-6 mt-4 mb-3">
+        <div class="rounded overflow-hidden">
           {% image "img/AnneSEKat.jpg", homePageData.section[0].img_alt, "400,
           800, 1200"%}
         </div>
       </div>
-      <!-- col -->
     </div>
-    <!-- row -->
   </div>
-  <!-- Container -->
 </div>
-<!-- banner -->
 
 <!-- Selling point responsive card -->
 {# #}
-<div class="container py-5">
-  <div
-    class="row m-lg-0 my-lg-5 p-lg-0 py-lg-2 my-xl-5 m-xxl-5 p-xl-2 text-left ml-xxxl-0"
-  >
+<div class="container">
+  <div class="row mt-4 mb-3">
     {{
       iconcard({
-        card_class: "card col-sm-12 col-lg-4 col-xl-4 border-0 pr-5 px-xl-1",
+        card_class: "col-12 col-md-4",
         icon: "bi bi-people",
         heading: homePageData.section[1].card[0].heading,
         heading_level: 2,
@@ -66,7 +60,7 @@ eleventyComputed:
 
     {{
       iconcard({
-        card_class: "card col-sm-12 col-lg-4 col-xl-4 border-0 pr-xl-5 pl-xl-5",
+        card_class: "col-12 col-md-4",
         icon: "bi bi-ui-checks-grid",
         heading: homePageData.section[1].card[1].heading,
         heading_level: 2,
@@ -76,7 +70,7 @@ eleventyComputed:
 
     {{
       iconcard({
-        card_class: "card col-sm-12 col-lg-4 col-xl-4 border-0 pr-xl-3 pl-xl-5",
+        card_class: "col-12 col-md-4",
         icon: "bi bi-lightbulb",
         heading: homePageData.section[1].card[2].heading,
         heading_level: 2,
@@ -88,37 +82,33 @@ eleventyComputed:
 
 <!-- Image and text Hvad er tilgængelighed -->
 {# #}
-<div class="container py-5 py-sm-0 pb-sm-2">
-  <div
-    class="row my-md-4 py-md-2 m-lg-0 p-lg-0 m-xxl-4 p-xxl-4 my-xxxl-4 py-xxxl-5 m-xxxl-0 p-xxxl-0 pr-xxxl-4 d-flex justify-content-between align-items-center"
-  >
-    <div class="col-12 col-lg-6 col-xxl-6">
-      {% image "img/Section6Image.png", homePageData.section[2].img_alt, "400,
-      800, 1200"%}
+<div class="container">
+  <div class="row">
+    <div class="col-12 col-lg-6">
+      <div class="rounded overflow-hidden">
+        {% image "img/Section6Image.png", homePageData.section[2].img_alt, "400, 800, 1200" %}
+      </div>
     </div>
 
-    <div class="d-lg-flex flex-lg-column px-xxl-5 ml-xxl-5 col-lg-5">
-      <div class="my-lg-auto">
-        <h2 class="my-4 my-lg-0 my-xl-2">
+    <div class="col-12 col-lg-6">
+      <div>
+        <h2 class="my-4 my-lg-0">
           {{ homePageData.section[2].heading }}
         </h2>
-        <p class="my-4 my-xl-5 text-left">
+        <p class="my-4">
           {{ homePageData.section[2].paragraph }}
         </p>
-        <a href="/ydelser/" class="btn btn-primary mt-xl-3">{{
-          homePageData.section[2].button_text
-        }}</a>
+        <a href="/ydelser/" class="btn btn-primary">
+          {{ homePageData.section[2].button_text }}
+        </a>
       </div>
     </div>
   </div>
 </div>
 
 <!-- Talkort responsiv -->
-
-<div class="container pb-5">
-  <div
-    class="row my-md-0 py-md-2 m-lg-0 p-lg-0 m-xxl-4 p-xxl-4 my-xxxl-4 py-xxxl-5 m-xxxl-0 p-xxxl-0 pr-xxxl-4 text-left"
-  >
+<div class="container mb-5">
+  <div class="row">
     {{
       numbercard({
         number: "100+",

@@ -3,7 +3,7 @@
 
 <footer class="site-footer">
     <div class="container pt-5">
-        {#  About #}
+        {# About #}
         <div class="row">
             <div class="col-12">
                 <div style="width: 200px; height: 30px;">
@@ -13,23 +13,20 @@
         </div>
         <div class="row mt-2">
             <div class="col-12 col-md-4 mt-4">       
-                <div class="">
-                    <span class="font-weight-bold fs-5">{{ keywords.contact }}</span>
-                </div>
-                <div class="d-flex flex-column mt-4">
-                    <span>
-                        Inklusio<br/>CA Olesensgade 4<br/>9000 Aalborg
-                    </span>
-                    <div class="d-flex">
-                        <span>{{keywords.phone}}</span>
-                        <span class="pl-2">
-                            <a
+                <div class="font-weight-bold fs-5">{{ keywords.contact }}</div>
+                <div class="mt-4">
+                    Inklusio<br>
+                    CA Olesensgade 4
+                    <br>9000 Aalborg
+
+                    <div>
+                        {{keywords.phone}}
+                        <a
                             class="text-decoration-underline text-light"
-                            href="tel:+45 26 34 34 55"
+                            href="tel: +45 26 34 34 55"
                         >
                             +45 26 34 34 55
                         </a>
-                        </span>
                     </div>
     
                     <div class="">
@@ -42,32 +39,27 @@
                     </div>
     
                     <div class="mt-4">
-                            <span class="">
-                                Inklusio ApS<br/> CVR: 41066784
-                            </span>
+                            Inklusio ApS<br>
+                            CVR: 41066784
                     </div>
                 </div>
             </div>
     
             {# Navigation #}
             <div class="col-12 col-md-4 mt-4">
-                <div>
-                    <span class="font-weight-bold fs-5">{{ keywords.navigations }}</span>
-                </div>
+                <div class="font-weight-bold fs-5">{{ keywords.navigations }}</div>
                 <div class="mt-4">
-                    <div class="d-flex flex-column">
-                        {% for _, navObj in navigationData %}
+                    {% for _, navObj in navigationData %}
+                        <div>
                             <a class="text-decoration-underline text-white {% if navObj.url == page.url %} text-decoration-underline {% endif %}" {% if navObj.url == page.url %} aria-current="page"{% endif %} href="{{ navObj.url }}">{{ navObj.text }}</a>
-                        {% endfor %}
-                    </div>
+                        </div>
+                    {% endfor %}
                 </div>
             </div>
-            
+    
             {# Find Us #}
             <div class="col-12 col-md-4 mt-4">
-                <div>
-                    <span class="font-weight-bold fs-5">{{ keywords.find_us }}</span>
-                </div>
+                <div class="font-weight-bold fs-5">{{ keywords.find_us }}</div>
                 <div class="mt-4">
                     <a href="https://www.linkedin.com/company/inklusio" target="_blank" class="text-decoration-underline text-white">
                         LinkedIn
