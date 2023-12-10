@@ -5,6 +5,12 @@ templateClass: tmpl-page
 
 {% set keywords = translations[page.lang].keywords %}
 
-{% if title %}<h1>{{ title }}</h1>{% endif %}
-{{ content | safe }}
-<a href="mailto:info@inklusio.dk" class="bg-primary btn-primary p-3 mt-auto rounded">{{ keywords.get_offer }}</a>
+<div class="container">
+	<div class="row">
+		<div class="col-12 mb-3">
+			{% if title %}<h1>{{ title }}</h1>{% endif %}
+			{{ content | safe }}
+			<a href="mailto:info@inklusio.dk" class="bg-primary btn-primary p-3 mt-auto rounded">{{ keywords.get_offer }}</a>
+		</div>
+	</div>
+</div>
