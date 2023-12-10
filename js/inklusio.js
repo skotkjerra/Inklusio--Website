@@ -22,5 +22,10 @@ function toggle(el) {
   });
 }
 
-const allTogglers = Array.from(document.querySelectorAll('[data-toggle]'));
-allTogglers.forEach(toggle);
+function initializeToggles() {
+  const allTogglers = Array.from(document.querySelectorAll('[data-toggle]'));
+  allTogglers.forEach(toggle);
+}
+
+// Call the initializeToggles function when you want to set up the toggles
+initializeToggles();
