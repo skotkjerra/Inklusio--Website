@@ -14,7 +14,7 @@ eleventyComputed:
   <div class="d-flex flex-row align-items-center justify-content-between">
     <div class="d-flex flex-column">
       <div class="d-lg-none rounded overflow-hidden">
-        {% image "img/ydelser.jpg", "", "400, 800, 1200"%}
+        {% image "img/ydelser.jpg", pageData.section[0].img_alt, "400, 800, 1200" %}
       </div>
       <div class="d-flex flex-column mt-2">
         {% for paragraph in pageData.section[0].paragraph %}
@@ -24,8 +24,10 @@ eleventyComputed:
         {% endfor %}
       </div>
     </div>
-    <div class="d-none d-lg-block col-lg-6 col-xl-5 rounded overflow-hidden">
-      {% image "img/ydelser.jpg", "", "400, 800, 1200"%}
+    <div class="d-none d-lg-block col-lg-6 col-xl-5">
+      <div class="rounded overflow-hidden">
+        {% image "img/ydelser.jpg", pageData.section[0].img_alt, "400, 800, 1200" %}
+      </div>
     </div>
   </div>
 </div>
