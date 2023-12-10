@@ -6,11 +6,11 @@ templateClass: tmpl-contact
 {% set keywords = translations[page.lang].keywords %}
 
 <div class="row">
-    <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-5 offset-xl-1">
+    <div class="col-12">
         <h1>{{ title }}</h1>
         {{ content | safe }}
     </div>
-    <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-5">
+    <div class="col-12">
         <h2>{{keywords.book_meeting}}</h2>
         <div class="calendly-inline-widget" data-url="https://calendly.com/skotkjerra/letsconnect?hide_event_type_details=1&text_color=082840&primary_color=28a4a4" style="min-width:320px;height:630px;"></div>
         <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
