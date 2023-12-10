@@ -1,4 +1,4 @@
 { 
     "layout": "layouts/product.njk",
-    "tags": [ "products", "en_products" ]
+    "tags": [ "products" ]
 }
