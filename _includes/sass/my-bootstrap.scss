@@ -272,6 +272,11 @@ li {
 .card-title {
   color: #5860f6;
   font-size: 2.5rem;
+
+  &.fs-2 {
+    font-weight: bold;
+    font-size: 2rem;
+  }
 }
 
 .card-title-number {

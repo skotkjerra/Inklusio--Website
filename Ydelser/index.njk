@@ -11,20 +11,22 @@ eleventyComputed:
 {% set pageData = translations[page.lang].pages.benefits %}
 
 <div class="container">
-  <div class="d-flex flex-row align-items-center justify-content-between">
-    <div class="d-flex flex-column">
-      <div class="d-lg-none rounded overflow-hidden">
+  <div class="row d-lg-none">
+    <div class="col-12">
+      <div class="rounded overflow-hidden">
         {% image "img/ydelser.jpg", pageData.section[0].img_alt, "400, 800, 1200" %}
       </div>
-      <div class="d-flex flex-column mt-2">
-        {% for paragraph in pageData.section[0].paragraph %}
-        <p class="text-left mt-2">
-          {{ paragraph }}
-        </p>
-        {% endfor %}
-      </div>
     </div>
-    <div class="d-none d-lg-block col-lg-6 col-xl-5">
+  </div>
+  <div class="row">
+    <div class="col-12 col-12 col-lg-6 mt-2">
+      {% for paragraph in pageData.section[0].paragraph %}
+      <p class="text-left mt-2">
+        {{ paragraph }}
+      </p>
+      {% endfor %}
+    </div>
+    <div class="d-none d-lg-block col-12 col-lg-6 mt-4">
       <div class="rounded overflow-hidden">
         {% image "img/ydelser.jpg", pageData.section[0].img_alt, "400, 800, 1200" %}
       </div>
@@ -32,12 +34,12 @@ eleventyComputed:
   </div>
 </div>
 <div class="container">
-  <div class="mx-n3 d-flex flex-wrap">
+  <div class="mx-n3 mb-n5 d-flex flex-wrap">
     {% for post in collections.products %}
     <div class="col-12 col-md-6 col-lg-4 mb-5">
       <div class="card p-4 bg-white h-100">
         {% if post.data.title %}
-        <h2 class="card-title">{{ post.data.title }}</h2>
+        <h2 class="card-title fs-2">{{ post.data.title }}</h2>
         {% endif %} {% if post.data.summary %}
         <p class="card-text">{{ post.data.summary }}</p>
         {% endif %}
