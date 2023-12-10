@@ -18,7 +18,7 @@ permalink: /tags/{{ tag }}/
 
 {% set keywords = translations[page.lang].keywords %}
 
-<div class="container px-2 px-md-2 px-lg-2 px-xl-4 px-xxxl-4">
+<div class="container">
   <h1>{{ keywords.articles_marked_with }} “{{ tag }}”</h1>
   {% set postslist = collections[ tag ] %} {% include "postslist.njk" %}
   <p>

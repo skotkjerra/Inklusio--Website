@@ -4,7 +4,7 @@ layout: layouts/page.njk
 title: Tags
 ---
 
-<div class="fs-4 container px-2 px-md-2 px-lg-2 px-xl-4 px-xxxl-4">
+<div class="fs-4 container">
   {% for tag in collections.tagList %} {% set tagUrl %}/tags/{{ tag }}/{% endset
   %}
   <a href="{{ tagUrl | url }}" class="badge badge-secondary mr-2">{{ tag }}</a>
