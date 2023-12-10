@@ -45,11 +45,12 @@ templateClass: tmpl-more
 <!--Sektion 2 img/p  -->
 <div class="container">
   <div class="d-lg-flex flex-row align-items-center justify-content-between">
-    <div class="col-8 col-md-6 col-lg-4 py-4 pr-lg-5 mx-auto mx-lg-0">
-      {% image "img/accessibility-icon.jpg", pageData.section[1].img_alt, "400, 800,
-      1200"%}
+    <div class="col-8 col-md-6 col-lg-4 pb-3 pr-lg-5 mx-auto mx-lg-0">
+      <div class="rounded overflow-hidden">
+        {% image "img/accessibility-icon.jpg", pageData.section[1].img_alt, "400, 800, 1200"%}
+      </div>
     </div>
-    <div class="">
+    <div>
       <h2 class="section-header-text pl-xl-1 pr-xl-5">
         {{ pageData.section[1].heading }}
       </h2>
@@ -201,15 +202,19 @@ templateClass: tmpl-more
       <h2 class="section-header-text pr-lg-5">
         {{ pageData.section[5].heading }}
       </h2>
-      <div class="d-lg-none py-4 rounded overflow-hidden">
-        {% image "img/DR.jpeg", pageData.section[5].img_alt, "400, 800, 1200"%}
+      <div class="d-lg-none pb-3">
+        <div class="rounded overflow-hidden">
+          {% image "img/DR.jpeg", pageData.section[5].img_alt, "400, 800, 1200"%}
+        </div>
       </div>
       <p class="section-para-text text-left">
         {{ pageData.section[5].paragraph }}
       </p>
     </div>
-    <div class="d-none d-lg-block col-xl-5 rounded overflow-hidden">
-      {% image "img/DR.jpeg", pageData.section[5].img_alt, "400, 800, 1200"%}
+    <div class="d-none d-lg-block col-xl-5">
+      <div class="rounded overflow-hidden">
+        {% image "img/DR.jpeg", pageData.section[5].img_alt, "400, 800, 1200"%}
+      </div>
     </div>
   </div>
 </div>
@@ -288,12 +293,16 @@ templateClass: tmpl-more
 <div class="container py-5 my-lg-5">
   <div class="d-flex flex-row align-items-center justify-content-between">
     <div class="d-none d-lg-block col-xl-5 pr-5 px-1">
-      {% image "img/Section7Image.png", pageData.section[7].img_alt, "400, 800, 1200"%}
-    </div>
-    <div class="">
-      <h2 class="section-header-text">{{ pageData.section[7].heading }}</h2>
-      <div class="d-lg-none py-4">
+      <div class="rounded overflow-hidden">
         {% image "img/Section7Image.png", pageData.section[7].img_alt, "400, 800, 1200"%}
+      </div>
+    </div>
+    <div>
+      <h2 class="section-header-text">{{ pageData.section[7].heading }}</h2>
+      <div class="d-lg-none pb-3">
+        <div class="rounded overflow-hidden">
+          {% image "img/Section7Image.png", pageData.section[7].img_alt, "400, 800, 1200"%}
+        </div>
       </div>
       <p class="section-para-text text-left">
         {{ pageData.section[7].paragraph[0] }}
@@ -312,15 +321,19 @@ templateClass: tmpl-more
       <h2 class="section-header-text">
         {{ pageData.section[8].heading }}
       </h2>
-      <div class="d-lg-none col-8 col-md-6 mx-auto py-4">
-        {% image "img/people-group-drawing.jpg", pageData.section[8].img_alt, "400, 800, 1200"%}
+      <div class="d-lg-none col-8 col-md-6 mx-auto pb-3">
+        <div class="rounded overflow-hidden">
+          {% image "img/people-group-drawing.jpg", pageData.section[8].img_alt, "400, 800, 1200"%}
+        </div>
       </div>
       <p class="section-para-text text-left">
         {{ pageData.section[8].paragraph }}
       </p>
     </div>
     <div class="d-none d-lg-block col-lg-4 pr-xl-5">
-      {% image "img/people-group-drawing.jpg", pageData.section[8].img_alt, "400, 800, 1200"%}
+      <div class="rounded overflow-hidden">
+        {% image "img/people-group-drawing.jpg", pageData.section[8].img_alt, "400, 800, 1200"%}
+      </div>
     </div>
   </div>
 </div>
@@ -333,7 +346,7 @@ templateClass: tmpl-more
       800, 1200"%}
     </div>
     <div class="col-xl-6">
-      <div class="">
+      <div>
         <h2 class="section-header-text">
           {{ pageData.section[9].heading }}
         </h2>
