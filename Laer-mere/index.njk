@@ -29,10 +29,7 @@ templateClass: tmpl-more
         {{ pageData.section[0].paragraph[0] }}
       </p>
       <div class="d-lg-none px-2 py-5 px-sm-5">
-        {% image "img/diverse-group-drawing.jpg", "Tegning af forskellige
-        mennesker, herunder mænd og kvinder, med og uden briller, en med et
-        kunstigt ben og en, der bruger kørestol. De fleste er glade, men en ser
-        lidt bekymret eller nedtrykt ud", "400, 800, 1200"%}
+        {% image "img/diverse-group-drawing.jpg", pageData.section[0].img_alt, "400, 800, 1200"%}
       </div>
       <p class="section-para-text text-left">
         {{ pageData.section[0].paragraph[1] }}
@@ -40,10 +37,7 @@ templateClass: tmpl-more
     </div>
 
     <div class="d-none d-lg-block col-xl-5">
-      {% image "img/diverse-group-drawing.jpg", "Tegning af forskellige
-      mennesker, herunder mænd og kvinder, med og uden briller, en med et
-      kunstigt ben og en, der bruger kørestol. De fleste er glade, men en ser
-      lidt bekymret eller nedtrykt ud", "400, 800, 1200"%}
+      {% image "img/diverse-group-drawing.jpg", pageData.section[0].img_alt, "400, 800, 1200"%}
     </div>
   </div>
 </div>
@@ -52,8 +46,7 @@ templateClass: tmpl-more
 <div class="container">
   <div class="d-lg-flex flex-row align-items-center justify-content-between">
     <div class="col-8 col-md-6 col-lg-4 py-4 pr-lg-5 mx-auto mx-lg-0">
-      {% image "img/accessibility-icon.jpg", "Ikon for tilgængelighed eller
-      brugeren i centrum (en tændstikperson i en blå cirkel)", "400, 800,
+      {% image "img/accessibility-icon.jpg", pageData.section[1].img_alt, "400, 800,
       1200"%}
     </div>
     <div class="">
@@ -123,19 +116,19 @@ templateClass: tmpl-more
       <h2 class="section-header-text">
         {{ pageData.section[3].heading }}
       </h2>
-      <div class="d-lg-none py-3 rounded overflow-hidden">
-        {% image "img/SE.jpg", "Fotografi af Stein Erik Skotkjerra, CEO og
-        grundlægger af Inklusio", "400, 800, 1200"%}
+      <div class="d-lg-none pb-3">
+        <div class="rounded overflow-hidden">
+          {% image "img/SE.jpg", pageData.section[3].img_alt, "400, 800, 1200"%}
+        </div>
       </div>
       <p class="section-para-text text-left">
         {{ pageData.section[3].paragraph }}
       </p>
     </div>
-    <div
-      class="d-none d-lg-block col-xl-5 rounded overflow-hidden pr-xl-3 px-xl-1"
-    >
-      {% image "img/SE.jpg", "Fotografi af Stein Erik Skotkjerra, CEO og
-      grundlægger af Inklusio", "400, 800, 1200"%}
+    <div class="d-none d-lg-block col-xl-5">
+      <div class="rounded overflow-hidden">
+        {% image "img/SE.jpg", pageData.section[3].img_alt, "400, 800, 1200"%}
+      </div>
     </div>
   </div>
 </div>
@@ -209,16 +202,14 @@ templateClass: tmpl-more
         {{ pageData.section[5].heading }}
       </h2>
       <div class="d-lg-none py-4 rounded overflow-hidden">
-        {% image "img/DR.jpeg", "Fotografi af tilgængelighedsworkshop i DRs
-        koncertsal", "400, 800, 1200"%}
+        {% image "img/DR.jpeg", pageData.section[5].img_alt, "400, 800, 1200"%}
       </div>
       <p class="section-para-text text-left">
         {{ pageData.section[5].paragraph }}
       </p>
     </div>
     <div class="d-none d-lg-block col-xl-5 rounded overflow-hidden">
-      {% image "img/DR.jpeg", "Fotografi af tilgængelighedsworkshop i DRs
-      koncertsal", "400, 800, 1200"%}
+      {% image "img/DR.jpeg", pageData.section[5].img_alt, "400, 800, 1200"%}
     </div>
   </div>
 </div>
@@ -297,14 +288,12 @@ templateClass: tmpl-more
 <div class="container py-5 my-lg-5">
   <div class="d-flex flex-row align-items-center justify-content-between">
     <div class="d-none d-lg-block col-xl-5 pr-5 px-1">
-      {% image "img/Section7Image.png", "En masse EU-flag der holdes af hænder i
-      alle farver", "400, 800, 1200"%}
+      {% image "img/Section7Image.png", pageData.section[7].img_alt, "400, 800, 1200"%}
     </div>
     <div class="">
       <h2 class="section-header-text">{{ pageData.section[7].heading }}</h2>
       <div class="d-lg-none py-4">
-        {% image "img/Section7Image.png", "En masse EU-flag der holdes af hænder
-        i alle farver", "400, 800, 1200"%}
+        {% image "img/Section7Image.png", pageData.section[7].img_alt, "400, 800, 1200"%}
       </div>
       <p class="section-para-text text-left">
         {{ pageData.section[7].paragraph[0] }}
@@ -324,18 +313,14 @@ templateClass: tmpl-more
         {{ pageData.section[8].heading }}
       </h2>
       <div class="d-lg-none col-8 col-md-6 mx-auto py-4">
-        {% image "img/people-group-drawing.jpg", "Tegning af forskellige
-        mennesker, herunder en ældre dame med en kaffekop, en ung smart fyr med
-        mørke solbriller og en skaldet mand, der sidder ned", "400, 800, 1200"%}
+        {% image "img/people-group-drawing.jpg", pageData.section[8].img_alt, "400, 800, 1200"%}
       </div>
       <p class="section-para-text text-left">
         {{ pageData.section[8].paragraph }}
       </p>
     </div>
     <div class="d-none d-lg-block col-lg-4 pr-xl-5">
-      {% image "img/people-group-drawing.jpg", "Tegning af forskellige
-      mennesker, herunder en ældre dame med en kaffekop, en ung smart fyr med
-      mørke solbriller og en skaldet mand, der sidder ned", "400, 800, 1200"%}
+      {% image "img/people-group-drawing.jpg", pageData.section[8].img_alt, "400, 800, 1200"%}
     </div>
   </div>
 </div>
@@ -344,8 +329,7 @@ templateClass: tmpl-more
 <div class="container px-1">
   <div class="d-flex flex-row align-items-center justify-content-between">
     <div class="d-none d-lg-block col-lg-5 pr-5">
-      {% image "img/eye-ear-mouth.jpg", "Tegning af et øje, en mund og et øre,
-      alle med streg over for at indikere manglende syn, tale og hørelse", "400,
+      {% image "img/eye-ear-mouth.jpg", pageData.section[9].img_alt, "400,
       800, 1200"%}
     </div>
     <div class="col-xl-6">
@@ -355,8 +339,7 @@ templateClass: tmpl-more
         </h2>
       </div>
       <div class="d-lg-none col-8 col-md-6 mx-auto">
-        {% image "img/eye-ear-mouth.jpg", "Tegning af et øje, en mund og et øre,
-        alle med streg over for at indikere manglende syn, tale og hørelse",
+        {% image "img/eye-ear-mouth.jpg", pageData.section[9].img_alt,
         "400, 800, 1200"%}
       </div>
       <p class="section-para-text text-left">
