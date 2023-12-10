@@ -107,6 +107,14 @@ a.skiptomain:active {
   text-decoration: none;
 }
 
+.btn {
+  .icon {
+    vertical-align: top;
+    width: 24px;
+    height: 24px;
+  }
+}
+
 /*
  * Bootstrap has a utility class "text-decoration-none" but not a "text-decoration-underline".
  * Let's add that and a similar one for forcing underlines on hover.
