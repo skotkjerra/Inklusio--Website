@@ -5,24 +5,28 @@ templateClass: tmpl-post
 
 {# #}
 <div class="container">
-  {% set keywords = translations[page.lang].keywords %} {% if title %}
-  <h1>{{ title }}</h1>
-  {% endif %} {% if author or date %}
-  <p>
-    {% if author %}
-      {{ keywords.written_by }} {{ author }}
-    {% else %}
-      {{ keywords.written }}
-    {% endif %}
-    {% if date %}
-      {{ keywords.on }}
-      <time datetime="{{ date | htmlDateString }}">
-        {{ page.date | readableDate(page.lang) }}
-      </time>
-    {% endif %}
-  </p>
-  {% endif %}
-  <div class="markdown-content">
-    {{ content | safe }}
+  <div class="row my-5">
+    <div class="col-12">
+      {% set keywords = translations[page.lang].keywords %} {% if title %}
+      <h1>{{ title }}</h1>
+      {% endif %} {% if author or date %}
+      <p>
+        {% if author %}
+          {{ keywords.written_by }} {{ author }}
+        {% else %}
+          {{ keywords.written }}
+        {% endif %}
+        {% if date %}
+          {{ keywords.on }}
+          <time datetime="{{ date | htmlDateString }}">
+            {{ page.date | readableDate(page.lang) }}
+          </time>
+        {% endif %}
+      </p>
+      {% endif %}
+      <div class="markdown-content">
+        {{ content | safe }}
+      </div>
+    </div>
   </div>
 </div>

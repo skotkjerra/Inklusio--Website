@@ -12,21 +12,23 @@ eleventyComputed:
 {% set pageData = translations[page.lang].pages.contact %} {% set keywords =
 translations[page.lang].keywords %}
 
-<div class="container">
-  {% for paragraph in pageData.section[0].paragraph %}
-  <p>
-    {{ paragraph }}
-  </p>
-  {% endfor %}
+<div class="row mb-5">
+  <div class="col-12">
+    {% for paragraph in pageData.section[0].paragraph %}
+    <p>
+      {{ paragraph }}
+    </p>
+    {% endfor %}
 
-  <ul>
-    <li>{{ keywords.phone }} <a href="tel:+4526343455">+45 26 34 34 55</a></li>
-    <li>
-      {{ keywords.send_email }}
-      <a href="mailto:info@inklusio.dk">ses@inklusio.dk</a>
-    </li>
-    <li>
-      {{ keywords.visit_address }}: Fredrik Bajers Vej 300, 9220 Aalborg Ø
-    </li>
-  </ul>
+    <ul>
+      <li>{{ keywords.phone }} <a href="tel:+4526343455">+45 26 34 34 55</a></li>
+      <li>
+        {{ keywords.send_email }}
+        <a href="mailto:info@inklusio.dk">ses@inklusio.dk</a>
+      </li>
+      <li>
+        {{ keywords.visit_address }}: Fredrik Bajers Vej 300, 9220 Aalborg Ø
+      </li>
+    </ul>
+  </div>
 </div>

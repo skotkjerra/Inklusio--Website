@@ -17,18 +17,16 @@ templateClass: tmpl-more
 "components/iconheadingcard/macro.njk" import iconheadingcard -%}
 
 <!--Sektion 1 p/img -->
-<div class="container py-5 my-xl-5">
-  <div class="d-flex flex-row align-items-center justify-content-between">
-    <div class="pl-xl-2">
-      <div class="mr-xl-5 pr-xl-5">
-        <h1 class="section-header-text mr-2 mr-md-4 mr-xl-5 pr-xl-3">
-          {{ pageData.section[0].heading }}
-        </h1>
-      </div>
+<div class="container">
+  <div class="row mt-5">
+    <div class="col-12 col-lg-7">
+      <h1 class="section-header-text">
+        {{ pageData.section[0].heading }}
+      </h1>
       <p class="section-para-text text-left">
         {{ pageData.section[0].paragraph[0] }}
       </p>
-      <div class="d-lg-none px-2 py-5 px-sm-5">
+      <div class="d-lg-none py-2">
         {% image "img/diverse-group-drawing.jpg", pageData.section[0].img_alt, "400, 800, 1200"%}
       </div>
       <p class="section-para-text text-left">
@@ -36,7 +34,7 @@ templateClass: tmpl-more
       </p>
     </div>
 
-    <div class="d-none d-lg-block col-xl-5">
+    <div class="d-none d-lg-flex col-5 pl-5 vertical-align">
       {% image "img/diverse-group-drawing.jpg", pageData.section[0].img_alt, "400, 800, 1200"%}
     </div>
   </div>
@@ -44,14 +42,14 @@ templateClass: tmpl-more
 
 <!--Sektion 2 img/p  -->
 <div class="container">
-  <div class="d-lg-flex flex-row align-items-center justify-content-between">
-    <div class="col-8 col-md-6 col-lg-4 pb-3 pr-lg-5 mx-auto mx-lg-0">
+  <div class="row d-lg-flex flex-row align-items-center justify-content-between my-5">
+    <div class="col-8 col-md-6 col-lg-4 pb-3 pr-md-5 mx-auto mx-lg-0">
       <div class="rounded overflow-hidden">
         {% image "img/accessibility-icon.jpg", pageData.section[1].img_alt, "400, 800, 1200"%}
       </div>
     </div>
-    <div>
-      <h2 class="section-header-text pl-xl-1 pr-xl-5">
+    <div class="col-12 col-lg-8">
+      <h2 class="section-header-text">
         {{ pageData.section[1].heading }}
       </h2>
       <p class="section-para-text text-left">
@@ -62,9 +60,13 @@ templateClass: tmpl-more
 </div>
 
 <!--Sektion 3 Gode grunde til at arbejde med webtilgængelighed-->
-<div class="container py-5 px-lg-4">
-  <h2 class="section-header-text">{{ pageData.section[2].heading }}</h2>
-  <div class="row">
+<div class="container">
+  <div class="row mt-5">
+    <div class="col-12">
+      <h2 class="section-header-text">{{ pageData.section[2].heading }}</h2>
+    </div>
+  </div>
+  <div class="row mb-5">
     {{
       numbercard({
         number: "1",
@@ -111,9 +113,9 @@ templateClass: tmpl-more
 </div>
 
 <!--Sektion 4 img/p Vi er førende i DK -->
-<div class="container py-5 my-lg-5 px-3 pr-xl-4">
-  <div class="d-flex flex-row align-items-center justify-content-between">
-    <div class="pr-4 col-xl-6 px-1">
+<div class="container">
+  <div class="row d-flex flex-row align-items-center justify-content-between my-5">
+    <div class="pr-4 col-12 col-lg-6">
       <h2 class="section-header-text">
         {{ pageData.section[3].heading }}
       </h2>
@@ -126,7 +128,7 @@ templateClass: tmpl-more
         {{ pageData.section[3].paragraph }}
       </p>
     </div>
-    <div class="d-none d-lg-block col-xl-5">
+    <div class="d-none d-lg-block col-5">
       <div class="rounded overflow-hidden">
         {% image "img/SE.jpg", pageData.section[3].img_alt, "400, 800, 1200"%}
       </div>
@@ -135,7 +137,7 @@ templateClass: tmpl-more
 </div>
 
 <!--Sektion 5 Vi leverer-->
-<div class="container py-5">
+<div class="container my-5">
   <h2 class="fullwidth-lg section-header-text">
     {{ pageData.section[4].heading }}
   </h2>
@@ -196,7 +198,7 @@ templateClass: tmpl-more
 <!--container -->
 
 <!--Sektion 6 img/p Hvad laver vi  -->
-<div class="container py-5 my-lg-5">
+<div class="container my-5">
   <div class="d-flex flex-row align-items-center justify-content-between">
     <div class="pr-4 col-xl-7 px-1">
       <h2 class="section-header-text pr-lg-5">
@@ -220,7 +222,7 @@ templateClass: tmpl-more
 </div>
 
 <!--Sektion 7 Tilgængelighed giver et hav af fordele -->
-<div class="container py-5 my-lg-5">
+<div class="container my-5">
   <h2 class="fullwidth-sm section-header-text p-1">
     {{ pageData.section[6].heading }}
   </h2>
@@ -289,8 +291,8 @@ templateClass: tmpl-more
   </div>
 </div>
 
-<!--Sektion 8 Hvad siger loven  p/img -->
-<div class="container py-5 my-lg-5">
+<!--Sektion 8 Hvad siger loven p/img -->
+<div class="container my-5">
   <div class="d-flex flex-row align-items-center justify-content-between">
     <div class="d-none d-lg-block col-xl-5 pr-5 px-1">
       <div class="rounded overflow-hidden">
@@ -314,8 +316,8 @@ templateClass: tmpl-more
   </div>
 </div>
 
-<!--Sektion 9 p/img  -->
-<div class="container py-5">
+<!--Sektion 9 p/img -->
+<div class="container my-5">
   <div class="d-flex flex-row align-items-center justify-content-between">
     <div class="col-xl-6 mr-xl-5 px-1">
       <h2 class="section-header-text">
@@ -323,7 +325,7 @@ templateClass: tmpl-more
       </h2>
       <div class="d-lg-none col-8 col-md-6 mx-auto pb-3">
         <div class="rounded overflow-hidden">
-          {% image "img/people-group-drawing.jpg", pageData.section[8].img_alt, "400, 800, 1200"%}
+          {% image "img/people-group-drawing.jpg", pageData.section[8].img_alt, "400, 800, 1200" %}
         </div>
       </div>
       <p class="section-para-text text-left">
@@ -332,14 +334,14 @@ templateClass: tmpl-more
     </div>
     <div class="d-none d-lg-block col-lg-4 pr-xl-5">
       <div class="rounded overflow-hidden">
-        {% image "img/people-group-drawing.jpg", pageData.section[8].img_alt, "400, 800, 1200"%}
+        {% image "img/people-group-drawing.jpg", pageData.section[8].img_alt, "400, 800, 1200" %}
       </div>
     </div>
   </div>
 </div>
 
 <!--Sektion 8 Hvad siger loven  p/img -->
-<div class="container px-1">
+<div class="container my-5">
   <div class="d-flex flex-row align-items-center justify-content-between">
     <div class="d-none d-lg-block col-lg-5 pr-5">
       {% image "img/eye-ear-mouth.jpg", pageData.section[9].img_alt, "400,
