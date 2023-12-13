@@ -10,7 +10,31 @@ templateClass: tmpl-page
 		<div class="col-12">
 			{% if title %}<h1>{{ title }}</h1>{% endif %}
 			{{ content | safe }}
-			<a href="mailto:info@inklusio.dk" class="btn btn-primary p-3 mt-auto rounded">{{ keywords.get_offer }}</a>
+
+			<!-- <a href="mailto:info@inklusio.dk" class="btn btn-primary p-3 mt-auto rounded">{{ keywords.get_offer }}</a> -->
+
+			<h2>
+				<a id="CTA">Vil du bestille eller høre mere?</a>
+			</h2>
+
+			<p>
+				Du kan kontakte os allerede i dag, hvis du ønsker at høre mere om denne og andre af vores ydelser.
+			</p>
+
+			<p>
+				<a href="mailto:info@inklusio.dk" class="btn btn-primary p-3 mt-auto rounded">{{ keywords.get_offer }}</a>
+
+				eller
+
+				<a href="https://calendly.com/inklusio-ses/1-1" class="btn btn-primary p-3 mt-auto rounded" target="_blank">
+					Book et møde
+					<img class="icon" alt="{{ translations[page.lang].keywords.opens_in_new }}" src="/img/icon-new-window-white.svg" width="16" height="16">
+				</a>
+			</p>
+
+			<p>
+				Hvis du har spørgsmål eller ønsker at booke et uforpligtende møde, er du også velkommen til at kontakte os.
+			</p>
 		</div>
 	</div>
 </div>
