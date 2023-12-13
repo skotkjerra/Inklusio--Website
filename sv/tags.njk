@@ -18,12 +18,14 @@ permalink: /sv/tags/{{ tag }}/
 
 {% set keywords = translations[page.lang].keywords %}
 
-<div class="container">
-  <h1>{{ keywords.articles_marked_with }} “{{ tag }}”</h1>
-  {% set postslist = collections[ tag ] %} {% include "postslist.njk" %}
-  <p>
-    {{ keywords.see }}
-    <a href="{{ '/sv/tags/' | url }}">{{ keywords.all_tags }}</a
-    >.
-  </p>
+<div class="row my-5">
+  <div class="col-12">
+      <h1>{{ keywords.articles_marked_with }} “{{ tag }}”</h1>
+      {% set postslist = collections[ tag ] %} {% include "postslist.njk" %}
+      <p>
+        {{ keywords.see }}
+        <a href="{{ '/sv/tags/' | url }}">{{ keywords.all_tags }}</a
+        >.
+      </p>
+  </div>
 </div>

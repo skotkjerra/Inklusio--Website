@@ -6,6 +6,4 @@ eleventyComputed:
   title: "{{ translations[page_lang].navigation.blog.title }}"
 ---
 
-<div class="container">
-  {% set postslist = collections.posts %} {% include "postslist.njk" %}
-</div>
+{% set postslist = collections.posts %} {% include "postslist.njk" %}
