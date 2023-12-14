@@ -7,7 +7,7 @@
     "build:sass": "sass _includes/sass:css",
     "watch:eleventy": "eleventy --serve",
     "build:eleventy": "eleventy",
-    "css:optimize": "postcss ./_site/css/my-bootstrap-1.1.0.css -o ./_site/css/my-bootstrap-1.1.0.css",
+    "css:optimize": "postcss ./_site/css/my-bootstrap.css -o ./_site/css/my-bootstrap.css",
     "start": "npm-run-all build:sass --parallel watch:*",
     "build": "run-s build:sass build:eleventy css:optimize"
   },
