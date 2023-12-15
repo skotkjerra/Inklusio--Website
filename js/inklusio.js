@@ -12,9 +12,11 @@ function toggle(el) {
     if (isExpanded) {
       btn.setAttribute('aria-expanded', 'false');
       target.setAttribute('aria-hidden', 'true');
+      target.style.display = 'none'; // Hide the target element
     } else {
       btn.setAttribute('aria-expanded', 'true');
       target.setAttribute('aria-hidden', 'false');
+      target.style.display = 'block'; // Show the target element
     }
     target.classList.toggle('show');
 
