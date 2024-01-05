@@ -103,6 +103,11 @@ a.skiptomain:active {
   line-height: 1.5;
 }
 
+.list-group-item {
+  padding-left: 0;
+  padding-right: 0;
+}
+
 .btn-primary {
   text-decoration: none;
 }
@@ -334,7 +339,11 @@ p {
 }
 
 .section-para-text {
-  font-size: 1rem;
+  font-size: 1.2rem;
+}
+
+.row ul {
+  font-size: 1.2rem;
 }
 
 // .footer-container{
