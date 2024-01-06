@@ -208,6 +208,12 @@ h3 {
   /* 1 */
 }
 
+.narrow {
+  h1 {
+    max-width: 30ch !important;
+  }
+}
+
 h1,
 h2,
 h3,
