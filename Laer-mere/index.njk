@@ -60,13 +60,11 @@ templateClass: tmpl-more
 </div>
 
 <!-- Sektion 3 Gode grunde til at arbejde med webtilgængelighed-->
-<div class="container">
-  <div class="row mt-5">
-    <div class="col-12">
-      <h2 class="section-header-text">{{ pageData.section[2].heading }}</h2>
-    </div>
-  </div>
-  <div class="row mb-5">
+<div class="container my-5">
+  <h2 class="fullwidth-lg section-header-text mb-0">
+    {{ pageData.section[2].heading }}
+  </h2>
+  <div class="d-flex flex-row flex-wrap justify-content-between">
     {{
       numbercard({
         number: "1",
@@ -88,6 +86,9 @@ templateClass: tmpl-more
         body: pageData.section[2].card[2].paragraph
       })
     }}
+  </div>
+
+  <div class="row d-flex flex-row flex-wrap justify-content-between">
     {{
       numbercard({
         number: "4",
