@@ -5,20 +5,24 @@
     <ul class="list-group">
       {% for post in postslist | postListUrlLanguageFilter(page.lang) | reverse %}
       <li class="list-group-item border-0 col-12">
-        <div class="d-flex justify-content-between">
-          <h2 class="mb-1 fs-5">
-            <a class="text-decoration-none" href="{{ post.url | url }}"
-              >{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{
-                post.url
-              }}</code
-              >{% endif %}</a
-            >
-          </h2>
-          <small class="flex-shrink-1 white-space-nowrap">
-            <time datetime="{{ post.date | htmlDateString }}">
-              {{ post.date | readableDate(page.lang) }}
-            </time>
-          </small>
+        <div class="row">
+          <div class="col-md-8 col-12">
+            <h2 class="mb-1 fs-5">
+              <a class="text-decoration-none" href="{{ post.url | url }}"
+                >{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{
+                  post.url
+                }}</code
+                >{% endif %}</a
+              >
+            </h2>
+          </div>
+          <div class="col-md-4 col-12 text-md-right text-left">
+            <small>
+              <time datetime="{{ post.date | htmlDateString }}">
+                {{ post.date | readableDate(page.lang) }}
+              </time>
+            </small>
+          </div>
         </div>
         <p class="tags-list m-0 fs-5">
           <span class="sr-only">{{ keywords.tags_for_article }}:</span>
