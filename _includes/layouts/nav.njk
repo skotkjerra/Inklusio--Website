@@ -1,5 +1,14 @@
 {% set navigationData = translations[page.lang].navigation %}
 
+{% set isCurrentUrlInNavigation = false %}
+{% set navigationKeyForCurrentUrl = '' %}
+{% for key, navigationItem in navigationData %}
+  {% if navigationItem.url == page.url %}
+    {% set isCurrentUrlInNavigation = true %}
+    {% set navigationKeyForCurrentUrl = key %}
+  {% endif %}
+{% endfor %}
+
 <header class="site-header">
   <a class="skiptomain" href="#main">{{ translations[page.lang].keywords.skip_to_main_content }}</a>
   <div class="container py-2">
@@ -11,25 +20,26 @@
       </a>
 
       <div class="d-flex flex-row ml-auto ">
+        <!-- Mobile Language Switcher -->
         <div class="d-block d-lg-none">
           <div class="col text-center mt-2">
             <div class="dropdown mt-n1">
-              {% for key, navObj in navigationData %}
-                {% if navObj.url == page.url %}
-                  <button lang="en" class="btn btn-sm btn-dark" type="button" data-toggle="collapse" aria-expanded="false" aria-controls="languageDropdownMobile">
-                    <i role="img" class="bi bi-globe" style="font-size: 16px;" aria-label="{{ translations[page.lang].keywords.switch_language_button }} "></i>
-                    <span class="sr-only">{{ languages[page.lang].name }}</span>
-                    <span aria-hidden="true" class="text-uppercase" style="font-size: 16px;">{{ page.lang }}</span>
-                  </button>
-                  <div lang="en" id="languageDropdownMobile" class="dropdown-menu collapse">
-                    {% for lang, lang_data in languages %}
-                      {% if lang != page.lang %}
-                        <a class="dropdown-item" href="{{ translations[lang].navigation[key].url }}">{{lang_data.name}}</a>
-                      {% endif %}
-                    {% endfor %}
-                  </div>
-                {% endif %}
-              {% endfor %}
+              <button lang="en" class="btn btn-sm btn-dark" type="button" data-toggle="collapse" aria-expanded="false" aria-controls="languageDropdownMobile">
+                <i role="img" class="bi bi-globe" style="font-size: 16px;" aria-label="{{ translations[page.lang].keywords.switch_language_button }} "></i>
+                <span class="sr-only">{{ languages[page.lang].name }}</span>
+                <span aria-hidden="true" class="text-uppercase" style="font-size: 16px;">{{ page.lang }}</span>
+              </button>
+              <div lang="en" id="languageDropdownMobile" class="dropdown-menu collapse">
+                {% for lang, lang_data in languages %}
+                  {% if lang != page.lang %}
+                    {% if isCurrentUrlInNavigation %}
+                      <a class="dropdown-item" href="{{ translations[lang].navigation[navigationKeyForCurrentUrl].url }}">{{ lang_data.name }}</a>
+                    {% else %}
+                      <a class="dropdown-item" href="{{ translations[lang].navigation['home'].url }}">{{ lang_data.name }}</a>
+                    {% endif %}
+                  {% endif %}
+                {% endfor %}
+              </div>
             </div>
           </div>
         </div>
@@ -46,25 +56,26 @@
           {% endfor %}
         </div>
 
+        <!-- Desktop Language Switcher -->
         <div class="d-none d-lg-block ml-auto pr-xxxl-0">
           <div class="col text-center mt-2">
             <div class="dropdown">
-              {% for key, navObj in navigationData %}
-                {% if navObj.url == page.url %}
-                  <button lang="en" class="btn btn-sm btn-dark" type="button" data-toggle="collapse" aria-expanded="false" aria-controls="languageDropdownDesktop">
-                    <i role="img" class="bi bi-globe" style="font-size: 16px;" aria-label="{{ translations[page.lang].keywords.switch_language_button }} "></i>
-                    <span class="sr-only">{{ languages[page.lang].name }}</span>
-                    <span aria-hidden="true" class="text-uppercase" style="font-size: 16px;">{{ page.lang }}</span>
-                  </button>
-                  <div lang="en" id="languageDropdownDesktop" class="dropdown-menu collapse">
-                    {% for lang, lang_data in languages %}
-                      {% if lang != page.lang %}
-                        <a class="dropdown-item" href="{{ translations[lang].navigation[key].url }}">{{lang_data.name}}</a>
-                      {% endif %}
-                    {% endfor %}
-                  </div>
-                {% endif %}
-              {% endfor %}
+              <button lang="en" class="btn btn-sm btn-dark" type="button" data-toggle="collapse" aria-expanded="false" aria-controls="languageDropdownDesktop">
+                <i role="img" class="bi bi-globe" style="font-size: 16px;" aria-label="{{ translations[page.lang].keywords.switch_language_button }} "></i>
+                <span class="sr-only">{{ languages[page.lang].name }}</span>
+                <span aria-hidden="true" class="text-uppercase" style="font-size: 16px;">{{ page.lang }}</span>
+              </button>
+              <div lang="en" id="languageDropdownDesktop" class="dropdown-menu collapse">
+                {% for lang, lang_data in languages %}
+                  {% if lang != page.lang %}
+                    {% if isCurrentUrlInNavigation %}
+                      <a class="dropdown-item" href="{{ translations[lang].navigation[navigationKeyForCurrentUrl].url }}">{{ lang_data.name }}</a>
+                    {% else %}
+                      <a class="dropdown-item" href="{{ translations[lang].navigation['home'].url }}">{{ lang_data.name }}</a>
+                    {% endif %}
+                  {% endif %}
+                {% endfor %}
+              </div>
             </div>
           </div>
         </div>
