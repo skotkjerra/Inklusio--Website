@@ -1,0 +1,30 @@
+{% set page = params.page %}
+{% set translations = params.translations %}
+{% set languages = params.languages %}
+{% set navigationData = translations[page.lang].navigation %}
+
+{% set isCurrentUrlInNavigation = false %}
+{% set navigationKeyForCurrentUrl = '' %}
+{% for key, navigationItem in navigationData %}
+  {% if navigationItem.url == page.url %}
+    {% set isCurrentUrlInNavigation = true %}
+    {% set navigationKeyForCurrentUrl = key %}
+  {% endif %}
+{% endfor %}
+
+<button lang="en" class="btn btn-sm btn-dark" type="button" data-toggle="collapse" aria-expanded="false" aria-controls="{{ params.dropdown_id }}">
+  <i role="img" class="bi bi-globe" style="font-size: 16px;" aria-label="{{ translations[page.lang].keywords.switch_language_button }}"></i>
+  <span class="sr-only">{{ languages[page.lang].name }}</span>
+  <span aria-hidden="true" class="text-uppercase" style="font-size: 16px;">{{ page.lang }}</span>
+</button>
+<div lang="en" id="{{ params.dropdown_id }}" class="dropdown-menu collapse">
+  {% for lang, lang_data in languages %}
+    {% if lang != page.lang %}
+    {% if isCurrentUrlInNavigation %}
+      <a class="dropdown-item" href="{{ translations[lang].navigation[navigationKeyForCurrentUrl].url }}">{{ lang_data.name }}</a>
+    {% else %}
+      <a class="dropdown-item" href="{{ translations[lang].navigation['home'].url }}">{{ lang_data.name }}</a>
+    {% endif %}
+    {% endif %}
+  {% endfor %}
+</div>
