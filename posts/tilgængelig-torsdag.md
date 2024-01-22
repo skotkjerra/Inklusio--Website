@@ -31,7 +31,7 @@ Vi glæder os til at besvare spørgsmål om alt fra målgrupper og hjælpemidler
 
 ## T﻿id og sted
 
-O﻿nline, torsdag d. 25. januar kl. 9-11
+O﻿nline, torsdag d. 29. februar fra kl. 9-11
 
 ## Tilmelding
 
