@@ -12,7 +12,7 @@ Kom med til Tilgængelig Torsdag med Inklusio!
 
 **Tilgængelig Torsdag er et online-arrangement** for dig, der gerne vil lære om webtilgængelighed, hvad enten du er nybegynder eller har erfaring med webtilgængelighed. 
 
-D﻿en sidste torsdag hver måned (næste gang er **d. 25. januar**) afholder vi nemlig en todelt session, bestående af:
+Den sidste torsdag hver måned (næste gang er **d. 29. februar**) afholder vi nemlig en todelt session, bestående af:
 
 ## Kl. 9-10: Introduktion til webtilgængelighed
 
@@ -31,7 +31,7 @@ Vi glæder os til at besvare spørgsmål om alt fra målgrupper og hjælpemidler
 
 ## T﻿id og sted
 
-O﻿nline, torsdag d. 25. januar kl. 9-11
+O﻿nline, torsdag d. 29. februar fra kl. 9-11
 
 ## Tilmelding
 
@@ -59,9 +59,7 @@ T﻿ilgængelig Torsdag afholdes den **sidste torsdag hver måned**.
 
 D﻿e kommende datoer er: 
 
-* December: vi holder julepause
-* **25. januar 2024** (åben for tilmeldinger - se links ovenfor)
-* **2﻿9. februar 2024** (åbner for tilmeldinger d. 26. januar)
-* **2﻿8. marts 2024**
+* **2﻿9. februar 2024** (åben for tilmeldinger) 
+* **2﻿8. marts 2024** (åbner for tilmeldinger d. 1. marts) 
 * **2﻿5. april 2024**
 * **3﻿0. maj 2024**
