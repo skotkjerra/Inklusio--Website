@@ -1,0 +1,48 @@
+{
+    "section": [
+        {
+            "heading": "We work together to make Web Accessibility Manageable",
+            "paragraph": "Inclusio advises you on digital inclusion and web accessibility. We make accessibility clear and easy with workshops, advice and tests.",
+            "button_text": "Book a meeting",
+            "img_alt": "Anne, Katrine, and Stein Erik smile at a laptop in an office with a neon lightning on the wall."
+        },    
+        {
+            "card":[
+                {
+                    "heading":"Workshops",
+                    "paragraph":"We don't do anything for you, we do it with you. Our specialists are happy to share their knowledge of web accessibility with you through close collaboration, training and joint solutions in tailored workshops."
+                },
+                {
+                    "heading":"Best for testing",
+                    "paragraph":"At Inclusio, we specialize in using the best tools and methods for testing web accessibility. Together with you and your supplier, we find problem areas and solutions." 
+                },
+                {
+                    "heading":"Counseling",
+                    "paragraph":"We always share our knowledge, and the most important thing is to leave our customers with better prerequisites for thinking about accessibility at all levels."
+                }
+            ]
+        },
+        {
+            "heading": "What is web accessibility?",
+            "paragraph": "Web accessibility is about everyone being able to use websites and mobile applications regardless of their prerequisites. This means that if you have, for example, permanently impaired hearing, or if you have broken an arm, you must still be able to use digital solutions.",
+            "button_text": "Read about what we offer",
+            "img_alt": ""
+        },
+        {
+            "card":[
+                {
+                    "heading": "Projects",
+                    "paragraph": "We help both small and large customers, public and private, complicated and simple. With respect for your skills, we organize suitable solutions."
+                },
+                {
+                    "heading":"Specialists",
+                    "paragraph": "We are passionate about digital inclusion. We have over 20 years of experience with web accessibility, and we actively participate in the development of international standards."     
+                },
+                {
+                    "heading": "Locations",
+                    "paragraph": "Inclusio has offices in both Aalborg and Copenhagen, and we solve tasks throughout Scandinavia."
+                }
+            ]
+        }
+    ]
+}

@@ -59,8 +59,8 @@ Vælger I todagesudgaven, får I undervisning i både app og webløsninger, og I
 
 ## Praktisk information
 <p>Vil du gerne modtage en ”Forstå dine brugere” workshop, starter vi med et forventningsmøde, hvor vi kan afstemme indholdet af undervisningen. Hvis du vælger Éndagsworkshoppen, skal vi vide, om du ønsker undervisning med fokus på apps eller webløsninger. Yderligere, vil vi snakke om, hvem der skal deltage på workshoppen, for at sikre os, at deltagerne får mest muligt ud af den.</p>
-<pWorkshoppen kan både foregå over teams og i fysiske rammer, dog vil vi med denne type workshop anbefale fysisk tilstedeværelse.</p>
-<pEfter workshoppen vil I modtage det læringsmateriale, som blev brugt under workshoppen, herunder slides, hand-outs, guides og ”cheat sheets” brugt i workshoppen.</p>
+<p>Workshoppen kan både foregå over teams og i fysiske rammer, dog vil vi med denne type workshop anbefale fysisk tilstedeværelse.</p>
+<p>Efter workshoppen vil I modtage det læringsmateriale, som blev brugt under workshoppen, herunder slides, hand-outs, guides og ”cheat sheets” brugt i workshoppen.</p>
 
 ## Undervisere
 <p>Inklusio består af erfarne undervisere, konsulenter og rådgivere, der brænder for at skabe en inkluderende digital verden.</p> 

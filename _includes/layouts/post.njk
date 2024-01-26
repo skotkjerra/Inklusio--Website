@@ -2,6 +2,31 @@
 layout: layouts/base.njk
 templateClass: tmpl-post
 ---
-{% if title %}<h1>{{ title }}</h1>{% endif %}
-{% if author or date %}<p>Skrevet{% if author  %} af {{ author }}{% endif %}{% if date %} den <time datetime="{{ date|htmlDateString }}">{{ page.date|readableDate }}{% endif %}</time></p>{% endif %}
-{{ content | safe }}
+
+{# #}
+<div class="container narrow">
+  <div class="row my-5">
+    <div class="col-12">
+      {% set keywords = translations[page.lang].keywords %} {% if title %}
+      <h1>{{ title }}</h1>
+      {% endif %} {% if author or date %}
+      <p>
+        {% if author %}
+          {{ keywords.written_by }} {{ author }}
+        {% else %}
+          {{ keywords.written }}
+        {% endif %}
+        {% if date %}
+          {{ keywords.on }}
+          <time datetime="{{ date | htmlDateString }}">
+            {{ page.date | readableDate(page.lang) }}
+          </time>
+        {% endif %}
+      </p>
+      {% endif %}
+      <div class="markdown-content">
+        {{ content | safe }}
+      </div>
+    </div>
+  </div>
+</div>

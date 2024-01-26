@@ -1,34 +1,48 @@
-<!doctype html>
-<html lang="da-DK">
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+{% set metadata = translations[page.lang].metadata %}
+
+<!DOCTYPE html>
+<html lang="{{ page.lang }}" dir="{{ languages[page.lang].dir or 'ltr' }}">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{% if title %}{{ title }} - {% endif %}Inklusio</title>
-    <meta name="Description" content="{{ renderData.description or description or metadata.description }}">
 
-    <link rel="stylesheet" href="{{ '/css/my-bootstrap.css' | url }}">
-    <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
-<link rel="icon" type="image/x-icon" href="{{ '/img/favicon.ico' | url }}">
+    <meta
+      name="Description"
+      content="{{ renderData.description or description or metadata.description }}"
+    />
 
+    <link rel="stylesheet" href="{{ '/css/my-bootstrap.css' | url }}" />
+    <link
+      rel="alternate"
+      href="{{ metadata.feed.path | url }}"
+      type="application/atom+xml"
+      title="{{ metadata.title }}"
+    />
+    <link
+      rel="icon"
+      type="image/x-icon"
+      href="{{ '/img/favicon.ico' | url }}"
+    />
+    <!-- Bootstrap Font Icon CSS -->
+    <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css"
+    />
   </head>
   <body>
-  <div class="site-container">
-     {% include "layouts/nav.njk" %}
+    <div class="site-container">
+      {% include "layouts/nav.njk" %}
 
-    <main id="main" tabindex="-1">
-        <div class="container-xxl p-5"> 
-            {{ content | safe }}
-        </div>
-    </main>
-     {% include "layouts/footer.njk" %}
+      <main id="main" tabindex="-1">
+        {{ content | safe }}
+      </main>
 
- </div>
-
-
+      {% include "layouts/footer.njk" %}
+    </div>
     <!-- Current page: {{ page.url | url }} -->
 
-</body>
-
-<script src="{{ '/js/inklusio.js' | url }}"></script>
-
+    <script src="{{ '/js/inklusio.js' | url }}"></script>
+  </body>
 </html>

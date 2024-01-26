@@ -1,0 +1,30 @@
+{
+    "section":[
+        {
+            "heading": "Web Accessibility | Tests, advice and workshops",
+            "paragraph": [
+                "We test the accessibility of your organization's apps and websites and, depending on your wishes, we tailor a practical solution for you in the form of workshops, tests and advice at eye level. We help create the accessibility statement and strategy to incorporate digital inclusion early in the development process for new apps and websites.",
+                "It is important to us that we do not do things for you, but that we do them with you via guidance and training. In this way, you and your team constantly learn more about accessibility and digital inclusion, and you will eventually be able to handle more of the tasks without outside help.",
+                "Read more about our products and contact us to get an offer for a course tailored to your organization."
+            ],
+            "img_alt": "Stein Erik and Anne share a laugh looking at a laptop.",
+            "card": [
+                {
+                    "heading":"Counseling",
+                    "paragraph": "We are happy to share our knowledge, and the most important thing is to leave our customers with better prerequisites for thinking about accessibility at all levels.",
+                    "button_text": "Read about our advice offer"
+                },
+                {
+                    "heading":"Testing",
+                    "paragraph": "Over the years, we at Inclusio have specialized in using the best tools for testing web accessibility. Together with you and your supplier, we find solutions to problem areas",
+                    "button_text": "Read about our options for testing"
+                },
+                {
+                    "heading":"Workshops",
+                    "paragraph": "We don't do anything for you, we do it with you. Our specialists are happy to share their knowledge of web accessibility with you through close collaboration, training and joint solutions in workshops.",
+                    "button_text": "Read about our various workshops"
+                }
+            ]
+        }
+    ]
+}

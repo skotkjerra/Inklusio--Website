@@ -1,0 +1,132 @@
+{
+    "section": [
+        {
+            "heading": "Web accessibility and user experience are two sides of the same coin",
+            "paragraph": [
+                "Web accessibility is about everyone being able to use websites and mobile applications regardless of their prerequisites. This means that if you have, for example, permanently impaired hearing, or if you have broken an arm, you must still be able to use the websites and app",
+                "Up to every 5th user in Denmark has some form of disability that affects the way they use the internet, and the number only gets higher when you include people who experience temporary impairments, such as a temporary cognitive limitation due to a concussion or temporarily impaired vision due to an operation. Being accessible ensures that everyone can navigate the internet independently and effortlessly."
+            ],
+            "img_alt":"Drawing of different people, including men and women, with and without glasses, one with an artificial leg and one using a wheelchair. Most are happy, but one looks a little worried or depressed"
+        },
+        {
+            "heading": "Why is web accessibility important?",
+            "paragraph": "The World Health Organization (WHO) has estimated that around 20% of the population has some form of disability or functional impairment. For the 20%, the internet can often feel like impassable terrain, since many websites are inaccessible. When your website is available, you ensure that your company's digital door is open to all your potential users and customers.",
+            "img_alt": "Icon of accessibility or the user in the center (a matchstick person in a blue circle)"
+        },
+        {
+            "heading": "Good reasons to work with web accessibility",
+            "card": [
+                {
+                    "heading": "You work with e-commerce",
+                    "paragraph": "If your company deals with e-commerce, you may be covered by the European Accessibility Act, which will come into force on 28 June 2025."
+                },
+                {
+                    "heading": "Your target group is 60+",
+                    "paragraph": "92% of the Danish population over the age of 60 wears glasses. This target group will often experience problems with websites that have small text sizes and poor contrast."
+                },
+                {
+                    "heading": "You develop websites for public organisations",
+                    "paragraph": "If your customer group includes public companies, requirements will be placed on the availability of your product."
+                },
+                {
+                    "heading": "You develop websites for foreign companies",
+                    "paragraph": "In the USA, there are already requirements for the accessibility of websites for both public and private companies."
+                },
+                {
+                    "heading": "Your company is covered by the Web Accessibility Act",
+                    "paragraph": "If you work in e-commerce, consumer banking, e-books, communication services or streaming multimedia content, then you are most likely covered by the European law on web accessibility, which will come into force on 28 June 2025."
+                },
+                {
+                    "heading": "You want to save time and money",
+                    "paragraph": "If accessibility is only fixed as the last step in the process, it is often both an expensive and time-consuming process. By focusing on availability from the start, you save your company from unnecessary expenses and delays."
+                }
+            ]
+        },
+        {
+            "heading": "We are leading accessibility experts in Denmark",
+            "paragraph": "We have over 20 years of experience with web accessibility, and we are not afraid to say that we are the best in Denmark at what we do. Since 2021, we have been a supplier for the Digital Agency, where we handle accessibility monitoring of public websites and apps throughout Denmark. Our experience speaks for itself, as we work with everything from tech giants, international banks and digital agencies to smaller private companies and municipalities.",
+            "img_alt": "Photograph of Stein Erik Skotkjerra, CEO and founder of Inklusio"
+        },
+        {
+            "heading": "We deliver recognized quality",
+            "card": [
+                {
+                    "heading":"Workshops",
+                    "paragraph": "Get engaging teaching in accessibility"
+                },
+                {
+                    "heading":"WCAG test report",
+                    "paragraph": "Receive a test report with detailed error descriptions"
+                },
+                {
+                    "heading":"Design reviews",
+                    "paragraph": "Save time and get a design review of your UI sketches"
+                },
+                {
+                    "heading":"Collaborative test sessions",
+                    "paragraph": "Take part in testing and learn along the way"
+                },
+                {
+                    "heading":"Expert advice that is understandable",
+                    "paragraph": "Get strategic advice when it suits you"
+                },
+                {
+                    "heading":"A flexible collaboration",
+                    "paragraph": "With a time card with us, we are always ready to solve your challenges"
+                }
+            ]
+        },
+        {
+            "heading": "Perfect mix of theory, tips, tests and heist stories",
+            "paragraph": "Our most important task is to ensure that you are well equipped to handle accessibility tasks and ensure that your website or app can be used by all people. We work in a way where we jointly tailor a process, where we start from your website or app to ensure that we get to work with the areas that you find challenging in terms of web accessibility.",
+            "img_alt": "Photograph of accessibility workshop in DR's concert hall"
+        },
+        {
+            "heading": "Accessibility offers a host of benefits",
+            "card": [
+                {
+                    "heading": "More people use your website or app",
+                    "paragraph": "By ensuring accessibility on your website or app, the website's potential audience increases by 20%, which can lead to more visits, conversions and thus more revenue."
+                },
+                {
+                    "heading": "Greater user satisfaction",
+                    "paragraph": "When everyone, both people with and without a disability, can navigate efficiently and effortlessly on your website or app, it creates a better user experience."
+                },
+                {
+                    "heading": "You comply with the law",
+                    "paragraph": "As further legislation in the field of web accessibility in both the public and private spheres is under way, it is a good idea to start the work already today."
+                },
+                {
+                    "heading": "Get a better ranking on Google",
+                    "paragraph": "There is a proven correlation between how accessible one's digital solution is and how it ranks on Google, as accessible websites can help improve SEO."
+                },
+                {
+                    "heading": "Strengthen your brand",
+                    "paragraph": "Use the opportunity to brand yourself that all people can use your website. Appear as a company that takes social responsibility, which can lead to positive associations with your brand, such as inclusion and innovation."
+                },
+                {
+                    "heading": "Increased loyalty",
+                    "paragraph": "Websites or apps that deliver good user experiences are typically the ones that people return to again and again."
+                }
+            ]
+        },
+        {
+            "heading": "The law says so",
+            "paragraph": [
+                "The law covers the areas that are most important to ensure everyone's equal participation in society. This includes services such as e-commerce, banking, streaming services, e-books, travel information and telephone services. Small companies with less than 10 employees and an annual turnover of less than DKK 2 million. Euros are not obliged to comply with the law – but it is of course recommended.",
+                "If a company is covered by the law, they basically have to ensure that their services and products meet all relevant criteria from WCAG 2.1 at level A and AA."
+            ],
+            "img_alt": "A lot of EU flags held by hands in all colors"
+        },
+        {
+            "heading": "We work closely with people with disabilities",
+            "paragraph": "Whether you use voice control, a keyboard or other aids to navigate websites, we have practical experience in how to create a good user experience for people who use aids or compensatory strategies in everyday life. We have a broad insight into how people with different types of disabilities want to use websites and apps.",
+            "img_alt": "Drawing of various people including an elderly lady with a coffee cup, a young smart guy with dark sunglasses and a bald man sitting down"
+        },
+        {
+            "heading": "We read the fine print so you don't have to",
+            "paragraph": "We know web accessibility legislation like the back of our hand and can help translate convoluted clauses into practical action. In addition, we are active in the standardization work within digital accessibility, such as the Danish Standard and the World Wide Web Consortium (W3C), and have contributed to the official Danish translations of WCAG 2.1.",
+            "img_alt": "Drawing of an eye, mouth and ear, all crossed out to indicate lack of sight, speech and hearing"            
+        }
+    ]
+}

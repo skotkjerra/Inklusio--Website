@@ -1,0 +1,63 @@
+---
+layout: layouts/page.njk
+templateClass: tmpl-more
+
+eleventyComputed:
+  page_lang: "en"
+  permalink: "{{ translations[page_lang].navigation.about.url }}"
+  title: "{{ translations[page_lang].navigation.about.title }}"
+---
+
+<!-- Translation Data -->
+{% set pageData = translations[page.lang].pages.about_us %} {% set keywords =
+translations[page.lang].keywords %}
+
+<div class="row">
+  <div class="col-12">
+    <p>
+      {{ pageData.section[0].paragraph }}
+    </p>
+  </div>
+</div>
+
+{% for member in pageData.team_members %}
+  <div class="row my-5">
+    <div class="col-md-8 pr-5">
+      <h2 class="mt-0">{{ member.full_name }}</h2>
+      <p>{{ member.role }}</p>
+      {% for paragraph in member.summary %}
+      <p>{{ paragraph }}</p>
+      {% endfor %}
+
+      <h3>{{ keywords.contact }} {{ member.full_name }}</h3>
+      <ul>
+        <li>
+          {{ keywords.mail }}:
+          <a href="mailto:{{ member.contact.mail }}">{{
+            member.contact.mail
+          }}</a>
+        </li>
+        {% if member.contact.phone %}
+        <li>
+          {{ keywords.phone }}:
+          <a href="tel:{{ member.contact.phone }}">{{
+            member.contact.phone
+          }}</a>
+        </li>
+        {% endif %}
+        <li>
+          {{ keywords.see }}
+          <a href="{{ member.contact.linkedin }}"
+            >{% str_replace keywords.connect_on_linkedin, "{name}",
+            member.full_name %}</a
+          >
+        </li>
+      </ul>
+    </div>
+    <div class="col-md-4">
+      <div class="rounded overflow-hidden">
+        {% image member["picture_url"], member["full_name"], "400, 800, 1200" %}
+      </div>
+    </div>
+  </div>
+{% endfor %}

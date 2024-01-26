@@ -1,6 +1,11 @@
-    <div class="col-sm-12 col-lg-4 col-xl-4 card border-0 pr-5">
-      <i class="{{ params.icon }}" style="font-size: 3rem;"></i>
-         <h2 class="card-title-font">{{ params.heading }}</h2>
-        <p class="my-4">{{ params.body }}
-        </p>
-    </div>
+<div class="card col-sm-12 col-md-4 col-xl-3 my-4 border-0 {{params.card_class}}">
+  <div class="text-start">
+    <i class="{{ params.icon }}" style="font-size: 4rem;"></i>
+    <h3 class="card-title-font"{% if params.heading_level %} aria-level="{{ params.heading_level }}"{% endif %}>
+      {{ params.heading }}
+    </h3>
+    <p class="section-para-text text-left">
+      {{ params.body }}
+    </p>
+  </div>
+</div>

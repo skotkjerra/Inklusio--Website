@@ -1,0 +1,137 @@
+---
+layout: layouts/home.njk
+
+eleventyComputed:
+  page_lang: "sv"
+  permalink: "{{ translations[page_lang].navigation.home.url }}"
+  title: "{{ translations[page_lang].navigation.home.title }}"
+---
+
+<!-- Translation Data -->
+{% set homePageData = translations[page.lang].pages.home %}
+
+<!-- Imports -->
+{%- from "components/iconcard/macro.njk" import iconcard -%} {%- from
+"components/numbercard/macro.njk" import numbercard -%}
+
+<!-- Banner -->
+<div class="banner bg-dark text-light">
+  {# #}
+  <div class="container pb-md-5">
+    <div class="row align-items-center">
+      <div class="col-12 col-lg-6">
+        <h1 class="banner-header banner-header-text mt-5 mt-lg-0">
+          {{ homePageData.section[0].heading }}
+        </h1>
+        <p class="lead my-4 banner-header-helper-text">
+          {{ homePageData.section[0].paragraph }}
+        </p>
+        <a
+          href="https://calendly.com/inklusio-ses/1-1"
+          class="btn btn-primary"
+          >
+          {{ homePageData.section[0].button_text }}
+          <img class="icon" alt="{{ translations[page.lang].keywords.opens_in_new }}" src="/img/icon-new-window-white.svg" width="16" height="16">
+        </a>
+      </div>
+
+      <div class="col-12 col-lg-6 mt-4 mb-3">
+        <div class="rounded overflow-hidden">
+          {% image "img/AnneSEKat.jpg", homePageData.section[0].img_alt, "400,
+          800, 1200" %}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Selling point responsive card -->
+{# #}
+<div class="container my-4 mb-5">
+  <div class="row d-flex flex-row flex-wrap justify-content-between">
+    {{
+      iconcard({
+        card_class: "col-12 col-md-4",
+        icon: "bi bi-people",
+        heading: homePageData.section[1].card[0].heading,
+        heading_level: 2,
+        body: homePageData.section[1].card[0].paragraph
+      })
+    }}
+
+    {{
+      iconcard({
+        card_class: "col-12 col-md-4",
+        icon: "bi bi-ui-checks-grid",
+        heading: homePageData.section[1].card[1].heading,
+        heading_level: 2,
+        body: homePageData.section[1].card[1].paragraph
+      })
+    }}
+
+    {{
+      iconcard({
+        card_class: "col-12 col-md-4",
+        icon: "bi bi-lightbulb",
+        heading: homePageData.section[1].card[2].heading,
+        heading_level: 2,
+        body: homePageData.section[1].card[2].paragraph
+      })
+    }}
+  </div>
+</div>
+
+<!-- Image and text Hvad er tilgængelighed -->
+{# #}
+<div class="container">
+  <div class="row my-4">
+    <div class="col-12 col-lg-6">
+      <div class="rounded overflow-hidden">
+        {% image "img/Section6Image.png", homePageData.section[2].img_alt, "400, 800, 1200" %}
+      </div>
+    </div>
+
+    <div class="col-12 col-lg-6">
+      <div>
+        <h2 class="my-4 my-lg-0">
+          {{ homePageData.section[2].heading }}
+        </h2>
+        <p class="my-4">
+          {{ homePageData.section[2].paragraph }}
+        </p>
+        <a href="/ydelser/" class="btn btn-primary">
+          {{ homePageData.section[2].button_text }}
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Talkort responsiv -->
+<div class="container my-5">
+  <div class="row d-flex flex-row flex-wrap justify-content-between">
+    {{
+      numbercard({
+        number: "100+",
+        heading: homePageData.section[3].card[0].heading,
+        body: homePageData.section[3].card[0].paragraph
+      })
+    }}
+
+    {{
+      numbercard({
+        number: "6",
+        heading: homePageData.section[3].card[1].heading,
+        body: homePageData.section[3].card[1].paragraph
+      })
+    }}
+
+    {{
+      numbercard({
+        number: "2",
+        heading: homePageData.section[3].card[2].heading,
+        body: homePageData.section[3].card[2].paragraph
+      })
+    }}
+  </div>
+</div>

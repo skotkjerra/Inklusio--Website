@@ -2,11 +2,10 @@
 title: Webtilgængelighed – nu også på det private område
 date: 2022-05-05T08:00:00.000Z
 author: Pia Christensen Bang
-summary: "Fra 2025 bliver det lovpligtigt for mange private virksomheder at
-  sikre tilgængelighed, også kaldt accessibility, i deres løsninger. Læs alt du
-  har brug for at vide om lov om tilgængelighed af produkter og tjenester i
-  denne opsummering. Det er blandt andet vigtigt for virksomheder, som arbejder
-  med e-handel (e-commerce). "
+summary: Fra 2025 bliver det lovpligtigt for mange private virksomheder at sikre
+  tilgængelighed, også kaldt accessibility, i deres løsninger. Læs alt du har
+  brug for at vide om lov om tilgængelighed af produkter og tjenester i denne
+  opsummering.
 tags:
   - E-handel
   - Webtilgængelighed

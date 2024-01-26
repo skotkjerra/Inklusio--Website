@@ -2,9 +2,39 @@
 layout: layouts/base.njk
 templateClass: tmpl-page
 ---
- {% if title %}<h1>{{ title }}</h1>{% endif %}
-{{ content | safe }}
-<h2><a id="CTA">Vil du bestille eller høre mere?</a></h2>
-<p>Du kan kontakte os allerede i dag, hvis du ønsker at høre mere om denne og andre af vores ydelser.</p>
-<p><a href="Mailto:"info@inklusio.dk" class="bg-primary btn-primary p-3 mt-auto rounded text-decoration-none">Skriv til os</a> eller <a href="https://calendly.com/inklusio-ses/1-1" class="bg-primary btn-primary p-3 mt-auto rounded text-decoration-none" target="_blank">Book et møde</a></p>
-<p>Hvis du har spørgsmål eller ønsker at booke et uforpligtende møde, er du også velkommen til at kontakte os.</p>
+
+{% set keywords = translations[page.lang].keywords %}
+
+<div class="container narrow">
+	<div class="row my-5">
+		<div class="col-12">
+			{% if title %}<h1>{{ title }}</h1>{% endif %}
+			{{ content | safe }}
+
+			<!-- <a href="mailto:info@inklusio.dk" class="btn btn-primary p-3 mt-auto rounded">{{ keywords.get_offer }}</a> -->
+
+			<h2>
+				<a id="CTA">Vil du bestille eller høre mere?</a>
+			</h2>
+
+			<p>
+				Du kan kontakte os allerede i dag, hvis du ønsker at høre mere om denne og andre af vores ydelser.
+			</p>
+
+			<p>
+				<a href="mailto:info@inklusio.dk" class="d-inline-block btn btn-primary p-3 my-2 my-md-0 rounded">{{ keywords.get_offer }}</a>
+
+				eller
+
+				<a href="https://calendly.com/inklusio-ses/1-1" class="d-inline-block btn btn-primary p-3 my-2 my-md-0 rounded" target="_blank">
+					Book et møde
+					<img class="icon" alt="{{ translations[page.lang].keywords.opens_in_new }}" src="/img/icon-new-window-white.svg" width="16" height="16">
+				</a>
+			</p>
+
+			<p>
+				Hvis du har spørgsmål eller ønsker at booke et uforpligtende møde, er du også velkommen til at kontakte os.
+			</p>
+		</div>
+	</div>
+</div>

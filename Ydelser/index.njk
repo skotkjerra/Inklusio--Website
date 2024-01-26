@@ -1,43 +1,53 @@
 ---
 layout: layouts/page.njk
-title: Test, rådgivning og workshops om digital tilgængelighed
 templateClass: tmpl-post
-eleventyNavigation:
-  key: Ydelser
-  order: 3
+eleventyComputed:
+  page_lang: "da"
+  permalink: "{{ translations[page_lang].navigation.benefits.url }}"
+  title: "{{ translations[page_lang].navigation.benefits.title }}"
 ---
-<div class="container py-5">
-  <div class="row">
-     <div class="col">
-    <p>
-    Vi tester tilgængeligheden på din organisations apps og websteder, og alt efter dine ønsker skræddersyr vi en praktisk løsning til dig i form af workshops, test og rådgivning i øjenhøjde.</p>
-    <p> 
-    Det er vigtigt for os, at vi ikke laver tingene for dig, men at vi laver dem med dig via vejledning og oplæring. På den måde lærer du og dit team hele tiden mere om tilgængelighed og digital inklusion, og I vil på sigt selv kunne varetage flere af opgaverne uden hjælp udefra.</p>
-    <p>
-    Læs mere om vores produkter, og kontakt os for at få et tilbud på et forløb skræddersyet til din organisation.
-    </p>
-  </div>
-<div class="col">
-      <img src="/img/ydelser.jpg"  width="500" height="600" class="img-fluid" alt="">
-  </div>
-  </div>
 
+<!-- Translation Data -->
+{% set pageData = translations[page.lang].pages.benefits %}
+
+<div class="row d-lg-none">
+  <div class="col-12">
+    <div class="rounded overflow-hidden">
+      {% image "img/ydelser.jpg", pageData.section[0].img_alt, "400, 800, 1200" %}
+    </div>
+  </div>
 </div>
-<div class="container-fluid p-0">
-  <div class="row gy-2">
-    {% for post in collections.products %}
-    <div class="col-12 col-md-6 col-lg-4 mb-5">
-    <div class="card p-4 bg-white h-100">
-      {% if post.data.title %}
-      <h2 class="card-title">{{ post.data.title }}</h2>
-      {% endif %}
 
-      {% if post.data.summary %}
-      <p class="card-text">{{ post.data.summary }}</p>
-      {% endif %}
-      <a href="{{ post.url | url }}" class="bg-primary btn-primary p-3 mt-auto rounded text-decoration-none">{{ post.data.cta }}</a>
-    </div>
-    </div>
+<div class="row">
+  <div class="col-12 col-12 col-lg-6 mt-2">
+    {% for paragraph in pageData.section[0].paragraph %}
+    <p class="text-left mt-2">
+      {{ paragraph }}
+    </p>
     {% endfor %}
   </div>
+  <div class="d-none d-lg-block col-12 col-lg-6 mt-4">
+    <div class="rounded overflow-hidden">
+      {% image "img/ydelser.jpg", pageData.section[0].img_alt, "400, 800, 1200" %}
+    </div>
+  </div>
+</div>
+
+<div class="row mt-5 d-flex flex-wrap">
+  {% for post in collections.products %}
+  <div class="col-12 col-md-6 col-lg-4 mb-5">
+    <div class="card p-4 bg-white h-100">
+      {% if post.data.title %}
+      <h2 class="card-title fs-2">{{ post.data.title }}</h2>
+      {% endif %} {% if post.data.summary %}
+      <p class="card-text">{{ post.data.summary }}</p>
+      {% endif %}
+      <a
+        href="{{ post.url | url }}"
+        class="btn btn-primary p-3 mt-auto rounded"
+        >{{ post.data.cta }}</a
+      >
+    </div>
+  </div>
+  {% endfor %}
 </div>

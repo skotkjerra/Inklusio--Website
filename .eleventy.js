@@ -1,9 +1,12 @@
-const { DateTime } = require('luxon');
 const fs = require('fs');
-const pluginRss = require('@11ty/eleventy-plugin-rss');
-const pluginNavigation = require('@11ty/eleventy-navigation');
+const { DateTime } = require('luxon');
 const markdownIt = require('markdown-it');
+const helperFunctions = require('./config/helper');
 const markdownItAnchor = require('markdown-it-anchor');
+const pluginRss = require('@11ty/eleventy-plugin-rss');
+const { asyncImage } = require('./config/imagePlugin');
+const { EleventyI18nPlugin } = require("@11ty/eleventy");
+const pluginNavigation = require('@11ty/eleventy-navigation');
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss);
@@ -15,10 +18,18 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addLayoutAlias('post', 'layouts/post.njk');
 
-  eleventyConfig.addFilter('readableDate', (dateObj) => {
-    return DateTime.fromJSDate(dateObj, { zone: 'utc' }).toFormat(
-      'dd LLL yyyy'
-    );
+  eleventyConfig.addFilter('readableDate', (dateObj, locale = 'en') => {
+    if (locale === 'en') {
+      // English format: "July 4, 2023"
+      return DateTime.fromJSDate(dateObj, { zone: 'utc' })
+        .setLocale(locale)
+        .toFormat('LLLL d, yyyy');
+    } else {
+      // Other languages format: "4. July 2023"
+      return DateTime.fromJSDate(dateObj, { zone: 'utc' })
+        .setLocale(locale)
+        .toFormat('d' + "'.'" + ' LLLL yyyy');
+    }
   });
 
   eleventyConfig.addFilter('htmlDateString', (dateObj) => {
@@ -44,6 +55,24 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy('css');
   eleventyConfig.addPassthroughCopy('robots.txt');
   eleventyConfig.addPassthroughCopy('admin');
+
+  // Adding ShortCode for Eleventy Image Plugin
+  eleventyConfig.addShortcode("image", asyncImage);
+  eleventyConfig.addShortcode("str_replace", helperFunctions.str_replace)
+
+
+  // Eleventy i18n Plugin
+  eleventyConfig.addPlugin(EleventyI18nPlugin, {
+    defaultLanguage: "da", // Required "da"
+    filters: {
+      url: "locale_url",
+      links: "locale_links",
+    },
+    errorMode: "strict"
+  });
+
+  eleventyConfig.addFilter('urlLanguageFilter', helperFunctions.urlLanguageFilter)
+  eleventyConfig.addFilter('postListUrlLanguageFilter', helperFunctions.postListUrlLanguageFilter)
 
   /* Markdown Overrides */
   let markdownLibrary = markdownIt({

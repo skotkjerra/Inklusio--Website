@@ -4,7 +4,6 @@
  *
  */
 
-
 $font-size-base: 1rem;
 $paragraph-margin-bottom: 1.5em;
 
@@ -18,7 +17,7 @@ $grid-breakpoints: (
   lg: 992px,
   xl: 1200px,
   xxl: 1400px,
-  xxxl: 1680px
+  xxxl: 1680px,
 );
 
 /* Add size definition for container in xxxl breakpoint*/
@@ -28,7 +27,7 @@ $container-max-widths: (
   lg: 960px,
   xl: 1140px,
   xxl: 100%,
-  xxxl: 1600px
+  xxxl: 1600px,
 );
 
 /**
@@ -41,9 +40,9 @@ $container-max-widths: (
  */
 
 $theme-colors: (
-  "primary": #5860F6,
-  "secondary": #107E94,
-  "dark": #3B3B3A
+  "primary": #5860f6,
+  "secondary": #107e94,
+  "dark": #3b3b3a,
 );
 
 /**
@@ -54,7 +53,7 @@ $theme-colors: (
 
 @import "../../node_modules/bootstrap/scss/bootstrap";
 
-$inklusio-dark-grey: #3B3B3A;
+$inklusio-dark-grey: #3b3b3a;
 
 .site-container {
   min-height: 100vh;
@@ -100,6 +99,37 @@ a.skiptomain:active {
   z-index: 999;
 }
 
+.tags-list {
+  line-height: 1.5;
+}
+
+.list-group-item {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.btn-primary {
+  text-decoration: none;
+}
+
+.btn {
+  .icon {
+    vertical-align: top;
+    width: 24px;
+    height: 24px;
+  }
+}
+
+.vertical-align {
+  display: flex;
+  align-items: center; /* Aligns vertically */
+  justify-content: center; /* Aligns horizontally */
+
+  & > picture {
+    max-height: 100%;
+  }
+}
+
 /*
  * Bootstrap has a utility class "text-decoration-none" but not a "text-decoration-underline".
  * Let's add that and a similar one for forcing underlines on hover.
@@ -113,7 +143,6 @@ main a {
   text-decoration: underline;
 }
 
-
 .white-space-nowrap {
   white-space: nowrap;
 }
@@ -124,6 +153,25 @@ main a {
  * 1) Limit line lenght for readability
  * 2) Make sure text content has proper margins
  */
+.markdown-content h4,
+.markdown-content h5,
+.markdown-content h6,
+.markdown-content p,
+.markdown-content li {
+  /* 1 */
+  hyphens: none;
+  overflow-wrap: anywhere;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-bottom: 1rem;
+}
+
 h4,
 h5,
 h6,
@@ -143,13 +191,27 @@ p.full-width {
   /* 1 */
 }
 
+p {
+  margin-bottom: 1em;
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
+
 h1,
 h2,
 h3 {
   max-width: 35ch;
   overflow-wrap: anywhere;
-  hyphens: none;
+  hyphens: auto;
   /* 1 */
+}
+
+.narrow {
+  h1 {
+    max-width: 30ch !important;
+  }
 }
 
 h1,
@@ -162,6 +224,11 @@ h6 {
   font-weight: bold;
 }
 
+// H3 looks too large with Bootstrap's native size
+h3, .h3, .fs-3 {
+  font-size: 1.5rem;
+}
+
 *:is(h2, h3, h4, h5, h6):not([class]) {
   margin-top: 1.5em;
   /* 1.5 */
@@ -169,10 +236,10 @@ h6 {
   /* 0.5 */
 }
 
-*:is(p, ul, ol):not([class])+*:is(p, ul, ol):not([class]) {
-  margin-top: 2em;
-  /* 2 */
-}
+// *:is(p, ul, ol):not([class]) + *:is(p, ul, ol):not([class]) {
+//   margin-top: 2em;
+//   /* 2 */
+// }
 
 li {
   margin-bottom: 1em;
@@ -208,6 +275,17 @@ li {
   @extend .h6;
 }
 
+.font-weight-medium {
+  font-weight: 500 !important;
+}
+
+.font-weight-semibold {
+  font-weight: 600 !important;
+}
+
+.rounded {
+  border-radius: 0.5rem !important;
+}
 
 .banner {
   hyphens: none;
@@ -215,8 +293,20 @@ li {
   overflow-x: hidden;
 }
 
+@media (min-width: 1400px) {
+  .container {
+    max-width: 80%;
+  }
+}
+
+.card {
+  h1, h2, h3, h4, h5, h6 {
+    margin-top: 0;
+  }
+}
+
 .title-number {
-  color: #5860F6;
+  color: #5860f6;
   font-size: 3rem;
 }
 
@@ -229,12 +319,17 @@ li {
 }
 
 .card-title {
-  color: #5860F6;
+  color: #5860f6;
   font-size: 2.5rem;
+
+  &.fs-2 {
+    font-weight: bold;
+    font-size: 2rem;
+  }
 }
 
 .card-title-number {
-  color: #5860F6;
+  color: #5860f6;
   font-size: 3rem;
 }
 
@@ -242,10 +337,111 @@ p, li {
   font-size: 1.2rem;
 }
 
-.btn {
-  text-decoration: none;
+.banner-header-text {
+  font-size: 1.5rem;
 }
 
-.tester {
-  margin-right: 40;
+.banner-header-helper-text {
+  font-size: 1rem;
+}
+
+.section-header-text {
+  font-size: 1.7rem;
+}
+
+.section-para-text {
+  font-size: 1.2rem;
+}
+
+.row ul,
+.row ol {
+  font-size: 1.2rem;
+}
+
+// .footer-container{
+//   padding: 5rem 1rem 5rem 1rem;
+// }
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+/*
+  * Adding custom break-points as per the Grid Layout breakpoints
+*/
+
+$layout-breakpoint-xs: 0;
+$layout-breakpoint-sm: 576px;
+$layout-breakpoint-md: 768px;
+$layout-breakpoint-lg: 992px;
+$layout-breakpoint-xl: 1200px;
+$layout-breakpoint-xxl: 1400px;
+$layout-breakpoint-xxxl: 1680px;
+
+@media (min-width: $layout-breakpoint-sm) {
+  .banner-header-text {
+    font-size: 2.2rem;
+  }
+
+  .section-header-text {
+    font-size: 2rem;
+  }
+}
+
+@media (min-width: $layout-breakpoint-md) {
+  .banner-header-text {
+    font-size: 3rem;
+  }
+
+  .banner-header-helper-text {
+    font-size: 1.2rem;
+  }
+}
+
+@media (min-width: $layout-breakpoint-lg) {
+  .banner-header-text {
+    font-size: 2.2rem;
+  }
+
+  .banner-header-helper-text {
+    font-size: 1rem;
+  }
+
+  // .footer-container{
+  //   padding: 8rem 0rem 8rem 4rem;
+  // }
+}
+
+@media (min-width: $layout-breakpoint-xl) {
+  .banner-header-text {
+    font-size: 2.6rem;
+  }
+
+  .banner-header-helper-text {
+    font-size: 1.2rem;
+  }
+
+  // .footer-container {
+  //   padding: 5rem 5rem 0rem 0rem;
+  // }
+}
+
+@media (min-width: $layout-breakpoint-xxl) {
+  .banner-header-text {
+    font-size: 3rem;
+  }
+
+  .section-header-text {
+    font-size: 2.3rem;
+  }
+  .section-para-text {
+    font-size: 1.2rem;
+  }
+}
+
+@media (min-width: $layout-breakpoint-xxxl) {
+  .banner-header-text {
+    font-size: 3.5rem;
+  }
 }

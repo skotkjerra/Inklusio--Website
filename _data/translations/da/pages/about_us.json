@@ -1,0 +1,73 @@
+{
+    "section": [
+        {
+            "paragraph": "Inklusio er en konsulentvirksomhed, der rådgiver om tilgængelighed til web og mobil. Vi gør tilgængelighed overskueligt og nemt – fra opstart af proces til test af færdig løsning."
+        }
+    ],
+    "team_members":[
+        {
+            "full_name": "Stein Erik Skotkjerra",
+            "role": "CEO & Grundlægger",
+            "picture_url": "img/SteinE.jpg",
+            "summary": [
+                "Stein Erik er en passioneret forkæmper for en inkluderende digital verden. Med udgangspunkt i en menneskecentreret tilgang har han arbejdet som rådgiver, underviser og konsulent inden for it og digitalisering i 20 år."
+            ],
+            "contact": {
+                "mail": "ses@inklusio.dk",
+                "phone": "26 34 34 55",
+                "linkedin": "https://www.linkedin.com/in/skotkjerra/"
+            }
+        },
+        {
+            "full_name": "Anne Thyme Nørregaard",
+            "role": "Seniorkonsulent i Webtilgængelighed",
+            "picture_url": "img/Anne.jpg",
+            "summary": [
+                "Anne er Cand.it med en specialisering i usability og tilgængelighed og har arbejdet med tilgængelighed siden 2012. Med sig har hun erfaring fra både konsulentverdenen og udvikling af automatiske tilgængelighedsværktøjer.",
+                "Hun har arbejdet med alt fra manuel tilgængelighedstest til rådgivning og undervisning, samt arbejdet med tilgængelighedsstandarder som aktivt medlem af W3C.",
+                "Hun kombinerer erfaringer og viden fra UX, tilgængelighed og brugercentrerede udviklingsmetoder for at skabe inkluderende brugeroplevelser."
+            ],
+            "contact": {
+                "mail": "atn@inklusio.dk",
+                "linkedin": "https://www.linkedin.com/in/annethyme/"
+            }
+        },
+        {
+            "full_name": "Katrine Gregersen",
+            "role": "Konsulent i Webtilgængelighed",
+            "picture_url": "img/kat.jpg",
+            "summary": [
+                "Med sin kandidat og specialisering i menneske-computer interaktion, bidrager Katrine til at evaluere tilgængelighed på digitale løsninger og rådgive virksomheder i, hvordan de kan gøre deres hjemmesider og apps til mobil inkluderende for alle. Hun har fra udlandet erfaring med at udvikle digitale løsninger, som er baseret på en god forståelse af slutbrugerne og deres behov."
+            ],
+            "contact": {
+                "mail": "kgr@inklusio.dk",
+                "linkedin": "https://www.linkedin.com/in/katrine-theilmann-gregersen/"
+            }
+        },
+        {
+            "full_name": "Linda Thyme",
+            "role": "Akademisk medarbejderder",
+            "picture_url": "img/linda.jpg",
+            "summary": [
+                "Linda er stærkt passioneret for samfundsgavnlige forretningsmodeller og kommunikation, herunder hvordan vi bedst muligt forstår hinandens perspektiver og indtænker disse i helhedsorienterede løsninger. Hun tager sig blandt andet af kommunikationsopgaver og vurderer, om tilgængelighedserklæringer er i overensstemmelse med webtilgængelighedsloven."
+            ],
+            "contact": {
+                "mail": "lth@inklusio.dk",
+                "linkedin": "https://www.linkedin.com/in/linda-thyme/"
+            }
+        },
+        {
+            "full_name": "Pia Christensen Bang",
+            "role": "Kommunikationskonsulent",
+            "picture_url": "img/pia.jpg",
+            "summary": [
+                "Pia er en inkarneret kommunikatør, som brænder for at finde og formidle den gode historie. Hun hjælper med at udarbejde og implementere Inklusios kommunikationsstrategi og -planer.",
+                "Pia er også knivskarp til LinkedIn, og har derfor også hovedansvaret for Inklusios LinkedIn profil."
+            ],
+            "contact": {
+                "mail": "pcb@inklusio.dk",
+                "linkedin": "https://www.linkedin.com/in/piacbang/"
+            }
+        }
+    ]
+}

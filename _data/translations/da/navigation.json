@@ -1,0 +1,32 @@
+{
+    "home": {
+        "title": "Webtilgængelighed, WCAG 2.1 test og rådgivning",
+        "text": "Hjem",
+        "url": "/"
+    },
+    "learn_more": {
+        "title": "Lær mere",
+        "text": "Lær mere",
+        "url": "/Laer-mere/"
+    },
+    "benefits": {
+        "title": "Webtilgængelighed | Test, rådgivning og workshops",        
+        "text": "Ydelser",
+        "url": "/Ydelser/"
+    },
+    "about": {
+        "title": "Om os",        
+        "text": "Om os",
+        "url": "/Om-os/"
+    },
+    "blog": {
+        "title": "Blog",        
+        "text": "Blog",
+        "url": "/artikler/"
+    },
+    "contact": {
+        "title": "Kontakt os",        
+        "text": "Kontakt os",
+        "url": "/Kontakt-os/"
+    }
+}

@@ -1,0 +1,9 @@
+---
+layout: layouts/page.njk
+eleventyComputed:
+  page_lang: "sv"
+  permalink: "{{ translations[page_lang].navigation.blog.url }}"
+  title: "{{ translations[page_lang].navigation.blog.title }}"
+---
+
+{% set postslist = collections.posts %} {% include "postslist.njk" %}

@@ -1,0 +1,37 @@
+{
+    "section": [
+        {
+            "paragraph": [
+                "We are ready to help you with web accessibility and digital inclusion.",
+                "No problem is too small, but we also handle the big projects. If we do not have the resources ourselves in our small company, we have a large network of business partners that we can draw on.",
+                "We have an office in Aalborg, and consultants in both Jutland and the Copenhagen area."
+            ]
+        },
+        {
+            "heading": "Feel free to contact us",
+            "paragraph1": [
+                "If you have any questions, would like a quote, or want to book a meeting, you are welcome to contact us."
+            ],
+            "call_to_action": "Book a meeting",
+            "paragraph2": [
+                "Call <a href=\"tel:+45 26 34 34 55\">+45 26 34 34 55</a>",
+                "Send an email to <a href=\"mailto:ses@inklusio.dk\">ses@inklusio.dk</a>"
+            ]
+        },
+        {
+            "heading": "Address",
+            "paragraph": [
+                "You can visit us at:",
+                "C.A.Olesens Gade 4<br>9000 Aalborg",
+                "We also have the possibility to meet in the Copenhagen area."
+            ]
+        },
+        {
+            "heading": "Follow us",
+            "paragraph": [
+                "For tips and updates on web accessibility:<br>",
+                "<a href=\"https://www.linkedin.com/company/inklusio/\" target=\"_blank\">Follow Inklusio on LinkedIn</a>"
+            ]
+        }
+    ]
+}

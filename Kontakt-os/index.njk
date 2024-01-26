@@ -1,33 +1,59 @@
 ---
 layout: layouts/page.njk
-title: Kontakt os
 templateClass: tmpl-contact
-eleventyNavigation:
-  key: Kontakt os
-  order: 6
+
+eleventyComputed:
+  page_lang: "da"
+  permalink: "{{ translations[page_lang].navigation.contact.url }}"
+  title: "{{ translations[page_lang].navigation.contact.title }}"
 ---
-<p>Vi står klar til at hjælpe dig med webtilgængelighed og digital inklusion.</p>
-<p>Intet problem er for lille, men vi klarer også de store projekter. Har vi ikke selv ressourcene i vores lille virksomhed har vi et stort netværk af samarbejdspartnere som vi kan trække på.</p>
-<p>Vi har kontor i Aalborg og konsulenter i både Jylland og Københavnsområdet.</p>
 
-<h2>Kontakt os meget gerne</h2>
+<!-- Translation Data -->
+{% set pageData = translations[page.lang].pages.contact %} {% set keywords =
+translations[page.lang].keywords %}
 
-<p>Hvis du har spørgsmål, ønsker et tilbud eller gerne vil booke et uforpligtende møde, er du velkommen til at kontakte os.</p>
+<div class="row mb-5">
+  <div class="col-12">
+    {% for paragraph in pageData.section[0].paragraph %}
+    <p>
+      {{ paragraph | safe }}
+    </p>
+    {% endfor %}
 
-<a href="https://calendly.com/inklusio-ses/1-1" class="btn btn-primary" target="_blank">Book et møde</a>
+    <h2>{{ pageData.section[1].heading }}</h2>
 
-<p><br>Ring til <a href="tel:+4526343455">+45 26 34 34 55</a></p>
-<p>Send en mail til <a href="mailto:info@inklusio.dk">ses@inklusio.dk</a></p>
+    {% for paragraph in pageData.section[1].paragraph1 %}
+    <p>
+      {{ paragraph | safe }}
+    </p>
+    {% endfor %}
 
-<h2>Adresse</h2>
+    <p>
+      <a href="https://calendly.com/inklusio-ses/1-1" class="btn btn-primary" target="_blank">
+        {{ pageData.section[1].call_to_action }}
+      </a>
+    </p>
 
-<p>Du kan besøge os på:</p>
+    {% for paragraph in pageData.section[1].paragraph2 %}
+    <p>
+      {{ paragraph | safe }}
+    </p>
+    {% endfor %}
 
-<p>C.A.Olesens Gade 4<br>
-9000 Aalborg</p>
+    <h2>{{ pageData.section[2].heading }}</h2>
 
-<p>Vi har også mulighed for at mødes i Københavnsområdet.</p>
+    {% for paragraph in pageData.section[2].paragraph %}
+    <p>
+      {{ paragraph | safe }}
+    </p>
+    {% endfor %}
 
-<h2>Følg os</h2>
-<p>For tips og opdateringer om webtilgængelighed:<br>
-<a href="https://www.linkedin.com/company/inklusio/" target="_blank">Følg Inklusio på LinkedIn</a></p>
+    <h2>{{ pageData.section[3].heading }}</h2>
+
+    {% for paragraph in pageData.section[3].paragraph %}
+    <p>
+      {{ paragraph | safe }}
+    </p>
+    {% endfor %}
+  </div>
+</div>
