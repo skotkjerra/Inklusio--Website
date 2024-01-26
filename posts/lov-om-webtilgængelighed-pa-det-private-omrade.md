@@ -10,6 +10,7 @@ tags:
   - E-handel
   - Webtilgængelighed
   - Digital inklusion
+  - E-commerce
 ---
 Siden efteråret 2019 har det været lovpligtigt, at offentlige websteder og apps skal være tilgængelige for alle borgere uanset eventuelle handicap eller funktionsnedsættelser. Det betyder populært sagt, at synshandicappede skal kunne navigere rundt på en app eller webside med en skærmlæser, en døv skal kunne læse tekstede udgaver af videoer og lignende.
 
@@ -24,7 +25,7 @@ De danske love er implementeringer af fælles EU-regler, og ensartede europæisk
 
 Den kommende lov med krav om tilgængelighed for produkter og ydelser kommer til at gælde for udvalgte digitale produkter og tjenester, og set med Inklusios øjne er de vigtigste:
 
-* E-handelstjenester til onlinesalg
+* E-handelstjenester til onlinesalg (webshops, e-commerce)
 * Banktjenester som kreditaftaler, betalingskonti og elektroniske penge
 * Websteder, online- og mobilapplikationer som giver adgang til streamingtjenester
 * E-bøger og software

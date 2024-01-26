@@ -40,8 +40,9 @@
                     </div>
     
                     <div class="mt-4">
-                            Inklusio ApS<br>
-                            CVR: 41066784
+                        Inklusio ApS<br>
+                        CVR: 41066784<br>
+                        <a class="text-decoration-underline text-white" {% if "/persondata/" == page.url %} aria-current="page"{% endif %} href="/persondata/">{{ keywords.privacy_policy }}</a>
                     </div>
                 </div>
             </div>
@@ -52,7 +53,7 @@
                 <div class="mt-4">
                     {% for _, navObj in navigationData %}
                         <div>
-                            <a class="text-decoration-underline text-white {% if navObj.url == page.url %} text-decoration-underline {% endif %}" {% if navObj.url == page.url %} aria-current="page"{% endif %} href="{{ navObj.url }}">{{ navObj.text }}</a>
+                            <a class="text-decoration-underline text-white" {% if navObj.url == page.url %} aria-current="page"{% endif %} href="{{ navObj.url }}">{{ navObj.text }}</a>
                         </div>
                     {% endfor %}
                 </div>

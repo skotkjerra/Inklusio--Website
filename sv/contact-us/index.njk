@@ -16,19 +16,44 @@ translations[page.lang].keywords %}
   <div class="col-12">
     {% for paragraph in pageData.section[0].paragraph %}
     <p>
-      {{ paragraph }}
+      {{ paragraph | safe }}
     </p>
     {% endfor %}
 
-    <ul>
-      <li>{{ keywords.phone }} <a href="tel:+4526343455">+45 26 34 34 55</a></li>
-      <li>
-        {{ keywords.send_email }}
-        <a href="mailto:info@inklusio.dk">ses@inklusio.dk</a>
-      </li>
-      <li>
-        {{ keywords.visit_address }}: Fredrik Bajers Vej 300, 9220 Aalborg Ø
-      </li>
-    </ul>
+    <h2>{{ pageData.section[1].heading }}</h2>
+
+    {% for paragraph in pageData.section[1].paragraph1 %}
+    <p>
+      {{ paragraph | safe }}
+    </p>
+    {% endfor %}
+
+    <p>
+      <a href="https://calendly.com/inklusio-ses/1-1" class="btn btn-primary" target="_blank">
+        {{ pageData.section[1].call_to_action }}
+      </a>
+    </p>
+
+    {% for paragraph in pageData.section[1].paragraph2 %}
+    <p>
+      {{ paragraph | safe }}
+    </p>
+    {% endfor %}
+
+    <h2>{{ pageData.section[2].heading }}</h2>
+
+    {% for paragraph in pageData.section[2].paragraph %}
+    <p>
+      {{ paragraph | safe }}
+    </p>
+    {% endfor %}
+
+    <h2>{{ pageData.section[3].heading }}</h2>
+
+    {% for paragraph in pageData.section[3].paragraph %}
+    <p>
+      {{ paragraph | safe }}
+    </p>
+    {% endfor %}
   </div>
 </div>
