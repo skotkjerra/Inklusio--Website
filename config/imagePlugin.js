@@ -4,11 +4,11 @@ module.exports = {
   asyncImage: async function(src, alt, sizes) {
     let metadata = await Image(src, {
       widths: [400, 800, 1200],
-      formats: ["png", "jpeg"],
+      formats: src.endsWith('.jpg') || src.endsWith('.jpeg') ? ["jpeg"] : ["png", "jpeg"],
       outputDir: '_site/assets/images',
       urlPath: '/assets/images',
     });
-    
+
     let imageAttributes = {
       alt,
       sizes,
