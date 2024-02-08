@@ -1,9 +1,9 @@
 {
   "title": "Inklusio",
   "url": "https://inklusio.dk/en/",
-  "description": "Inklusio advises on web accessibility and digital inclusion from starting the process to testing the finished solution",
+  "description": "Inklusio provides advise, training and evaluation within web accessibility and digital inclusion from starting the process to testing the finished solution",
   "feed": {
-    "subtitle": "Inklusio nyhedsstr&oslash;m",
+    "subtitle": "Inklusio News feed",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://inklusio.dk/"
