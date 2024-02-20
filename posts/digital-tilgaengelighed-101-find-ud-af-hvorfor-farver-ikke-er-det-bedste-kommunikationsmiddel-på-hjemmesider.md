@@ -93,4 +93,4 @@ Det her er ikke et opråb om, at du skal fjerne al farve på din hjemmeside. Det
 Efter at have læst denne artikel, håber vi, at du føler dig bedre klædt på til at designe eller re-designe din hjemmeside, så den bliver inkluderende for alle.
 
 Læs mere om WCAG-succeskriteriet [1.4.1 Anvendelse af farve ](https://www.w3.org/WAI/WCAG21/Understanding/use-of-color.html)(Engelsk)
-Læs blogindlægget ”[Sådan sikrer du tekst-kontrast på din digitale løsning](https://inklusio.dk/posts/digital-tilg%C3%A6ngelighed-101-lever-dine-tekster-op-til-kravet-om-kontrast/)”.
+Læs vores blogindlæg [Digital Tilgængelighed 101: Lever dine tekster op til kravet om kontrast?](https://inklusio.dk/posts/digital-tilgaengelighed-101-lever-dine-tekster-op-til-kravet-om-kontrast/)
