@@ -1,6 +1,6 @@
 {
     "home": {
-        "title": "Webtilgængelighed, WCAG 2.1 test og rådgivning",
+        "title": "Web accessibility, training, advise and test",
         "text": "Home",
         "url": "/en/"
     },
@@ -11,8 +11,8 @@
     },
     "benefits": {
         "title": "Web Accessibility | Tests, advice and workshops",
-        "text": "Benefits",
-        "url": "/en/benefits/"
+        "text": "Services",
+        "url": "/en/services/"
     },
     "about": {
         "title": "About Us",
