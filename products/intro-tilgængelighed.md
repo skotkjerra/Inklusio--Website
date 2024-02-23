@@ -18,18 +18,18 @@ cta: Læs om Intro til webtilgængelighed
 
 <p>Vi har gennem årene specialiseret os i at bruge en lang række værktøjer til at sikre og udvikle tilgængeligheden på apps og websteder. Den viden deler vi med dig og dit team, så I fremover kan løse flere af udfordringerne uden hjælp udefra. Vi kan godt lave arbejdet for dig, men vi vil meget hellere lave det med dig.</p>
 
-<p>Der er mange gode grunde til at tænke tilgængelighed ind så tidligt som muligt i processen med at udvikle din webside og/eller app. Du kan spare penge, du kan forbedre kundeoplevelsen, opnå bedre SEO og øge din performance for blot at nævne nogle få fordele.</p>
+<p>Der er mange gode grunde til at tænke tilgængelighed ind så tidligt som muligt i processen med at udvikle din webside og/eller app. Du sparer penge, du forbedrer kundeoplevelsen, opnår bedre SEO og øger din performance for blot at nævne nogle få fordele.</p>
 
 <a href="#CTA" class="btn btn-primary">Få et uforpligtende tilbud på en workshop</a>
 
 ## Webtilgængelighed – også godt for bundlinjen 
 <p>Med workshoppen ”Intro til webtilgængelighed” får du mulighed for at: </p>
 
-* <b>Få viden til at overholde lovgivning og standarder </b> - Workshoppen kan sikre, at dit produkt opfylder tilgængelighedslovgivning og standarder såsom WCAG. Dette reducerer risikoen for retssager og andre negative konsekvenser.
-* <b>Forbedre din løsnings brugeroplevelse</b> - Ved at forbedre tilgængeligheden kan man forbedre den generelle brugeroplevelse for alle brugere, uanset om de har et handicap eller ej. Dette kan øge brugertilfredshed og -engagement og føre til øget salg og indtjening.
-* <b>Opkvalificere jeres viden</b> - I kan drage nytte af vores viden og erfaring med inkludering af tilgængelighed i udvikling af web- eller app-løsning. Denne viden kan I tage med i fremtidige udviklingsprojekter, hvor I vil have et solidt udgangspunkt til at udvikle tilgængelige løsninger.
-* <b>Få positivt omdømme</b> - En virksomhed, der prioriterer tilgængelighed og inklusion, kan opbygge et positivt omdømme og differentiere sig fra konkurrenterne.
-* <b>Vise social ansvarlighed</b> - At tage hensyn til tilgængelighed er også et spørgsmål om socialt ansvar og kan bidrage til at skabe et mere inkluderende samfund.
+* <b>Få viden til at overholde lovgivning og standarder </b> – Workshoppen kan sikre, at dit produkt opfylder tilgængelighedslovgivning og standarder såsom WCAG. Dette reducerer risikoen for retssager og andre negative konsekvenser.
+* <b>Forbedre din løsnings brugeroplevelse</b> – Ved at forbedre tilgængeligheden forbedrer man den generelle brugeroplevelse for alle brugere, uanset om de har et handicap eller ej. Dette kan øge brugertilfredshed og -engagement og føre til øget salg og indtjening.
+* <b>Opkvalificere jeres viden</b> – I kan drage nytte af vores viden og erfaring med inkludering af tilgængelighed i udvikling af web- eller app-løsning. Denne viden kan I tage med i fremtidige udviklingsprojekter, hvor I vil have et solidt udgangspunkt til at udvikle tilgængelige løsninger.
+* <b>Få positivt omdømme</b> – En virksomhed, der prioriterer tilgængelighed og inklusion, kan opbygge et positivt omdømme og differentiere sig fra konkurrenterne.
+* <b>Vise social ansvarlighed</b> – At tage hensyn til tilgængelighed er også at tage socialt ansvar, hvilket bidrager til at skabe et mere inkluderende samfund.
 
 ## Det kan du forvente af workshoppen 
 ### Halv dag: 
@@ -49,7 +49,7 @@ Det samme som ved en halv dag og derudover:
 ## Praktisk information
 <p>Hvis du har bestemt dig for at gennemføre workshoppen sammen med dine kolleger, så kontakt os, og vi vil i fællesskab finde en dato, der passer alle parter.</p> 
 
-<p>Selve workshoppen vil ske enten på fysiske møder eller via Teams.</p>
+<p>Selve workshoppen kan foregå via fysiske møder eller via Teams.</p>
 
 ## Undervisere
 <p>Inklusio består af erfarne undervisere, konsulenter og rådgivere, der brænder for at skabe en inkluderende digital verden.</p> 
