@@ -1,5 +1,5 @@
 ---
-title: Collaborative test workshop
+title: Workshop: Collaborative Test
 summary: "Du medbringer de produkter, du vil fokusere på, og sammen tester vi for tilgængelighed og identificerer potentielle udfordringer og løsninger."
 cta: Læs om collaborative test
 ---
@@ -10,10 +10,10 @@ cta: Læs om collaborative test
 <p>Sammen med vores erfarne tilgængelighedskonsulenter vil du lære at udføre simple manuelle tilgængelighedstests og få konkrete løsningsforslag til potentielle udfordringer.</p>
 <p>Denne workshop har fokus på, at I selv på sigt skal kunne udføre tilgængelighedstests uden ekstern hjælp.</p>
 
-## Hvad er collaborative test? 
+## Hvad er Collaborative Test? 
 
 <p>I workshoppen vil vi i fællesskab teste jeres løsning for tilgængelighed. </p>
-<p>Collaborative testing-workshoppen vil give jer kompetencerne til selv at kunne udføre simple manuelle tilgængelighedstests, som I vil kunne benytte i jeres videre arbejde med tilgængelighed af løsningen. </p>
+<p>Collaborative Testing-workshoppen vil give jer kompetencerne til selv at kunne udføre simple manuelle tilgængelighedstests, som I vil kunne benytte i jeres videre arbejde med tilgængelighed af løsningen. </p>
 <p>I denne workshop vil I også stifte bekendtskab med hjælpeteknologier såsom skærmlæser, forstørrelse af tekst, stemmestyring og navigation med tastatur. I vil lære, hvordan hjælpeteknologierne fungerer og hvilken forskel tilgængelighed gør for dem, der benytter jeres løsning, ligesom vi ser på jeres muligheder for forbedringer.</p>
 
 <a href="#CTA" class="btn btn-primary">Få et uforpligtende tilbud på en workshop</a>
