@@ -1,5 +1,5 @@
 ---
-title: Workshop Collaborative Test
+title: Workshop: Collaborative Test
 summary: "Du medbringer de produkter, du vil fokusere på, og sammen tester vi for tilgængelighed og identificerer potentielle udfordringer og løsninger."
 cta: Læs om collaborative test
 ---
@@ -40,7 +40,7 @@ cta: Læs om collaborative test
 <a href="#CTA" class="btn btn-primary">Få et uforpligtende tilbud på en workshop</a>
 
 ## Praktisk information
-<p>Når du har valgt hvilken løsning du ønsker, at vi skal teste sammen, vil vores team afsætte tid til at analysere løsningen med fokus på webtilgængelighed. Dernæst vil vi aftale en dag, hvor vi sammen kan teste løsningen for tilgængelighed.</p>
+<p>Når du har givet os adgang til den løsning, som du ønsker, at vi skal teste sammen, vil vores team afsætte tid til at analysere løsningen med fokus på webtilgængelighed. Dernæst vil vi aftale en dag, hvor vi sammen kan teste løsningen for tilgængelighed.</p>
 <p>I workshoppen vil vi sammen identificere tilgængelighedsproblemer, og vi vil snakke om, hvordan I løser dem, og hvordan I kan organisere dem i jeres backlog. </p>
 
 ## Undervisere
