@@ -30,7 +30,7 @@ cta: Læs om collaborative test
 * <b>Forbedret brugeroplevelse</b> – Ved at forbedre tilgængeligheden kan man forbedre den generelle brugeroplevelse for alle brugere, uanset om de har et handicap eller ej. Dette kan øge brugertilfredshed og -engagement og føre til øget salg og indtjening.
 * <b>Bedre omdømme</b> – Virksomheder, der er engagerede i at skabe mere tilgængelige løsninger, kan også forbedre deres omdømme og positionere sig selv som en inkluderende og ansvarlig virksomhed.
 
-## Det kan du forvente af collaborative test
+## Det kan du forvente af Collaborative Test
 * Læring om hvordan du tester, om dit produkt er tilgængeligt – med kompetente tilgængelighedskonsulenter med tilsammen over 30 års erfaring
 * Konkrete løsningsforslag til potentielle udfordringer med tilgængelighed 
 * Lær at teste uden ekstern hjælp 
