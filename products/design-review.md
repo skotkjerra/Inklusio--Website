@@ -1,5 +1,5 @@
 ---
-title: Design review
+title: Design Review
 summary: "Investér i et design review og sikr, at dit produkt eller website er tilgængeligt for alle. Design reviewet er en gennemgang af interface mock-ups eller designsystemer med det mål at forebygge tilgængelighedsproblemer før udviklingerne begynder at skrive koden."
 cta: Læs om design review
 ---
