@@ -1,5 +1,5 @@
 ---
-title: Workshop: Collaborative Test
+title: "Workshop: Collaborative Test"
 summary: "Du medbringer de produkter, du vil fokusere på, og sammen tester vi for tilgængelighed og identificerer potentielle udfordringer og løsninger."
 cta: Læs om collaborative test
 ---
