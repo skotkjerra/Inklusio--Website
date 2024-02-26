@@ -23,7 +23,7 @@ cta: Læs om collaborative test
 * <b>Bedre samarbejde på tværs af afdelinger</b> – Denne workshop kan fremme samarbejdet og kommunikationen på tværs af afdelinger i virksomheden, hvilket bidrager til bedre løsninger og en mere effektiv arbejdsproces.
 * <b>Udvikling af kompetencer</b> – Ved at lære at udføre manuelle tilgængelighedstests og arbejde med hjælpeteknologier, vil medarbejderne i virksomheden udvikle deres egne kompetencer og blive mere erfarne inden for området.
 * <b>Mulighed for at opdage og rette fejl</b> – Workshoppen kan hjælpe jer med at opdage og rette fejl og mangler i jeres løsninger, så I kan forbedre brugeroplevelsen og undgå potentiel negativ feedback.
-* <b>Spar penge</b> – Eventuelle fejl og mangler kan opdages i tide og rettes, før løsningen går i produktion. Dette reducerer omkostningerne, da du undgår at skulle lave omfattende ændringer senere i processen.
+* <b>Spar penge</b> – Fejl og mangler kan opdages i tide og rettes, før løsningen går i produktion. Dette reducerer omkostningerne, da du undgår at skulle lave omfattende ændringer senere i processen.
 * <b>Spar tid</b> – Hjemmesiden eller appen bliver udviklet så effektivt som muligt, så du undgår unødvendige forsinkelser.
 * <b>Bedre forståelse for målgruppen</b> – Ved at deltage i test-along workshops og få en bedre forståelse for hjælpeteknologier og brugeroplevelser, kan virksomheder øge deres forståelse for deres målgruppe og deres behov.
 * <b>Overholdelse af lovgivning og standarder</b> – Collaborative Testing-workshoppen kan sikre, at produktet opfylder tilgængelighedslovgivning og standarder såsom WCAG. Dette reducerer risikoen for retssager og andre negative konsekvenser.
