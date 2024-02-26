@@ -18,7 +18,7 @@ cta: Læs om Intro til webtilgængelighed
 
 <p>Vi har gennem årene specialiseret os i at bruge en lang række værktøjer til at sikre og udvikle tilgængeligheden på apps og websteder. Den viden deler vi med dig og dit team, så I fremover kan løse flere af udfordringerne uden hjælp udefra. Vi kan godt lave arbejdet for dig, men vi vil meget hellere lave det med dig.</p>
 
-<p>Der er mange gode grunde til at tænke tilgængelighed ind så tidligt som muligt i processen med at udvikle din webside og/eller app. Du sparer penge, du forbedrer kundeoplevelsen, opnår bedre SEO og øger din performance for blot at nævne nogle få fordele.</p>
+<p>Der er mange gode grunde til at tænke tilgængelighed ind så tidligt som muligt i processen med at udvikle dit websted og/eller app. Du sparer penge, du forbedrer kundeoplevelsen, opnår bedre SEO og øger din performance for blot at nævne nogle få fordele.</p>
 
 <a href="#CTA" class="btn btn-primary">Få et uforpligtende tilbud på en workshop</a>
 
