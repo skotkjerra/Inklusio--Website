@@ -21,13 +21,13 @@ cta: Læs om design review
 ## Design reviews skaber stor værdi
 Med en gennemgang af dit design får du bl.a. følgende fordele: 
 
-* <b>Spar penge </b> – Eventuelle fejl og mangler kan opdages i tide og rettes, før løsningen går i produktion.  Dette reducerer omkostningerne, da du undgår at skulle lave omfattende ændringer senere i processen.
+* <b>Spar penge </b> – Fejl og mangler kan opdages i tide og rettes, før løsningen går i produktion.  Dette reducerer omkostningerne, da du undgår at skulle lave omfattende ændringer senere i processen.
 
 * <b>Spar tid</b> – Hjemmesiden eller appen bliver udviklet så effektivt som muligt, så du undgår unødvendige forsinkelser.
 
 * <b>Overholdelse af lovgivning og standarder</b> – Design reviewet kan sikre, at produktet opfylder tilgængelighedslovgivning og standarder såsom WCAG. Dette reducerer risikoen for retssager og andre negative konsekvenser.
 
-* <b>Forbedret brugeroplevelse</b> – Ved at forbedre tilgængeligheden kan man forbedre den generelle brugeroplevelse for alle brugere, uanset om de har et handicap eller ej. Dette kan øge brugertilfredshed og -engagement og føre til øget salg og indtjening.
+* <b>Forbedret brugeroplevelse</b> – Ved at forbedre tilgængeligheden forbedrer man den generelle brugeroplevelse for alle brugere, uanset om de har et handicap eller ej. Dette kan øge brugertilfredshed og -engagement og føre til øget salg og indtjening.
 
 * <b>Opkvalificér jeres viden </b> – Ved at få vores input og ekspertise med tilgængelighed i designprocessen kan I drage nytte af vores viden og erfaring med inkludering af tilgængelighed i udvikling af web- eller app-løsninger. Denne viden kan I tage med i fremtidige udviklingsprojekter, hvor I vil have et solidt udgangspunkt for at udvikle tilgængelige løsninger.
 
