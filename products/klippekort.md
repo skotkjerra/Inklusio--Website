@@ -22,9 +22,9 @@ cta: Læs om klippekort
 ## Det kan du forvente ved køb af et klippekort 
 Med et klippekort får du bl.a. følgende fordele: 
 
-* Få rådgivning når det passer dig
+* Få rådgivning, når det passer dig
 * Få svar på konkrete problemstillinger
-* Få løbende feedback på din løsningsforslag
+* Få løbende feedback på dine løsningsforslag
 * Giv dine ansatte fri mulighed for at kontakte os, når behovet opstår
 * Få evalueret designs eller kode for komponenter 
 * Rådgivning fra Danmarks førende eksperter i webtilgængelighed  
@@ -40,7 +40,7 @@ Med et klippekort får du bl.a. følgende fordele:
 <p>Vi kan hjælpe din arbejdsplads med at sætte mål, udvikle strategier og sikre bred forankring af de nødvendige ændringsprocesser, når det gælder arbejdet med tilgængelighed.</p>
 
 ### Tilgængelighedserklæringer
-<p>Det kan være svært at danne sig et overblik over niveauet af tilgængelighed på ens websted eller sin app, men det er nødvendigt for at kunne udfylde tilgængelighedserklæringer, som er lovpligtige for den offentlige sektor.</p>
+<p>Det kan være svært at danne sig et overblik over niveauet af tilgængelighed på ens websted eller app, men det er nødvendigt for at kunne udfylde tilgængelighedserklæringer, hvilket er lovpligtigt for den offentlige sektor.</p>
 
 <a href="#CTA" class="btn btn-primary">Få et tilbud på et klippekort</a>
 
