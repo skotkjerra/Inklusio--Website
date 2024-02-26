@@ -24,7 +24,7 @@ Vælger I todages-workshoppen, får I undervisning i både app og webløsninger,
 * <b>Få bedre omdømme</b> – Virksomheder, der er engagerede i at skabe tilgængelige løsninger, kan forbedre deres omdømme og positionere sig som en inkluderende og ansvarlig virksomhed.
 * <b>Lære at indtænke tilgængelighed fra starten </b> – Eventuelle fejl og mangler kan opdages i tide og rettes, før løsningen går i produktion. Dette reducerer omkostningerne, da du undgår at skulle lave omfattende ændringer senere i processen.
 * <b>Spare tid </b> – Hjemmesiden eller appen bliver udviklet så effektivt som muligt, så du undgår unødvendige forsinkelser.
-* <b>Opnå bedre samarbejde på tværs af afdelinger </b> – Denne workshop kan fremme samarbejdet og kommunikationen på tværs af forskellige afdelinger i virksomheden, hvilket kan bidrage til bedre løsninger og en mere effektiv arbejdsproces.
+* <b>Opnå bedre samarbejde på tværs af afdelinger </b> – Denne workshop kan fremme samarbejdet og kommunikationen på tværs af forskellige afdelinger i virksomheden, hvilket bidrager til bedre løsninger og en mere effektiv arbejdsproces.
 * <b>Opkvalificere</b> – Ved at lære om hjælpeteknologier, vil medarbejderne i virksomheden også kunne tage informerede beslutninger om designet af en løsning.
 * <b>Overholdelse af lovgivning og standarder</b> – Viden fra workshoppen kan bruges til at sikre, at produkter opfylder tilgængelighedslovgivning og standarder såsom WCAG. Dette reducerer risikoen for retssager og andre negative konsekvenser.
 * <b>Forbedret brugeroplevelse </b> – Ved at forbedre tilgængeligheden forbedrer man den generelle brugeroplevelse for alle brugere, uanset om de har et handicap eller ej. Dette kan øge brugertilfredshed og -engagement og føre til øget salg og indtjening.
