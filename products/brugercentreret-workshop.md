@@ -1,5 +1,5 @@
 ---
-title: "Workshop: Forstå dine brugere"
+title: "Workshop: Forstå dine Brugere"
 summary: "Bliv fortrolig med hjælpeteknologier såsom skærmlæsere, tekstforstørrelse, stemmestyring og tastaturnavigation, så du selv kan udføre grundlæggende test af løsninger på de mest almindelige hjælpeteknologier for handicappede."
 cta: Læs om Forstå dine brugere
 ---
@@ -11,28 +11,28 @@ cta: Læs om Forstå dine brugere
 ## Hvad får vi ud af workshoppen? 
 
 <p>Vi tilbyder workshoppen som én eller to dages workshop.</p> 
-<p>I éndagsudgaven vælger du undervisning i enten app- eller webløsninger. Jeres deltagere får introduktion til tilgængelighed, indsigt i standarder og lovgivning og afslutningsvis demonstreret, hvordan forskellige hjælpeteknologier fungerer.</p>
+<p>I éndags-workshoppen vælger du undervisning i enten app- eller webløsninger. Jeres deltagere får introduktion til tilgængelighed, indsigt i standarder og lovgivning og afslutningsvis demonstreret, hvordan forskellige hjælpeteknologier fungerer.</p>
 <p>
-Vælger I todagesudgaven, får I undervisning i både app og webløsninger, og I kommer dybere ned i både teori og praksis. Todages-workshoppen byder også på en række praktiske øvelser, så det bliver klart for deltagerne, hvad de skal fokusere på, før de begynder at udvikle en ny løsning. Hvis jeres ønske er, at deltagerne selv skal lære at teste for tilgængelighed og på sigt kunne klare sig uden ekstern hjælp, så er det helt klart todages-workshoppen, I skal vælge.</p>
+Vælger I todages-workshoppen, får I undervisning i både app og webløsninger, og I kommer dybere ned i både teori og praksis. Todages-workshoppen byder også på en række praktiske øvelser, så det bliver klart for deltagerne, hvad de skal fokusere på, før de begynder at udvikle en ny løsning. Hvis jeres ønske er, at deltagerne selv skal lære at teste for tilgængelighed og på sigt kunne klare sig uden ekstern hjælp, så er det helt klart todages-workshoppen, I skal vælge.</p>
 
 <a href="#CTA" class="btn btn-primary">Få et uforpligtende tilbud på en workshop</a>
 
 ## Hvis du forstår din målgruppe, <br> så bliver udvikling af løsninger en leg 
-<p>Med workshoppen ”Forstå dine brugere ” får du mulighed for at:</p>
+<p>Med workshoppen ”Forstå dine brugere” får du mulighed for at:</p>
 
 * <b>Blive klogere på målgruppen</b> – Deltagerne vil lære at sætte sig i brugerens sted og dermed kunne evaluere og forbedre digitale løsninger på en måde, der tager hensyn til brugernes behov og udfordringer.
-* <b>Få bedre omdømme</b> – Virksomheder, der er engageret i at skabe mere tilgængelige løsninger, kan også forbedre deres omdømme og positionere sig selv som en inkluderende og ansvarlig virksomhed.
-* <b>Lære at indtænke tilgængelighed fra starten </b> – Eventuelle fejl og mangler kan opdages i tide og rettes, før løsningen går i produktion. Dette kan reducere omkostningerne, da du undgår at skulle lave omfattende ændringer senere i processen.
+* <b>Få bedre omdømme</b> – Virksomheder, der er engagerede i at skabe tilgængelige løsninger, kan forbedre deres omdømme og positionere sig som en inkluderende og ansvarlig virksomhed.
+* <b>Lære at indtænke tilgængelighed fra starten </b> – Eventuelle fejl og mangler kan opdages i tide og rettes, før løsningen går i produktion. Dette reducerer omkostningerne, da du undgår at skulle lave omfattende ændringer senere i processen.
 * <b>Spare tid </b> – Hjemmesiden eller appen bliver udviklet så effektivt som muligt, så du undgår unødvendige forsinkelser.
 * <b>Opnå bedre samarbejde på tværs af afdelinger </b> – Denne workshop kan fremme samarbejdet og kommunikationen på tværs af forskellige afdelinger i virksomheden, hvilket kan bidrage til bedre løsninger og en mere effektiv arbejdsproces.
 * <b>Opkvalificere</b> – Ved at lære om hjælpeteknologier, vil medarbejderne i virksomheden også kunne tage informerede beslutninger om designet af en løsning.
-* <b>Overholdelse af lovgivning og standarder</b> – Viden fra workshoppen kan bruges til at sikre, at produkter opfylder tilgængelighedslovgivning og standarder såsom WCAG. Dette kan reducere risikoen for retssager og andre negative konsekvenser.
-* <b>Forbedret brugeroplevelse </b> – Ved at forbedre tilgængeligheden kan man forbedre den generelle brugeroplevelse for alle brugere, uanset om de har et handicap eller ej. Dette kan øge brugertilfredshed og -engagement og føre til øget salg og indtjening.
+* <b>Overholdelse af lovgivning og standarder</b> – Viden fra workshoppen kan bruges til at sikre, at produkter opfylder tilgængelighedslovgivning og standarder såsom WCAG. Dette reducerer risikoen for retssager og andre negative konsekvenser.
+* <b>Forbedret brugeroplevelse </b> – Ved at forbedre tilgængeligheden forbedrer man den generelle brugeroplevelse for alle brugere, uanset om de har et handicap eller ej. Dette kan øge brugertilfredshed og -engagement og føre til øget salg og indtjening.
 * <b>Få undervisning fra Danmarks dygtigste eksperter </b> – Modtag undervisning fra kompetente tilgængelighedskonsulenter med tilsammen over 30 års erfaring.
 
-## Det kan du forvente af Éndagsworkshoppen <br> (Native apps eller web) 
+## Det kan du forvente af Éndags-workshoppen <br> (native apps eller web) 
 * Få viden om forskellige typer af målgrupper med funktionsnedsættelser
-* Få en forståelse af forskellige hjælpeteknologier
+* Få forståelse af forskellige hjælpeteknologier
 * Få indsigt i de typiske udfordringer, som forskellige målgrupper oplever på nettet
 * Indledende kendskab til webtilgængelighedslovgivning og -standarder
 * Demo af hvordan dine løsning opleves af en person, som benytter skærmlæser til daglig
@@ -40,7 +40,7 @@ Vælger I todagesudgaven, får I undervisning i både app og webløsninger, og I
 
 <a href="#CTA" class="btn btn-primary">Få et uforpligtende tilbud på en workshop</a>
 
-## Det kan du forvente af Todagesworkshoppen <br>(Både native apps og webløsninger)
+## Det kan du forvente af Todages-workshoppen <br>(både native apps og webløsninger)
 ### Dag 1 – Introduktion
 * Indledende kendskab til webtilgængelighedslovgivning og -standarder
 * Basal viden om forskellige typer målgrupper 
@@ -50,10 +50,10 @@ Vælger I todagesudgaven, får I undervisning i både app og webløsninger, og I
 
 ### Dag 2 – Praktiske øvelser
 * Demonstration af hjælpeteknologier, som brugerne anvender
-* Deltagerne lærer at teste med og bruge hjælpeteknologier for native apps både på mobil og tablet
-* Deltagerne lærer at teste med og bruge hjælpeteknologier for webløsninger
+* Deltagerne lærer at bruge og teste med hjælpeteknologier for native apps både på mobil og tablet
+* Deltagerne lærer at bruge og teste med hjælpeteknologier for webløsninger
 * Praktiske øvelser for både mobil og webløsninger
-* Sikre at dine løsninger fungerer optimalt for alle brugere
+* Sikre, at dine løsninger fungerer optimalt for alle brugere
 
 <a href="#CTA" class="btn btn-primary">Få et uforpligtende tilbud på en workshop</a>
 
