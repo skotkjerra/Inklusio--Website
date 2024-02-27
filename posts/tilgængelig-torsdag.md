@@ -60,6 +60,6 @@ T﻿ilgængelig Torsdag afholdes den **sidste torsdag hver måned**.
 D﻿e kommende datoer er: 
 
 * **2﻿9. februar 2024** (åben for tilmeldinger) 
-* **2﻿8. marts 2024** (åbner for tilmeldinger d. 1. marts) 
-* **2﻿5. april 2024**
+* **M﻿arts:** Vi holder påskeferie
+* **2﻿5. april 2024** (åbner for tilmeldinger d. 1. marts) 
 * **3﻿0. maj 2024**
