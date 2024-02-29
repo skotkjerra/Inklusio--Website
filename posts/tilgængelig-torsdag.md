@@ -39,8 +39,8 @@ Du tilmelder dig via linksne nedenfor.
 
 **OBS:** Hvis du vil deltage til begge sessioner, så husk at tilmelde dig via begge nedenstående links:
 
-* **﻿[Tilmeld dig Introduktion til webtilgængelighed](https://us02web.zoom.us/webinar/register/WN_PHo0uKq3Qv-VfaFKmJ6IkA)** (﻿kl. 9-10)
-* **[Tilmeld dig Spørg en Ekspert](https://us02web.zoom.us/webinar/register/WN_jIDNEaGwTdaB4aSzdpsPjA)** (kl. 10-11)
+* **[﻿Tilmeld dig Introduktion til webtilgængelighed](https://us02web.zoom.us/webinar/register/WN_UtH0oEcYQbqyaZ77RRGy6Q)** (﻿kl. 9-10)
+* **[Tilmeld dig Spørg en Ekspert](https://us02web.zoom.us/webinar/register/WN__wqNMGT-QG--m8W4tDRe2Q)** (kl. 10-11)
 
 D﻿et koster ikke penge at tilmelde sig.\
 Når du tilmelder dig bliver du tilmeldt vores nyhedsbrev, så du får besked om lignende arrangementer, nyttig viden om webtilgængelighed og markedsføring i fremtiden. Du kan altid framelde dig senere, og vi lover, at vi ikke spammer.
