@@ -49,7 +49,7 @@ Med en gennemgang af dit design får du bl.a. følgende fordele:
 
 ## Praktisk information
 <p>Når du har givet os adgang til jeres design-filer, vil vores team afsætte tid til at analysere jeres design med fokus på brugervenlighed og tilgængelighed. Dette vil hjælpe os med at identificere eventuelle problemer eller barrierer for brugere med forskellige behov og give os mulighed for at komme med anbefalinger til forbedringer af designet.</p>
-<p>Overlevering af vores vurdering kan ske enten via teams eller ved fysiske møder. Baseret på løsningens størrelse vil vi afsætte tid til at gennemgå vores vurderinger og anbefalinger med jer. Dette vil give jer en bedre forståelse af de udfordringer, der er forbundet med inkluderende design, og hvordan vi kan samarbejde om at forbedre tilgængeligheden af jeres løsning.</p>
+<p>Overlevering af vores vurdering kan ske enten via teams eller ved fysiske møder. Baseret på løsningens størrelse vil vi afsætte tid til at gennemgå vores vurderinger og anbefalinger med jer. Dette vil give jer en bedre forståelse af de udfordringer, der er forbundet med inkluderende design, og vi vil i samarbejde udvikle løsningsforslag, der kan forbedre tilgængeligheden af jeres løsning.</p>
 
 ## Undervisere
 <p>Inklusio består af erfarne undervisere, konsulenter og rådgivere, der brænder for at skabe en inkluderende digital verden.</p> 
