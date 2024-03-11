@@ -1,0 +1,12 @@
+---
+layout: layouts/page.njk
+permalink: /sitemap.html
+eleventyExcludeFromCollections: true
+---
+<ul>
+{%- for page in collections.all %}
+  {% set absoluteUrl %}{{ page.url | url | absoluteUrl(metadata.url) }}{% endset %}
+  <li>
+    {{ absoluteUrl }} Last modified: {{ page.date | htmlDateString }}</li>
+{%- endfor %}
+</ul>
