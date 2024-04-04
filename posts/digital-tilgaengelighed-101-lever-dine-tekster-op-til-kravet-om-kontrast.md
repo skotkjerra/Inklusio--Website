@@ -1,7 +1,7 @@
 ---
 title: "Digital Tilgængelighed 101: Lever dine tekster op til kravet om kontrast? "
 date: 2021-09-09T10:44:54.318Z
-author: Katrine Gregersen
+author: Inklusio
 summary: "I denne artikel vil vi hjælpe dig med at få styr på, hvilke regler der
   gør sig gældende for kontrastforhold mellem tekst og tekstens baggrund på
   digitale løsninger, så du skaber bedre webtilgængelighed (web
