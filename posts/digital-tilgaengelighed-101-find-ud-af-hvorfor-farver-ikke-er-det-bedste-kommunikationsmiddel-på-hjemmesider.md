@@ -2,7 +2,7 @@
 title: "Digital tilgængelighed 101: Find ud af, hvorfor farver ikke er det
   bedste kommunikationsmiddel på hjemmesider"
 date: 2021-11-03T11:27:30.014Z
-author: "Katrine Gregersen "
+author: Inklusio
 summary: I dag er det ikke unormalt, at farver bliver benyttet som et
   kommunikationsmiddel. I trafikken kender vi stoplys, der anvender farven rød
   til at formidle, at køretøjerne skal stoppe, mens gul signalerer, at de skal
