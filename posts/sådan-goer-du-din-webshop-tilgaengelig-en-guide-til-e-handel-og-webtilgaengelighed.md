@@ -1,8 +1,8 @@
 ---
-title: "Sådan gør du din webshop tilgængelig - En guide til e-handel og
+title: "Sådan gør du din webshop tilgængelig – En guide til e-handel og
   webtilgængelighed "
 date: 2022-05-10T11:39:32.635Z
-author: Katrine Gregersen
+author: Inklusio
 summary: Skal din webshop leve op til sit fulde potentiale, så tag et kig på
   dens tilgængelighed (accessibility). Fordelene ved webtilgængelighed er mange
   - fra bedre placeringer på Google til muligheder for at sælge til en større
