@@ -1,7 +1,7 @@
 ---
 title: Sådan indskriver du webtilgængelighed i dine kontrakter
 date: 2023-11-20T14:40:13.348Z
-author: Katrine Gregersen
+author: Inklusio
 summary: Skal du have en ekstern leverandør til at udvikle din nye eller
   re-designede hjemmeside eller app? Hvis ja, hvordan sikrer du dig så, at dine
   krav om webtilgængelighed opfyldes?
