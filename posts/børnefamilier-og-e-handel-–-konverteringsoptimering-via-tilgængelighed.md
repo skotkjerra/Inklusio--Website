@@ -19,7 +19,7 @@ Hvis du arbejder med e-commerce, går du sikkert meget op i søgemaskineoptimeri
 
 Men husker du også at forbedre din webshops webtilgængelighed (accessibility) i jagten på de ekstra konverteringer? 
 
-Mange webshopejere skal snart til at tænke på tilgængelighed, fordi lov om tilgængelighedskrav for produkter og tjenester (tilgængelighedsloven, en implementering af EU-direktivet European Accessibility Act) træder i kraft 28. juni 2025.  
+Mange webshopejere skal snart til at tænke på tilgængelighed, fordi lov om tilgængelighedskrav for produkter og tjenester (tilgængelighedsloven, en implementering af EU-direktivet European Accessibility Act, EAA) træder i kraft 28. juni 2025.
 
 Men der er mange gode grunde ($$$) til at komme i gang med at optimere tilgængelighed på sin webshop allerede i dag og få et forspring i forhold til konkurrenterne. 
 
@@ -49,7 +49,7 @@ At have nok tid er vigtigt for brugere med funktionsnedsættelser, da de ofte ha
 
 Når Lov om tilgængelighedskrav for produkter og tjenester (eller tilgængelighedsloven) træder i kraft 28. juni 2025, kommer der til at være krav om, at alle nye webshops skal være tilgængelige, og senest 28. juni 2030 skal alle eksisterende webshops også være tilgængelige.  
 
-Men lovkravene er ikke den eneste grund til at tænke tilgængelighed ind i e-handel. Ifølge Eurostat rapporterede 32,8% af danskere mellem 16 og 64 år i 2023 at de havde en funktionsnedsættelse (og i gruppen af danskere over 65 år er tallet helt oppe på 48,3%!) 
+Men lovkravene er ikke den eneste grund til at tænke tilgængelighed ind i e-handel. Ifølge Eurostat rapporterede 32,8 % af danskere mellem 16 og 64 år i 2023 at de havde en funktionsnedsættelse (og i gruppen af danskere over 65 år er tallet helt oppe på 48,3 %!) 
 
 Ifølge Danske Handicaporganisationer oplever 49% af personer med funktionsnedsættelser besvær med at anvende digitale løsninger, mod kun 15% af de personer, som svarer, at de ikke har et handicap eller længerevarende helbredsproblemer.  
 
