@@ -27,13 +27,13 @@ Men der er mange gode grunde ($$$) til at komme i gang med at optimere tilgænge
 
 Vi starter lige med en sand historie fra den virkelige verden: 
 
-> Anne har lige fyldt en indkøbskurv til randen i en webshop på sin mobil. Og så græder hendes barn. Hun glemmer alt om, at hun lige var i gang med noget på mobilen, for da hun er færdig med at trøste, skal der også lige laves aftensmad og tusinde andre praktiske ting.
+> *Anne har lige fyldt en indkøbskurv til randen i en webshop på sin mobil. Og så græder hendes barn. Hun glemmer alt om, at hun lige var i gang med noget på mobilen, for da hun er færdig med at trøste, skal der også lige laves aftensmad og tusinde andre praktiske ting.*
 >
-> Da børnene endelig er puttet, og der er fred i huset, finder hun sin mobil frem igen – og opdager, at indkøbskurven i webshoppen nu er helt tom.  
+> *Da børnene endelig er puttet, og der er fred i huset, finder hun sin mobil frem igen – og opdager, at indkøbskurven i webshoppen nu er helt tom.*  
 >
-> Så er det forfra igen.  
+> *Så er det forfra igen.*  
 >
-> Eventuelt i en anden webshop, for man kan da lige tjekke, om andre har de samme ting til en bedre pris eller med gratis levering, når man nu alligevel skal starte forfra. 
+> *Eventuelt i en anden webshop, for man kan da lige tjekke, om andre har de samme ting til en bedre pris eller med gratis levering, når man nu alligevel skal starte forfra.* 
 
 Hvis du har børn, kender du sikkert til, at alt foregår med konstante afbrydelser. De små charmetrolde snakker, bliver sultne, græder, stiller spørgsmål (”Hvorfor?”, ”Hvad er det?”, ”Må jeg få en is?”), og som voksen skal – og vil – du være nærværende over for dine børn. Eller køber vinterstøvler til børnene i en webshop på mobilen, mens du lige laver aftensmad og prøver at underholde to børn. 
 
