@@ -49,7 +49,7 @@ At have nok tid er vigtigt for brugere med funktionsnedsættelser, da de ofte ha
 
 Når Lov om tilgængelighedskrav for produkter og tjenester (eller tilgængelighedsloven) træder i kraft 28. juni 2025, kommer der til at være krav om, at alle nye webshops skal være tilgængelige, og senest 28. juni 2030 skal alle eksisterende webshops også være tilgængelige.  
 
-Men lovkravene er ikke den eneste grund til at tænke tilgængelighed ind i e-handel. Ifølge Eurostat rapporterede 32,8 % af danskere mellem 16 og 64 år i 2023 at de havde en funktionsnedsættelse (og i gruppen af danskere over 65 år er tallet helt oppe på 48,3 %!) 
+Men lovkravene er ikke den eneste grund til at tænke tilgængelighed ind i e-handel. Ifølge Eurostat rapporterede 32,8% af danskere mellem 16 og 64 år i 2023 at de havde en funktionsnedsættelse (og i gruppen af danskere over 65 år er tallet helt oppe på 48,3%!) 
 
 Ifølge Danske Handicaporganisationer oplever 49% af personer med funktionsnedsættelser besvær med at anvende digitale løsninger, mod kun 15% af de personer, som svarer, at de ikke har et handicap eller længerevarende helbredsproblemer.  
 
