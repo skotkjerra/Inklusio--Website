@@ -22,18 +22,19 @@ eleventyComputed:
       <p>Inklusio har ret til omgående at fremsætte krav om betaling af forfaldne og uforfaldne tilgodehavender hos kunden, at overgive tilgodehavender til retslig inkasso samt at stoppe alle leverancer, såfremt betalinger udestår.</p>
       <p>Udover den tilbudte eller aftalte pris, er Inklusio berettiget til at kræve betaling for:</p>
       <ul>
-        <li>Ekstra arbejde, der påløber som følge af ufuldstændigt, uegnet eller mangelfuldt materiale leveret af kunden samt ændringer i briefing efter igangsættelse.
-        <li>Overarbejde eller andre foranstaltninger, der aftales med kunden efter aftalens indgåelse.</p>
-        <li>Ekstra omkostninger som følge af ændringer i afgifter og lignende.</p>
-        <li>Ekstra omkostninger som følge af ekstraordinære prisstigninger på materialer og lignende, der anvendes til den aftalte opgave.</p>
+        <li>Ekstra arbejde, der påløber som følge af ufuldstændigt, uegnet eller mangelfuldt materiale leveret af kunden samt ændringer i briefing efter igangsættelse.</li>>
+        <li>Overarbejde eller andre foranstaltninger, der aftales med kunden efter aftalens indgåelse.</li>
+        <li>Ekstra omkostninger som følge af ændringer i afgifter og lignende.</li>
+        <li>Ekstra omkostninger som følge af ekstraordinære prisstigninger på materialer og lignende, der anvendes til den aftalte opgave.</li>
+      </ul>
       <p>Anerkender kunden ikke en faktura, er kunden forpligtet til senest 5 dage efter modtagelsen af fakturaen at reklamere skriftligt.</p>
     <h2>Leveringstider</h2>
       <p>Inklusio bestræber sig på, at mindre opgaver på under en dags varighed kan bookes inden for 1-2 uger, mens større opgaver af flere dages varighed kan bookes inden for 2-3 uger. I spidsbelastningsperioder kan der dog være længere ventetid.</p>
       <p>For rammeaftaler og klippekort, hvor Inklusio yder fast konsulentbistand, kan der laves en aftale om et fast afsat timeantal, enten dagligt/ugentligt/månedligt eller i bestemte perioder. Hvis en sådan aftale ikke foreligger, må de normale leveringstider forventes at gælde.</p>
     <h2>Opgaven</h2>
-      <p>Kunden er ansvarlig for, at Inklusio rettidigt og forud for opgavens opstart modtager en opgavebeskrivelse med de nødvendige forudsætninger, informationer og data.
+      <p>Kunden er ansvarlig for, at Inklusio rettidigt og forud for opgavens opstart modtager en opgavebeskrivelse med de nødvendige forudsætninger, informationer og data.</p>
       <p>Når Inklusio modtager en opgave, aftales omfang heraf med kunden, hvorefter det kan justeres løbende efter behov.</p>
-      <p>En opgave indeholder som udgangspunkt 1. korrektur og efterfølgende rettelser. Inklusios 2. korrektur er således ekstra arbejde, som faktureres særskilt, med mindre andet er skriftligt aftalt.
+      <p>En opgave indeholder som udgangspunkt 1. korrektur og efterfølgende rettelser. Inklusios 2. korrektur er således ekstra arbejde, som faktureres særskilt, med mindre andet er skriftligt aftalt.</p>
       <p>Mangelfuld levering, fejlagtige informationer eller ændrede forudsætninger fra kunden kan medføre ekstra betaling.</p>
       <p>Hvis kunden ikke rettidigt leverer alle nødvendige forudsætninger, informationer og data, kan Inklusio ikke garantere rettidigt levering eller drages til ansvar for, at det aftalte leveringstidspunkt ikke overholdes.</p>
       <p>Inklusio forbeholder sig retten til at benytte sig af underleverandører. Eventuelle underleverandører er underlagt Inklusios forretningsbetingelser på lige fod med Inklusio.</p>
@@ -43,21 +44,21 @@ eleventyComputed:
       <p>Hvis kunden aflyser eller udskyder en aftale om konsulentbistand mindre end 5 arbejdsdage før den aftalte dato, betales 50 % af det aftalte honorar. Hvis kunden aflyser eller udskyder mindre end 1 arbejdsdag før den aftalte dato, betales det fulde honorar.</p>
       <p>Eventuelle omkostninger forbundet med aflysningen betales af kunden, herunder bl.a. forpligtelser vedr. den planlagte produktion, som Inklusio eller dennes underleverandører hæfter for. @@@ Hvad med udgifter, som vi ellers ikke fakturerer, fx flybilletter og hotel?</p>
       <p>Begge parter  forpligter sig til at begrænse omkostningerne i forbindelse med en annullering eller udskydelse.</p>
-      <p>Hvis kunden udskyder en opgave, skal en ny startdato for opgaven aftales mellem kunden og Inklusio. I dette tilfælde må de normale leveringstider (link til pkt. 3) forventes at gælde.
+      <p>Hvis kunden udskyder en opgave, skal en ny startdato for opgaven aftales mellem kunden og Inklusio. I dette tilfælde må de normale leveringstider (link til pkt. 3) forventes at gælde.</p>
       <p>Hvis aftalte opgaver udskydes i mere end 1 år fra den oprindelige aftale, forbeholder Inklusio sig retten til at anse opgaven for annulleret. </p>
       <p>For klippekort til rådgivningstimer er gyldigheden 1 år fra købstidspunkt. Timer, der ikke er brugt efter 1 år, bortfalder, medmindre andet aftales.</p>
     <h2>Mangler og reklamation</h2>
       <p> Reklamation skal ske skriftligt og senest 5 arbejdsdage efter, at levering af en ydelse eller delydelse har fundet sted. For mangler, som ikke kan opdages ved omhyggelig undersøgelse, skal reklamation ske senest 5 arbejdsdage efter, at fejlen/manglen ved almindelig agtpågivenhed kunne være opdaget.</p>
       <p>For fejl og mangler, hvor der måtte blive reklameret efter fristens udløb, kan Inklusio ikke drages til ansvar.</p>
     <h2>Ansvar, ansvarsbegrænsning og forsikring</h2>
-      <p>Ved kundens godkendelse af det af Inklusio udførte arbejde, afskærer kunden sig fra efterfølgende at gøre et erstatningsansvar gældende mod Inklusio.
+      <p>Ved kundens godkendelse af det af Inklusio udførte arbejde, afskærer kunden sig fra efterfølgende at gøre et erstatningsansvar gældende mod Inklusio.</p>
       <p>Inklusio er ikke ansvarlig for forsinkelser, der ikke kan tilskrives Inklusio, f.eks. ekstraordinære forsinkelser hos eksterne leverandører eller andre forsinkelser som følge af ekstraordinære omstændigheder eller force majeure, såsom usædvanlige naturforhold, krig, terror, brand, oversvømmelse, hærværk og arbejdsstridigheder.</p>
       <p>Inklusios ansvar omfatter ikke ansvar for indirekte tab eller driftstab, herunder tab af data, tabt indtjening, tab af goodwill, tab som følge af forsinkelse eller af omdømme eller andre former for indirekte tab.</p>
 
     <h2>Ophavsret og markedsføring</h2>
-      <p>Ophavsrettigheder til materiale udarbejdet af Inklusio tilhører Inklusio, medmindre andet er aftalt.</p>
+      <p>Såfremt intet andet er aftalt, får kunden, betinget af betaling, brugsretten til det udarbejdede materiale.</p>
       <p>Inklusio og dertilhørende underleverandører kan, medmindre andet er aftalt, gøre brug af kundens kendetegn og leverede ydelser som led i egen markedsføring, forudsat at det sker loyalt og under iagttagelse af fortrolighedsforpligtelsen. Kunden skal informere Inklusio, såfremt Inklusio ikke må anvende kundens kendetegn og leverede ydelser.</p>
-      <p>Behandling af personoplysninger
+      <p>Behandling af personoplysninger</p>
       <p>Inklusio behandler personoplysninger i forbindelse med udførelse af opgaver, og er i den forbindelse dataansvarlig for den pågældende behandling. </p>Spørgsmål vedrørende vores databehandling samt indsigts- og sletteanmodninger kan sendes til vores interne persondatakoordinator på ses@inklusio.dk. For nærmere information om vores håndtering af persondata henvises til Inklusios privatlivspolitik, som kan læses på Inklusios hjemmeside. </p>
     <h2>10.  Fortrolighed</h2>
       <p>Parterne forpligter sig til under og efter et samarbejde at behandle viden om hinanden fortroligt.</p>
@@ -67,8 +68,6 @@ eleventyComputed:
 
       <p>April 2024</p>
       <p>Inklusio ApS</p>
-
-    </p>
 
   </div>
 </div>
