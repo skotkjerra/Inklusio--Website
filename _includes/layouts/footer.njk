@@ -42,7 +42,7 @@
                     <div class="mt-4">
                         Inklusio ApS<br>
                         CVR: 41066784<br>
-                        <a class="text-decoration-underline text-white" {% if "/persondata.html" == page.url %} aria-current="page"{% endif %} href="/Persondata/">{{ keywords.privacy_policy }}</a>
+
                     </div>
                 </div>
             </div>
@@ -56,6 +56,11 @@
                             <a class="text-decoration-underline text-white" {% if navObj.url == page.url %} aria-current="page"{% endif %} href="{{ navObj.url }}">{{ navObj.text }}</a>
                         </div>
                     {% endfor %}
+                        <br />
+                        <a class="text-decoration-underline text-white" {% if "/persondata.html" == page.url %} aria-current="page"{% endif %} href="/Persondata/">{{ keywords.privacy_policy }}</a>
+                        <br />
+                        <a class="text-decoration-underline text-white" {% if "/persondata.html" == page.url %} aria-current="page"{% endif %} href="/Forretningsbetingelser/">{{ keywords.conditions }}
+</a>
                 </div>
             </div>
     
