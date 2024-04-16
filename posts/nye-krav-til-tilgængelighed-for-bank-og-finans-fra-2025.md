@@ -12,12 +12,13 @@ summary: Fra den 28. juni 2025 stiller den nye “Lov om tilgængelighed til
 tags:
   - bank
   - finans
+  - webinar
   - tilgængelighedsloven
   - EAA
 ---
 Fra den 28. juni 2025 stiller den nye “Lov om tilgængelighed til produkter og tjenester” – også kaldet “Tilgængelighedsloven” – nye krav til bank- og finanssektoren.
 
-Med indførelsen af det Europæiske tilgængelighedsdirektiv “European Accessibility Act” (EAA) forpligtes banker og finansielle institutioner til at sikre, at deres digitale løsninger er tilgængelige for alle, herunder for personer med funktionsnedsættelser. Her vil vi gennemgå det vigtigste, du skal vide om den nye lovgivning. Blandt andet ser vi på
+Med indførelsen af [det Europæiske tilgængelighedsdirektiv European Accessibility Act](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32019L0882) (EAA) forpligtes banker og finansielle institutioner til at sikre, at deres digitale løsninger er tilgængelige for alle, herunder for personer med funktionsnedsættelser. Her vil vi gennemgå det vigtigste, du skal vide om den nye lovgivning. Blandt andet ser vi på
 
 * Hvad siger loven?
 * Hvem er omfattet af loven?
@@ -25,11 +26,11 @@ Med indførelsen af det Europæiske tilgængelighedsdirektiv “European Accessi
 * Hvilke krav og standarder gælder?
 * Hvordan kommer du videre herfra? 
 
-I Inklusio er vi ikke jurister, og denne blog post skal derfor ikke ses som juridisk rådgivning på området, men vi vil forsøge at forklare lovens betydning på en let forståelig måde. Dette indebærer nødvendigvis, at vi i nogle sammenhænge forenkler eller generaliserer, og det anbefales derfor, at I sætter jer godt ind i de juridiske aspekter ved den nye lovgivning. Sikkerhedsstyrelsen har udgivet information om de kommende krav på området. 
+I Inklusio er vi ikke jurister, og denne blog post skal derfor ikke ses som juridisk rådgivning på området, men vi vil forsøge at forklare lovens betydning på en let forståelig måde. Dette indebærer nødvendigvis, at vi i nogle sammenhænge forenkler eller generaliserer, og det anbefales derfor, at I sætter jer godt ind i de juridiske aspekter ved den nye lovgivning. Sikkerhedsstyrelsen har udgivet [information om de kommende krav på området](https://www.sik.dk/erhverv/produkter/tilgaengelighed-produkter-og-tjenester-0/tilgaengelighed-produkter-og-tjenester). 
 
 ## Hvad siger loven?
 
-EU-direktivet “European Accessibility Act” eller på dansk Tilgængelighedsdirektivet - direktiv 2019/882 er implementeret i dansk lovgivning ved Lov 801 om tilgængelighed for produkter og tjenester.
+EU-direktivet “[European Accessibility Act](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32019L0882)” eller på dansk [Tilgængelighedsdirektivet – direktiv 2019/882](https://eur-lex.europa.eu/legal-content/DA/TXT/HTML/?uri=CELEX:32019L0882) er implementeret i dansk lovgivning ved [Lov 801 om tilgængelighed for produkter og tjenester](https://www.retsinformation.dk/eli/lta/2022/801).
 
 Loven stiller krav til tilgængelighed på en række områder – blandt andet på områderne e-handel og banktjenester rettet mod forbrugere.
 
@@ -87,19 +88,19 @@ Hæveautomater og betalingsterminaler fra før 2025 må beholdes indtil udgangen
 
 ## Hvilke krav og standarder gælder?
 
-Kravene til overholdelse af tilgængelighedsloven specificeres i lovens bilag A. Mange af kravene til banktjenester henviser til de 4 principper i “Retningslinjer for tilgængeligt webindhold” (WCAG) – dvs. principperne Opfattelig, Anvendelig, Forståelig og Robust. 
+Kravene til overholdelse af tilgængelighedsloven specificeres i lovens bilag A. Mange af kravene til banktjenester henviser til de 4 principper i [Retningslinjer for tilgængeligt webindhold (WCAG)](https://www.w3.org/Translations/WCAG21-da/) – dvs. principperne Opfattelig, Anvendelig, Forståelig og Robust. 
 
-Herudover gælder der krav til sprogbrug, hvor der henvises til, at oplysninger skal gives på en sådan måde, at det ikke overstiger niveau B2 (øvre middel) i Europarådets fælles europæiske referenceramme for sprog.
+Herudover gælder der krav til sprogbrug, hvor der henvises til, at oplysninger skal gives på en sådan måde, at det ikke overstiger niveau B2 (øvre middel) i [Europarådets fælles europæiske referenceramme for sprog](https://europass.europa.eu/da/common-european-framework-reference-language-skills).
 
 De mere detaljerede standarder, der skal anvendes til at vurdere, om tjenester og produkter overholder tilgængelighedskravene, er under udvikling, og vil med sandsynlighed først blive publiceret sidst i 2025 eller i starten af 2026.
 
-Den 14. september 2022 publicerede EU-kommissionen en gennemførelsesafgørelse med en standardiseringsanmodning vedr. udvikling og opdatering af standarder til anvendelse i forbindelse med EUs tilgængelighedsdirektiv (European Accessibility Act). Heraf kan man læse, at det vil være standarden EN 301 549, der kommer til anvendelse på området.
+Den 14. september 2022 publicerede EU-kommissionen en [gennemførelsesafgørelse med en standardiseringsanmodning](https://ec.europa.eu/growth/tools-databases/enorm/mandate/587_en) vedr. udvikling og opdatering af standarder til anvendelse i forbindelse med EUs tilgængelighedsdirektiv (European Accessibility Act). Heraf kan man læse, at det vil være standarden EN 301 549, der kommer til anvendelse på området.
 
 For websteder og mobilapplikationer vil dette i store træk sige, at man skal leve op til kravene i WCAG 2.2 på niveau AA. Herudover indeholder standarden også andre krav, der kan være relevante.
 
 I Inklusio sidder vi med i den arbejdsgruppe, der udvikler næste version af den harmoniserede standard EN 301 549, så vi har fingeren på pulsen i forhold til hvad der forventes at ske. Det første udkast til en opdateret standard blev delt med arbejdsgruppen i februar 2024, og der bliver løbende arbejdet på denne indtil engang tidligt i 2025, hvorefter processen med at få den godkendt som en harmoniseret standard påbegyndes. Den forventes pt. publiceret i december 2025, men vi forventer ikke gennemgribende ændringer i forhold til den nuværende udgave af standarden.
 
-## Hvordan kommer du videre herfra? 
+## Hvordan kommer du videre herfra?
 
 Vi anbefaler, at du deltager i vores [gratis webinar Understanding the new accessibility requirements in banking](https://inklusio.dk/posts/webinar-understanding-the-new-accessibility-requirements-in-banking/) d. 23. maj 2024 for bedre at forstå tilgængelighedslovens betydning for bank- og finanssektoren. 
 
