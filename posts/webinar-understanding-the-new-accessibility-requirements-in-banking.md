@@ -19,7 +19,7 @@ Inklusio, in partnership with Aliro Docs, is delighted to extend an exclusive in
 
 **Date:** 23rd of May 2024 
 **Time:** 14.00-15.00 UTC+2 
-**Location:** Online ([register here](https://us02web.zoom.us/webinar/register/WN_tqCmbYAITtqwfVUtz3Fa-Q#/registration))
+**Location:** Online (**[register here](https://us02web.zoom.us/webinar/register/WN_tqCmbYAITtqwfVUtz3Fa-Q#/registration)**)
 
 ## Why Attend?
 
