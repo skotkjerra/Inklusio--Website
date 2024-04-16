@@ -1,5 +1,5 @@
 ---
-title: "Webinar: New accessibility requirements in banking"
+title: "Webinar: Understanding the new accessibility requirements in banking"
 date: 2024-04-16T08:47:59.655Z
 author: Inklusio
 summary: >
