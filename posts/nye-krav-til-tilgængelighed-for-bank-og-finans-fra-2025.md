@@ -1,6 +1,6 @@
 ---
 title: Nye krav til tilgængelighed for bank og finans fra 2025
-date: 2024-04-16T10:06:22.044Z
+date: 2024-04-15T10:06:22.044Z
 author: Stein Erik Skotkjerra
 summary: Fra den 28. juni 2025 stiller den nye “Lov om tilgængelighed til
   produkter og tjenester” – også kaldet “Tilgængelighedsloven” – nye krav til
@@ -12,7 +12,6 @@ summary: Fra den 28. juni 2025 stiller den nye “Lov om tilgængelighed til
 tags:
   - bank
   - finans
-  - webinar
   - tilgængelighedsloven
   - EAA
 ---
