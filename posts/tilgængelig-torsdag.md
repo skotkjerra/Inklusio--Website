@@ -51,7 +51,7 @@ Og hvis du har en ven eller kollega, som kunne være interesseret, så del gerne
 
 Bedste hilsner, Inklusio
 
-![Anne, Katrine og Stein Erik fra Inklusio arbejder sammen foran en computer. På billedet står der "Tilgængelig torsdag med Inklusio". ](/img/tilgængelig-torsdag-anne-katrine-stein-erik.png "Tilgængelig Torsdag med Inklusio")
+![Anne og Stein Erik fra Inklusio sidder på hver sin side af et bord og arbejder ved deres computere i business-tøj. Anne smiler og kigger op. Tekst på billedet: "Tilgængelig Torsdag: Webinarer om webtilgængelighed. Online, den sidste torsdag hver måned". ](/img/tilgængelig-torsdag-til-hjemmesiden.jpg "Tilgængelig Torsdag med Inklusio")
 
 ## K﻿ommende datoer
 
