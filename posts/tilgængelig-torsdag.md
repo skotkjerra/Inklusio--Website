@@ -59,6 +59,9 @@ T﻿ilgængelig Torsdag afholdes den **sidste torsdag hver måned**.
 
 D﻿e kommende datoer er: 
 
-* **M﻿arts:** Vi holder påskeferie
 * **2﻿5. april 2024** (åben for tilmeldinger) 
 * **3﻿0. maj 2024** (åbner for tilmeldinger d. 26. april)
+* **2﻿7. juni 2024** (åbner for tilmeldinger 31. maj) 
+* J﻿uli: Sommerferie-pause
+* **2﻿9. august 2024** (åbner for tilmeldinger 28. juni) 
+* **2﻿7. september 2024** (åbner for tilmeldinger 30. august)
