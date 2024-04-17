@@ -19,7 +19,7 @@ Undersøgelsen er gennemført med automatiske testværktøjer og finder derfor k
 
 Fremfor at stille os i rækken af kritikere, vil vi i Inklusio gerne forsøge at komme med nogle bud på de systemiske udfordringer, der skaber denne situation, og nogle løsninger på udfordringerne.
 
-Udfordringerne – manglende værktøjer, viden og vilje
+## Udfordringerne – manglende værktøjer, viden og vilje
 
 De tre hovedudfordringer, vi ser, kan opsummeres som manglende værktøjer, viden og vilje. 
 
@@ -27,7 +27,7 @@ De værktøjer, som anvendes i det offentlige, understøtter ikke tilgængelighe
 
 Vi møder hver dag i vores arbejde dygtige og dedikerede mennesker, der ønsker at gøre oplevelsen for borgere bedst mulig, men de mangler ofte den nødvendige viden for at kunne indtænke tilgængelighed og digital inklusion som en naturlig del af alle processer. Herudover mener vi, at den største udfordring ligger i manglende vilje. Ikke hos de enkelte medarbejdere, men politisk og ledelsesmæssig vilje til at prioritere tilgængelighed – også når det kræver ressourcer eller prioriteringer.
 
-Løsningerne – krav, kompetence og konsekvens
+## Løsningerne – krav, kompetence og konsekvens
 
 Løsningerne på disse udfordringer er ikke mere test, flere standarder eller regler, men kan opsummeres som kravstillelse, kompetence og konsekvens.
 
