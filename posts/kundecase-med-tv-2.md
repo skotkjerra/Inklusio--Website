@@ -4,8 +4,8 @@ date: 2024-09-13T11:50:10.310Z
 author: Inklusio
 summary: "Kundecase med TV2, som har fået hjælp med webtilgængeligheden af
   Inklusio. WCAG-kriterier, opkvalificering og tests. Inklusio har blandt andet
-  hjulpet med følgende apps: TV 2 Play, TV 2 Nyheder, TV 2 Vejr, TV 2 Sport og
-  tvtid."
+  hjulpet med tilgængeligheden følgende mobilapps: TV 2 Play, TV 2 Nyheder, TV 2
+  Vejr, TV 2 Sport og tvtid."
 tags:
   - Kundecase
 ---
