@@ -1,6 +1,6 @@
 ---
 title: Kundecase med TV 2
-date: 2024-08-20T11:50:10.310Z
+date: 2023-08-20T11:50:10.310Z
 author: Inklusio
 summary: "Kundecase med TV2, som har fået hjælp med webtilgængeligheden af
   Inklusio. WCAG-kriterier, opkvalificering og tests. Inklusio har blandt andet
