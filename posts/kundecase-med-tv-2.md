@@ -38,4 +38,4 @@ De har fået bedre forståelse for, hvilke krav der skal opfyldes for digitale l
 
 De ansvarlige medarbejdere hos TV 2 har fået grundprincipperne på plads, og har nu langt bedre forudsætning for at udvikle nye komponenter til deres apps.
 
-Har du og dit firma brug for hjælp med tilgængeligheden på mobilapplikationer og apps? Så er du velkommen til at [kontakte inklusio](https://inklusio.dk/kontakt-os/).
+Har du og dit firma brug for hjælp med webtilgængeligheden på hjemmesider eller mobilapps? Så er du velkommen til at [kontakte inklusio](https://inklusio.dk/kontakt-os/).
