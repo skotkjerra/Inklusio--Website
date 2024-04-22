@@ -1,6 +1,6 @@
 ---
 title: Kundecase med Aalborg Forsyning
-date: 2024-04-12T12:14:11.090Z
+date: 2023-09-12T12:14:11.090Z
 author: Inklusio
 summary: "Aalborg Forsyning har fået hjælp til webtilgængeligheden af Inklusio.
   Medarbejderne er blevet opkvalificerede, blandt andet via kurser, så de
