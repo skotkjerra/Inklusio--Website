@@ -8,15 +8,13 @@ summary: "Aalborg Forsyning har fået hjælp til webtilgængeligheden af Inklusi
 tags:
   - Kundecase
 ---
-## Aalborg Forsynings mål 
+## Aalborg Forsynings mål
 
 For Aalborg Forsyning er det afgørende, at såvel deres hjemmeside som andre digitale løsninger er tilgængelige. Det gør det nemlig muligt for borgerne selv at følge med i deres forbrug, hvilket er en gevinst både for borgerne og Aalborg Forsyning. Derfor har forsyningen gradvist øget og forbedret medarbejdernes viden og kompetencer om webtilgængelighed.
-
 
 Aalborg Forsyning var nået så langt med medarbejdernes udvikling, at virksomheden i højere grad ønskede selv at være i stand til at løse de webtilgængelighedsudfordringer, de mødte i hverdagen.
 
 Hertil havde Aalborg Forsyning brug for at løse en konkret udfordring, nemlig at kunne sende breve, der er tilgængelige for alle, så de også kan læses af folk med eventuelle funktionsnedsættelser.
-
 
 De fandt via nettet frem til Inklusio og Inqlude IT, som har løst opgaven i fællesskab. Vi i Inklusio har stået for ekspertrådgivning og opkvalificering af de ansatte, mens Inqlude IT har stået for den praktiske test af de digitale løsninger.
 
@@ -39,12 +37,11 @@ Afslutningsvis deltog en af Aalborg Forsynings medarbejdere i to-dages-workshopp
 
 Aalborg Forsyning har nu gennemført en opkvalificering af medarbejdere til at arbejde med tilgængelighed. 
 
-
 De har startet en dialog om mulige løsninger på udfordringer og har fået fokus på at videregive viden til kollegaer. 
-
 
 På den måde er de nu i stand til selv at løse en stor del af de udfordringer, de møder med webtilgængelighed. 
 
-
 > ”Vi løser ikke alle webtilgængelighedsudfordringerne til i morgen, men vi arbejder med dem, så vores ydelser bliver mere tilgængelige i fremtiden.”
-> – Marianne Jensen Teamleder for Kommunikation & Design
+> – Marianne Jensen Teamleder for Kommunikation & Design.
+
+Har du og dit firma brug for hjælp med tilgængeligheden på mobilapplikationer og apps? Så er du velkommen til at [kontakte inklusio](https://inklusio.dk/kontakt-os/).
