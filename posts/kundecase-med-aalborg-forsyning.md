@@ -44,4 +44,4 @@ På den måde er de nu i stand til selv at løse en stor del af de udfordringer,
 > ”Vi løser ikke alle webtilgængelighedsudfordringerne til i morgen, men vi arbejder med dem, så vores ydelser bliver mere tilgængelige i fremtiden.”
 > – Marianne Jensen Teamleder for Kommunikation & Design.
 
-Har du og dit firma brug for hjælp med tilgængeligheden på mobilapplikationer og apps? Så er du velkommen til at [kontakte inklusio](https://inklusio.dk/kontakt-os/).
+Har du og dit firma brug for hjælp med tilgængeligheden på hjemmesider eller apps? Så er du velkommen til at [kontakte inklusio](https://inklusio.dk/kontakt-os/).
