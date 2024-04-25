@@ -1,6 +1,6 @@
 ---
 title: Tilgængelig Torsdag
-date: 2024-04-03T17:18:04.896Z
+date: 2024-04-25T17:18:04.896Z
 author: Inklusio
 summary: Tilgængelig Torsdag er et online-arrangement for dig, der gerne vil
   lære om webtilgængelighed, hvad enten du er nybegynder eller har erfaring med
@@ -12,7 +12,7 @@ Kom med til Tilgængelig Torsdag med Inklusio!
 
 **Tilgængelig Torsdag er et online-arrangement** for dig, der gerne vil lære om webtilgængelighed, hvad enten du er nybegynder eller har erfaring med webtilgængelighed. 
 
-Den sidste torsdag hver måned (næste gang er **d. 25. april**) afholder vi nemlig en todelt session, bestående af:
+Den sidste torsdag hver måned (næste gang er **d. 30. maj**) afholder vi nemlig en todelt session, bestående af:
 
 ## Kl. 9-10: Introduktion til webtilgængelighed
 
@@ -31,7 +31,7 @@ Vi glæder os til at besvare spørgsmål om alt fra målgrupper og hjælpemidler
 
 ## T﻿id og sted
 
-O﻿nline, torsdag d. 25. april fra kl. 9-11
+O﻿nline, torsdag d. 30. maj fra kl. 9-11
 
 ## Tilmelding
 
@@ -39,8 +39,8 @@ Du tilmelder dig via linksne nedenfor.
 
 **OBS:** Hvis du vil deltage til begge sessioner, så husk at tilmelde dig via begge nedenstående links:
 
-* **[﻿Tilmeld dig Introduktion til webtilgængelighed](https://us02web.zoom.us/webinar/register/WN_UtH0oEcYQbqyaZ77RRGy6Q)** (﻿kl. 9-10)
-* **[Tilmeld dig Spørg en Ekspert](https://us02web.zoom.us/webinar/register/WN__wqNMGT-QG--m8W4tDRe2Q)** (kl. 10-11)
+* **﻿[Tilmeld dig Introduktion til webtilgængelighed](https://us02web.zoom.us/webinar/register/WN_gssWQnq6TBCy0qERyxthFg)** (﻿kl. 9-10)
+* **[Tilmeld dig Spørg en Ekspert](https://us02web.zoom.us/webinar/register/WN_EG5X7taESNmxOqczstPDQg)** (kl. 10-11)
 
 D﻿et koster ikke penge at tilmelde sig.\
 Når du tilmelder dig bliver du tilmeldt vores nyhedsbrev, så du får besked om lignende arrangementer, nyttig viden om webtilgængelighed og markedsføring i fremtiden. Du kan altid framelde dig senere, og vi lover, at vi ikke spammer.
@@ -59,8 +59,7 @@ T﻿ilgængelig Torsdag afholdes den **sidste torsdag hver måned**.
 
 D﻿e kommende datoer er: 
 
-* **2﻿5. april 2024** (åben for tilmeldinger) 
-* **3﻿0. maj 2024** (åbner for tilmeldinger d. 26. april)
+* **3﻿0. maj 2024** (åben for tilmeldinger, se ovenfor)
 * **2﻿7. juni 2024** (åbner for tilmeldinger 31. maj) 
 * J﻿uli: Sommerferie-pause
 * **2﻿9. august 2024** (åbner for tilmeldinger 28. juni) 
