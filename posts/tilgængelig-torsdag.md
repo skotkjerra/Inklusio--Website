@@ -1,6 +1,6 @@
 ---
 title: Tilgængelig Torsdag
-date: 2024-04-25T17:18:04.896Z
+date: 2024-04-10T17:18:04.896Z
 author: Inklusio
 summary: Tilgængelig Torsdag er et online-arrangement for dig, der gerne vil
   lære om webtilgængelighed, hvad enten du er nybegynder eller har erfaring med
