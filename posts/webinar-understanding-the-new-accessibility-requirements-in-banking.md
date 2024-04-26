@@ -13,9 +13,9 @@ tags:
   - finance
   - EAA
 ---
-In an era where inclusivity forms the bedrock of innovation, the banking sector stands at a pivotal juncture. The newly adopted European Accessibility Act (EAA) ushers in a transformative era for financial institutions across Scandinavia, mandating a comprehensive embrace of accessibility for all.
+In an era where inclusivity forms the bedrock of innovation, the financial sector stands at a pivotal juncture. The newly adopted European Accessibility Act (EAA) ushers in a transformative era for financial institutions across Scandinavia, mandating a comprehensive embrace of accessibility for all.
 
-Inklusio, in partnership with Aliro Docs, is delighted to extend an exclusive invitation to you for a groundbreaking webinar: "**Understanding the new accessibility requirements in banking**". This event is meticulously designed for banking professionals in Scandinia, aiming to unravel the complexities of the EAA and its implications for the financial industry.
+Inklusio, in partnership with Aliro Docs, is delighted to extend an exclusive invitation to you for a groundbreaking webinar: "**Understanding the new accessibility requirements in banking**". This event is meticulously designed for financial and banking professionals in Scandinia, aiming to unravel the complexities of the EAA and its implications for the financial industry.
 
 **Date:** 23rd of May 2024 
 **Time:** 14.00-15.00 UTC+2 
@@ -25,7 +25,7 @@ Inklusio, in partnership with Aliro Docs, is delighted to extend an exclusive in
 
 * **Understand the EAA:** Delve into the nuances of the European Accessibility Act, its scope, and who it impacts.
 * **Grasp the Consequences:** Uncover what the EAA entails for banks, including legal requirements, deadlines, and potential penalties for non-compliance.
-* **Learn from Success:** Hear compelling success stories and best practices from experts on how banking institutions have pioneered accessibility.
+* **Learn from Success:** Hear compelling success stories and best practices from experts on how financial institutions have pioneered accessibility.
 * **Expert Insights:** Gain invaluable perspectives from leading experts in legal compliance, and digital accessibility.
 * **Interactive Q&A:** Have your pressing questions answered in a live Q&A session.
 
@@ -35,7 +35,7 @@ In Scandinavia, a significant portion of the population lives with a disability.
 
 ## Who Should Attend?
 
-This webinar is essential for CEOs, compliance officers, IT professionals, and customer service managers in the banking sector who are committed to leading their organizations towards a more inclusive future.
+This webinar is essential for CEOs, compliance officers, IT professionals, and customer service managers in the financial sector who are committed to leading their organizations towards a more inclusive future.
 
 ## Register Now
 
