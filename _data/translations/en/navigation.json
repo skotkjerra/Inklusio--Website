@@ -29,4 +29,9 @@
         "text": "Contact us",
         "url": "/en/contact-us/"
     }
+        "newsletter": {
+        "title": "Sign up for newsletter",        
+        "text": "Sign up for newsletter",
+        "url": "/newsletter/"
+    }
 }
