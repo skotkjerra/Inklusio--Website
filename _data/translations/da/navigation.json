@@ -29,9 +29,4 @@
         "text": "Kontakt os",
         "url": "/Kontakt-os/"
     }
-    "newsletter": {
-        "title": "Tilmeld nyhedsbrev",        
-        "text": "Tilmeldt nyhedsbrev",
-        "url": "/nyhedsbrev/"
-    }
 }
