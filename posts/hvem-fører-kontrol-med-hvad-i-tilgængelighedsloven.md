@@ -56,7 +56,7 @@ d) Interaktive selvbetjeningsterminaler, der leverer oplysninger, bortset fra 
 
 #### Tjenester omfattet af § 1, stk. 2, nr. 2 og 4-6j
 
-2. Tjenester, der giver adgang til audiovisuelle medietjenester.  
+2) Tjenester, der giver adgang til audiovisuelle medietjenester. (..)
 
 4) Forbrugerorienterede banktjenester. 
 
