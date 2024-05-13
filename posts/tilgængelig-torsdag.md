@@ -51,11 +51,7 @@ Og hvis du har en ven eller kollega, som kunne være interesseret, så del gerne
 
 Bedste hilsner, Inklusio
 
-
-
 ![Anne og Stein Erik fra Inklusio sidder på hver sin side af et bord og arbejder ved deres computere i business-tøj. Anne smiler og kigger op. Tekst på billedet: "Tilgængelig Torsdag: Webinarer om webtilgængelighed. Online, den sidste torsdag hver måned". ](/img/tilgængelig-torsdag-til-hjemmesiden.jpg "Tilgængelig Torsdag")
-
-
 
 ## K﻿ommende datoer
 
@@ -67,4 +63,4 @@ D﻿e kommende datoer er:
 * **2﻿7. juni 2024** (åbner for tilmeldinger 31. maj) 
 * J﻿uli: Sommerferie-pause
 * **2﻿9. august 2024** (åbner for tilmeldinger 28. juni) 
-* **2﻿7. september 2024** (åbner for tilmeldinger 30. august)
+* **2﻿6. september 2024** (åbner for tilmeldinger 30. august)
