@@ -14,7 +14,13 @@ tags:
 ---
 D﻿en 28. juni 2025 træder lov om tilgængelighedskrav for produkter og tjenester i kraft. Loven er også kendt som tilgængelighedsloven og indfører krav til tilgængelighed for det private område, blandt andet for banker og webshops. T﻿ilgængelighedsloven implementerer EU-direktivet European Accessibility Act (EAA).
 
-Tilsynet med overholdelsen af tilgængelighedsloven er spredt ud på forskellige styrelser. Hvilke styrelser, der fører kontrol med hvad, er beskrevet i selve tilgængelighedsloven, men det kræver lidt nærlæsning at få overblikket. I Inklusio har vi læst loven for dig, så du ikke behøver at gøre det, og vi refererer her de relevante bidder af loven i forhold til at forstå, hvilke styrelser, der fører kontrol med hvilke sektorer.
+V﻿i får mange spørgsmål om, hvem der kommer til at håndhæve tilgængelighedsloven, og det giver vi dig svaret på i denne artikel.
+
+Tilsynet med overholdelsen af tilgængelighedsloven er spredt ud på forskellige styrelser.
+
+Hvilke styrelser, der fører kontrol med hvad, er beskrevet i selve tilgængelighedsloven, men det kræver lidt nærlæsning at få overblikket. 
+
+I Inklusio har vi læst loven for dig, så du ikke behøver at gøre det, og vi refererer her de relevante bidder af loven i forhold til at forstå, hvilke styrelser, der fører kontrol med hvilke sektorer.
 
 Dette blogindlæg er ment som et overblik og kan ikke stå i stedet for konkret juridisk rådgivning. F﻿å altid dine jurister til at dobbelttjekke, hvilke regler der gælder for din virksomhed. Se [hele loven på Retsinformation](https://www.retsinformation.dk/eli/lta/2022/801).
 
