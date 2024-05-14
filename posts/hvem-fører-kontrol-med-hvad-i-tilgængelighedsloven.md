@@ -22,7 +22,7 @@ Hvilke styrelser, der fører kontrol med hvad, er beskrevet i selve tilgængelig
 
 I Inklusio har vi læst loven for dig, så du ikke behøver at gøre det, og vi refererer her de relevante bidder af loven i forhold til at forstå, hvilke styrelser, der fører kontrol med hvilke sektorer.
 
-Dette blogindlæg er ment som et overblik og kan ikke stå i stedet for konkret juridisk rådgivning. F﻿å altid dine jurister til at dobbelttjekke, hvilke regler der gælder for din virksomhed. Se [hele loven på Retsinformation](https://www.retsinformation.dk/eli/lta/2022/801).
+Dette blogindlæg er ment som et overblik og kan ikke stå i stedet for konkret juridisk rådgivning. F﻿å altid dine jurister til at dobbelttjekke, hvilke regler der gælder for din virksomhed. Se [hele loven på Retsinformation](https://www.retsinformation.dk/eli/lta/2022/801){:target="_blank"}.
 
 ## Sikkerhedsstyrelsens kontrolområde 
 
