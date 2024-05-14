@@ -22,7 +22,7 @@ Hvilke styrelser, der fører kontrol med hvad, er beskrevet i selve tilgængelig
 
 I Inklusio har vi læst loven for dig, så du ikke behøver at gøre det, og vi refererer her de relevante bidder af loven i forhold til at forstå, hvilke styrelser, der fører kontrol med hvilke sektorer.
 
-Dette blogindlæg er ment som et overblik og kan ikke stå i stedet for konkret juridisk rådgivning. F﻿å altid dine jurister til at dobbelttjekke, hvilke regler der gælder for din virksomhed. Se [hele loven på Retsinformation](https://www.retsinformation.dk/eli/lta/2022/801){:target="_blank"}.
+Dette blogindlæg er ment som et overblik og kan ikke stå i stedet for konkret juridisk rådgivning. F﻿å altid dine jurister til at dobbelttjekke, hvilke regler der gælder for din virksomhed. Se [hele loven på Retsinformation](https://www.retsinformation.dk/eli/lta/2022/801).
 
 ## Sikkerhedsstyrelsens kontrolområde 
 
@@ -56,7 +56,7 @@ d) Interaktive selvbetjeningsterminaler, der leverer oplysninger, bortset fra 
 
 #### Tjenester omfattet af § 1, stk. 2, nr. 2 og 4-6j
 
-2) Tjenester, der giver adgang til audiovisuelle medietjenester. (..)
+2. Tjenester, der giver adgang til audiovisuelle medietjenester. (..)
 
 4) Forbrugerorienterede banktjenester. 
 
