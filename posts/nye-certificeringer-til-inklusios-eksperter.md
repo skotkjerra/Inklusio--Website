@@ -25,7 +25,7 @@ Derfor blev vi rigtig glade, da Anne Thyme Nørregaard og Stein Erik Skotkjerra 
 
 For at opnå certificeringen IAAP CPWA skal man både have opnået certificeringen IAAP CPACC og IAAP WAS, og det har begge vores seniorkonsulenter formået.
 
-Kæmpestort tillykke til Anne og Stein Erik – det er super godt gået! 
+Kæmpestort tillykke til Anne og Stein Erik – det er virkelig godt gået! 
 
 ![Tekst på billedet: “Breaking: Nye certificeringer til Inklusios eksperter”. Grafikken viser 3 forskellige certificeringer, hvor der står: ”IAAP CPACC + IAAP WAS = IAAP CPWA”. Det viser, at for at opnå certificeringen IAAP CPWA, skal man både have opnået certificeringen IAAP CPACC og IAAP WAS.  Inklusios logo er i bunden.](/img/certificering_iaap-cpwa.png "Inklusios eksperter opnår certificeringen IAAP CPWA")
 
