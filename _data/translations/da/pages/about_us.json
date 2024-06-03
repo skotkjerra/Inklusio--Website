@@ -10,8 +10,9 @@
             "role": "CEO & Grundlægger. Certificeret CPWA",
             "picture_url": "img/SteinE.jpg",
             "summary": [
-                 "Stein Erik er Certified Professional in Web Accessibility (CPWA), fordi han har opnået følgende to certificeringer: Certified Professional in Accessibility Core Competency (CPACC) og Web Accessibility Specialist (WAS). CPWA er den højeste certificering, der udbydes af International Association of Accessibility Professionals (IAAP).",
-                "Stein Erik er en passioneret forkæmper for en inkluderende digital verden. Med udgangspunkt i en menneskecentreret tilgang har han arbejdet som rådgiver, underviser og konsulent inden for it og digitalisering i 20 år."
+                 "Stein Erik er en passioneret forkæmper for en inkluderende digital verden. Med udgangspunkt i en menneskecentreret tilgang har han arbejdet som rådgiver, underviser og konsulent inden for it og digitalisering i 20 år.",
+                "Stein Erik er Certified Professional in Web Accessibility (CPWA), fordi han har opnået følgende to certificeringer: Certified Professional in Accessibility Core Competency (CPACC) og Web Accessibility Specialist (WAS). CPWA er den højeste certificering, der udbydes af International Association of Accessibility Professionals (IAAP)."
+                
             ],
             "contact": {
                 "mail": "ses@inklusio.dk",
@@ -24,10 +25,11 @@
             "role": "Seniorkonsulent i Webtilgængelighed. Certificeret CPWA",
             "picture_url": "img/Anne.jpg",
             "summary": [
-                "Anne er Certified Professional in Web Accessibility (CPWA), fordi hun har opnået følgende to certificeringer: Certified Professional in Accessibility Core Competency (CPACC) og Web Accessibility Specialist (WAS). CPWA er den højeste certificering, der udbydes af International Association of Accessibility Professionals (IAAP).",
                 "Anne er Cand.it med en specialisering i usability og tilgængelighed og har arbejdet med tilgængelighed siden 2012. Med sig har hun erfaring fra både konsulentverdenen og udvikling af automatiske tilgængelighedsværktøjer.",
                 "Hun har arbejdet med alt fra manuel tilgængelighedstest til rådgivning og undervisning, samt arbejdet med tilgængelighedsstandarder som aktivt medlem af W3C.",
-                "Hun kombinerer erfaringer og viden fra UX, tilgængelighed og brugercentrerede udviklingsmetoder for at skabe inkluderende brugeroplevelser."
+                "Hun kombinerer erfaringer og viden fra UX, tilgængelighed og brugercentrerede udviklingsmetoder for at skabe inkluderende brugeroplevelser.",
+                "Anne er Certified Professional in Web Accessibility (CPWA), fordi hun har opnået følgende to certificeringer: Certified Professional in Accessibility Core Competency (CPACC) og Web Accessibility Specialist (WAS). CPWA er den højeste certificering, der udbydes af International Association of Accessibility Professionals (IAAP)."
+                
             ],
             "contact": {
                 "mail": "atn@inklusio.dk",
