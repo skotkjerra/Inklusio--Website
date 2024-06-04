@@ -34,7 +34,7 @@
                 },
                 {
                     "heading": "Jeres firma er omfattet webtilgængelighedsloven",
-                    "paragraph": "Hvis I arbejder med e-handel, consumer banking, e-bøger, kommunikationstjenester eller streaming af multimedieindhold, så er I højst sandsynligt omfattet af den europæiske lov for webtilgængelighed, der træder i kraft den 28. juni 2025."
+                    "paragraph": "Hvis I arbejder med e-handel, consumer banking, e-bøger, kommunikationstjenester eller streaming af multimedieindhold, så er I højst sandsynligt omfattet af Lov om tilgængelighedskrav for produkter og tjenester, der træder i kraft den 28. juni 2025."
                 },
                 {
                     "heading": "I vil gerne spare tid og penge",
@@ -55,15 +55,15 @@
                     "paragraph": "Få engagerende undervisning i tilgængelighed"
                 },
                 {
-                    "heading": "WCAG testrapport",
-                    "paragraph": "Modtag en testrapport med detaljerede fejlbeskrivelser"
+                    "heading": "Sikre overholdelse af standarderne",
+                    "paragraph": "Vi hjælper med at vurdere om jeres løsning overholder standarder for tilgængelighed som EN 301 549"
                 },
                 {
                     "heading": "Design reviews",
-                    "paragraph": "Spar tid og få et design review af dine UI-skitser"
+                    "paragraph": "Undgå tilgænelighedsfejl ved at få et design review af dine UI-skitser"
                 },
                 {
-                    "heading": "Collaborative test sessions",
+                    "heading": "Test sammen med os",
                     "paragraph": "Vær med til at teste og lær undervejs"
                 },
                 {
@@ -94,7 +94,7 @@
                 },
                 {
                     "heading": "Man overholder loven",
-                    "paragraph": "Da yderligere lovgivning inden for webtilgængelighed er undervejs på både det offentlige og det private område, er det en god ide at starte arbejdet allerede i dag."
+                    "paragraph": "Der gælder lovgivning omkring webtilgængelighed både offentlige og private virksomheder. Derfor er det nu i skal i gang."
                 },
                 {
                     "heading": "Få en bedre placering på Google",
@@ -113,19 +113,19 @@
         {
             "heading": "Det siger loven",
             "paragraph": [
-                "Loven omfatter de områder, der er vigtigst for at sikre alle lige deltagelse i samfundet. Dette omfatter tjenester såsom e-handel, banktjenester, streamingtjenester, e-bøger, rejseinformation og telefontjenester. Små firmaer med mindre end 10 ansatte og en årlig omsætning på under 2 mio. euro er ikke forpligtede til at overholde loven – men det anbefales selvfølgelig.",
-                "Hvis et firma er omfattet af loven, skal de basalt set sørge for, at deres tjenester og produkter lever op til alle relevante kriterier fra WCAG 2.1 på niveau A og AA."
+                "Tilgængelighedsloven for private virksomheder træder i kraft i juni 2025. Den omfatter tjenester såsom e-handel, banktjenester, streamingtjenester, e-bøger, rejseinformation og telefontjenester. Små firmaer med mindre end 10 ansatte og en årlig omsætning på under 2 mio. euro er ikke forpligtede til at overholde loven – men det anbefales selvfølgelig.",
+                "Hvis et firma er omfattet af loven, skal de sørge for, at deres tjenester og produkter lever op til alle relevante kriterier fra standarden EN 301 549."
             ],
             "img_alt": "En masse EU-flag, der holdes af hænder i alle farver"
         },
         {
             "heading": "Vi arbejder tæt sammen med personer med handicap",
-            "paragraph": "Om man bruger stemmestyring, tastatur eller andre hjælpemidler til at navigere på hjemmesider og apps, så har vi praktisk erfaring med, hvordan man skaber en god brugeroplevelse for personer, som benytter hjælpemidler eller kompenserende strategier i hverdagen. Vi har en bred indsigt i, hvordan personer med forskellige typer funktionsnedsættelser ønsker at bruge hjemmesider og apps.",
+            "paragraph": "Om man bruger stemmestyring, tastatur eller andre hjælpemidler til at navigere på hjemmesider og apps, så har vi praktisk erfaring med, hvordan man skaber en god brugeroplevelse for personer, som benytter hjælpemidler eller kompenserende strategier i hverdagen. Vi har en bred indsigt i, hvordan personer med forskellige typer funktionsnedsættelser bruger hjemmesider og apps.",
             "img_alt": "Tegning af forskellige mennesker, herunder en ældre dame med en kaffekop, en ung smart fyr med mørke solbriller og en skaldet mand, der sidder ned"
         },
         {
-            "heading": "Vi læser det med småt, så du ikke behøver",
-            "paragraph": "Vi kender lovgivningen om webtilgængelighed som vores egen baglomme, og vi kan hjælpe med at omsætte kringlede klausuler til praktisk handling. Derudover er vi aktive i standardiseringsarbejdet inden for digital tilgængelighed, såsom Dansk Standard og World Wide Web Consortium (W3C), og vi har bidraget til den officielle danske oversættelser af WCAG 2.1.",
+            "heading": "Vi gør tilgængelighed overskueligt",
+            "paragraph": "Vi kender lovgivningen om webtilgængelighed og de relevante standarder, og vi kan hjælpe med at omsætte kringlede klausuler til praktisk handling. Derudover er vi aktive i standardiseringsarbejdet inden for digital tilgængelighed, såsom Dansk Standard og World Wide Web Consortium (W3C), og vi har bidraget til den officielle danske oversættelser af WCAG 2.1.",
             "img_alt": "Tegning af et øje, en mund og et øre, alle med streg over for at indikere manglende syn, tale og hørelse"
         }
     ]
