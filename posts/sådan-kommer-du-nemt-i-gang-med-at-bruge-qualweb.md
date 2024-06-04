@@ -18,7 +18,7 @@ Det er også det værktøj, der bruges til monitoreringen for webtilgængelighed
 
 ## QualWeb i monitoreringen for webtilgængelighedsloven
 
-Digitaliseringsstyrelsen er ansvarlig myndighed for monitoreringen for webtilgængelighedsloven og udvælger, hvilke websteder der skal monitoreres. Den praktiske del med at teste webstederne ved hjælp af QualWeb udføres af et konsortium bestående af bl.a. Inklusio og [Inqlude IT](https://inqludeit.dk). 
+Digitaliseringsstyrelsen er ansvarlig myndighed for monitoreringen for webtilgængelighedsloven og udvælger, hvilke websteder der skal monitoreres. Den praktiske del med at teste webstederne ved hjælp af QualWeb udføres af et konsortium bestående af bl.a. Inklusio og Inqlude IT. 
 
 Når vi monitorerer websteder, crawler vi først webstedet for at få en liste over alle sider på webstedet. 
 
@@ -27,8 +27,6 @@ Derefter tester vi alle siderne med QualWeb og gemmer data om hvilke fejl, der b
 Til sidst laver vi en masse udregninger på de gemte data, så vi kan vise en masse oversigter, bl.a. en samlet tilgængelighedsscore, oversigter over sider med flest fejl på m.m.
 
 Hvis man er den heldige modtager af en monitoreringsrapport, vil rapporten indeholde et unikt link til at gå ind på webtilsyn.dk, hvor man kan se sine egne testresultater.
-
-
 
 ![QualWeb testværktøj, viser QualWebs logo og nogle filtreringsmuligheder](/img/qualweb-testværktøj-logo-filtre.png)
 

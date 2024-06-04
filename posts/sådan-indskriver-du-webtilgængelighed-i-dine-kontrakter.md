@@ -1,7 +1,7 @@
 ---
 title: Sådan indskriver du webtilgængelighed i dine kontrakter
 date: 2023-11-20T14:40:13.348Z
-author: Katrine Gregersen
+author: Inklusio
 summary: Skal du have en ekstern leverandør til at udvikle din nye eller
   re-designede hjemmeside eller app? Hvis ja, hvordan sikrer du dig så, at dine
   krav om webtilgængelighed opfyldes?
@@ -52,4 +52,4 @@ Beskriv også nøje i kontrakten, hvordan du ønsker tilgængeligheden oprethold
 
 ## Opsummering
 
-Da der i allerede er lovgivning om webtilgængelighed på det offentlige område, og lovgivning på det private område er på vej, er det vigtigt at kunne stille krav til eksterne leverandører om tilgængeligheden af de udviklede hjemmesider eller apps. Jo før tilgængelighed bliver belyst i processen, des større chance er det også for, at løsningen kommer til at leve op til kravene. Dette er måden, hvorpå du som kunde kan påtage dig din del af ansvaret for, at din fremtidige app eller hjemmeside bliver brugervenlig og tilgængelig for alle.
+Da der allerede er lovgivning om webtilgængelighed på det offentlige område, og lovgivning på det private område er på vej, er det vigtigt at kunne stille krav til eksterne leverandører om tilgængeligheden af de udviklede hjemmesider eller apps. Jo før tilgængelighed bliver belyst i processen, des større chance er det også for, at løsningen kommer til at leve op til kravene. Dette er måden, hvorpå du som kunde kan påtage dig din del af ansvaret for, at din fremtidige app eller hjemmeside bliver brugervenlig og tilgængelig for alle.

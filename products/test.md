@@ -1,21 +1,21 @@
 ---
-title: "Test din løsning"
+title: "Test din Løsning"
 summary: Gennem årene har vi i Inklusio specialiseret os i at bruge de bedste
   værktøjer til test af webtilgængelighed. Sammen med dig og din leverandør
-  finder vi løsningsforslag til problemområder
+  finder vi løsningsforslag til problemområder.
 cta: Læs om vores muligheder for test
 ---
-Det kan være svært for dig at bedømme, om din app eller dit websted overholder gældende lovgivning og krav om digital inklusion. Hvis du har behov for at få taget temperaturen på din digitale løsning, kan du med fordel kontakte os og få lavet tilgængelighedstest.
+Det kan være svært for dig at bedømme, om din app eller dit websted overholder gældende lovgivning og krav om digital inklusion. Hvis du har behov for at få taget temperaturen på din digitale løsning, kan du med fordel kontakte os og få lavet en tilgængelighedstest.
 
 Gennem en årrække har vi hos Inklusio specialiseret os i værktøjer til tilgængelighedstest som f.eks. Siteimprove og QualWeb. Vi kan vurdere og monitorere din løsning og lære dig, hvordan du selv kan teste for tilgængelighed.
 
-De traditionelle testrapporter kan være svære at forstå og endnu sværere at omsætte til opgaver til din leverandør eller udvikler. Derfor tester vi helst sammen med dig og hjælper dig til at dokumentere de problemer, vi finder, i lige det system, du gerne vil have dem registreret i.
+De traditionelle testrapporter kan være svære at forstå og endnu sværere at omsætte til opgaver til din leverandør eller udvikler. Derfor tester vi helst sammen med dig og hjælper dig til at dokumentere de problemer, som vi finder, i lige det system, du gerne vil have dem registreret i.
 
 Vi kan både tilbyde test af din løsning som en screening, hvor vi tager temperaturen på tilgængeligheden, og som en komplet test.
 
 ## Screening af din løsning 
 
-Vi tilbringer en halv dag sammen med jer, hvor vi tager temperaturen på jeres app eller websted, når det gælder tilgængelighed. Dette er på ingen måde en fuldstændig test, men det giver et indblik i, hvor I bør prioritere indsatsen. Sammen lægger vi en plan for det videre forløb.
+Vi tilbringer en halv dag sammen med jer, hvor vi tager temperaturen på jeres app eller websted, når det gælder tilgængelighed. Dette er ikke en fuldstændig test, men det giver et indblik i, hvor I bør prioritere indsatsen. Sammen lægger vi en plan for det videre forløb.
 
 <a href="#CTA" class="btn btn-primary">Få et uforpligtende tilbud på en screening</a>
 

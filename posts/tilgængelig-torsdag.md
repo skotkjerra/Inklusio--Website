@@ -1,6 +1,6 @@
 ---
 title: Tilgængelig Torsdag
-date: 2023-10-31T18:18:04.896Z
+date: 2024-04-10T17:18:04.896Z
 author: Inklusio
 summary: Tilgængelig Torsdag er et online-arrangement for dig, der gerne vil
   lære om webtilgængelighed, hvad enten du er nybegynder eller har erfaring med
@@ -12,7 +12,7 @@ Kom med til Tilgængelig Torsdag med Inklusio!
 
 **Tilgængelig Torsdag er et online-arrangement** for dig, der gerne vil lære om webtilgængelighed, hvad enten du er nybegynder eller har erfaring med webtilgængelighed. 
 
-Den sidste torsdag hver måned (næste gang er **d. 29. februar**) afholder vi nemlig en todelt session, bestående af:
+Den sidste torsdag hver måned (næste gang er **d. 30. maj**) afholder vi nemlig en todelt session, bestående af:
 
 ## Kl. 9-10: Introduktion til webtilgængelighed
 
@@ -31,7 +31,7 @@ Vi glæder os til at besvare spørgsmål om alt fra målgrupper og hjælpemidler
 
 ## T﻿id og sted
 
-O﻿nline, torsdag d. 29. februar fra kl. 9-11
+O﻿nline, torsdag d. 30. maj fra kl. 9-11
 
 ## Tilmelding
 
@@ -39,8 +39,8 @@ Du tilmelder dig via linksne nedenfor.
 
 **OBS:** Hvis du vil deltage til begge sessioner, så husk at tilmelde dig via begge nedenstående links:
 
-* **﻿[Tilmeld dig Introduktion til webtilgængelighed](https://us02web.zoom.us/webinar/register/WN_PHo0uKq3Qv-VfaFKmJ6IkA)** (﻿kl. 9-10)
-* **[Tilmeld dig Spørg en Ekspert](https://us02web.zoom.us/webinar/register/WN_jIDNEaGwTdaB4aSzdpsPjA)** (kl. 10-11)
+* **﻿[Tilmeld dig Introduktion til webtilgængelighed](https://us02web.zoom.us/webinar/register/WN_gssWQnq6TBCy0qERyxthFg)** (﻿kl. 9-10)
+* **[Tilmeld dig Spørg en Ekspert](https://us02web.zoom.us/webinar/register/WN_EG5X7taESNmxOqczstPDQg)** (kl. 10-11)
 
 D﻿et koster ikke penge at tilmelde sig.\
 Når du tilmelder dig bliver du tilmeldt vores nyhedsbrev, så du får besked om lignende arrangementer, nyttig viden om webtilgængelighed og markedsføring i fremtiden. Du kan altid framelde dig senere, og vi lover, at vi ikke spammer.
@@ -51,7 +51,7 @@ Og hvis du har en ven eller kollega, som kunne være interesseret, så del gerne
 
 Bedste hilsner, Inklusio
 
-![Anne, Katrine og Stein Erik fra Inklusio arbejder sammen foran en computer. På billedet står der "Tilgængelig torsdag med Inklusio". ](/img/tilgængelig-torsdag-anne-katrine-stein-erik.png "Tilgængelig Torsdag med Inklusio")
+![Anne og Stein Erik fra Inklusio sidder på hver sin side af et bord og arbejder ved deres computere i business-tøj. Anne smiler og kigger op. Tekst på billedet: "Tilgængelig Torsdag: Webinarer om webtilgængelighed. Online, den sidste torsdag hver måned". ](/img/tilgængelig-torsdag-til-hjemmesiden.jpg "Tilgængelig Torsdag")
 
 ## K﻿ommende datoer
 
@@ -59,7 +59,7 @@ T﻿ilgængelig Torsdag afholdes den **sidste torsdag hver måned**.
 
 D﻿e kommende datoer er: 
 
-* **2﻿9. februar 2024** (åben for tilmeldinger) 
-* **2﻿8. marts 2024** (åbner for tilmeldinger d. 1. marts) 
-* **2﻿5. april 2024**
-* **3﻿0. maj 2024**
+* Juni: Sommerferie-pause
+* J﻿uli: Sommerferie-pause
+* **2﻿9. august 2024** 
+* **2﻿6. september 2024**
