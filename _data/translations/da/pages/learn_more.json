@@ -4,7 +4,7 @@
             "heading": "Lær mere om webtilgængelighed",
             "paragraph": [
                 "Webtilgængelighed handler om, at alle skal kunne anvende websteder og mobilapplikationer uanset deres forudsætninger. Siden 2018 har det været lovpligtigt for offentlige myndigheder, og fra 2025 skal e-handelsvirksomheder, banker og mange andre sikre tilgængelighed i deres forbrugerrettede løsninger.",
-                "Op mod hver 5. bruger i Danmark har en form for handicap, som påvirker den måde, hvorpå de bruger internettet – og tallet bliver kun større, når man medregner personer, der oplever midlertidige funktionsnedsættelser såsom en midlertidig kognitiv begrænsning grundet en hjernerystelse eller midlertidigt nedsat syn grundet en operation. Ved at være tilgængelig sikrer man, at alle kan navigere på internettet selvstændigt og ubesværet."
+                "Op mod hver 5. bruger i Danmark har en form for handicap, som påvirker den måde, hvorpå de bruger internettet – og tallet bliver kun større, når man medregner personer, der oplever midlertidige funktionsnedsættelser, såsom en midlertidig kognitiv begrænsning grundet en hjernerystelse eller midlertidigt nedsat syn grundet en operation. Tilgængeligheds sikrer, at alle kan navigere på internettet selvstændigt og ubesværet."
             ],
             "img_alt":"Tegning af forskellige mennesker, herunder mænd og kvinder, med og uden briller, en med et kunstigt ben og en, der bruger kørestol. De fleste er glade, men en ser lidt bekymret eller nedtrykt ud"
         },
@@ -14,11 +14,11 @@
             "img_alt": "Ikon for tilgængelighed eller brugeren i centrum (en tændstikperson i en blå cirkel)"
         },
         {
-            "heading": "Gode grunde til at arbejde med webtilgængelighed",
+            "heading": "Gode grunde til at du skal arbejde med webtilgængelighed",
             "card": [
                 {
                     "heading": "I arbejder med e-handel",
-                    "paragraph": "Hvis jeres firma beskæftiger sig med E-handel, kan I være omfattet af den europæiske lov om tilgængelighed, der træder i kraft den 28. juni 2025."
+                    "paragraph": "Hvis jeres firma beskæftiger sig med e-handel, kan I være omfattet af den europæiske lov om tilgængelighed, der træder i kraft den 28. juni 2025."
                 },
                 {
                     "heading": "Jeres målgruppe er 60+",
@@ -30,15 +30,15 @@
                 },
                 {
                     "heading": "I udvikler hjemmesider for udenlandske virksomheder",
-                    "paragraph": "I USA stilles der allerede nu krav til tilgængeligheden af hjemmesider for både offentlige og private virksomheder."
+                    "paragraph": "I blandt andet USA og Norge stilles der allerede nu krav til tilgængeligheden af hjemmesider for både offentlige og private virksomheder."
                 },
                 {
-                    "heading": "Jeres firma er omfattet webtilgængelighedsloven",
+                    "heading": "Jeres firma er omfattet tilgængelighedsloven",
                     "paragraph": "Hvis I arbejder med e-handel, consumer banking, e-bøger, kommunikationstjenester eller streaming af multimedieindhold, så er I højst sandsynligt omfattet af Lov om tilgængelighedskrav for produkter og tjenester, der træder i kraft den 28. juni 2025."
                 },
                 {
                     "heading": "I vil gerne spare tid og penge",
-                    "paragraph": "Hvis tilgængelighed først fikses som det sidste trin i processen er det ofte en både dyr og tidskrævende proces. Ved at fokusere på tilgængelighed fra starten sparer I jeres firma for unødvendige udgifter og forsinkelser."
+                    "paragraph": "Hvis tilgængelighed først fikses som det sidste trin i processen, er det ofte en både dyr og tidskrævende proces. Ved at fokusere på tilgængelighed fra starten sparer I jeres firma for unødvendige udgifter og forsinkelser."
                 }
             ]
         },
@@ -56,15 +56,15 @@
                 },
                 {
                     "heading": "Sikre overholdelse af standarderne",
-                    "paragraph": "Vi hjælper med at vurdere om jeres løsning overholder standarder for tilgængelighed som EN 301 549"
+                    "paragraph": "Vi hjælper med at vurdere, om jeres løsning overholder standarder for tilgængelighed, såsom EN 301 549"
                 },
                 {
                     "heading": "Design reviews",
-                    "paragraph": "Undgå tilgænelighedsfejl ved at få et design review af dine UI-skitser"
+                    "paragraph": "Undgå tilgængelighedsfejl ved at få et design review af dine UI-skitser"
                 },
                 {
                     "heading": "Test sammen med os",
-                    "paragraph": "Vær med til at teste og lær undervejs"
+                    "paragraph": "Vær med til at teste, og lær undervejs"
                 },
                 {
                     "heading": "Ekspertrådgivning, som er til at forstå",
@@ -78,7 +78,7 @@
         },
         {
             "heading": "Perfekt blanding af teori, tips, tests og røverhistorier",
-            "paragraph": "Vores vigtigste opgave er at sikre, at I er klædt godt på til at varetage tilgængelighedsopgaver og sørge for, at jeres hjemmeside eller app kan bruges af alle personer. Vi arbejder på en måde, hvor vi i fællesskab skræddersyer et forløb, hvor vi tager udgangspunkt i jeres hjemmeside eller app for at sikre, at vi får arbejdet med de områder, som I finder udfordrende ved webtilgængelighed.",
+            "paragraph": "Vores vigtigste opgave er at sikre, at I er klædt godt på til at varetage tilgængelighedsopgaver, og sørge for, at jeres hjemmeside eller app kan bruges af alle personer. Vi arbejder på en måde, hvor vi i fællesskab skræddersyer et forløb, hvor vi tager udgangspunkt i jeres hjemmeside eller app for at sikre, at vi får arbejdet med de områder, som I finder udfordrende ved webtilgængelighed.",
             "img_alt": "Fotografi af tilgængelighedsworkshop i DRs koncertsal"
         },
         {
@@ -93,12 +93,12 @@
                     "paragraph": "Når alle, både personer med og uden et handicap, kan navigere effektivt og ubesværet på din hjemmeside eller app, skaber det en bedre brugeroplevelse."
                 },
                 {
-                    "heading": "Man overholder loven",
-                    "paragraph": "Der gælder lovgivning omkring webtilgængelighed både offentlige og private virksomheder. Derfor er det nu i skal i gang."
+                    "heading": "Overhold loven",
+                    "paragraph": "Der gælder lovgivning omkring webtilgængelighed for både offentlige myndigheder og private virksomheder. Derfor er det nu, I skal i gang."
                 },
                 {
                     "heading": "Få en bedre placering på Google",
-                    "paragraph": "Der er en påvist sammenhæng mellem hvor tilgængelig ens digitale løsning er, og hvordan den rangerer på Google, da tilgængelighed forbedrer SEO."
+                    "paragraph": "Der er en påvist sammenhæng mellem, hvor tilgængelig ens digitale løsning er, og hvordan den rangerer på Google, da tilgængelighed forbedrer SEO."
                 },
                 {
                     "heading": "Styrk dit brand",
