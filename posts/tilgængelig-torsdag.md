@@ -46,6 +46,7 @@ Vil du gerne øge dit salg og få op mod 20% flere kunder? Så har du god grund 
 Der kommer desuden lovkrav til, at webshops skal være tilgængelige, når tilgængelighedsloven træder i kraft i juni 2025. 
 
 Få flere kunder, øg dit salg og hør, hvordan du bliver compliant med loven: 
+
 Tilmeld dig Webtilgængelighed i E-handel
 
 ## Tilmelding
@@ -56,9 +57,10 @@ Det koster ikke penge at tilmelde sig.
 Når du tilmelder dig bliver du tilmeldt vores nyhedsbrev, så du får besked om lignende arrangementer, nyttig viden om webtilgængelighed og markedsføring i fremtiden. Du kan altid framelde dig senere, og vi lover, at vi ikke spammer.
 
 
-Vi glæder os til at se dig til Tilgængelig Torsdag!
-Og hvis du har en ven eller kollega, som kunne være interesseret, så del gerne dette blogindlæg med dem.
+**Vi glæder os til at se dig til Tilgængelig Torsdag!**
 
+Hvis du har en ven eller kollega, som kunne være interesseret, så del gerne dette blogindlæg med dem. 
+Det er relevant for alle, der har med deres organisations websted at gøre. 
 
 Bedste hilsner, Inklusio
 
