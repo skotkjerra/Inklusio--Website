@@ -20,13 +20,11 @@ Case: Vi vandt guld-prisen for ”Best in UX Design” til Danish Digital Awards
 
 Hvorfor hænger godt UX design og webtilgængelighed så godt sammen? Og hvad kan du gøre for at opnå samme resultat på din hjemmeside? Det får du førstehånds-inblik i til dette webinar. 
 
-Tilmeld dig Sådan bliver du Best in UX Design
+**[Tilmeld dig Sådan bliver du Best in UX Design](https://us02web.zoom.us/webinar/register/WN_3ynUOHYOTNKOMsKXw6l_sA)**
 
 ## Spørg en Ekspert om Webtilgængelighed
 
-
 **Webinar 26. september 2024 fra kl. 9.00-9.55**
-
 
 Stil frit spørgsmål om webtilgængelighed til en af Inklusios tilgængeligheds-eksperter.
 
@@ -34,8 +32,7 @@ Vi glæder os til at besvare spørgsmål om alt fra målgrupper og hjælpemidler
 
 Hvis du ikke har nogen spørgsmål, tager vi nogle gode spørgsmål frem at tale om, for vi har rigtig mange guldkorn at dele! 
 
-
-Tilmeld dig Spørg en Ekspert
+**[Tilmeld dig Spørg en Ekspert om Webtilgængelighed](https://us02web.zoom.us/webinar/register/WN_c2zUHDRKTpSckWaxr_MHZg)**
 
 ## Webtilgængelighed i E-handel
 
@@ -47,7 +44,7 @@ Der kommer desuden lovkrav til, at webshops skal være tilgængelige, når tilg�
 
 Få flere kunder, øg dit salg og hør, hvordan du bliver compliant med loven: 
 
-Tilmeld dig Webtilgængelighed i E-handel
+**[Tilmeld dig Webtilgængelighed i E-handel](https://us02web.zoom.us/webinar/register/WN_ZD4QJau9Tyi_JryRkf8pvg)**
 
 ## Tilmelding
 
@@ -56,16 +53,11 @@ Tilmeld dig via linksne ovenfor.
 Det koster ikke penge at tilmelde sig.
 Når du tilmelder dig bliver du tilmeldt vores nyhedsbrev, så du får besked om lignende arrangementer, nyttig viden om webtilgængelighed og markedsføring i fremtiden. Du kan altid framelde dig senere, og vi lover, at vi ikke spammer.
 
-
 **Vi glæder os til at se dig til Tilgængelig Torsdag!**
 
 Hvis du har en ven eller kollega, som kunne være interesseret, så del gerne dette blogindlæg med dem. 
 Webinarerne er relevante for alle, der har med deres organisations websted at gøre. 
 
 Bedste hilsner, Inklusio
-
-
-
-
 
 ![Stein Erik Skotkjerra og Anne Thyme fra Inklusio arbejder foran hver deres computer ved et bord. Anne kigger op og smiler. Tekst på billedet: "Tilgængelig Torsdag: Webinarer om webtilgængelighed. Online, den sidste torsdag hver måned". ](/img/tilgængelig-torsdag-til-hjemmesiden.jpg "Tilgængelig Torsdag webinarer med Inklusio")
