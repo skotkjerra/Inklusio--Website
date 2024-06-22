@@ -53,10 +53,13 @@ Tilmeld dig via linksne ovenfor.
 Det koster ikke penge at tilmelde sig.
 Når du tilmelder dig bliver du tilmeldt vores nyhedsbrev, så du får besked om lignende arrangementer, nyttig viden om webtilgængelighed og markedsføring i fremtiden. Du kan altid framelde dig senere, og vi lover, at vi ikke spammer.
 
+## Målgruppe
+
+Webinarerne er relevante for alle, der har med deres organisations websted at gøre. Det kan fx være, at du er udvikler, UX’er, kommunikatør, grafisk designer – eller måske er du en chef, der gerne vil have flere besøgende på jeres hjemmeside og se, hvad webtilgængelighed kan. 
+
 **Vi glæder os til at se dig til Tilgængelig Torsdag!**
 
 Hvis du har en ven eller kollega, som kunne være interesseret, så del gerne dette blogindlæg med dem. 
-Webinarerne er relevante for alle, der har med deres organisations websted at gøre. 
 
 Bedste hilsner, Inklusio
 
