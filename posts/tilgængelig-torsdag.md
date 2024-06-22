@@ -16,7 +16,7 @@ Her er programmet for de kommende måneder:
 
 **Webinar 29. august 2024 fra kl. 9.00-9.55**
 
-Case: Vi vandt guld-prisen for ”Best in UX Design” til Danish Digital Awards 2024, sammen med TreSyv. Vi var nemlig sammen om at udvikle Dansk Blindesamfunds hjemmeside blind.dk, hvor vi i Inklusio rådgav om webtilgængeligheden. 
+Case: Vi vandt guld-prisen for ”Best in UX Design” til Danish Digital Awards 2024, sammen med TreSyv. Vi var nemlig sammen om at udvikle Dansk Blindesamfunds hjemmeside, hvor vi i Inklusio rådgav om webtilgængeligheden. 
 
 Hvorfor hænger godt UX design og webtilgængelighed så godt sammen? Og hvad kan du gøre for at opnå samme resultat på din hjemmeside? Det får du førstehånds-inblik i til dette webinar. 
 
