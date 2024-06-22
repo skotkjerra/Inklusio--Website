@@ -66,4 +66,4 @@ Bedste hilsner, Inklusio
 
 
 
-![]()
+![Stein Erik Skotkjerra og Anne Thyme fra Inklusio arbejder foran hver deres computer ved et bord. Anne kigger op og smiler. Tekst på billedet: "Tilgængelig Torsdag: Webinarer om webtilgængelighed. Online, den sidste torsdag hver måned". ](/img/tilgængelig-torsdag-til-hjemmesiden.jpg "Tilgængelig Torsdag webinarer med Inklusio")
