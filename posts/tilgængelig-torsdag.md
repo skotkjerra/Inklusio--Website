@@ -60,7 +60,7 @@ Når du tilmelder dig bliver du tilmeldt vores nyhedsbrev, så du får besked om
 **Vi glæder os til at se dig til Tilgængelig Torsdag!**
 
 Hvis du har en ven eller kollega, som kunne være interesseret, så del gerne dette blogindlæg med dem. 
-Det er relevant for alle, der har med deres organisations websted at gøre. 
+Webinarerne er relevante for alle, der har med deres organisations websted at gøre. 
 
 Bedste hilsner, Inklusio
 
